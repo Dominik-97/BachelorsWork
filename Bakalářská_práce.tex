@@ -7,19 +7,20 @@
 \usepackage{titling}
 \usepackage{array}
 \setlength\headheight{26pt}
-\lhead{\includegraphics[width=3cm]{newcevro}}
+\lhead{\includegraphics[width=3cm,height=\dimexpr \headheight-\dp\strutbox]{newcevro}}
 
 \usepackage{biblatex}
 \addbibresource{Zdroje.bib}
 
 \fancypagestyle{smallertextinheader}{ % Dokončit styl s menším textem v hlavičce
-   \lhead{\includegraphics[width=3cm]{newcevro}}
-   \rhead{
-   \begin{minipage}[b]{8cm}
-   \small{
-   \uppercase{\rightmark}}
-   \end{minipage}}
+   \fancyhf{}
+   \fancyhead[LE,LO]{\includegraphics[width=3cm, height=\dimexpr \headheight-\dp\strutbox]{newcevro}}
+   \fancyhead[RE,RO]{%
+   \parbox[b]{\dimexpr \textwidth-3cm-\columnsep}%
+   {\small\uppercase\leftmark}}%
 }
+
+\pagestyle{fancy}
 
 \pretitle{
 	\begin{center}
@@ -35,6 +36,7 @@
 \date{01.12.2019}
 
 \pagenumbering{gobble}
+  \thispagestyle{empty}
   \includegraphics[width=10cm,height=3cm,keepaspectratio]{newcevro} \\
   \vspace{15mm}
   \begin{center}
@@ -50,6 +52,7 @@
   \end{center}
   
 \newpage
+  \thispagestyle{empty}
   \maketitle
   \begin{center}
   {\Large Katedra veřejného práva} \\	
@@ -79,6 +82,8 @@ literatury, a v textu řádně vyznačil jejich použití. \\
 
 \newpage
 
+\thispagestyle{empty}
+
 \vspace*{\fill}
 \noindent \textbf{Poděkování} \\
 
@@ -89,11 +94,9 @@ také za čas, který mi věnoval při vedení práce.
 \vspace*{\fill}
  
 \newpage
-  \pagestyle{fancy}
   \tableofcontents
   
 \newpage
-  \pagestyle{fancy}
   \pagenumbering{arabic}
   
 \section{Úvod}
@@ -145,7 +148,7 @@ Co se historie svěřenský fondů týče, tak \footnote[4]{Zde bude nějaká in
 \subsection{Recepce právní úpravy Svěřenského fondu z právního řáduprovincie Quebec}
 
 \newpage
-\pagestyle{fancy}
+\thispagestyle{smallertextinheader}
 
 \section{Momentální právní úprava svěřenských fondů}
 
@@ -160,7 +163,6 @@ Co se historie svěřenský fondů týče, tak \footnote[4]{Zde bude nějaká in
 \section{Komparace právní úpravy svěřenského fondu s právní úpravou dědictví}
 
 \newpage
-\pagestyle{fancy}
 
 \section{Systémové nedostatky a návrhy na řešení}
 
