@@ -9,6 +9,7 @@
 \usepackage{todonotes}
 \setlength\headheight{26pt}
 \lhead{\includegraphics[width=3cm,height=\dimexpr \headheight-\dp\strutbox]{newcevro}}
+\rhead{\small{\leftmark}}
 
 \usepackage{biblatex}
 \addbibresource{Zdroje.bib}
@@ -298,7 +299,8 @@ Zhodnocení faktu, že by taková právní úprava měla existovat, poznámka, �
 Shrnutí toho, co práce obsahovala. Následovat bude shrnutí praktické části práce, tedy že v tato úprava chybí a zároveň není ustálená rozhodovací praxe soudů. Zhodnotit návrhy řešení a nastínit, zda by mohli pomoci, nebo ne.
 
 \newpage
-\section*{Zdroje}
+\thispagestyle{Contents}
+\section*{Zdroje}\markright{ZDROJE}
 \newcounter{SecZdroje}
 \setcounter{SecZdroje}{\thesection}
 \addtocounter{SecZdroje}{1}
