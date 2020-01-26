@@ -13,12 +13,21 @@
 \usepackage{biblatex}
 \addbibresource{Zdroje.bib}
 
+\renewcommand\contentsname{Obsah}
+\renewcommand\listfigurename{Seznam obrázků}
+
 \fancypagestyle{smallertextinheader}{ % Dokončit styl s menším textem v hlavičce
    \fancyhf{}
    \fancyhead[LE,LO]{\includegraphics[width=3cm, height=\dimexpr \headheight-\dp\strutbox]{newcevro}}
    \fancyhead[RE,RO]{%
    \parbox[b]{\dimexpr \textwidth-3cm-\columnsep}%
    {\small\uppercase\leftmark}}%
+}
+
+\fancypagestyle{Contents}{ % Dokončit styl s menším textem v hlavičce
+   \fancyhf{}
+   \fancyhead[LE,LO]{\includegraphics[width=3cm, height=\dimexpr \headheight-\dp\strutbox]{newcevro}}
+   \fancyhead[RE,RO]{\small{\uppercase{\rightmark}}}
 }
 
 \pagestyle{fancy}
@@ -97,6 +106,7 @@ také za čas, který mi věnoval při vedení práce.
 \vspace*{\fill}
  
 \newpage
+  \thispagestyle{Contents}
   \tableofcontents
   \listoffigures
   
@@ -288,8 +298,12 @@ Zhodnocení faktu, že by taková právní úprava měla existovat, poznámka, �
 Shrnutí toho, co práce obsahovala. Následovat bude shrnutí praktické části práce, tedy že v tato úprava chybí a zároveň není ustálená rozhodovací praxe soudů. Zhodnotit návrhy řešení a nastínit, zda by mohli pomoci, nebo ne.
 
 \newpage
-\printbibheading
-\printbibliography[type=misc,heading=subbibliography,title={Online sources}]
-\printbibliography[type=book,heading=subbibliography,title={Other sources}]
+\section*{Zdroje}
+\newcounter{SecZdroje}
+\setcounter{SecZdroje}{\thesection}
+\addtocounter{SecZdroje}{1}
+\addcontentsline{toc}{section}{\theSecZdroje \hspace{1,7 mm} Zdroje}
+\printbibliography[type=misc,heading=subbibliography,title={Online zdroje}]
+\printbibliography[type=book,heading=subbibliography,title={Další zdroje}]
 	
 \end{document}
