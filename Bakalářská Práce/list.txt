@@ -1,0 +1,1040 @@
+total 1384
+drwxr-xr-x@ 19 dominikbalint  staff   608B Jan 30 14:56 .
+drwx------@ 24 dominikbalint  staff   768B Jan 26 01:28 ..
+-rw-r--r--@  1 dominikbalint  staff    18K Jan 30 14:52 .DS_Store
+drwxr-xr-x@ 13 dominikbalint  staff   416B Jan 28 13:37 .git
+-rw-r--r--@  1 dominikbalint  staff   213B Jan 26 01:41 .gitignore
+drwxr-xr-x@ 24 dominikbalint  staff   768B Jan 28 14:37 .texpadtmp
+drwxr-xr-x@  8 dominikbalint  staff   256B Jan 30 14:08 Bakalářská Práce
+-rw-r--r--@  1 dominikbalint  staff   241K Jan 23 10:05 Bakalářská_práce.pdf
+-rw-r--r--@  1 dominikbalint  staff    12K Jan 23 12:55 Bakalářská_práce.tex
+-rw-r--r--@  1 dominikbalint  staff   334K Jan 28 14:37 Bakalářská_práce2.pdf
+-rw-r--r--@  1 dominikbalint  staff    34K Jan 28 14:38 Bakalářská_práce2.tex
+drwxr-xr-x@  9 dominikbalint  staff   288B Jan 24 19:47 MindMaps
+drwxr-xr-x@ 23 dominikbalint  staff   736B Jan 30 14:53 Obrazky
+drwxr-xr-x@  7 dominikbalint  staff   224B Jan 28 12:29 Publikace
+drwxr-xr-x@  4 dominikbalint  staff   128B Jan 19 14:51 Zadání
+drwxr-xr-x@  6 dominikbalint  staff   192B Jan 23 10:06 Zaloha
+-rw-r--r--@  1 dominikbalint  staff   7.2K Jan 28 14:37 Zdroje.bib
+-rw-r--r--@  1 dominikbalint  staff    24K Jan 28 14:36 Zdroje2.bib
+-rw-r--r--   1 dominikbalint  staff     0B Jan 30 14:56 list.txt
+
+./.git:
+total 48
+drwxr-xr-x@  13 dominikbalint  staff   416B Jan 28 13:37 .
+drwxr-xr-x@  19 dominikbalint  staff   608B Jan 30 14:56 ..
+-rwxr-xr-x@   1 dominikbalint  staff    68B Jan 28 13:37 COMMIT_EDITMSG
+-rwxr-xr-x@   1 dominikbalint  staff    23B Jan 18 19:39 HEAD
+-rwxr-xr-x@   1 dominikbalint  staff    41B Jan 19 14:10 ORIG_HEAD
+-rwxr-xr-x@   1 dominikbalint  staff   137B Jan 18 19:39 config
+-rwxr-xr-x@   1 dominikbalint  staff    73B Jan 18 19:39 description
+drwxr-xr-x@  13 dominikbalint  staff   416B Jan 19 14:51 hooks
+-rw-r--r--@   1 dominikbalint  staff   710B Jan 28 13:37 index
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 info
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 19 14:51 logs
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 objects
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 18 19:39 refs
+
+./.git/hooks:
+total 96
+drwxr-xr-x@ 13 dominikbalint  staff   416B Jan 19 14:51 .
+drwxr-xr-x@ 13 dominikbalint  staff   416B Jan 28 13:37 ..
+-rwxr-xr-x@  1 dominikbalint  staff   478B Jan 18 19:39 applypatch-msg.sample
+-rwxr-xr-x@  1 dominikbalint  staff   896B Jan 18 19:39 commit-msg.sample
+-rwxr-xr-x@  1 dominikbalint  staff   3.2K Jan 18 19:39 fsmonitor-watchman.sample
+-rwxr-xr-x@  1 dominikbalint  staff   189B Jan 18 19:39 post-update.sample
+-rwxr-xr-x@  1 dominikbalint  staff   424B Jan 18 19:39 pre-applypatch.sample
+-rwxr-xr-x@  1 dominikbalint  staff   1.6K Jan 18 19:39 pre-commit.sample
+-rwxr-xr-x@  1 dominikbalint  staff   1.3K Jan 18 19:39 pre-push.sample
+-rwxr-xr-x@  1 dominikbalint  staff   4.8K Jan 18 19:39 pre-rebase.sample
+-rwxr-xr-x@  1 dominikbalint  staff   544B Jan 18 19:39 pre-receive.sample
+-rwxr-xr-x@  1 dominikbalint  staff   1.5K Jan 18 19:39 prepare-commit-msg.sample
+-rwxr-xr-x@  1 dominikbalint  staff   3.5K Jan 18 19:39 update.sample
+
+./.git/info:
+total 8
+drwxr-xr-x@  3 dominikbalint  staff    96B Jan 19 14:51 .
+drwxr-xr-x@ 13 dominikbalint  staff   416B Jan 28 13:37 ..
+-rwxr-xr-x@  1 dominikbalint  staff   240B Jan 18 19:39 exclude
+
+./.git/logs:
+total 16
+drwxr-xr-x@  4 dominikbalint  staff   128B Jan 19 14:51 .
+drwxr-xr-x@ 13 dominikbalint  staff   416B Jan 28 13:37 ..
+-rwxr-xr-x@  1 dominikbalint  staff   7.0K Jan 28 13:37 HEAD
+drwxr-xr-x@  3 dominikbalint  staff    96B Jan 18 19:52 refs
+
+./.git/logs/refs:
+total 0
+drwxr-xr-x@ 3 dominikbalint  staff    96B Jan 18 19:52 .
+drwxr-xr-x@ 4 dominikbalint  staff   128B Jan 19 14:51 ..
+drwxr-xr-x@ 3 dominikbalint  staff    96B Jan 19 14:51 heads
+
+./.git/logs/refs/heads:
+total 16
+drwxr-xr-x@ 3 dominikbalint  staff    96B Jan 19 14:51 .
+drwxr-xr-x@ 3 dominikbalint  staff    96B Jan 18 19:52 ..
+-rwxr-xr-x@ 1 dominikbalint  staff   6.9K Jan 28 13:37 master
+
+./.git/objects:
+total 0
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 .
+drwxr-xr-x@  13 dominikbalint  staff   416B Jan 28 13:37 ..
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 17:36 00
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 23:31 03
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 16:14 08
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 15:55 09
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 26 02:42 0f
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 18:49 10
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 20 21:09 13
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 26 03:33 15
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 03:32 16
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 16:49 17
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 27 15:45 1b
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 23 18:43 1c
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 1d
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 18:49 1e
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 16:14 1f
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 28 09:21 20
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 22:22 26
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 17:36 27
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 28 09:21 2d
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 30
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 03:32 31
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 33
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 16:14 35
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 26 23:31 3d
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 14:00 41
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 42
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 20:32 43
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 16:50 46
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 17:42 4b
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 28 11:32 50
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 18:43 51
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 53
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 19:12 58
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 27 15:46 59
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 11:31 63
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 28 09:21 66
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 26 03:33 6a
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 28 13:37 6c
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 13:13 6f
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 20:32 70
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 19:11 71
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 28 11:32 74
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 16:50 75
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 15:10 79
+drwxr-xr-x@   5 dominikbalint  staff   160B Jan 28 13:37 7a
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 28 11:32 7d
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 11:51 7e
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 20 21:09 7f
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 15:54 82
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 27 15:45 83
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 26 02:42 85
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 12:17 89
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 8c
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 13:13 8d
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 23:31 8e
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 16:18 92
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 22:22 93
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 17:36 95
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 16:49 97
+drwxr-xr-x@   5 dominikbalint  staff   160B Jan 23 18:49 99
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 15:54 9a
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 9b
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 16:18 9d
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 20:32 a3
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 24 15:55 a6
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 11:30 aa
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 10:07 ab
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 26 23:31 ad
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 02:42 b1
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 14:00 b2
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 28 13:37 b3
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 23 10:07 b4
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 13:11 b7
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 23 18:49 bb
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 15:54 c1
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 17:41 c4
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 11:30 c5
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 15:10 c6
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 15:55 ca
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 17:42 cb
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 28 09:21 ce
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 d2
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 23 17:41 d3
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 17:36 d5
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 23 19:11 d7
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 22:21 da
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 27 15:45 e0
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 24 14:00 e1
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 28 13:37 e4
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 27 15:46 e5
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 02:42 e6
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 16:50 e7
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 eb
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 11:51 ee
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 16:14 f0
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 28 13:37 f2
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 15:55 f5
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 f7
+drwxr-xr-x@   2 dominikbalint  staff    64B Jan 18 19:39 info
+drwxr-xr-x@   2 dominikbalint  staff    64B Jan 18 19:39 pack
+
+./.git/objects/00:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 17:36 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   225B Jan 24 17:36 120c46e6f9535c40c9d345cb6a13ecd44fc74b
+
+./.git/objects/03:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 23:31 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 26 23:31 02263e8a82ca5d3803a4a2253a3ca855f81deb
+
+./.git/objects/08:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 16:14 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   1.0K Jan 23 16:14 caacfaa342cb227d0b0e67bde868c532337c34
+
+./.git/objects/09:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 15:55 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   217B Jan 22 15:55 fb0a7ff3b92ff9ad3117c4bf11791eb001a464
+
+./.git/objects/0f:
+total 32
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 26 02:42 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   219B Jan 23 19:12 2ba03ef4ac3593884154daace3f5f8f8242aa6
+-r--r--r--@   1 dominikbalint  staff    11K Jan 26 02:42 de9d732314aa386715605d052436fc91b8739d
+
+./.git/objects/10:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 18:49 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 23 18:49 790fc8e3baf0896cca6bfb82c9d2176dc39d2d
+
+./.git/objects/13:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 20 21:09 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   238B Jan 20 21:09 341bdf3ebc657b85d574fd02f98648abd48dfd
+
+./.git/objects/15:
+total 16
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 26 03:33 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   567B Jan 21 12:16 142174d9851ef1171573649911d6e56bef8999
+-r--r--r--@   1 dominikbalint  staff   196B Jan 26 03:33 ac4c9f00d36695ccc3b7e9a203c213076ea028
+
+./.git/objects/16:
+total 576
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 03:32 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   288K Jan 26 03:32 7746f2a41509b68a96c26ebce5dc80021286ff
+
+./.git/objects/17:
+total 48
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 16:49 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff    23K Jan 21 16:49 33956fa2a411ac26d10aed9db51ad649b2caec
+
+./.git/objects/1b:
+total 40
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 27 15:45 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-rwxr-xr-x@   1 dominikbalint  staff   186B Jan 18 19:56 922c8f0e337380dfbd3b6295f3ee16f549568b
+-r--r--r--@   1 dominikbalint  staff    14K Jan 27 15:45 c2de9e40d74aa5eaf8933c1cbc5575cd7a19ec
+
+./.git/objects/1c:
+total 24
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 23 18:43 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   7.4K Jan 23 18:43 a29ea3a09d6fcaa8615717af7671785ada7707
+-r--r--r--@   1 dominikbalint  staff   3.3K Jan 21 12:16 d1fc6b9f998af32cc243a4344b08a7024926f9
+
+./.git/objects/1d:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-rwxr-xr-x@   1 dominikbalint  staff    71B Jan 18 19:51 cb903b06af22b3d11863f7287941214d808dc6
+
+./.git/objects/1e:
+total 16
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 18:49 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   7.4K Jan 23 18:49 af355f8d7df017d08be78cf40537e986423c4d
+
+./.git/objects/1f:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 16:14 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 23 16:14 466fed161964769eaa972285add18ea5f41f99
+
+./.git/objects/20:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 28 09:21 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   811B Jan 28 09:21 53f52848b209968599e9e0f6401902a315a9c3
+
+./.git/objects/26:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 22:22 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   109B Jan 19 22:22 f44efa7139667033967536dc1a7d3e74d1b1e5
+
+./.git/objects/27:
+total 600
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 17:36 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   299K Jan 24 17:36 03fba0eec522fa7cafa0402215f29a61f89a04
+
+./.git/objects/2d:
+total 16
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 28 09:21 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 28 09:21 3de5814e2aae251d87b2a787a34c14146678e9
+-r--r--r--@   1 dominikbalint  staff   191B Jan 24 11:31 e88649b20f8da630ee2e2537d0173466e5d55e
+
+./.git/objects/30:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-rwxr-xr-x@   1 dominikbalint  staff   247B Jan 18 19:51 bf1a46c3ffed5dbcb7927a9f62854857933eb0
+
+./.git/objects/31:
+total 24
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 03:32 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff    11K Jan 26 03:32 5b63141e5766cc13923dffa13e7b20b881de52
+
+./.git/objects/33:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-rwxr-xr-x@   1 dominikbalint  staff    71B Jan 18 22:32 dfa887561a245db3bcdf277b628714264ac9af
+
+./.git/objects/35:
+total 16
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 16:14 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   5.3K Jan 23 16:14 26be54cc75085b633fc7400c4779d367b9418c
+
+./.git/objects/3d:
+total 40
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 26 23:31 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   4.8K Jan 23 10:07 1489d500134e605a8af2cd1477de7946ea7a3d
+-r--r--r--@   1 dominikbalint  staff    12K Jan 26 23:31 effb40af81d73a11fd32d2ddf5577837667926
+
+./.git/objects/41:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 14:00 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   192B Jan 24 14:00 fb0e5fd55db7fede6dac872103d556e986137d
+
+./.git/objects/42:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-rwxr-xr-x@   1 dominikbalint  staff   1.8K Jan 19 00:26 09e09fc1a0f5ea8575ca496bc32b3e1c956872
+
+./.git/objects/43:
+total 16
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 20:32 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   4.8K Jan 22 20:32 8e5df4a212af2e4e933d7b9d89dc1b57e531bc
+
+./.git/objects/46:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 16:50 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   142B Jan 21 16:50 e566b1618a894b4228a3ad6f67eb0e04444c80
+
+./.git/objects/4b:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 17:42 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   232B Jan 23 17:42 600c833b2bcf3fd0ccfd059554cb9c2d488dac
+
+./.git/objects/50:
+total 16
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 28 11:32 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   587B Jan 21 16:49 89450e15e8c1e0964ffb899818f23b0947929c
+-r--r--r--@   1 dominikbalint  staff   154B Jan 28 11:32 8f816a45379ac8455d26db472346a9d06b87a6
+
+./.git/objects/51:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 18:43 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   209B Jan 23 18:43 f7cb264620fbbd2a36c220395d48a162d2f498
+
+./.git/objects/53:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-rwxr-xr-x@   1 dominikbalint  staff   189B Jan 18 22:32 c87a19f69015c049c42f2fa5d73bf5d643d48f
+
+./.git/objects/58:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 19:12 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 23 19:12 b34a68fe4f7e2d158abf635b1f5b1bd8491bde
+
+./.git/objects/59:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 27 15:46 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   247B Jan 27 15:46 48127fadaca199aeb61d2a7091ceec19bc5ea5
+
+./.git/objects/63:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 11:31 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   232B Jan 24 11:31 44844c8ddd4fb3250bae8a4a73d0d892e4d28e
+
+./.git/objects/66:
+total 16
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 28 09:21 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   208B Jan 26 16:18 a7c01259233d1a51f651c92f8b13040c7c94bf
+-r--r--r--@   1 dominikbalint  staff   200B Jan 28 09:21 fbe26d9695a230138cb793837527a8acc0683e
+
+./.git/objects/6a:
+total 32
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 26 03:33 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 26 03:33 69c760c8d60764666b9a9f72a59bc85404a390
+-r--r--r--@   1 dominikbalint  staff    11K Jan 24 17:36 e52eaa2e9a59c1c6f4e5ce9fccf2569c62f441
+
+./.git/objects/6c:
+total 640
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 28 13:37 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   319K Jan 28 13:37 6efadd84e38c25e619ae97a3fc036ba709c0b2
+
+./.git/objects/6f:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 13:13 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   266B Jan 22 13:13 eb96048917b8a430dad4785501a552821ef409
+
+./.git/objects/70:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 20:32 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   230B Jan 22 20:32 2197f092eef87b36d3a8e611b6bc7ef06bdf40
+
+./.git/objects/71:
+total 576
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 19:11 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   286K Jan 23 19:11 c50461064e66a9497b47d6bccfebd7d51eaeba
+
+./.git/objects/74:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 28 11:32 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 28 11:32 05bbd4dbfaaff9fe5802a462933db4de3f7524
+
+./.git/objects/75:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 16:50 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   246B Jan 21 16:50 1efd071ffd946bb87d47c4b4385d303a819fa8
+
+./.git/objects/79:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 15:10 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   1.9K Jan 19 15:10 edb2f1ada54bfaaf2135c8881328761938b33e
+
+./.git/objects/7a:
+total 32
+drwxr-xr-x@   5 dominikbalint  staff   160B Jan 28 13:37 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   962B Jan 28 11:32 12d3f273e5aca6ecc220ecdd8d0b8e0ebf5bc0
+-r--r--r--@   1 dominikbalint  staff   230B Jan 28 13:37 48c36c2feb067bf2de4bfeef2a72cd25212f23
+-r--r--r--@   1 dominikbalint  staff   6.6K Jan 23 16:14 56667416b449d95869657f2531c8681107effa
+
+./.git/objects/7d:
+total 16
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 28 11:32 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   205B Jan 28 11:32 50bb30744d85e88e8455db5489b467e897be2d
+-r--r--r--@   1 dominikbalint  staff   2.0K Jan 20 21:08 818f514a3ba1028ca73694da27479426495968
+
+./.git/objects/7e:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 11:51 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   192B Jan 22 11:51 72dc1df4870e63ee970a58851900e2c945ef00
+
+./.git/objects/7f:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 20 21:09 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   107B Jan 20 21:09 8d9b77e3c6d346397730681d7f6144bda8831d
+
+./.git/objects/82:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 15:54 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   2.1K Jan 24 15:54 156de36a9ddd9dce92b8dfa13e2027d764cf40
+
+./.git/objects/83:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 27 15:45 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   2.7K Jan 27 15:45 14dd093213aa4e0a73da6ce5a2fb13601c06cf
+
+./.git/objects/85:
+total 1192
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 26 02:42 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   293K Jan 24 14:00 b0c6f02aac7d7c3fd702add4ea017f7bc1454c
+-r--r--r--@   1 dominikbalint  staff   299K Jan 26 02:42 da7aed556cdc181c6479555159c457d0bf2f2c
+
+./.git/objects/89:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 12:17 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   228B Jan 21 12:17 b7ce6f876edca1d46296a336060fb10b8ba0ec
+
+./.git/objects/8c:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-rwxr-xr-x@   1 dominikbalint  staff   268B Jan 18 19:56 7e66e74bffd2b1e71ca6d510fac495392955b3
+
+./.git/objects/8d:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 13:13 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   141B Jan 22 13:13 31d91efd001dced99629e8fe96af2d88a65bd4
+
+./.git/objects/8e:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 23:31 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   205B Jan 26 23:31 220e64b3b4e1162ccd397274645289ea9f6ebb
+
+./.git/objects/92:
+total 24
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 16:18 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff    11K Jan 26 16:18 df35c0f07338689ef5403df948a7419d21c881
+
+./.git/objects/93:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 22:22 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   202B Jan 19 22:22 e676471dde51d1087b06b96ec584dcde8dc0cb
+
+./.git/objects/95:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 17:36 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   192B Jan 24 17:36 470bccfd3e59a134bc5a1686e4e34ccfaaaf20
+
+./.git/objects/97:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 16:49 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   3.6K Jan 21 16:49 819a91b9bacb1111d9a05eafbcb76ecfc4fe0a
+
+./.git/objects/99:
+total 24
+drwxr-xr-x@   5 dominikbalint  staff   160B Jan 23 18:49 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   109B Jan 21 12:17 225b270abbe42e2997fa1e419ae8b20a20ee79
+-r--r--r--@   1 dominikbalint  staff   191B Jan 23 18:43 3939520a7a9af20ccd023628245711e94bcd0a
+-r--r--r--@   1 dominikbalint  staff   213B Jan 23 18:49 406ecd8ae05164bc095c4aea59aa384a778f5b
+
+./.git/objects/9a:
+total 600
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 15:54 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   297K Jan 24 15:54 f89bdc405161ab4d46987401f394f0917c9f6e
+
+./.git/objects/9b:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-rwxr-xr-x@   1 dominikbalint  staff    71B Jan 18 19:56 4c925e58fd385d3edf72dbcf457c9cbb0a0b53
+
+./.git/objects/9d:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 16:18 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   192B Jan 26 16:18 b1836be01c3e993154beace170384906b582d3
+
+./.git/objects/a3:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 20:32 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   137B Jan 22 20:32 511fb48e66875c1e5de65c43fe880b6e013086
+
+./.git/objects/a6:
+total 504
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 24 15:55 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   192B Jan 24 15:55 77e5d31a1e3692924b0bcaefd3619afa4f60a8
+-r--r--r--@   1 dominikbalint  staff   244K Jan 23 18:43 ce833016510a7c94fab5791a2bcf51bfe3eeab
+
+./.git/objects/aa:
+total 584
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 11:30 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   290K Jan 24 11:30 fffb02c7c8491c28454f097b6ceb95ef072664
+
+./.git/objects/ab:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 10:07 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   136B Jan 23 10:07 ecb6d560d95e4922f0c2b17a66f10e943f5388
+
+./.git/objects/ad:
+total 1208
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 26 23:31 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   301K Jan 26 23:31 72a78212691750c29857565e948817951869ba
+-r--r--r--@   1 dominikbalint  staff   299K Jan 26 16:18 99c4e67e22e7b6a0113e9bf2a607ce3906ff53
+
+./.git/objects/b1:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 02:42 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 26 02:42 309b8cb75f81b9f3dab49291f8affe20efd363
+
+./.git/objects/b2:
+total 24
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 14:00 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   9.7K Jan 24 14:00 5ae099deadae6b1ac1de088f0635dff24fd6e6
+
+./.git/objects/b3:
+total 24
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 28 13:37 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   3.0K Jan 28 13:37 636d596da2d32366bd2805848660c59b596920
+-r--r--r--@   1 dominikbalint  staff   4.1K Jan 22 11:51 6e3214a184c5576338f2e8a04d04fab6cb53fb
+
+./.git/objects/b4:
+total 24
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 23 10:07 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   205B Jan 23 10:07 8e67322b2b75bc59de2ec2ca44c8e3859d31b8
+-r--r--r--@   1 dominikbalint  staff   4.7K Jan 22 13:11 eefe28c2205aff4d78c27e19ddde40872e879d
+
+./.git/objects/b7:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 13:11 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   677B Jan 22 13:11 3b3e432483b4aefef43cef6ebb8006459ba72c
+
+./.git/objects/bb:
+total 584
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 23 18:49 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   286K Jan 23 18:49 6b91f3436db88c1c6a0345f784ac4b48e435f9
+-rwxr-xr-x@   1 dominikbalint  staff   159B Jan 18 19:52 7fc07b199e293bd98d7c79d8997c6a13e98c0d
+
+./.git/objects/c1:
+total 24
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 15:54 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff    10K Jan 24 15:54 ecb2a0be36f16b441fce476a96943331194600
+
+./.git/objects/c4:
+total 16
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 17:41 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   7.0K Jan 23 17:41 0ba3accdb710e0e6d9b685fffb1260e9111664
+
+./.git/objects/c5:
+total 24
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 11:30 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   8.9K Jan 24 11:30 c0e3fed6e59ad1045705c3555403f67bf5ee4e
+
+./.git/objects/c6:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 15:10 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   186B Jan 19 15:10 e44468a91f0fe9e9c12f602ccec0c9ba768f5e
+
+./.git/objects/ca:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 15:55 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   141B Jan 22 15:55 7c61706c63330836e478453ee2c6c143fcc328
+
+./.git/objects/cb:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 17:42 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 23 17:42 c58ba0c2772328424e21d03a362a5bc934c57e
+
+./.git/objects/ce:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 28 09:21 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   154B Jan 28 09:21 c83e08526784998767a5fc75683718c62c0366
+
+./.git/objects/d2:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-rwxr-xr-x@   1 dominikbalint  staff    71B Jan 19 00:27 f2575bb5502e47a8eb4b08d7d63de157e9087f
+
+./.git/objects/d3:
+total 584
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 23 17:41 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff    71B Jan 19 15:10 66a795797a6acdef72f21e3d5a39c0025d8e58
+-r--r--r--@   1 dominikbalint  staff   285K Jan 23 17:41 751f40d4e45c28c269099761dd1628f066582c
+
+./.git/objects/d5:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 17:36 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   2.4K Jan 24 17:36 d86dbbdd2aadd3bc8d2ebca8826a522cf51401
+
+./.git/objects/d7:
+total 32
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 23 19:11 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   4.7K Jan 22 15:54 432203abcda0149f07d5af2c4416297f63df1c
+-r--r--r--@   1 dominikbalint  staff   7.5K Jan 23 19:11 f43b2d822ade0436aebc4771b2167c32b5c878
+
+./.git/objects/da:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 22:21 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   357B Jan 19 22:21 d7bf935d1e3c0f013070febdccc9617e864eab
+
+./.git/objects/e0:
+total 632
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 27 15:45 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   315K Jan 27 15:45 7d491560959cbdae7b97f535120147d26e31b7
+
+./.git/objects/e1:
+total 16
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 24 14:00 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   279B Jan 23 16:14 0220e3f95f62cf8fdcb5418e7a63028dbd53c6
+-r--r--r--@   1 dominikbalint  staff   234B Jan 24 14:00 464c94d5b32ca6183a43b13dfc0542b5f48fe1
+
+./.git/objects/e4:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 28 13:37 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 28 13:37 965db9c1ad796f6821a3e017ad6b6060603bba
+
+./.git/objects/e5:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 27 15:46 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 27 15:46 b3b7ad8afc981e11f9094ba28668f6bd457f6b
+
+./.git/objects/e6:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 02:42 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   252B Jan 26 02:42 e8fc6960906e6c3ea8bda8afd3183cb1b2fc5b
+
+./.git/objects/e7:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 16:50 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   110B Jan 21 16:50 914f6ed691005aeddc21bf72d6d34b1fab02ab
+
+./.git/objects/eb:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-rwxr-xr-x@   1 dominikbalint  staff   347B Jan 18 22:31 63ad3b0bde535ebed0291364647434c2b7fb24
+
+./.git/objects/ee:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 11:51 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   141B Jan 22 11:51 9fc9cdf4b270af00d0ae5ad9065e6c8c14812b
+
+./.git/objects/f0:
+total 520
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 16:14 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   260K Jan 23 16:14 32e47e849f8f94d2f4ca253886d3430e64c320
+
+./.git/objects/f2:
+total 32
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 28 13:37 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff    14K Jan 28 13:37 20b7d26e63f0051e6184f2d56783ffc616fc52
+
+./.git/objects/f5:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 15:55 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-r--r--r--@   1 dominikbalint  staff   290B Jan 24 15:55 336d5ec88b1906a078d2902d1e7eea5af5aa19
+
+./.git/objects/f7:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+-rwxr-xr-x@   1 dominikbalint  staff   246B Jan 19 00:27 2dca477e1487258aab343306934410c81032ef
+
+./.git/objects/info:
+total 0
+drwxr-xr-x@   2 dominikbalint  staff    64B Jan 18 19:39 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+
+./.git/objects/pack:
+total 0
+drwxr-xr-x@   2 dominikbalint  staff    64B Jan 18 19:39 .
+drwxr-xr-x@ 102 dominikbalint  staff   3.2K Jan 28 13:37 ..
+
+./.git/refs:
+total 0
+drwxr-xr-x@  4 dominikbalint  staff   128B Jan 18 19:39 .
+drwxr-xr-x@ 13 dominikbalint  staff   416B Jan 28 13:37 ..
+drwxr-xr-x@  3 dominikbalint  staff    96B Jan 28 13:37 heads
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 18 19:39 tags
+
+./.git/refs/heads:
+total 8
+drwxr-xr-x@ 3 dominikbalint  staff    96B Jan 28 13:37 .
+drwxr-xr-x@ 4 dominikbalint  staff   128B Jan 18 19:39 ..
+-rw-r--r--@ 1 dominikbalint  staff    41B Jan 28 13:37 master
+
+./.git/refs/tags:
+total 0
+drwxr-xr-x@ 2 dominikbalint  staff    64B Jan 18 19:39 .
+drwxr-xr-x@ 4 dominikbalint  staff   128B Jan 18 19:39 ..
+
+./.texpadtmp:
+total 912
+drwxr-xr-x@ 24 dominikbalint  staff   768B Jan 28 14:37 .
+drwxr-xr-x@ 19 dominikbalint  staff   608B Jan 30 14:56 ..
+drwxr-xr-x@  3 dominikbalint  staff    96B Jan 19 13:52 Bakalářská Práce
+-rw-r--r--@  1 dominikbalint  staff   421B Jan 23 12:55 Bakalářská_práce.aux
+-rw-r--r--@  1 dominikbalint  staff    88K Jan 23 12:55 Bakalářská_práce.bcf
+-rw-r--r--@  1 dominikbalint  staff   576B Jan 23 12:55 Bakalářská_práce.blg
+-rwxr-xr-x@  1 dominikbalint  staff    19K Jan 23 12:55 Bakalářská_práce.log
+-rw-r--r--@  1 dominikbalint  staff   2.4K Jan 22 18:52 Bakalářská_práce.run.xml
+-rw-r--r--@  1 dominikbalint  staff   4.6K Jan 22 18:52 Bakalářská_práce.toc
+-rw-r--r--@  1 dominikbalint  staff   8.1K Jan 28 14:37 Bakalářská_práce2.aux
+-rw-r--r--@  1 dominikbalint  staff    14K Jan 28 14:37 Bakalářská_práce2.bbl
+-rw-r--r--@  1 dominikbalint  staff    91K Jan 28 14:37 Bakalářská_práce2.bcf
+-rw-r--r--@  1 dominikbalint  staff   1.5K Jan 28 14:37 Bakalářská_práce2.blg
+-rw-r--r--@  1 dominikbalint  staff   283B Jan 28 14:37 Bakalářská_práce2.lof
+-rwxr-xr-x@  1 dominikbalint  staff    43K Jan 28 14:37 Bakalářská_práce2.log
+-rw-r--r--@  1 dominikbalint  staff   2.4K Jan 28 14:37 Bakalářská_práce2.run.xml
+-rw-r--r--@  1 dominikbalint  staff   148K Jan 28 14:37 Bakalářská_práce2.synctex.gz
+-rw-r--r--@  1 dominikbalint  staff   3.6K Jan 28 14:37 Bakalářská_práce2.toc
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 21 09:53 Bakalářská_práce~.tex
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 20 21:04 MindMaps
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 19 13:52 Obrazky
+drwxr-xr-x@  6 dominikbalint  staff   192B Jan 28 13:08 Publikace
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 19 13:52 Zadání
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 22 20:43 Zaloha
+
+./.texpadtmp/Bakalářská Práce:
+total 0
+drwxr-xr-x@  3 dominikbalint  staff    96B Jan 19 13:52 .
+drwxr-xr-x@ 24 dominikbalint  staff   768B Jan 28 14:37 ..
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 19 13:52 Zadání
+
+./.texpadtmp/Bakalářská Práce/Zadání:
+total 0
+drwxr-xr-x@ 2 dominikbalint  staff    64B Jan 19 13:52 .
+drwxr-xr-x@ 3 dominikbalint  staff    96B Jan 19 13:52 ..
+
+./.texpadtmp/Bakalářská_práce~.tex:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 21 09:53 .
+drwxr-xr-x@ 24 dominikbalint  staff   768B Jan 28 14:37 ..
+
+./.texpadtmp/MindMaps:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 20 21:04 .
+drwxr-xr-x@ 24 dominikbalint  staff   768B Jan 28 14:37 ..
+
+./.texpadtmp/Obrazky:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 19 13:52 .
+drwxr-xr-x@ 24 dominikbalint  staff   768B Jan 28 14:37 ..
+
+./.texpadtmp/Publikace:
+total 0
+drwxr-xr-x@  6 dominikbalint  staff   192B Jan 28 13:08 .
+drwxr-xr-x@ 24 dominikbalint  staff   768B Jan 28 14:37 ..
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 28 13:08 Dědické právo
+drwxr-xr-x@  3 dominikbalint  staff    96B Jan 28 13:08 Římské právo
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 28 13:08 Svěřenské fondy
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 28 13:08 Zákony
+
+./.texpadtmp/Publikace/Dědické právo:
+total 0
+drwxr-xr-x@ 2 dominikbalint  staff    64B Jan 28 13:08 .
+drwxr-xr-x@ 6 dominikbalint  staff   192B Jan 28 13:08 ..
+
+./.texpadtmp/Publikace/Římské právo:
+total 0
+drwxr-xr-x@ 3 dominikbalint  staff    96B Jan 28 13:08 .
+drwxr-xr-x@ 6 dominikbalint  staff   192B Jan 28 13:08 ..
+drwxr-xr-x@ 2 dominikbalint  staff    64B Jan 28 13:08 Základy rímskeho práva
+
+./.texpadtmp/Publikace/Římské právo/Základy rímskeho práva:
+total 0
+drwxr-xr-x@ 2 dominikbalint  staff    64B Jan 28 13:08 .
+drwxr-xr-x@ 3 dominikbalint  staff    96B Jan 28 13:08 ..
+
+./.texpadtmp/Publikace/Svěřenské fondy:
+total 0
+drwxr-xr-x@ 2 dominikbalint  staff    64B Jan 28 13:08 .
+drwxr-xr-x@ 6 dominikbalint  staff   192B Jan 28 13:08 ..
+
+./.texpadtmp/Publikace/Zákony:
+total 0
+drwxr-xr-x@ 2 dominikbalint  staff    64B Jan 28 13:08 .
+drwxr-xr-x@ 6 dominikbalint  staff   192B Jan 28 13:08 ..
+
+./.texpadtmp/Zadání:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 19 13:52 .
+drwxr-xr-x@ 24 dominikbalint  staff   768B Jan 28 14:37 ..
+
+./.texpadtmp/Zaloha:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 22 20:43 .
+drwxr-xr-x@ 24 dominikbalint  staff   768B Jan 28 14:37 ..
+
+./Bakalářská Práce:
+total 4472
+drwxr-xr-x@  8 dominikbalint  staff   256B Jan 30 14:08 .
+drwxr-xr-x@ 19 dominikbalint  staff   608B Jan 30 14:56 ..
+-rw-r--r--@  1 dominikbalint  staff   8.0K Jan 26 13:10 .DS_Store
+-rwxr-xr-x@  1 dominikbalint  staff   2.1M Jan 30 14:08 Opravy.xlsx
+-rwxr-xr-x@  1 dominikbalint  staff    15K Jan 24 08:39 Otazky.docx
+-rwxr-xr-x@  1 dominikbalint  staff    26K Jan 21 15:03 Seminární práce na téma zdanění svěřeneckých fondů.docx
+drwxr-xr-x@  4 dominikbalint  staff   128B Jan 19 14:51 Zadání
+-rw-r--r--@  1 dominikbalint  staff   2.6K Jan 28 11:31 bibmapping.md
+
+./Bakalářská Práce/Zadání:
+total 72
+drwxr-xr-x@ 4 dominikbalint  staff   128B Jan 19 14:51 .
+drwxr-xr-x@ 8 dominikbalint  staff   256B Jan 30 14:08 ..
+-rwxr-xr-x@ 1 dominikbalint  staff    14K Nov 14 11:52 Knižní_publikace_bak.docx
+-rwxr-xr-x@ 1 dominikbalint  staff    18K Jan 18 22:45 Zadání Bakalářské Práce.docx
+
+./MindMaps:
+total 13648
+drwxr-xr-x@  9 dominikbalint  staff   288B Jan 24 19:47 .
+drwxr-xr-x@ 19 dominikbalint  staff   608B Jan 30 14:56 ..
+-rw-r--r--@  1 dominikbalint  staff   8.0K Jan 24 20:13 .DS_Store
+-rw-r--r--@  1 dominikbalint  staff    40K Jan 19 19:48 DataSvěřenskýFond.csv
+-rw-r--r--@  1 dominikbalint  staff   108K Jan 19 20:39 MindMapSvěřenskýFond.txt
+-rw-r--r--@  1 dominikbalint  staff   6.1M Jan 19 21:00 MyšlenkováMapaSvěřenskýFond.pdf
+-rw-r--r--@  1 dominikbalint  staff    26K Jan 19 22:23 MyšlenkováMapaSvěřenskýFondDataPreparation.xlsx
+-rw-r--r--@  1 dominikbalint  staff    70K Jan 19 22:06 SvěřenskýFond.html
+-rw-r--r--@  1 dominikbalint  staff   332K Jan 24 19:29 SvěřenskýFond.mm
+
+./Obrazky:
+total 67480
+drwxr-xr-x@ 23 dominikbalint  staff   736B Jan 30 14:53 .
+drwxr-xr-x@ 19 dominikbalint  staff   608B Jan 30 14:56 ..
+-rw-r--r--@  1 dominikbalint  staff   1.9M Jan 30 13:27 IMG_2428.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.0M Jan 30 13:47 IMG_2429.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.0M Jan 30 13:57 IMG_2430.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.2M Jan 30 13:57 IMG_2431.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.2M Jan 30 13:57 IMG_2432.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.1M Jan 30 13:57 IMG_2433.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.1M Jan 30 14:05 IMG_2434.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.3M Jan 30 14:05 IMG_2435.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.3M Jan 30 14:05 IMG_2436.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.1M Jan 30 14:05 IMG_2437.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.1M Jan 30 14:05 IMG_2438.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.1M Jan 30 14:05 IMG_2439.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.1M Jan 30 14:05 IMG_2440.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.0M Jan 30 14:07 IMG_2441.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.3M Jan 30 14:15 IMG_2442.HEIC
+-rwxr-xr-x@  1 dominikbalint  staff   414K Jan 28 19:48 Struktura_posledních_dvou_kapitol.png
+-rwxr-xr-x@  1 dominikbalint  staff   519K Jan 29 20:02 Struktura_posledních_dvou_kapitol_2.png
+-rwxr-xr-x@  1 dominikbalint  staff   114K Feb  3  2019 cevro.png
+-rwxr-xr-x@  1 dominikbalint  staff    39K Jan 18 22:29 newcevro.png
+-rw-r--r--@  1 dominikbalint  staff    31K Jan 23 17:22 rimskepravostruktura.jpeg
+-rw-r--r--@  1 dominikbalint  staff    46K Jan 24 13:57 rimskepravostruktura2.jpeg
+
+./Publikace:
+total 24
+drwxr-xr-x@  7 dominikbalint  staff   224B Jan 28 12:29 .
+drwxr-xr-x@ 19 dominikbalint  staff   608B Jan 30 14:56 ..
+-rw-r--r--@  1 dominikbalint  staff    10K Jan 29 19:29 .DS_Store
+drwxr-xr-x@  4 dominikbalint  staff   128B Jan 28 12:28 Dědické právo
+drwxr-xr-x@  6 dominikbalint  staff   192B Jan 28 12:28 Římské právo
+drwxr-xr-x@  5 dominikbalint  staff   160B Jan 28 12:29 Svěřenské fondy
+drwxr-xr-x@  4 dominikbalint  staff   128B Jan 28 12:28 Zákony
+
+./Publikace/Dědické právo:
+total 2296
+drwxr-xr-x@ 4 dominikbalint  staff   128B Jan 28 12:28 .
+drwxr-xr-x@ 7 dominikbalint  staff   224B Jan 28 12:29 ..
+-r--r--r--@ 1 dominikbalint  staff   565K Jan 28 12:27 69002-845065663.dot
+-rw-r--r--@ 1 dominikbalint  staff   580K Jan 27 00:46 DPTX_2012_1_11220_0_38892_0_131347.pdf
+
+./Publikace/Římské právo:
+total 109464
+drwxr-xr-x@ 6 dominikbalint  staff   192B Jan 28 12:28 .
+drwxr-xr-x@ 7 dominikbalint  staff   224B Jan 28 12:29 ..
+-rw-r--r--@ 1 dominikbalint  staff   8.0K Jan 28 12:27 .DS_Store
+-rw-r--r--@ 1 dominikbalint  staff   138K Jan 23 14:49 5861-9034-1-SM.pdf
+-rw-r--r--@ 1 dominikbalint  staff    53M Jan 26 22:38 Kincl,-Urfus,-Skrejpek---Rimske-pravo-(1997).pdf
+drwxr-xr-x@ 5 dominikbalint  staff   160B Jan 23 12:40 Základy rímskeho práva
+
+./Publikace/Římské právo/Základy rímskeho práva:
+total 8408
+drwxr-xr-x@ 5 dominikbalint  staff   160B Jan 23 12:40 .
+drwxr-xr-x@ 6 dominikbalint  staff   192B Jan 28 12:28 ..
+-rw-r--r--@ 1 dominikbalint  staff   1.5M Oct 21  2007 K1 a K2.pdf
+-rw-r--r--@ 1 dominikbalint  staff   2.3M Oct 21  2007 K3 až K6.pdf
+-rw-r--r--@ 1 dominikbalint  staff   367K Oct 21  2007 OBSAH, ÚVOD, SKRATKY.pdf
+
+./Publikace/Svěřenské fondy:
+total 21432
+drwxr-xr-x@ 5 dominikbalint  staff   160B Jan 28 12:29 .
+drwxr-xr-x@ 7 dominikbalint  staff   224B Jan 28 12:29 ..
+-rw-r--r--@ 1 dominikbalint  staff   8.4M Jan 21 15:07 Bednarikova Barbora Sverence Fondy.pdf
+-rw-r--r--@ 1 dominikbalint  staff   1.2M Jan 26 22:38 RPTX_2014_1_11220_0_460817_0_162078.pdf
+-rw-r--r--@ 1 dominikbalint  staff   826K Jan 23 12:11 RPTX_2014_2_11220_0_462989_0_163658.pdf
+
+./Publikace/Zákony:
+total 3784
+drwxr-xr-x@ 4 dominikbalint  staff   128B Jan 28 12:28 .
+drwxr-xr-x@ 7 dominikbalint  staff   224B Jan 28 12:29 ..
+-rw-------@ 1 dominikbalint  staff   1.5M Jan 28 12:20 Annotated Civil Code of Québec.pdf
+-rw-------@ 1 dominikbalint  staff   353K Jan 28 12:25 Annotated Civil Code of Québec2.pdf
+
+./Zadání:
+total 72
+drwxr-xr-x@  4 dominikbalint  staff   128B Jan 19 14:51 .
+drwxr-xr-x@ 19 dominikbalint  staff   608B Jan 30 14:56 ..
+-rwxr-xr-x@  1 dominikbalint  staff    14K Nov 14 11:52 Knižní_publikace_bak.docx
+-rwxr-xr-x@  1 dominikbalint  staff    18K Dec 12 10:56 Zadání Bakalářské Práce.docx
+
+./Zaloha:
+total 1000
+drwxr-xr-x@  6 dominikbalint  staff   192B Jan 23 10:06 .
+drwxr-xr-x@ 19 dominikbalint  staff   608B Jan 30 14:56 ..
+-rw-r--r--@  1 dominikbalint  staff   241K Jan 22 20:16 Bakalářská_práce.pdf
+-rw-r--r--@  1 dominikbalint  staff    11K Jan 22 20:43 Bakalářská_práce.tex
+-rw-r--r--@  1 dominikbalint  staff   229K Jan 22 18:50 Bakalářská_práce1.pdf
+-rwxr-xr-x@  1 dominikbalint  staff    11K Jan 22 20:29 Bakalářská_práce1.tex
