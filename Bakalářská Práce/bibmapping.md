@@ -2,11 +2,11 @@
 
 ### Prozatím používané zdroje
 
-- ***Zdroj***, ***Namapovaný typ***
-- Knižní, book
-- Webové stránky, misc
-- Články, article
-- Zákony,
+- ***Zdroj***, ***Namapovaný typ***, ***Test Funkčnosti***
+- Knižní, book, (Vypadá, že funguje, ověřit)
+- Webové stránky, misc, (Vypadá, že funguje, ověřit)
+- Články, article, (Vypadá, že funguje, ověřit)
+- Zákony, proceedings (test), (Vypadá, že funguje, ověřit)
 
 |Type|Information|Required Fields|Use|
 |---|---|---|---|
