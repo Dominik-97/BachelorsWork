@@ -1,22 +1,3215 @@
 total 1648
-drwxr-xr-x@ 21 dominikbalint  staff     672 Mar 10 20:02 .
-drwx------@ 31 dominikbalint  staff     992 Mar 10 19:47 ..
--rw-r--r--@  1 dominikbalint  staff   20484 Mar 10 20:00 .DS_Store
-drwxr-xr-x@ 14 dominikbalint  staff     448 Mar 10 19:59 .git
--rw-r--r--@  1 dominikbalint  staff     211 Mar 10 19:58 .gitignore
-drwxr-xr-x@ 25 dominikbalint  staff     800 Mar 10 17:00 .texpadtmp
-drwxr-xr-x@  9 dominikbalint  staff     288 Feb  5 14:47 Bakalářská Práce
--rw-r--r--@  1 dominikbalint  staff  246583 Jan 23 10:05 Bakalářská_práce.pdf
--rw-r--r--@  1 dominikbalint  staff   12418 Jan 23 12:55 Bakalářská_práce.tex
--rw-r--r--@  1 dominikbalint  staff  434330 Mar 10 17:00 Bakalářská_práce2.pdf
--rw-r--r--@  1 dominikbalint  staff   59282 Mar 10 16:59 Bakalářská_práce2.tex
-drwxr-xr-x@  9 dominikbalint  staff     288 Jan 24 19:47 MindMaps
-drwxr-xr-x@ 25 dominikbalint  staff     800 Feb  3 14:16 Obrazky
-drwxr-xr-x@  8 dominikbalint  staff     256 Feb 11 15:25 Publikace
--rw-r--r--@  1 dominikbalint  staff      62 Mar 10 19:57 README.md
-drwxr-xr-x@  4 dominikbalint  staff     128 Jan 19 14:51 Zadání
-drwxr-xr-x@  6 dominikbalint  staff     192 Jan 23 10:06 Zaloha
--rw-r--r--@  1 dominikbalint  staff    9288 Mar  3 17:58 Zdroje.bib
-drwx------@  5 dominikbalint  staff     160 Mar  3 17:59 Zdroje2
--rw-r--r--@  1 dominikbalint  staff   30302 Mar  3 17:51 Zdroje2.bib
--rw-r--r--   1 dominikbalint  staff       0 Mar 10 20:02 list.txt
+drwxr-xr-x@ 21 dominikbalint  staff   672B Mar 10 20:10 .
+drwx------@ 31 dominikbalint  staff   992B Mar 10 19:47 ..
+-rw-r--r--@  1 dominikbalint  staff    20K Mar 10 20:04 .DS_Store
+drwxr-xr-x@ 14 dominikbalint  staff   448B Mar 10 20:03 .git
+-rw-r--r--@  1 dominikbalint  staff   211B Mar 10 19:58 .gitignore
+drwxr-xr-x@ 25 dominikbalint  staff   800B Mar 10 17:00 .texpadtmp
+drwxr-xr-x@  9 dominikbalint  staff   288B Mar 10 20:02 Bakalářská Práce
+-rw-r--r--@  1 dominikbalint  staff   241K Jan 23 10:05 Bakalářská_práce.pdf
+-rw-r--r--@  1 dominikbalint  staff    12K Jan 23 12:55 Bakalářská_práce.tex
+-rw-r--r--@  1 dominikbalint  staff   424K Mar 10 17:00 Bakalářská_práce2.pdf
+-rw-r--r--@  1 dominikbalint  staff    58K Mar 10 16:59 Bakalářská_práce2.tex
+drwxr-xr-x@  9 dominikbalint  staff   288B Jan 24 19:47 MindMaps
+drwxr-xr-x@ 25 dominikbalint  staff   800B Feb  3 14:16 Obrazky
+drwxr-xr-x@  8 dominikbalint  staff   256B Feb 11 15:25 Publikace
+-rw-r--r--@  1 dominikbalint  staff    62B Mar 10 19:57 README.md
+drwxr-xr-x@  4 dominikbalint  staff   128B Jan 19 14:51 Zadání
+drwxr-xr-x@  6 dominikbalint  staff   192B Jan 23 10:06 Zaloha
+-rw-r--r--@  1 dominikbalint  staff   9.1K Mar  3 17:58 Zdroje.bib
+drwx------@  5 dominikbalint  staff   160B Mar  3 17:59 Zdroje2
+-rw-r--r--@  1 dominikbalint  staff    30K Mar  3 17:51 Zdroje2.bib
+-rw-r--r--   1 dominikbalint  staff     0B Mar 10 20:10 list.txt
+
+./.git:
+total 56
+drwxr-xr-x@  14 dominikbalint  staff   448B Mar 10 20:03 .
+drwxr-xr-x@  21 dominikbalint  staff   672B Mar 10 20:10 ..
+-rwxr-xr-x@   1 dominikbalint  staff    11B Mar 10 20:02 COMMIT_EDITMSG
+-rw-r--r--@   1 dominikbalint  staff   105B Mar 10 19:57 FETCH_HEAD
+-rwxr-xr-x@   1 dominikbalint  staff    23B Jan 18 19:39 HEAD
+-rw-r--r--@   1 dominikbalint  staff    41B Mar 10 19:57 ORIG_HEAD
+-rwxr-xr-x@   1 dominikbalint  staff   317B Mar 10 20:03 config
+-rwxr-xr-x@   1 dominikbalint  staff    73B Jan 18 19:39 description
+drwxr-xr-x@  13 dominikbalint  staff   416B Jan 19 14:51 hooks
+-rw-r--r--@   1 dominikbalint  staff   958B Mar 10 20:02 index
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 info
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 19 14:51 logs
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 objects
+drwxr-xr-x@   5 dominikbalint  staff   160B Mar  9 11:38 refs
+
+./.git/hooks:
+total 96
+drwxr-xr-x@ 13 dominikbalint  staff   416B Jan 19 14:51 .
+drwxr-xr-x@ 14 dominikbalint  staff   448B Mar 10 20:03 ..
+-rwxr-xr-x@  1 dominikbalint  staff   478B Jan 18 19:39 applypatch-msg.sample
+-rwxr-xr-x@  1 dominikbalint  staff   896B Jan 18 19:39 commit-msg.sample
+-rwxr-xr-x@  1 dominikbalint  staff   3.2K Jan 18 19:39 fsmonitor-watchman.sample
+-rwxr-xr-x@  1 dominikbalint  staff   189B Jan 18 19:39 post-update.sample
+-rwxr-xr-x@  1 dominikbalint  staff   424B Jan 18 19:39 pre-applypatch.sample
+-rwxr-xr-x@  1 dominikbalint  staff   1.6K Jan 18 19:39 pre-commit.sample
+-rwxr-xr-x@  1 dominikbalint  staff   1.3K Jan 18 19:39 pre-push.sample
+-rwxr-xr-x@  1 dominikbalint  staff   4.8K Jan 18 19:39 pre-rebase.sample
+-rwxr-xr-x@  1 dominikbalint  staff   544B Jan 18 19:39 pre-receive.sample
+-rwxr-xr-x@  1 dominikbalint  staff   1.5K Jan 18 19:39 prepare-commit-msg.sample
+-rwxr-xr-x@  1 dominikbalint  staff   3.5K Jan 18 19:39 update.sample
+
+./.git/info:
+total 8
+drwxr-xr-x@  3 dominikbalint  staff    96B Jan 19 14:51 .
+drwxr-xr-x@ 14 dominikbalint  staff   448B Mar 10 20:03 ..
+-rwxr-xr-x@  1 dominikbalint  staff   240B Jan 18 19:39 exclude
+
+./.git/logs:
+total 32
+drwxr-xr-x@  4 dominikbalint  staff   128B Jan 19 14:51 .
+drwxr-xr-x@ 14 dominikbalint  staff   448B Mar 10 20:03 ..
+-rwxr-xr-x@  1 dominikbalint  staff    13K Mar 10 20:02 HEAD
+drwxr-xr-x@  4 dominikbalint  staff   128B Mar  9 11:38 refs
+
+./.git/logs/refs:
+total 0
+drwxr-xr-x@ 4 dominikbalint  staff   128B Mar  9 11:38 .
+drwxr-xr-x@ 4 dominikbalint  staff   128B Jan 19 14:51 ..
+drwxr-xr-x@ 3 dominikbalint  staff    96B Jan 19 14:51 heads
+drwxr-xr-x@ 3 dominikbalint  staff    96B Mar  9 11:38 remotes
+
+./.git/logs/refs/heads:
+total 32
+drwxr-xr-x@ 3 dominikbalint  staff    96B Jan 19 14:51 .
+drwxr-xr-x@ 4 dominikbalint  staff   128B Mar  9 11:38 ..
+-rwxr-xr-x@ 1 dominikbalint  staff    13K Mar 10 20:02 master
+
+./.git/logs/refs/remotes:
+total 0
+drwxr-xr-x@ 3 dominikbalint  staff    96B Mar  9 11:38 .
+drwxr-xr-x@ 4 dominikbalint  staff   128B Mar  9 11:38 ..
+drwxr-xr-x@ 3 dominikbalint  staff    96B Mar  9 11:38 origin
+
+./.git/logs/refs/remotes/origin:
+total 8
+drwxr-xr-x@ 3 dominikbalint  staff    96B Mar  9 11:38 .
+drwxr-xr-x@ 3 dominikbalint  staff    96B Mar  9 11:38 ..
+-rw-r--r--@ 1 dominikbalint  staff   1.7K Mar 10 20:03 master
+
+./.git/objects:
+total 0
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 .
+drwxr-xr-x@  14 dominikbalint  staff   448B Mar 10 20:03 ..
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 17:36 00
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar 10 15:49 02
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar  9 13:11 03
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  2 15:06 07
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 16:14 08
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar 10 20:02 09
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar  9 11:35 0b
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar  9 13:11 0d
+drwxr-xr-x@   5 dominikbalint  staff   160B Mar  9 13:11 0f
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 18:49 10
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar  9 11:35 11
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 31 20:21 12
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 20 21:09 13
+drwxr-xr-x@   5 dominikbalint  staff   160B Feb 12 16:23 15
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 03:32 16
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 16:49 17
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  7 15:18 18
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar 10 15:49 19
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 27 15:45 1b
+drwxr-xr-x@   5 dominikbalint  staff   160B Mar 10 16:56 1c
+drwxr-xr-x@   5 dominikbalint  staff   160B Mar 10 17:00 1d
+drwxr-xr-x@   5 dominikbalint  staff   160B Feb  2 16:43 1e
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 16:14 1f
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 28 09:21 20
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb 12 14:44 21
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar 10 17:00 22
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar  3 18:00 25
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 22:22 26
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 17:36 27
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 31 20:21 2a
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb 12 14:44 2c
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 28 09:21 2d
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 30
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 03:32 31
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 33
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 30 14:59 34
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 16:14 35
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar  9 11:35 39
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 26 23:31 3d
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 30 16:31 3e
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  3 16:22 3f
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar  3 18:00 40
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 14:00 41
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 42
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 20:32 43
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 16:50 46
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar  3 18:00 48
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 17:42 4b
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  3 16:22 4c
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 28 11:32 50
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 18:43 51
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar 10 17:00 53
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  3 14:30 55
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar 10 16:56 56
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 19:12 58
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 27 15:46 59
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar 10 19:59 5e
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 11:31 63
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 28 09:21 66
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  7 15:18 68
+drwxr-xr-x@   6 dominikbalint  staff   192B Feb 12 16:23 6a
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb  2 15:06 6c
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 30 14:59 6e
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 13:13 6f
+drwxr-xr-x@   5 dominikbalint  staff   160B Feb 12 13:32 70
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 19:11 71
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar 10 20:02 72
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 28 11:32 74
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 16:50 75
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb  2 15:06 79
+drwxr-xr-x@   5 dominikbalint  staff   160B Jan 28 13:37 7a
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar 10 20:02 7c
+drwxr-xr-x@   5 dominikbalint  staff   160B Feb  2 00:03 7d
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 30 14:58 7e
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 20 21:09 7f
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar  9 11:58 82
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb  7 16:09 83
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 26 02:42 85
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar  9 11:57 88
+drwxr-xr-x@   5 dominikbalint  staff   160B Mar 10 19:57 89
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  7 15:18 8a
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar 10 16:56 8b
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 8c
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 13:13 8d
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 23:31 8e
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar  3 18:00 92
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 22:22 93
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 17:36 95
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 16:49 97
+drwxr-xr-x@   5 dominikbalint  staff   160B Jan 23 18:49 99
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar  9 11:57 9a
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 9b
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 16:18 9d
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb 12 13:32 9f
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb 12 14:44 a2
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 20:32 a3
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar 10 15:49 a5
+drwxr-xr-x@   5 dominikbalint  staff   160B Feb  7 15:18 a6
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar 10 20:02 aa
+drwxr-xr-x@   5 dominikbalint  staff   160B Jan 30 17:09 ab
+drwxr-xr-x@   6 dominikbalint  staff   192B Mar 10 19:58 ad
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb  3 16:22 ae
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  2 16:43 b0
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 02:42 b1
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 14:00 b2
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 28 13:37 b3
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 23 10:07 b4
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar  9 12:00 b6
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 13:11 b7
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  2 16:43 b8
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  3 14:31 b9
+drwxr-xr-x@   6 dominikbalint  staff   192B Mar 10 19:57 bb
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  7 16:08 bc
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar 10 16:56 be
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  3 14:31 c0
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb  2 00:03 c1
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 17:41 c4
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 31 20:21 c5
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 15:10 c6
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar  9 11:35 c9
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 15:55 ca
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 17:42 cb
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  2 00:03 cc
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb 12 16:23 cd
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb 12 14:44 ce
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar 10 15:49 d1
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb 12 13:31 d2
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 23 17:41 d3
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  3 14:30 d4
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 17:36 d5
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 23 19:11 d7
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  7 15:18 d9
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 22:21 da
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb 12 13:31 dc
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar 10 19:57 de
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar  3 18:00 e0
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 24 14:00 e1
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 30 14:59 e2
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  2 16:43 e3
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 28 13:37 e4
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 27 15:46 e5
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 02:42 e6
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 16:50 e7
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar  9 13:11 e9
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb  3 14:30 eb
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar  9 11:58 ec
+drwxr-xr-x@   5 dominikbalint  staff   160B Mar 10 17:00 ee
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  7 15:18 ef
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 16:14 f0
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb  2 00:03 f2
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb  7 16:09 f3
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb  7 15:18 f5
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 f7
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar 10 19:59 fa
+drwxr-xr-x@   2 dominikbalint  staff    64B Jan 18 19:39 info
+drwxr-xr-x@   2 dominikbalint  staff    64B Jan 18 19:39 pack
+
+./.git/objects/00:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 17:36 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   225B Jan 24 17:36 120c46e6f9535c40c9d345cb6a13ecd44fc74b
+
+./.git/objects/02:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar 10 15:49 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   213B Mar 10 15:49 48ed1281dc7fcaded13156b630b418df63f70c
+
+./.git/objects/03:
+total 16
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar  9 13:11 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 26 23:31 02263e8a82ca5d3803a4a2253a3ca855f81deb
+-r--r--r--@   1 dominikbalint  staff   191B Mar  9 13:11 5dcf1d0a31f5301aecf2e0a1b4433dc3c3b383
+
+./.git/objects/07:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  2 15:06 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   234B Feb  2 15:06 2536052e7dddcdcf37f0538fd574101d8fdce8
+
+./.git/objects/08:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 16:14 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   1.0K Jan 23 16:14 caacfaa342cb227d0b0e67bde868c532337c34
+
+./.git/objects/09:
+total 16
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar 10 20:02 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   183B Mar 10 20:02 bd425f93627845b7dc61506ef83c2086ada0c3
+-r--r--r--@   1 dominikbalint  staff   217B Jan 22 15:55 fb0a7ff3b92ff9ad3117c4bf11791eb001a464
+
+./.git/objects/0b:
+total 48
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar  9 11:35 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff    18K Feb  3 16:22 4703144d5622041886981b83da4240fc43d7f7
+-r--r--r--@   1 dominikbalint  staff   223B Mar  9 11:35 a8d8f87453fb91dc6eb88ef71d303ddd557227
+
+./.git/objects/0d:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar  9 13:11 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   223B Mar  9 13:11 be9d2169f041de535c88d2890c750fd57ab6a3
+
+./.git/objects/0f:
+total 840
+drwxr-xr-x@   5 dominikbalint  staff   160B Mar  9 13:11 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   402K Mar  9 13:11 0efacbe54b28148a24769bdf51327bbdcdf344
+-r--r--r--@   1 dominikbalint  staff   219B Jan 23 19:12 2ba03ef4ac3593884154daace3f5f8f8242aa6
+-r--r--r--@   1 dominikbalint  staff    11K Jan 26 02:42 de9d732314aa386715605d052436fc91b8739d
+
+./.git/objects/10:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 18:49 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 23 18:49 790fc8e3baf0896cca6bfb82c9d2176dc39d2d
+
+./.git/objects/11:
+total 808
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar  9 11:35 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   401K Mar  9 11:35 750cfc98a29bb93e55cacafabce633c81e0594
+
+./.git/objects/12:
+total 32
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 31 20:21 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff    16K Jan 31 20:21 fdafb199cbf4d7f2ac892475b4902c5c181858
+
+./.git/objects/13:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 20 21:09 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   238B Jan 20 21:09 341bdf3ebc657b85d574fd02f98648abd48dfd
+
+./.git/objects/15:
+total 24
+drwxr-xr-x@   5 dominikbalint  staff   160B Feb 12 16:23 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   567B Jan 21 12:16 142174d9851ef1171573649911d6e56bef8999
+-r--r--r--@   1 dominikbalint  staff   196B Jan 26 03:33 ac4c9f00d36695ccc3b7e9a203c213076ea028
+-r--r--r--@   1 dominikbalint  staff   190B Feb 12 16:23 acf032fa9b8d4ebccc43667caa50a7aea8bfed
+
+./.git/objects/16:
+total 576
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 03:32 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   288K Jan 26 03:32 7746f2a41509b68a96c26ebce5dc80021286ff
+
+./.git/objects/17:
+total 48
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 16:49 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff    23K Jan 21 16:49 33956fa2a411ac26d10aed9db51ad649b2caec
+
+./.git/objects/18:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  7 15:18 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   3.6K Feb  7 15:18 994011008f8cb3743603aa01fdd08d8fc91503
+
+./.git/objects/19:
+total 816
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar 10 15:49 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   405K Mar 10 15:49 587b3599c156b5acdcf9d556a50eed5a5a4c43
+
+./.git/objects/1b:
+total 40
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 27 15:45 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-rwxr-xr-x@   1 dominikbalint  staff   186B Jan 18 19:56 922c8f0e337380dfbd3b6295f3ee16f549568b
+-r--r--r--@   1 dominikbalint  staff    14K Jan 27 15:45 c2de9e40d74aa5eaf8933c1cbc5575cd7a19ec
+
+./.git/objects/1c:
+total 840
+drwxr-xr-x@   5 dominikbalint  staff   160B Mar 10 16:56 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   7.4K Jan 23 18:43 a29ea3a09d6fcaa8615717af7671785ada7707
+-r--r--r--@   1 dominikbalint  staff   3.3K Jan 21 12:16 d1fc6b9f998af32cc243a4344b08a7024926f9
+-r--r--r--@   1 dominikbalint  staff   405K Mar 10 16:56 d7275d585de9d73f902938ee2c4f2c7f980ebb
+
+./.git/objects/1d:
+total 48
+drwxr-xr-x@   5 dominikbalint  staff   160B Mar 10 17:00 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff    15K Jan 30 16:30 6eae5d4314c958f7177050a58a600bdd139857
+-r--r--r--@   1 dominikbalint  staff   212B Mar 10 17:00 b692f3855ed62047d5f94ac22fbfc151a85e01
+-rwxr-xr-x@   1 dominikbalint  staff    71B Jan 18 19:51 cb903b06af22b3d11863f7287941214d808dc6
+
+./.git/objects/1e:
+total 32
+drwxr-xr-x@   5 dominikbalint  staff   160B Feb  2 16:43 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   210B Jan 31 20:21 178d25e2661c6e5fb7a0288f6ffb1b6d39cea3
+-r--r--r--@   1 dominikbalint  staff   200B Feb  2 16:43 4429d6aa0ef7756de654b3404be98cb56b31b3
+-r--r--r--@   1 dominikbalint  staff   7.4K Jan 23 18:49 af355f8d7df017d08be78cf40537e986423c4d
+
+./.git/objects/1f:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 16:14 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 23 16:14 466fed161964769eaa972285add18ea5f41f99
+
+./.git/objects/20:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 28 09:21 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   811B Jan 28 09:21 53f52848b209968599e9e0f6401902a315a9c3
+
+./.git/objects/21:
+total 800
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb 12 14:44 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   396K Feb 12 14:44 0a8c6f2c526f86276b1d9269a0d31a5201f834
+
+./.git/objects/22:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar 10 17:00 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   191B Mar 10 17:00 8c4fc3ede62ac27fdf2c0f50694f13b1d49f66
+
+./.git/objects/25:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar  3 18:00 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   191B Mar  3 18:00 82953ba5f2c8c0ee2a9683b56c7804e0e32ff4
+
+./.git/objects/26:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 22:22 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   109B Jan 19 22:22 f44efa7139667033967536dc1a7d3e74d1b1e5
+
+./.git/objects/27:
+total 600
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 17:36 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   299K Jan 24 17:36 03fba0eec522fa7cafa0402215f29a61f89a04
+
+./.git/objects/2a:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 31 20:21 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   192B Jan 31 20:21 41f0b22916e0fcc708d117022777101e066727
+
+./.git/objects/2c:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb 12 14:44 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   226B Feb 12 14:44 4c9fd5588af67bb33bdfedd9ee2bc50751d962
+
+./.git/objects/2d:
+total 16
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 28 09:21 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 28 09:21 3de5814e2aae251d87b2a787a34c14146678e9
+-r--r--r--@   1 dominikbalint  staff   191B Jan 24 11:31 e88649b20f8da630ee2e2537d0173466e5d55e
+
+./.git/objects/30:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-rwxr-xr-x@   1 dominikbalint  staff   247B Jan 18 19:51 bf1a46c3ffed5dbcb7927a9f62854857933eb0
+
+./.git/objects/31:
+total 24
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 03:32 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff    11K Jan 26 03:32 5b63141e5766cc13923dffa13e7b20b881de52
+
+./.git/objects/33:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-rwxr-xr-x@   1 dominikbalint  staff    71B Jan 18 22:32 dfa887561a245db3bcdf277b628714264ac9af
+
+./.git/objects/34:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 30 14:59 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   267B Jan 30 14:59 7c75bec1e866cc11ae18540bc2bbb83b5a8592
+
+./.git/objects/35:
+total 16
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 16:14 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   5.3K Jan 23 16:14 26be54cc75085b633fc7400c4779d367b9418c
+
+./.git/objects/39:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar  9 11:35 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   191B Mar  9 11:35 b74f0810ed58d7d224f679b881d9cfbef29bd2
+
+./.git/objects/3d:
+total 40
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 26 23:31 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   4.8K Jan 23 10:07 1489d500134e605a8af2cd1477de7946ea7a3d
+-r--r--r--@   1 dominikbalint  staff    12K Jan 26 23:31 effb40af81d73a11fd32d2ddf5577837667926
+
+./.git/objects/3e:
+total 16
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 30 16:31 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   351B Jan 30 16:31 9e4279107983d2948157faa520f23b74216ab7
+-r--r--r--@   1 dominikbalint  staff   3.1K Jan 30 14:58 bda02344fb1a2d88edec5affcb3591672a0bea
+
+./.git/objects/3f:
+total 784
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  3 16:22 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   389K Feb  3 16:22 c561ff4c73b5faebf234840e3e3eb19cb95442
+
+./.git/objects/40:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar  3 18:00 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   243B Mar  3 18:00 f71fe5127b541e83a7a06d6ccc2353e48612d9
+
+./.git/objects/41:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 14:00 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   192B Jan 24 14:00 fb0e5fd55db7fede6dac872103d556e986137d
+
+./.git/objects/42:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-rwxr-xr-x@   1 dominikbalint  staff   1.8K Jan 19 00:26 09e09fc1a0f5ea8575ca496bc32b3e1c956872
+
+./.git/objects/43:
+total 16
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 20:32 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   4.8K Jan 22 20:32 8e5df4a212af2e4e933d7b9d89dc1b57e531bc
+
+./.git/objects/46:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 16:50 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   142B Jan 21 16:50 e566b1618a894b4228a3ad6f67eb0e04444c80
+
+./.git/objects/48:
+total 808
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar  3 18:00 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   401K Mar  3 18:00 0adb7af3c29e09008ae15ca035b536df3b6469
+
+./.git/objects/4b:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 17:42 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   232B Jan 23 17:42 600c833b2bcf3fd0ccfd059554cb9c2d488dac
+
+./.git/objects/4c:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  3 16:22 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   217B Feb  3 16:22 303b183fd1e25332f49c94c1ddd70151c10694
+
+./.git/objects/50:
+total 16
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 28 11:32 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   587B Jan 21 16:49 89450e15e8c1e0964ffb899818f23b0947929c
+-r--r--r--@   1 dominikbalint  staff   154B Jan 28 11:32 8f816a45379ac8455d26db472346a9d06b87a6
+
+./.git/objects/51:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 18:43 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   209B Jan 23 18:43 f7cb264620fbbd2a36c220395d48a162d2f498
+
+./.git/objects/53:
+total 56
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar 10 17:00 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff    23K Mar 10 17:00 87d1907b8314f6c89e7576afedbe4bb9a9dcc9
+-rwxr-xr-x@   1 dominikbalint  staff   189B Jan 18 22:32 c87a19f69015c049c42f2fa5d73bf5d643d48f
+
+./.git/objects/55:
+total 776
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  3 14:30 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   386K Feb  3 14:30 1551f3c6d72393853be9bc8d4286b8a6b916a4
+
+./.git/objects/56:
+total 856
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar 10 16:56 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   401K Mar  9 12:00 ed07e8bdf10cb130bde34e9dfde9e9efa8a728
+-r--r--r--@   1 dominikbalint  staff    23K Mar 10 16:56 f78855a29f1138979d29db60f7a951e032380a
+
+./.git/objects/58:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 19:12 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 23 19:12 b34a68fe4f7e2d158abf635b1f5b1bd8491bde
+
+./.git/objects/59:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 27 15:46 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   247B Jan 27 15:46 48127fadaca199aeb61d2a7091ceec19bc5ea5
+
+./.git/objects/5e:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar 10 19:59 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   213B Mar 10 19:59 ae36eb35e0564f99faf65561c178d044494dc5
+
+./.git/objects/63:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 11:31 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   232B Jan 24 11:31 44844c8ddd4fb3250bae8a4a73d0d892e4d28e
+
+./.git/objects/66:
+total 16
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 28 09:21 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   208B Jan 26 16:18 a7c01259233d1a51f651c92f8b13040c7c94bf
+-r--r--r--@   1 dominikbalint  staff   200B Jan 28 09:21 fbe26d9695a230138cb793837527a8acc0683e
+
+./.git/objects/68:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  7 15:18 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   184B Feb  7 15:18 d2e44f2ebeb0729630ed614714db673ab5de20
+
+./.git/objects/6a:
+total 856
+drwxr-xr-x@   6 dominikbalint  staff   192B Feb 12 16:23 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 26 03:33 69c760c8d60764666b9a9f72a59bc85404a390
+-r--r--r--@   1 dominikbalint  staff   396K Feb 12 16:23 b127e94cc51fa804d697e10590fee4848c3b2f
+-r--r--r--@   1 dominikbalint  staff    15K Jan 30 17:09 b65c813dac9cf5f552b7b06c6042aba22c1a7e
+-r--r--r--@   1 dominikbalint  staff    11K Jan 24 17:36 e52eaa2e9a59c1c6f4e5ce9fccf2569c62f441
+
+./.git/objects/6c:
+total 648
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb  2 15:06 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   319K Jan 28 13:37 6efadd84e38c25e619ae97a3fc036ba709c0b2
+-r--r--r--@   1 dominikbalint  staff   191B Feb  2 15:06 ce2c90952aa3fd2ea32bb1f90f23bf13bf5757
+
+./.git/objects/6e:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 30 14:59 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 30 14:59 5cc86257ac907de95515c6329dd3274c30d5dc
+
+./.git/objects/6f:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 13:13 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   266B Jan 22 13:13 eb96048917b8a430dad4785501a552821ef409
+
+./.git/objects/70:
+total 664
+drwxr-xr-x@   5 dominikbalint  staff   160B Feb 12 13:32 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   230B Jan 22 20:32 2197f092eef87b36d3a8e611b6bc7ef06bdf40
+-r--r--r--@   1 dominikbalint  staff   243B Feb 12 13:32 705d30e3a81ce8c84d7dcdeed1394634318a6f
+-r--r--r--@   1 dominikbalint  staff   322K Jan 30 16:30 74ba8fd6daeb81a28c17c151d0ca866d1b241a
+
+./.git/objects/71:
+total 576
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 19:11 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   286K Jan 23 19:11 c50461064e66a9497b47d6bccfebd7d51eaeba
+
+./.git/objects/72:
+total 16
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar 10 20:02 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   260B Mar 10 20:02 87cc5431d15ab0b5b9702606e2fe3089b4e948
+-r--r--r--@   1 dominikbalint  staff    68B Mar 10 19:57 e7aeb7faa1e01eee46ce0e128fe700b33db954
+
+./.git/objects/74:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 28 11:32 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 28 11:32 05bbd4dbfaaff9fe5802a462933db4de3f7524
+
+./.git/objects/75:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 16:50 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   246B Jan 21 16:50 1efd071ffd946bb87d47c4b4385d303a819fa8
+
+./.git/objects/79:
+total 48
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb  2 15:06 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff    17K Feb  2 15:06 1ec6a687263b3a8e559c3946d15951ea82ca9b
+-r--r--r--@   1 dominikbalint  staff   1.9K Jan 19 15:10 edb2f1ada54bfaaf2135c8881328761938b33e
+
+./.git/objects/7a:
+total 32
+drwxr-xr-x@   5 dominikbalint  staff   160B Jan 28 13:37 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   962B Jan 28 11:32 12d3f273e5aca6ecc220ecdd8d0b8e0ebf5bc0
+-r--r--r--@   1 dominikbalint  staff   230B Jan 28 13:37 48c36c2feb067bf2de4bfeef2a72cd25212f23
+-r--r--r--@   1 dominikbalint  staff   6.6K Jan 23 16:14 56667416b449d95869657f2531c8681107effa
+
+./.git/objects/7c:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar 10 20:02 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   503B Mar 10 20:02 d9f17c8a0c5c894ad066f31cbffc8a67aab330
+
+./.git/objects/7d:
+total 752
+drwxr-xr-x@   5 dominikbalint  staff   160B Feb  2 00:03 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   367K Feb  2 00:03 1d060185e0d90e2044c05be1962286be780431
+-r--r--r--@   1 dominikbalint  staff   205B Jan 28 11:32 50bb30744d85e88e8455db5489b467e897be2d
+-r--r--r--@   1 dominikbalint  staff   2.0K Jan 20 21:08 818f514a3ba1028ca73694da27479426495968
+
+./.git/objects/7e:
+total 32
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 30 14:58 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   192B Jan 22 11:51 72dc1df4870e63ee970a58851900e2c945ef00
+-r--r--r--@   1 dominikbalint  staff   9.2K Jan 30 14:58 9e49f92ff23d0080f4b0f400400d3d48cfac01
+
+./.git/objects/7f:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 20 21:09 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   107B Jan 20 21:09 8d9b77e3c6d346397730681d7f6144bda8831d
+
+./.git/objects/82:
+total 16
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar  9 11:58 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   2.1K Jan 24 15:54 156de36a9ddd9dce92b8dfa13e2027d764cf40
+-r--r--r--@   1 dominikbalint  staff   191B Mar  9 11:58 ea0be2f9819dba928e82212cedb9b111d3a122
+
+./.git/objects/83:
+total 16
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb  7 16:09 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   2.7K Jan 27 15:45 14dd093213aa4e0a73da6ce5a2fb13601c06cf
+-r--r--r--@   1 dominikbalint  staff   190B Feb  7 16:09 a2e0709d38162322a857dcc845e1ada4d24c58
+
+./.git/objects/85:
+total 1192
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 26 02:42 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   293K Jan 24 14:00 b0c6f02aac7d7c3fd702add4ea017f7bc1454c
+-r--r--r--@   1 dominikbalint  staff   299K Jan 26 02:42 da7aed556cdc181c6479555159c457d0bf2f2c
+
+./.git/objects/88:
+total 48
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar  9 11:57 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff    21K Mar  9 11:57 a75f63c0f12f2cb91f33d7ea926d2d34539016
+
+./.git/objects/89:
+total 24
+drwxr-xr-x@   5 dominikbalint  staff   160B Mar 10 19:57 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   628B Mar 10 19:57 7ab51eee12816cbe9674e2b813f690406c1ab6
+-r--r--r--@   1 dominikbalint  staff   228B Jan 21 12:17 b7ce6f876edca1d46296a336060fb10b8ba0ec
+-r--r--r--@   1 dominikbalint  staff   191B Mar  9 12:00 d1d3d598fbc6f07ff25c9b9fa0aed08526f00d
+
+./.git/objects/8a:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  7 15:18 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   1.0K Feb  7 15:18 02a887d80eef333ea108e4f323052ac1d51e2f
+
+./.git/objects/8b:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar 10 16:56 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   191B Mar 10 16:56 8d5ffb883071e8ea1fd84384b1fc5102198a87
+
+./.git/objects/8c:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-rwxr-xr-x@   1 dominikbalint  staff   268B Jan 18 19:56 7e66e74bffd2b1e71ca6d510fac495392955b3
+
+./.git/objects/8d:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 13:13 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   141B Jan 22 13:13 31d91efd001dced99629e8fe96af2d88a65bd4
+
+./.git/objects/8e:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 23:31 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   205B Jan 26 23:31 220e64b3b4e1162ccd397274645289ea9f6ebb
+
+./.git/objects/92:
+total 72
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar  3 18:00 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff    11K Jan 26 16:18 df35c0f07338689ef5403df948a7419d21c881
+-r--r--r--@   1 dominikbalint  staff    21K Mar  3 18:00 e70f05d3b01b8b76cefe287bb214630d918041
+
+./.git/objects/93:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 22:22 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   202B Jan 19 22:22 e676471dde51d1087b06b96ec584dcde8dc0cb
+
+./.git/objects/95:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 17:36 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   192B Jan 24 17:36 470bccfd3e59a134bc5a1686e4e34ccfaaaf20
+
+./.git/objects/97:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 16:49 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   3.6K Jan 21 16:49 819a91b9bacb1111d9a05eafbcb76ecfc4fe0a
+
+./.git/objects/99:
+total 24
+drwxr-xr-x@   5 dominikbalint  staff   160B Jan 23 18:49 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   109B Jan 21 12:17 225b270abbe42e2997fa1e419ae8b20a20ee79
+-r--r--r--@   1 dominikbalint  staff   191B Jan 23 18:43 3939520a7a9af20ccd023628245711e94bcd0a
+-r--r--r--@   1 dominikbalint  staff   213B Jan 23 18:49 406ecd8ae05164bc095c4aea59aa384a778f5b
+
+./.git/objects/9a:
+total 1408
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar  9 11:57 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   401K Mar  9 11:57 15ca65cf0e438233906eace96af45697609331
+-r--r--r--@   1 dominikbalint  staff   297K Jan 24 15:54 f89bdc405161ab4d46987401f394f0917c9f6e
+
+./.git/objects/9b:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-rwxr-xr-x@   1 dominikbalint  staff    71B Jan 18 19:56 4c925e58fd385d3edf72dbcf457c9cbb0a0b53
+
+./.git/objects/9d:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 16:18 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   192B Jan 26 16:18 b1836be01c3e993154beace170384906b582d3
+
+./.git/objects/9f:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb 12 13:32 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   191B Feb 12 13:32 7c5b41eed4b7c7c5ddb6c22859b8cd3217a51f
+
+./.git/objects/a2:
+total 776
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb 12 14:44 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff    21K Feb 12 14:44 3a3763bdbdc355278cdf5a90d81baeba782695
+-r--r--r--@   1 dominikbalint  staff   362K Jan 30 17:09 c916f0cfaff529aca515a8580c7b87f1512d30
+
+./.git/objects/a3:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 20:32 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   137B Jan 22 20:32 511fb48e66875c1e5de65c43fe880b6e013086
+
+./.git/objects/a5:
+total 48
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar 10 15:49 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff    23K Mar 10 15:49 bf25c4e4d2c2247c94ab616a7a1092fdf47193
+
+./.git/objects/a6:
+total 512
+drwxr-xr-x@   5 dominikbalint  staff   160B Feb  7 15:18 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   192B Jan 24 15:55 77e5d31a1e3692924b0bcaefd3619afa4f60a8
+-r--r--r--@   1 dominikbalint  staff   247B Feb  7 15:18 932d151fabc96ba5fae23be437ba31b11aae26
+-r--r--r--@   1 dominikbalint  staff   244K Jan 23 18:43 ce833016510a7c94fab5791a2bcf51bfe3eeab
+
+./.git/objects/aa:
+total 592
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar 10 20:02 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   184B Mar 10 20:02 692dd8d538e722645e387cd377626b5ff325a3
+-r--r--r--@   1 dominikbalint  staff   290K Jan 24 11:30 fffb02c7c8491c28454f097b6ceb95ef072664
+
+./.git/objects/ab:
+total 48
+drwxr-xr-x@   5 dominikbalint  staff   160B Jan 30 17:09 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   210B Jan 30 17:09 459c1d697435201cd443eb744a8ee39a230b90
+-r--r--r--@   1 dominikbalint  staff    14K Jan 30 14:58 6dea6fb96d1169571b964acefa4b457c031c71
+-r--r--r--@   1 dominikbalint  staff   136B Jan 23 10:07 ecb6d560d95e4922f0c2b17a66f10e943f5388
+
+./.git/objects/ad:
+total 1256
+drwxr-xr-x@   6 dominikbalint  staff   192B Mar 10 19:58 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   173B Mar 10 19:58 01e8fcf377b4c0b1cdd83a928eb2a8fb685a5d
+-r--r--r--@   1 dominikbalint  staff    19K Feb  7 15:18 3a4afdcf1d01f41f5a6b7e71f08249e10c0121
+-r--r--r--@   1 dominikbalint  staff   301K Jan 26 23:31 72a78212691750c29857565e948817951869ba
+-r--r--r--@   1 dominikbalint  staff   299K Jan 26 16:18 99c4e67e22e7b6a0113e9bf2a607ce3906ff53
+
+./.git/objects/ae:
+total 648
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb  3 16:22 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   190B Feb  3 16:22 6e9d9dfffc56e3aa76efd7fca6457ca641f12c
+-r--r--r--@   1 dominikbalint  staff   319K Jan 30 14:58 780ea4491e6b8a78ecd4c81a563d9ce71dae97
+
+./.git/objects/b0:
+total 40
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  2 16:43 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff    17K Feb  2 16:43 bc6247ab545e0ded4c2100b631a90a70abf6e4
+
+./.git/objects/b1:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 02:42 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 26 02:42 309b8cb75f81b9f3dab49291f8affe20efd363
+
+./.git/objects/b2:
+total 24
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 14:00 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   9.7K Jan 24 14:00 5ae099deadae6b1ac1de088f0635dff24fd6e6
+
+./.git/objects/b3:
+total 24
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 28 13:37 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   3.0K Jan 28 13:37 636d596da2d32366bd2805848660c59b596920
+-r--r--r--@   1 dominikbalint  staff   4.1K Jan 22 11:51 6e3214a184c5576338f2e8a04d04fab6cb53fb
+
+./.git/objects/b4:
+total 24
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 23 10:07 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   205B Jan 23 10:07 8e67322b2b75bc59de2ec2ca44c8e3859d31b8
+-r--r--r--@   1 dominikbalint  staff   4.7K Jan 22 13:11 eefe28c2205aff4d78c27e19ddde40872e879d
+
+./.git/objects/b6:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar  9 12:00 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   184B Mar  9 12:00 153cf1ad6b0931e25d6af2bd82040c3d7a2f07
+
+./.git/objects/b7:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 13:11 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   677B Jan 22 13:11 3b3e432483b4aefef43cef6ebb8006459ba72c
+
+./.git/objects/b8:
+total 752
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  2 16:43 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   373K Feb  2 16:43 ae0b935079253dc424a71d33b8fd9f961b3319
+
+./.git/objects/b9:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  3 14:31 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   276B Feb  3 14:31 59c4a5a631e2f9c73e6d59b584edf92e40ce2f
+
+./.git/objects/bb:
+total 640
+drwxr-xr-x@   6 dominikbalint  staff   192B Mar 10 19:57 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   575B Mar 10 19:57 289fe4943213954114c2bc0c9f5ea6ef91f6d3
+-r--r--r--@   1 dominikbalint  staff    21K Feb 12 16:23 36b82611541b49975a98c76e0c00895db26d06
+-r--r--r--@   1 dominikbalint  staff   286K Jan 23 18:49 6b91f3436db88c1c6a0345f784ac4b48e435f9
+-rwxr-xr-x@   1 dominikbalint  staff   159B Jan 18 19:52 7fc07b199e293bd98d7c79d8997c6a13e98c0d
+
+./.git/objects/bc:
+total 784
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  7 16:08 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   392K Feb  7 16:08 50898682ac379ac57e1ad92d6a02d0257badd2
+
+./.git/objects/be:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar 10 16:56 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   195B Mar 10 16:56 df2cf1921944ba332aebbf7950c51c018d9363
+
+./.git/objects/c0:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  3 14:31 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   191B Feb  3 14:31 c5e14ab0be07c584b09779fdf813df36d50482
+
+./.git/objects/c1:
+total 32
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb  2 00:03 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   191B Feb  2 00:03 67a4f1b171d0d890a84b7315c2714b4d4ae953
+-r--r--r--@   1 dominikbalint  staff    10K Jan 24 15:54 ecb2a0be36f16b441fce476a96943331194600
+
+./.git/objects/c4:
+total 16
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 17:41 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   7.0K Jan 23 17:41 0ba3accdb710e0e6d9b685fffb1260e9111664
+
+./.git/objects/c5:
+total 760
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 31 20:21 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   367K Jan 31 20:21 57ca5dca6ef5a479ad096c7e39c7d8669b8e15
+-r--r--r--@   1 dominikbalint  staff   8.9K Jan 24 11:30 c0e3fed6e59ad1045705c3555403f67bf5ee4e
+
+./.git/objects/c6:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 15:10 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   186B Jan 19 15:10 e44468a91f0fe9e9c12f602ccec0c9ba768f5e
+
+./.git/objects/c9:
+total 800
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar  9 11:35 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   373K Feb  2 15:06 f8e8de5c9b2d08f60607462fd7c78d2e827993
+-r--r--r--@   1 dominikbalint  staff    21K Mar  9 12:00 f8ee696a0547004d7f31057a5b1eec2e14ba6e
+
+./.git/objects/ca:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 22 15:55 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   141B Jan 22 15:55 7c61706c63330836e478453ee2c6c143fcc328
+
+./.git/objects/cb:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 17:42 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 23 17:42 c58ba0c2772328424e21d03a362a5bc934c57e
+
+./.git/objects/cc:
+total 32
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  2 00:03 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff    16K Feb  2 00:03 f6cd0321ecdf062b3156cafa684d37690701d7
+
+./.git/objects/cd:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb 12 16:23 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   253B Feb 12 16:23 121d9abacdd1d021458b53053184b4aaa26b02
+
+./.git/objects/ce:
+total 16
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb 12 14:44 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   190B Feb 12 14:44 93b7e6dc5f0ced06a5f80a3b402628081481a3
+-r--r--r--@   1 dominikbalint  staff   154B Jan 28 09:21 c83e08526784998767a5fc75683718c62c0366
+
+./.git/objects/d1:
+total 16
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar 10 15:49 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   3.5K Jan 30 16:30 50a9e8210bcb36deebcefb1315be3fbabaf39c
+-r--r--r--@   1 dominikbalint  staff   191B Mar 10 15:49 546b2ee83d2836d0c82165e91824530b088322
+
+./.git/objects/d2:
+total 800
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb 12 13:31 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   393K Feb 12 13:31 d19defb2d49a8497fa44d6183de02c60515de9
+-rwxr-xr-x@   1 dominikbalint  staff    71B Jan 19 00:27 f2575bb5502e47a8eb4b08d7d63de157e9087f
+
+./.git/objects/d3:
+total 584
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 23 17:41 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff    71B Jan 19 15:10 66a795797a6acdef72f21e3d5a39c0025d8e58
+-r--r--r--@   1 dominikbalint  staff   285K Jan 23 17:41 751f40d4e45c28c269099761dd1628f066582c
+
+./.git/objects/d4:
+total 40
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  3 14:30 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff    18K Feb  3 14:30 cad7d9b1464792db6904ad7bb1a76465400f37
+
+./.git/objects/d5:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 24 17:36 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   2.4K Jan 24 17:36 d86dbbdd2aadd3bc8d2ebca8826a522cf51401
+
+./.git/objects/d7:
+total 32
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 23 19:11 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   4.7K Jan 22 15:54 432203abcda0149f07d5af2c4416297f63df1c
+-r--r--r--@   1 dominikbalint  staff   7.5K Jan 23 19:11 f43b2d822ade0436aebc4771b2167c32b5c878
+
+./.git/objects/d9:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  7 15:18 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   190B Feb  7 15:18 ec7a901aa679fb7869d17395276fcb8543f5dd
+
+./.git/objects/da:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 22:21 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   357B Jan 19 22:21 d7bf935d1e3c0f013070febdccc9617e864eab
+
+./.git/objects/dc:
+total 40
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb 12 13:31 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff    20K Feb 12 13:31 a39a5dc4f3af472f41b7065fa2a049ed75f2e4
+
+./.git/objects/de:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar 10 19:57 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   225B Mar 10 19:57 aaf4f5e54cc77d64b83a84a6c3d42d9c5b6481
+
+./.git/objects/e0:
+total 640
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar  3 18:00 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   3.7K Mar  9 13:11 5d1f2bf1fbe177588f3ae8f7054a9fae1f2818
+-r--r--r--@   1 dominikbalint  staff   315K Jan 27 15:45 7d491560959cbdae7b97f535120147d26e31b7
+
+./.git/objects/e1:
+total 16
+drwxr-xr-x@   4 dominikbalint  staff   128B Jan 24 14:00 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   279B Jan 23 16:14 0220e3f95f62cf8fdcb5418e7a63028dbd53c6
+-r--r--r--@   1 dominikbalint  staff   234B Jan 24 14:00 464c94d5b32ca6183a43b13dfc0542b5f48fe1
+
+./.git/objects/e2:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 30 14:59 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   185B Jan 30 14:59 e653a1c646f059c975df193369f8166489b635
+
+./.git/objects/e3:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  2 16:43 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   192B Feb  2 16:43 2df87525260d6c838e545ce583acfc329c0841
+
+./.git/objects/e4:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 28 13:37 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 28 13:37 965db9c1ad796f6821a3e017ad6b6060603bba
+
+./.git/objects/e5:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 27 15:46 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   191B Jan 27 15:46 b3b7ad8afc981e11f9094ba28668f6bd457f6b
+
+./.git/objects/e6:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 26 02:42 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   252B Jan 26 02:42 e8fc6960906e6c3ea8bda8afd3183cb1b2fc5b
+
+./.git/objects/e7:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 21 16:50 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   110B Jan 21 16:50 914f6ed691005aeddc21bf72d6d34b1fab02ab
+
+./.git/objects/e9:
+total 48
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar  9 13:11 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff    22K Mar  9 13:11 e7f4fa63476452ed2db8d61fd9284edcfd6a87
+
+./.git/objects/eb:
+total 16
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb  3 14:30 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   3.6K Feb  3 14:30 1d0c8d75237845e88b3ffd11ed6ae0162ec35b
+-rwxr-xr-x@   1 dominikbalint  staff   347B Jan 18 22:31 63ad3b0bde535ebed0291364647434c2b7fb24
+
+./.git/objects/ec:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Mar  9 11:58 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   177B Mar  9 11:58 07b2a6915b96510cb44b0b8fbf4fec4787fe22
+
+./.git/objects/ee:
+total 832
+drwxr-xr-x@   5 dominikbalint  staff   160B Mar 10 17:00 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   405K Mar 10 17:00 6df795b6262b90e1756b7da8634ea861f92e2c
+-r--r--r--@   1 dominikbalint  staff   141B Jan 22 11:51 9fc9cdf4b270af00d0ae5ad9065e6c8c14812b
+-r--r--r--@   1 dominikbalint  staff   191B Jan 30 16:31 d827d6c72afb98ccf054c1e411453e2eccbb67
+
+./.git/objects/ef:
+total 48
+drwxr-xr-x@   3 dominikbalint  staff    96B Feb  7 15:18 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff    22K Feb  7 15:18 18800eec1b56bfb76cd1bb8bd027d301404f65
+
+./.git/objects/f0:
+total 520
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 23 16:14 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   260K Jan 23 16:14 32e47e849f8f94d2f4ca253886d3430e64c320
+
+./.git/objects/f2:
+total 40
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb  2 00:03 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff    14K Jan 28 13:37 20b7d26e63f0051e6184f2d56783ffc616fc52
+-r--r--r--@   1 dominikbalint  staff   210B Feb  2 00:03 2757dd0f5e06bc8ae9147b89c860a41c97a347
+
+./.git/objects/f3:
+total 48
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb  7 16:09 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   243B Feb  7 16:09 23f93f8102468e1526a4bb3858066853dfd9bf
+-r--r--r--@   1 dominikbalint  staff    19K Feb  7 16:08 82c212c5e030d6bb267f0d1b7b446fb5e45e64
+
+./.git/objects/f5:
+total 792
+drwxr-xr-x@   4 dominikbalint  staff   128B Feb  7 15:18 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   290B Jan 24 15:55 336d5ec88b1906a078d2902d1e7eea5af5aa19
+-r--r--r--@   1 dominikbalint  staff   391K Feb  7 15:18 8b18c7276565780aeb4243be59c37b7f706f17
+
+./.git/objects/f7:
+total 8
+drwxr-xr-x@   3 dominikbalint  staff    96B Jan 19 14:51 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-rwxr-xr-x@   1 dominikbalint  staff   246B Jan 19 00:27 2dca477e1487258aab343306934410c81032ef
+
+./.git/objects/fa:
+total 16
+drwxr-xr-x@   4 dominikbalint  staff   128B Mar 10 19:59 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+-r--r--r--@   1 dominikbalint  staff   260B Mar 10 19:59 0f62b336f19dad8cf89d52085a871aa0042d67
+-r--r--r--@   1 dominikbalint  staff   192B Jan 30 17:09 1c6a21bf51c7ffbc25acd6295bbccd35182323
+
+./.git/objects/info:
+total 0
+drwxr-xr-x@   2 dominikbalint  staff    64B Jan 18 19:39 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+
+./.git/objects/pack:
+total 0
+drwxr-xr-x@   2 dominikbalint  staff    64B Jan 18 19:39 .
+drwxr-xr-x@ 158 dominikbalint  staff   4.9K Mar 10 20:02 ..
+
+./.git/refs:
+total 0
+drwxr-xr-x@  5 dominikbalint  staff   160B Mar  9 11:38 .
+drwxr-xr-x@ 14 dominikbalint  staff   448B Mar 10 20:03 ..
+drwxr-xr-x@  3 dominikbalint  staff    96B Mar 10 20:02 heads
+drwxr-xr-x@  3 dominikbalint  staff    96B Mar  9 11:38 remotes
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 18 19:39 tags
+
+./.git/refs/heads:
+total 8
+drwxr-xr-x@ 3 dominikbalint  staff    96B Mar 10 20:02 .
+drwxr-xr-x@ 5 dominikbalint  staff   160B Mar  9 11:38 ..
+-rw-r--r--@ 1 dominikbalint  staff    41B Mar 10 20:02 master
+
+./.git/refs/remotes:
+total 0
+drwxr-xr-x@ 3 dominikbalint  staff    96B Mar  9 11:38 .
+drwxr-xr-x@ 5 dominikbalint  staff   160B Mar  9 11:38 ..
+drwxr-xr-x@ 3 dominikbalint  staff    96B Mar 10 20:03 origin
+
+./.git/refs/remotes/origin:
+total 8
+drwxr-xr-x@ 3 dominikbalint  staff    96B Mar 10 20:03 .
+drwxr-xr-x@ 3 dominikbalint  staff    96B Mar  9 11:38 ..
+-rw-r--r--@ 1 dominikbalint  staff    41B Mar 10 20:03 master
+
+./.git/refs/tags:
+total 0
+drwxr-xr-x@ 2 dominikbalint  staff    64B Jan 18 19:39 .
+drwxr-xr-x@ 5 dominikbalint  staff   160B Mar  9 11:38 ..
+
+./.texpadtmp:
+total 1152
+drwxr-xr-x@ 25 dominikbalint  staff   800B Mar 10 17:00 .
+drwxr-xr-x@ 21 dominikbalint  staff   672B Mar 10 20:10 ..
+drwxr-xr-x@  3 dominikbalint  staff    96B Jan 19 13:52 Bakalářská Práce
+-rw-r--r--@  1 dominikbalint  staff   421B Jan 23 12:55 Bakalářská_práce.aux
+-rw-r--r--@  1 dominikbalint  staff    88K Jan 23 12:55 Bakalářská_práce.bcf
+-rw-r--r--@  1 dominikbalint  staff   576B Jan 23 12:55 Bakalářská_práce.blg
+-rwxr-xr-x@  1 dominikbalint  staff    19K Jan 23 12:55 Bakalářská_práce.log
+-rw-r--r--@  1 dominikbalint  staff   2.4K Jan 22 18:52 Bakalářská_práce.run.xml
+-rw-r--r--@  1 dominikbalint  staff   4.6K Jan 22 18:52 Bakalářská_práce.toc
+-rw-r--r--@  1 dominikbalint  staff    11K Mar 10 17:00 Bakalářská_práce2.aux
+-rw-r--r--@  1 dominikbalint  staff    19K Mar 10 15:43 Bakalářská_práce2.bbl
+-rw-r--r--@  1 dominikbalint  staff    91K Mar 10 17:00 Bakalářská_práce2.bcf
+-rw-r--r--@  1 dominikbalint  staff   1.5K Mar 10 15:43 Bakalářská_práce2.blg
+-rw-r--r--@  1 dominikbalint  staff   622B Mar 10 17:00 Bakalářská_práce2.lof
+-rwxr-xr-x@  1 dominikbalint  staff    53K Mar 10 17:00 Bakalářská_práce2.log
+-rw-r--r--@  1 dominikbalint  staff   2.4K Mar 10 17:00 Bakalářská_práce2.run.xml
+-rw-r--r--@  1 dominikbalint  staff   246K Mar 10 17:00 Bakalářská_práce2.synctex.gz
+-rw-r--r--@  1 dominikbalint  staff   4.7K Mar 10 17:00 Bakalářská_práce2.toc
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 21 09:53 Bakalářská_práce~.tex
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 20 21:04 MindMaps
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 19 13:52 Obrazky
+drwxr-xr-x@  7 dominikbalint  staff   224B Feb 12 13:24 Publikace
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 19 13:52 Zadání
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 22 20:43 Zaloha
+drwxr-xr-x@  3 dominikbalint  staff    96B Mar  3 17:57 Zdroje2
+
+./.texpadtmp/Bakalářská Práce:
+total 0
+drwxr-xr-x@  3 dominikbalint  staff    96B Jan 19 13:52 .
+drwxr-xr-x@ 25 dominikbalint  staff   800B Mar 10 17:00 ..
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 19 13:52 Zadání
+
+./.texpadtmp/Bakalářská Práce/Zadání:
+total 0
+drwxr-xr-x@ 2 dominikbalint  staff    64B Jan 19 13:52 .
+drwxr-xr-x@ 3 dominikbalint  staff    96B Jan 19 13:52 ..
+
+./.texpadtmp/Bakalářská_práce~.tex:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 21 09:53 .
+drwxr-xr-x@ 25 dominikbalint  staff   800B Mar 10 17:00 ..
+
+./.texpadtmp/MindMaps:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 20 21:04 .
+drwxr-xr-x@ 25 dominikbalint  staff   800B Mar 10 17:00 ..
+
+./.texpadtmp/Obrazky:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 19 13:52 .
+drwxr-xr-x@ 25 dominikbalint  staff   800B Mar 10 17:00 ..
+
+./.texpadtmp/Publikace:
+total 0
+drwxr-xr-x@  7 dominikbalint  staff   224B Feb 12 13:24 .
+drwxr-xr-x@ 25 dominikbalint  staff   800B Mar 10 17:00 ..
+drwxr-xr-x@  3 dominikbalint  staff    96B Feb 12 13:24 Další publikace
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 28 13:08 Dědické právo
+drwxr-xr-x@  3 dominikbalint  staff    96B Jan 28 13:08 Římské právo
+drwxr-xr-x@  3 dominikbalint  staff    96B Feb 12 16:22 Svěřenské fondy
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 28 13:08 Zákony
+
+./.texpadtmp/Publikace/Další publikace:
+total 0
+drwxr-xr-x@ 3 dominikbalint  staff    96B Feb 12 13:24 .
+drwxr-xr-x@ 7 dominikbalint  staff   224B Feb 12 13:24 ..
+drwxr-xr-x@ 2 dominikbalint  staff    64B Feb 12 13:24 Nerelevantní
+
+./.texpadtmp/Publikace/Další publikace/Nerelevantní:
+total 0
+drwxr-xr-x@ 2 dominikbalint  staff    64B Feb 12 13:24 .
+drwxr-xr-x@ 3 dominikbalint  staff    96B Feb 12 13:24 ..
+
+./.texpadtmp/Publikace/Dědické právo:
+total 0
+drwxr-xr-x@ 2 dominikbalint  staff    64B Jan 28 13:08 .
+drwxr-xr-x@ 7 dominikbalint  staff   224B Feb 12 13:24 ..
+
+./.texpadtmp/Publikace/Římské právo:
+total 0
+drwxr-xr-x@ 3 dominikbalint  staff    96B Jan 28 13:08 .
+drwxr-xr-x@ 7 dominikbalint  staff   224B Feb 12 13:24 ..
+drwxr-xr-x@ 2 dominikbalint  staff    64B Jan 28 13:08 Základy rímskeho práva
+
+./.texpadtmp/Publikace/Římské právo/Základy rímskeho práva:
+total 0
+drwxr-xr-x@ 2 dominikbalint  staff    64B Jan 28 13:08 .
+drwxr-xr-x@ 3 dominikbalint  staff    96B Jan 28 13:08 ..
+
+./.texpadtmp/Publikace/Svěřenské fondy:
+total 0
+drwxr-xr-x@ 3 dominikbalint  staff    96B Feb 12 16:22 .
+drwxr-xr-x@ 7 dominikbalint  staff   224B Feb 12 13:24 ..
+drwxr-xr-x@ 2 dominikbalint  staff    64B Feb 12 16:22 Svěřenský fond a Trust
+
+./.texpadtmp/Publikace/Svěřenské fondy/Svěřenský fond a Trust:
+total 0
+drwxr-xr-x@ 2 dominikbalint  staff    64B Feb 12 16:22 .
+drwxr-xr-x@ 3 dominikbalint  staff    96B Feb 12 16:22 ..
+
+./.texpadtmp/Publikace/Zákony:
+total 0
+drwxr-xr-x@ 2 dominikbalint  staff    64B Jan 28 13:08 .
+drwxr-xr-x@ 7 dominikbalint  staff   224B Feb 12 13:24 ..
+
+./.texpadtmp/Zadání:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 19 13:52 .
+drwxr-xr-x@ 25 dominikbalint  staff   800B Mar 10 17:00 ..
+
+./.texpadtmp/Zaloha:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Jan 22 20:43 .
+drwxr-xr-x@ 25 dominikbalint  staff   800B Mar 10 17:00 ..
+
+./.texpadtmp/Zdroje2:
+total 0
+drwxr-xr-x@  3 dominikbalint  staff    96B Mar  3 17:57 .
+drwxr-xr-x@ 25 dominikbalint  staff   800B Mar 10 17:00 ..
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 files
+
+./.texpadtmp/Zdroje2/files:
+total 0
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 .
+drwxr-xr-x@  3 dominikbalint  staff    96B Mar  3 17:57 ..
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 10
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 100
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 12
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 14
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 17
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 19
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 21
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 23
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 26
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 27
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 29
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 31
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 33
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 35
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 37
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 39
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 4
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 42
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 44
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 46
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 48
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 51
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 53
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 56
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 6
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 60
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 62
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 66
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 68
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 70
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 73
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 74
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 82
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 84
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 86
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 88
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 91
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 93
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 96
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 97
+
+./.texpadtmp/Zdroje2/files/10:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/100:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/12:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/14:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/17:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/19:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/21:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/23:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/26:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/27:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/29:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/31:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/33:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/35:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/37:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/39:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/4:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/42:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/44:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/46:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/48:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/51:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/53:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/56:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/6:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/60:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/62:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/66:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/68:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/70:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/73:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/74:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/82:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/84:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/86:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/88:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/91:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/93:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/96:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./.texpadtmp/Zdroje2/files/97:
+total 0
+drwxr-xr-x@  2 dominikbalint  staff    64B Mar  3 17:57 .
+drwxr-xr-x@ 42 dominikbalint  staff   1.3K Mar  3 17:57 ..
+
+./Bakalářská Práce:
+total 4488
+drwxr-xr-x@  9 dominikbalint  staff   288B Mar 10 20:02 .
+drwxr-xr-x@ 21 dominikbalint  staff   672B Mar 10 20:10 ..
+-rw-r--r--@  1 dominikbalint  staff   8.0K Mar 10 20:04 .DS_Store
+-rwxr-xr-x@  1 dominikbalint  staff   2.1M Feb  4 22:06 Opravy.xlsx
+-rwxr-xr-x@  1 dominikbalint  staff    16K Feb  5 14:47 Otazky.docx
+-rwxr-xr-x@  1 dominikbalint  staff    26K Feb  5 11:36 Seminární práce na téma zdanění svěřeneckých fondů.docx
+drwxr-xr-x@  4 dominikbalint  staff   128B Jan 19 14:51 Zadání
+-rw-r--r--@  1 dominikbalint  staff   2.8K Feb  5 11:35 bibmapping.md
+-rw-r--r--@  1 dominikbalint  staff   1.4K Mar 10 20:02 list.txt
+
+./Bakalářská Práce/Zadání:
+total 72
+drwxr-xr-x@ 4 dominikbalint  staff   128B Jan 19 14:51 .
+drwxr-xr-x@ 9 dominikbalint  staff   288B Mar 10 20:02 ..
+-rwxr-xr-x@ 1 dominikbalint  staff    14K Nov 14 11:52 Knižní_publikace_bak.docx
+-rwxr-xr-x@ 1 dominikbalint  staff    18K Jan 18 22:45 Zadání Bakalářské Práce.docx
+
+./MindMaps:
+total 13648
+drwxr-xr-x@  9 dominikbalint  staff   288B Jan 24 19:47 .
+drwxr-xr-x@ 21 dominikbalint  staff   672B Mar 10 20:10 ..
+-rw-r--r--@  1 dominikbalint  staff   8.0K Mar 10 20:00 .DS_Store
+-rw-r--r--@  1 dominikbalint  staff    40K Jan 19 19:48 DataSvěřenskýFond.csv
+-rw-r--r--@  1 dominikbalint  staff   108K Jan 19 20:39 MindMapSvěřenskýFond.txt
+-rw-r--r--@  1 dominikbalint  staff   6.1M Jan 19 21:00 MyšlenkováMapaSvěřenskýFond.pdf
+-rw-r--r--@  1 dominikbalint  staff    26K Jan 19 22:23 MyšlenkováMapaSvěřenskýFondDataPreparation.xlsx
+-rw-r--r--@  1 dominikbalint  staff    70K Jan 19 22:06 SvěřenskýFond.html
+-rw-r--r--@  1 dominikbalint  staff   332K Jan 24 19:29 SvěřenskýFond.mm
+
+./Obrazky:
+total 63800
+drwxr-xr-x@ 25 dominikbalint  staff   800B Feb  3 14:16 .
+drwxr-xr-x@ 21 dominikbalint  staff   672B Mar 10 20:10 ..
+-rw-r--r--@  1 dominikbalint  staff    18K Feb  3 14:15 Dedicka_nezpusobilost.png
+-rw-r--r--@  1 dominikbalint  staff   1.9M Jan 30 13:27 IMG_2428.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.0M Jan 30 13:47 IMG_2429.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.8M Feb  2 14:06 IMG_2430.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.0M Feb  2 14:05 IMG_2431.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.1M Feb  2 14:05 IMG_2432.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.9M Feb  2 14:05 IMG_2433.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.9M Feb  2 14:05 IMG_2434.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.1M Feb  2 14:04 IMG_2435.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.2M Feb  2 14:04 IMG_2436.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.1M Jan 30 14:05 IMG_2437.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.1M Jan 30 14:05 IMG_2438.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.1M Jan 30 14:05 IMG_2439.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.9M Feb  2 14:03 IMG_2440.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.8M Feb  2 14:03 IMG_2441.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.1M Feb  2 14:03 IMG_2442.HEIC
+-rwxr-xr-x@  1 dominikbalint  staff   414K Jan 28 19:48 Struktura_posledních_dvou_kapitol.png
+-rwxr-xr-x@  1 dominikbalint  staff   519K Jan 29 20:02 Struktura_posledních_dvou_kapitol_2.png
+-rw-r--r--@  1 dominikbalint  staff    52K Jan 30 17:00 Vznik_sverenskeho_fondu.png
+-rwxr-xr-x@  1 dominikbalint  staff   114K Feb  3  2019 cevro.png
+-rwxr-xr-x@  1 dominikbalint  staff    39K Jan 18 22:29 newcevro.png
+-rw-r--r--@  1 dominikbalint  staff    31K Jan 23 17:22 rimskepravostruktura.jpeg
+-rw-r--r--@  1 dominikbalint  staff    46K Jan 24 13:57 rimskepravostruktura2.jpeg
+
+./Publikace:
+total 24
+drwxr-xr-x@  8 dominikbalint  staff   256B Feb 11 15:25 .
+drwxr-xr-x@ 21 dominikbalint  staff   672B Mar 10 20:10 ..
+-rw-r--r--@  1 dominikbalint  staff    10K Feb 11 15:25 .DS_Store
+drwxr-xr-x@ 10 dominikbalint  staff   320B Feb 11 15:26 Další publikace
+drwxr-xr-x@  4 dominikbalint  staff   128B Jan 28 12:28 Dědické právo
+drwxr-xr-x@  6 dominikbalint  staff   192B Jan 28 12:28 Římské právo
+drwxr-xr-x@  7 dominikbalint  staff   224B Feb 12 15:57 Svěřenské fondy
+drwxr-xr-x@  4 dominikbalint  staff   128B Jan 28 12:28 Zákony
+
+./Publikace/Další publikace:
+total 10792
+drwxr-xr-x@ 10 dominikbalint  staff   320B Feb 11 15:26 .
+drwxr-xr-x@  8 dominikbalint  staff   256B Feb 11 15:25 ..
+-rw-r--r--@  1 dominikbalint  staff   6.0K Feb 11 15:26 .DS_Store
+-rw-r--r--@  1 dominikbalint  staff   580K Feb  7 18:05 DPTX_2012_1_11220_0_38892_0_131347.pdf
+-rw-r--r--@  1 dominikbalint  staff   1.6M Jan 29 16:15 DPTX_2014_1_11220_0_321887_0_158954 (1).pdf
+-rw-r--r--@  1 dominikbalint  staff   1.6M Jan 29 16:06 DPTX_2014_1_11220_0_321887_0_158954.pdf
+drwxr-xr-x@ 11 dominikbalint  staff   352B Feb 11 15:26 Nerelevantní
+-rw-r--r--@  1 dominikbalint  staff   637K Feb 11 15:11 RPTX_2014_1_11220_0_444454_0_156760 (1).pdf
+-rw-r--r--@  1 dominikbalint  staff   637K Jan 29 19:17 RPTX_2014_1_11220_0_444454_0_156760.pdf
+-rw-r--r--@  1 dominikbalint  staff   166K Feb 11 15:11 Viktor Hatina.pdf
+
+./Publikace/Další publikace/Nerelevantní:
+total 4976
+drwxr-xr-x@ 11 dominikbalint  staff   352B Feb 11 15:26 .
+drwxr-xr-x@ 10 dominikbalint  staff   320B Feb 11 15:26 ..
+-rw-r--r--@  1 dominikbalint  staff    60K Feb  7 16:45 rt_KORNB7NGQS1H.docx
+-rw-r--r--@  1 dominikbalint  staff   678K Feb  7 16:53 t020100.pdf
+-rw-r--r--@  1 dominikbalint  staff   342K Feb  7 16:53 t0201a0.pdf
+-rw-r--r--@  1 dominikbalint  staff   387K Feb  7 16:54 t027000.pdf
+-rw-r--r--@  1 dominikbalint  staff   178K Feb  7 16:55 t0270a0.pdf
+-rw-r--r--@  1 dominikbalint  staff   179K Feb  7 16:55 t0401a0.pdf
+-rw-r--r--@  1 dominikbalint  staff   284K Feb  7 16:55 t0411a0.pdf
+-rw-r--r--@  1 dominikbalint  staff   173K Feb  7 16:55 t0456a0.pdf
+-rw-r--r--@  1 dominikbalint  staff   195K Feb  7 16:55 t0637a0.pdf
+
+./Publikace/Dědické právo:
+total 2296
+drwxr-xr-x@ 4 dominikbalint  staff   128B Jan 28 12:28 .
+drwxr-xr-x@ 8 dominikbalint  staff   256B Feb 11 15:25 ..
+-r--r--r--@ 1 dominikbalint  staff   565K Jan 28 12:27 69002-845065663.dot
+-rw-r--r--@ 1 dominikbalint  staff   580K Jan 27 00:46 DPTX_2012_1_11220_0_38892_0_131347.pdf
+
+./Publikace/Římské právo:
+total 109464
+drwxr-xr-x@ 6 dominikbalint  staff   192B Jan 28 12:28 .
+drwxr-xr-x@ 8 dominikbalint  staff   256B Feb 11 15:25 ..
+-rw-r--r--@ 1 dominikbalint  staff   8.0K Jan 28 12:27 .DS_Store
+-rw-r--r--@ 1 dominikbalint  staff   138K Jan 23 14:49 5861-9034-1-SM.pdf
+-rw-r--r--@ 1 dominikbalint  staff    53M Jan 26 22:38 Kincl,-Urfus,-Skrejpek---Rimske-pravo-(1997).pdf
+drwxr-xr-x@ 5 dominikbalint  staff   160B Jan 23 12:40 Základy rímskeho práva
+
+./Publikace/Římské právo/Základy rímskeho práva:
+total 8408
+drwxr-xr-x@ 5 dominikbalint  staff   160B Jan 23 12:40 .
+drwxr-xr-x@ 6 dominikbalint  staff   192B Jan 28 12:28 ..
+-rw-r--r--@ 1 dominikbalint  staff   1.5M Oct 21  2007 K1 a K2.pdf
+-rw-r--r--@ 1 dominikbalint  staff   2.3M Oct 21  2007 K3 až K6.pdf
+-rw-r--r--@ 1 dominikbalint  staff   367K Oct 21  2007 OBSAH, ÚVOD, SKRATKY.pdf
+
+./Publikace/Svěřenské fondy:
+total 21456
+drwxr-xr-x@  7 dominikbalint  staff   224B Feb 12 15:57 .
+drwxr-xr-x@  8 dominikbalint  staff   256B Feb 11 15:25 ..
+-rw-r--r--@  1 dominikbalint  staff   8.0K Feb 12 15:57 .DS_Store
+-rw-r--r--@  1 dominikbalint  staff   8.4M Jan 21 15:07 Bednarikova Barbora Sverence Fondy.pdf
+-rw-r--r--@  1 dominikbalint  staff   1.2M Jan 26 22:38 RPTX_2014_1_11220_0_460817_0_162078.pdf
+-rw-r--r--@  1 dominikbalint  staff   826K Jan 23 12:11 RPTX_2014_2_11220_0_462989_0_163658.pdf
+drwxr-xr-x@ 21 dominikbalint  staff   672B Feb 12 15:57 Svěřenský fond a Trust
+
+./Publikace/Svěřenské fondy/Svěřenský fond a Trust:
+total 65320
+drwxr-xr-x@ 21 dominikbalint  staff   672B Feb 12 15:57 .
+drwxr-xr-x@  7 dominikbalint  staff   224B Feb 12 15:57 ..
+-rw-r--r--@  1 dominikbalint  staff   1.7M Feb 12 15:50 IMG_2458.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.2M Feb 12 15:50 IMG_2459.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.5M Feb 12 15:50 IMG_2460.HEIC
+-rw-r--r--@  1 dominikbalint  staff   2.1M Feb 12 15:50 IMG_2461.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.8M Feb 12 15:51 IMG_2462.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.8M Feb 12 15:51 IMG_2463.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.8M Feb 12 15:51 IMG_2464.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.6M Feb 12 15:51 IMG_2465.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.5M Feb 12 15:51 IMG_2466.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.6M Feb 12 15:52 IMG_2467.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.2M Feb 12 15:52 IMG_2468.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.6M Feb 12 15:54 IMG_2469.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.7M Feb 12 15:54 IMG_2470.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.7M Feb 12 15:55 IMG_2471.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.7M Feb 12 15:55 IMG_2472.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.6M Feb 12 15:55 IMG_2473.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.6M Feb 12 15:55 IMG_2474.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.7M Feb 12 15:55 IMG_2475.HEIC
+-rw-r--r--@  1 dominikbalint  staff   1.4M Feb 12 15:55 IMG_2476.HEIC
+
+./Publikace/Zákony:
+total 3784
+drwxr-xr-x@ 4 dominikbalint  staff   128B Jan 28 12:28 .
+drwxr-xr-x@ 8 dominikbalint  staff   256B Feb 11 15:25 ..
+-rw-------@ 1 dominikbalint  staff   1.5M Jan 28 12:20 Annotated Civil Code of Québec.pdf
+-rw-------@ 1 dominikbalint  staff   353K Jan 28 12:25 Annotated Civil Code of Québec2.pdf
+
+./Zadání:
+total 72
+drwxr-xr-x@  4 dominikbalint  staff   128B Jan 19 14:51 .
+drwxr-xr-x@ 21 dominikbalint  staff   672B Mar 10 20:10 ..
+-rwxr-xr-x@  1 dominikbalint  staff    14K Nov 14 11:52 Knižní_publikace_bak.docx
+-rwxr-xr-x@  1 dominikbalint  staff    18K Dec 12 10:56 Zadání Bakalářské Práce.docx
+
+./Zaloha:
+total 1000
+drwxr-xr-x@  6 dominikbalint  staff   192B Jan 23 10:06 .
+drwxr-xr-x@ 21 dominikbalint  staff   672B Mar 10 20:10 ..
+-rw-r--r--@  1 dominikbalint  staff   241K Jan 22 20:16 Bakalářská_práce.pdf
+-rw-r--r--@  1 dominikbalint  staff    11K Jan 22 20:43 Bakalářská_práce.tex
+-rw-r--r--@  1 dominikbalint  staff   229K Jan 22 18:50 Bakalářská_práce1.pdf
+-rwxr-xr-x@  1 dominikbalint  staff    11K Jan 22 20:29 Bakalářská_práce1.tex
+
+./Zdroje2:
+total 80
+drwx------@  5 dominikbalint  staff   160B Mar  3 17:59 .
+drwxr-xr-x@ 21 dominikbalint  staff   672B Mar 10 20:10 ..
+-rw-r--r--@  1 dominikbalint  staff   6.0K Mar  3 18:38 .DS_Store
+-rw-r--r--@  1 dominikbalint  staff    28K Mar  3 17:54 Zdroje2.bib
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 files
+
+./Zdroje2/files:
+total 0
+drwx------@  42 dominikbalint  staff   1.3K Mar  3 17:54 .
+drwx------@   5 dominikbalint  staff   160B Mar  3 17:59 ..
+drwx------@  63 dominikbalint  staff   2.0K Mar  3 17:54 10
+drwx------@  82 dominikbalint  staff   2.6K Mar  3 17:54 100
+drwx------@  22 dominikbalint  staff   704B Mar  3 17:54 12
+drwx------@  22 dominikbalint  staff   704B Mar  3 17:54 14
+drwx------@  48 dominikbalint  staff   1.5K Mar  3 17:54 17
+drwx------@  24 dominikbalint  staff   768B Mar  3 17:54 19
+drwx------@  27 dominikbalint  staff   864B Mar  3 17:54 21
+drwx------@  34 dominikbalint  staff   1.1K Mar  3 17:54 23
+drwx------@  72 dominikbalint  staff   2.3K Mar  3 17:54 26
+drwx------@   3 dominikbalint  staff    96B Mar  3 17:54 27
+drwx------@  85 dominikbalint  staff   2.7K Mar  3 17:54 29
+drwx------@   4 dominikbalint  staff   128B Mar  3 17:54 31
+drwx------@  27 dominikbalint  staff   864B Mar  3 17:54 33
+drwx------@  33 dominikbalint  staff   1.0K Mar  3 17:54 35
+drwx------@  14 dominikbalint  staff   448B Mar  3 17:54 37
+drwx------@  14 dominikbalint  staff   448B Mar  3 17:54 39
+drwx------@  33 dominikbalint  staff   1.0K Mar  3 17:54 4
+drwx------@  57 dominikbalint  staff   1.8K Mar  3 17:54 42
+drwx------@  15 dominikbalint  staff   480B Mar  3 17:54 44
+drwx------@  18 dominikbalint  staff   576B Mar  3 17:54 46
+drwx------@  13 dominikbalint  staff   416B Mar  3 17:54 48
+drwx------@  16 dominikbalint  staff   512B Mar  3 17:54 51
+drwx------@  17 dominikbalint  staff   544B Mar  3 17:54 53
+drwx------@  16 dominikbalint  staff   512B Mar  3 17:54 56
+drwx------@   8 dominikbalint  staff   256B Mar  3 17:54 6
+drwx------@   5 dominikbalint  staff   160B Mar  3 17:54 60
+drwx------@   5 dominikbalint  staff   160B Mar  3 17:54 62
+drwx------@  24 dominikbalint  staff   768B Mar  3 17:54 66
+drwx------@ 123 dominikbalint  staff   3.8K Mar  3 17:54 68
+drwx------@  70 dominikbalint  staff   2.2K Mar  3 17:54 70
+drwx------@  24 dominikbalint  staff   768B Mar  3 17:54 73
+drwx------@   3 dominikbalint  staff    96B Mar  3 17:54 74
+drwx------@  16 dominikbalint  staff   512B Mar  3 17:54 82
+drwx------@  40 dominikbalint  staff   1.3K Mar  3 17:54 84
+drwx------@  25 dominikbalint  staff   800B Mar  3 17:54 86
+drwx------@  24 dominikbalint  staff   768B Mar  3 17:54 88
+drwx------@  24 dominikbalint  staff   768B Mar  3 17:54 91
+drwx------@  24 dominikbalint  staff   768B Mar  3 17:54 93
+drwx------@  25 dominikbalint  staff   800B Mar  3 17:54 96
+drwx------@   3 dominikbalint  staff    96B Mar  3 17:54 97
+
+./Zdroje2/files/10:
+total 5072
+drwx------@ 63 dominikbalint  staff   2.0K Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff   5.1K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff    89B Mar  3 17:54 300lo.json
+-rw-r--r--@  1 dominikbalint  staff   477B Mar  3 17:54 AbstractViewPage.js
+-rw-r--r--@  1 dominikbalint  staff   268B Mar  3 17:54 CitedByWidget.js
+-rw-r--r--@  1 dominikbalint  staff   983B Mar  3 17:54 FindThisResource.css
+-rw-r--r--@  1 dominikbalint  staff   2.5K Mar  3 17:54 GlossaryList.js
+-rw-r--r--@  1 dominikbalint  staff   5.1K Mar  3 17:54 LibraryModule.css
+-rw-r--r--@  1 dominikbalint  staff   2.8K Mar  3 17:54 LibraryModule.js
+-rw-r--r--@  1 dominikbalint  staff   530B Mar  3 17:54 LoginBox.js
+-rw-r--r--@  1 dominikbalint  staff   2.8K Mar  3 17:54 OdoPopupWidgetModule.css
+-rw-r--r--@  1 dominikbalint  staff   7.3K Mar  3 17:54 OdoPopupWidgetModule.js
+-rw-r--r--@  1 dominikbalint  staff   428B Mar  3 17:54 OupGlossaryList.js
+-rw-r--r--@  1 dominikbalint  staff   623B Mar  3 17:54 ResourceSelector.css
+-rw-r--r--@  1 dominikbalint  staff   884B Mar  3 17:54 ViewEntry.js
+-rw-r--r--@  1 dominikbalint  staff    27B Mar  3 17:54 _ate.config_resp
+-rw-r--r--@  1 dominikbalint  staff   102K Mar  3 17:54 acrefore-9780199381135-e-6966.html
+-rw-r--r--@  1 dominikbalint  staff   349K Mar  3 17:54 addthis_widget.js
+-rw-r--r--@  1 dominikbalint  staff    43K Mar  3 17:54 analytics.js
+-rw-r--r--@  1 dominikbalint  staff    26K Mar  3 17:54 annotation-engine.js
+-rw-r--r--@  1 dominikbalint  staff   2.5K Mar  3 17:54 arachne.js
+-rw-r--r--@  1 dominikbalint  staff   986K Mar  3 17:54 combined.js
+-rw-r--r--@  1 dominikbalint  staff   142K Mar  3 17:54 common.css
+-rw-r--r--@  1 dominikbalint  staff   2.0K Mar  3 17:54 cookie.js
+-rw-r--r--@  1 dominikbalint  staff   2.8K Mar  3 17:54 cxs-reset.css
+-rw-r--r--@  1 dominikbalint  staff   3.4K Mar  3 17:54 cxs.css
+-rw-r--r--@  1 dominikbalint  staff   2.7K Mar  3 17:54 default.css
+-rw-r--r--@  1 dominikbalint  staff   148B Mar  3 17:54 default_002.css
+-rw-r--r--@  1 dominikbalint  staff    38K Mar  3 17:54 effects.js
+-rw-r--r--@  1 dominikbalint  staff    54K Mar  3 17:54 gtm.js
+-rw-r--r--@  1 dominikbalint  staff   4.7K Mar  3 17:54 jquery.css
+-rw-r--r--@  1 dominikbalint  staff   5.4K Mar  3 17:54 jquery.js
+-rw-r--r--@  1 dominikbalint  staff    17K Mar  3 17:54 jquery_002.css
+-rw-r--r--@  1 dominikbalint  staff    13K Mar  3 17:54 jquery_002.js
+-rw-r--r--@  1 dominikbalint  staff   779B Mar  3 17:54 lightbox.js
+-rw-r--r--@  1 dominikbalint  staff   1.7K Mar  3 17:54 moatframe.js
+-rw-r--r--@  1 dominikbalint  staff    16K Mar  3 17:54 modernizr.js
+-rw-r--r--@  1 dominikbalint  staff   877B Mar  3 17:54 modulesearch.css
+-rw-r--r--@  1 dominikbalint  staff   4.2K Mar  3 17:54 mystuff.css
+-rw-r--r--@  1 dominikbalint  staff   5.1K Mar  3 17:54 normalize.css
+-rw-r--r--@  1 dominikbalint  staff   6.7K Mar  3 17:54 ntpagetag.js
+-rw-r--r--@  1 dominikbalint  staff    13K Mar  3 17:54 ore.css
+-rw-r--r--@  1 dominikbalint  staff   1.4K Mar  3 17:54 oup-cxs.css
+-rw-r--r--@  1 dominikbalint  staff    27K Mar  3 17:54 oup.js
+-rw-r--r--@  1 dominikbalint  staff    20K Mar  3 17:54 oupapp.js
+-rw-r--r--@  1 dominikbalint  staff    54K Mar  3 17:54 oupcookiepolicy.js
+-rw-r--r--@  1 dominikbalint  staff    22K Mar  3 17:54 override.css
+-rw-r--r--@  1 dominikbalint  staff   1.1K Mar  3 17:54 oxencycl.css
+-rw-r--r--@  1 dominikbalint  staff   2.3K Mar  3 17:54 oxford-research-encyclopedias-small-logo.png
+-rw-r--r--@  1 dominikbalint  staff   5.8K Mar  3 17:54 print.css
+-rw-r--r--@  1 dominikbalint  staff   1.4K Mar  3 17:54 printCSS.css
+-rw-r--r--@  1 dominikbalint  staff   207K Mar  3 17:54 prototype.js
+-rw-r--r--@  1 dominikbalint  staff   4.5K Mar  3 17:54 respond.js
+-rw-r--r--@  1 dominikbalint  staff   2.9K Mar  3 17:54 scriptaculous.js
+-rw-r--r--@  1 dominikbalint  staff    26K Mar  3 17:54 skin.js
+-rw-r--r--@  1 dominikbalint  staff    43B Mar  3 17:54 spacer.gif
+-rw-r--r--@  1 dominikbalint  staff   846B Mar  3 17:54 style.css
+-rw-r--r--@  1 dominikbalint  staff   1.7K Mar  3 17:54 tapestry-js-fixes.js
+-rw-r--r--@  1 dominikbalint  staff    58K Mar  3 17:54 tapestry.js
+-rw-r--r--@  1 dominikbalint  staff   1.0K Mar  3 17:54 tapestry_fixes.js
+-rw-r--r--@  1 dominikbalint  staff    63K Mar  3 17:54 window.js
+-rw-r--r--@  1 dominikbalint  staff    18K Mar  3 17:54 yvs1oba.js
+
+./Zdroje2/files/100:
+total 14864
+drwx------@ 82 dominikbalint  staff   2.6K Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff    22K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   2.5K Mar  3 17:54 100n.png
+-rw-r--r--@  1 dominikbalint  staff    43B Mar  3 17:54 1x1.gif
+-rw-r--r--@  1 dominikbalint  staff    50B Mar  3 17:54 25c2db1d5ce4781d074f248c6.js
+-rw-r--r--@  1 dominikbalint  staff   1.9M Mar  3 17:54 60939_jaguar-evoque-360p.mp4
+-rw-r--r--@  1 dominikbalint  staff   2.0M Mar  3 17:54 60939_jaguar-evoque-360p.webm
+-rw-r--r--@  1 dominikbalint  staff   4.6K Mar  3 17:54 AIVD.png
+-rw-r--r--@  1 dominikbalint  staff   9.7K Mar  3 17:54 DPI.jpg
+-rw-r--r--@  1 dominikbalint  staff   3.2K Mar  3 17:54 L.js
+-rw-r--r--@  1 dominikbalint  staff    34K Mar  3 17:54 Petra%20Markova%20633_140.png
+-rw-r--r--@  1 dominikbalint  staff   5.9K Mar  3 17:54 a
+-rw-r--r--@  1 dominikbalint  staff    42B Mar  3 17:54 adServer.gif
+-rw-r--r--@  1 dominikbalint  staff   3.1K Mar  3 17:54 all.js
+-rw-r--r--@  1 dominikbalint  staff   187K Mar  3 17:54 all_002.js
+-rw-r--r--@  1 dominikbalint  staff    18K Mar  3 17:54 apek.png
+-rw-r--r--@  1 dominikbalint  staff   674B Mar  3 17:54 api.js
+-rw-r--r--@  1 dominikbalint  staff   9.9K Mar  3 17:54 aspi.png
+-rw-r--r--@  1 dominikbalint  staff    49K Mar  3 17:54 b897188_1.jpg
+-rw-r--r--@  1 dominikbalint  staff    57K Mar  3 17:54 b923276_1.png
+-rw-r--r--@  1 dominikbalint  staff    49K Mar  3 17:54 b925302_1.jpg
+-rw-r--r--@  1 dominikbalint  staff    11K Mar  3 17:54 bbnaut-lib-2.js
+-rw-r--r--@  1 dominikbalint  staff   118K Mar  3 17:54 bootstrap.css
+-rw-r--r--@  1 dominikbalint  staff    36K Mar  3 17:54 bootstrap.js
+-rw-r--r--@  1 dominikbalint  staff    26K Mar  3 17:54 conversion_async.js
+-rw-r--r--@  1 dominikbalint  staff   3.1K Mar  3 17:54 css.css
+-rw-r--r--@  1 dominikbalint  staff    45K Mar  3 17:54 dc.js
+-rw-r--r--@  1 dominikbalint  staff   6.1K Mar  3 17:54 easySlider1.js
+-rw-r--r--@  1 dominikbalint  staff    20K Mar  3 17:54 epravo_logo2x.png
+-rw-r--r--@  1 dominikbalint  staff   126K Mar  3 17:54 fbevents.js
+-rw-r--r--@  1 dominikbalint  staff    30K Mar  3 17:54 font-awesome.css
+-rw-r--r--@  1 dominikbalint  staff    64K Mar  3 17:54 gmap3.js
+-rw-r--r--@  1 dominikbalint  staff   3.5K Mar  3 17:54 hotjar-807001.js
+-rw-r--r--@  1 dominikbalint  staff   5.1K Mar  3 17:54 imagePreview.jpg
+-rw-r--r--@  1 dominikbalint  staff   5.6K Mar  3 17:54 imagePreview_002.jpg
+-rw-r--r--@  1 dominikbalint  staff   5.0K Mar  3 17:54 imagePreview_003.jpg
+-rw-r--r--@  1 dominikbalint  staff   4.7K Mar  3 17:54 imagePreview_004.jpg
+-rw-r--r--@  1 dominikbalint  staff   4.7K Mar  3 17:54 imagePreview_005.jpg
+-rw-r--r--@  1 dominikbalint  staff   5.6K Mar  3 17:54 imagePreview_006.jpg
+-rw-r--r--@  1 dominikbalint  staff   4.8K Mar  3 17:54 imagePreview_007.jpg
+-rw-r--r--@  1 dominikbalint  staff   4.8K Mar  3 17:54 imagePreview_008.jpg
+-rw-r--r--@  1 dominikbalint  staff   5.1K Mar  3 17:54 imagePreview_009.jpg
+-rw-r--r--@  1 dominikbalint  staff   4.6K Mar  3 17:54 imagePreview_010.jpg
+-rw-r--r--@  1 dominikbalint  staff   4.9K Mar  3 17:54 imagePreview_011.jpg
+-rw-r--r--@  1 dominikbalint  staff   4.8K Mar  3 17:54 imagePreview_012.jpg
+-rw-r--r--@  1 dominikbalint  staff   5.2K Mar  3 17:54 imagePreview_013.jpg
+-rw-r--r--@  1 dominikbalint  staff   4.6K Mar  3 17:54 imagePreview_014.jpg
+-rw-r--r--@  1 dominikbalint  staff   4.8K Mar  3 17:54 imagePreview_015.jpg
+-rw-r--r--@  1 dominikbalint  staff   4.7K Mar  3 17:54 imagePreview_016.jpg
+-rw-r--r--@  1 dominikbalint  staff   4.7K Mar  3 17:54 imagePreview_017.jpg
+-rw-r--r--@  1 dominikbalint  staff   4.8K Mar  3 17:54 imagePreview_018.jpg
+-rw-r--r--@  1 dominikbalint  staff   5.1K Mar  3 17:54 imagePreview_019.jpg
+-rw-r--r--@  1 dominikbalint  staff   4.9K Mar  3 17:54 imagePreview_020.jpg
+-rw-r--r--@  1 dominikbalint  staff   181K Mar  3 17:54 in.js
+-rw-r--r--@  1 dominikbalint  staff   1.4K Mar  3 17:54 j.php
+-rw-r--r--@  1 dominikbalint  staff    84K Mar  3 17:54 jquery-2.js
+-rw-r--r--@  1 dominikbalint  staff    33K Mar  3 17:54 jquery-ui-1.css
+-rw-r--r--@  1 dominikbalint  staff   223K Mar  3 17:54 jquery-ui-1.js
+-rw-r--r--@  1 dominikbalint  staff   4.9K Mar  3 17:54 jquery.css
+-rw-r--r--@  1 dominikbalint  staff   7.6K Mar  3 17:54 jquery.js
+-rw-r--r--@  1 dominikbalint  staff   1.0K Mar  3 17:54 jquery_002.css
+-rw-r--r--@  1 dominikbalint  staff   8.5K Mar  3 17:54 jquery_002.js
+-rw-r--r--@  1 dominikbalint  staff    28K Mar  3 17:54 jquery_action.js
+-rw-r--r--@  1 dominikbalint  staff    74K Mar  3 17:54 js
+-rw-r--r--@  1 dominikbalint  staff   7.0K Mar  3 17:54 logo.PNG
+-rw-r--r--@  1 dominikbalint  staff   401K Mar  3 17:54 modules.js
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 print.css
+-rw-r--r--@  1 dominikbalint  staff   259K Mar  3 17:54 recaptcha__en.js
+-rw-r--r--@  1 dominikbalint  staff   6.9K Mar  3 17:54 register_modal.css
+-rw-r--r--@  1 dominikbalint  staff   670B Mar  3 17:54 retargeting.js
+-rw-r--r--@  1 dominikbalint  staff   206K Mar  3 17:54 skeleton.js
+-rw-r--r--@  1 dominikbalint  staff   206K Mar  3 17:54 skeleton_002.js
+-rw-r--r--@  1 dominikbalint  staff   3.1K Mar  3 17:54 slick-theme.css
+-rw-r--r--@  1 dominikbalint  staff   1.7K Mar  3 17:54 slick.css
+-rw-r--r--@  1 dominikbalint  staff    41K Mar  3 17:54 slick.js
+-rw-r--r--@  1 dominikbalint  staff   104K Mar  3 17:54 style.css
+-rw-r--r--@  1 dominikbalint  staff   120K Mar  3 17:54 sverensky-fond-a-velka-ocekavani-94144.html
+-rw-r--r--@  1 dominikbalint  staff    17K Mar  3 17:54 tmadvideo.js
+-rw-r--r--@  1 dominikbalint  staff    16K Mar  3 17:54 vimeo-player.js
+-rw-r--r--@  1 dominikbalint  staff    96K Mar  3 17:54 widgets.js
+-rw-r--r--@  1 dominikbalint  staff    33K Mar  3 17:54 xgemius.js
+
+./Zdroje2/files/12:
+total 2312
+drwx------@ 22 dominikbalint  staff   704B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff   2.3K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   105K Mar  3 17:54 adsbygoogle.js
+-rw-r--r--@  1 dominikbalint  staff   190K Mar  3 17:54 all.js
+-rw-r--r--@  1 dominikbalint  staff   3.1K Mar  3 17:54 all_002.js
+-rw-r--r--@  1 dominikbalint  staff    43K Mar  3 17:54 analytics.js
+-rw-r--r--@  1 dominikbalint  staff   1.4K Mar  3 17:54 btn_donate_SM.gif
+-rw-r--r--@  1 dominikbalint  staff    96K Mar  3 17:54 cbgapi.js
+-rw-r--r--@  1 dominikbalint  staff   139K Mar  3 17:54 cbgapi_002.js
+-rw-r--r--@  1 dominikbalint  staff   110B Mar  3 17:54 fr.png
+-rw-r--r--@  1 dominikbalint  staff   110B Mar  3 17:54 it.png
+-rw-r--r--@  1 dominikbalint  staff    94K Mar  3 17:54 jquery.js
+-rw-r--r--@  1 dominikbalint  staff    41K Mar  3 17:54 latin-english-dictionary.html
+-rw-r--r--@  1 dominikbalint  staff   524B Mar  3 17:54 logo-dictionary.gif
+-rw-r--r--@  1 dominikbalint  staff     2B Mar  3 17:54 main.js
+-rw-r--r--@  1 dominikbalint  staff   314K Mar  3 17:54 new_onetag.js
+-rw-r--r--@  1 dominikbalint  staff    16K Mar  3 17:54 online-latin-dictionary.css
+-rw-r--r--@  1 dominikbalint  staff    11K Mar  3 17:54 online-latin-dictionary.js
+-rw-r--r--@  1 dominikbalint  staff    43B Mar  3 17:54 pixel.gif
+-rw-r--r--@  1 dominikbalint  staff    48K Mar  3 17:54 plusone.js
+-rw-r--r--@  1 dominikbalint  staff   3.1K Mar  3 17:54 tag.js
+
+./Zdroje2/files/14:
+total 2312
+drwx------@ 22 dominikbalint  staff   704B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff   2.4K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   105K Mar  3 17:54 adsbygoogle.js
+-rw-r--r--@  1 dominikbalint  staff   190K Mar  3 17:54 all.js
+-rw-r--r--@  1 dominikbalint  staff   3.1K Mar  3 17:54 all_002.js
+-rw-r--r--@  1 dominikbalint  staff    43K Mar  3 17:54 analytics.js
+-rw-r--r--@  1 dominikbalint  staff   1.4K Mar  3 17:54 btn_donate_SM.gif
+-rw-r--r--@  1 dominikbalint  staff    96K Mar  3 17:54 cbgapi.js
+-rw-r--r--@  1 dominikbalint  staff   139K Mar  3 17:54 cbgapi_002.js
+-rw-r--r--@  1 dominikbalint  staff   110B Mar  3 17:54 fr.png
+-rw-r--r--@  1 dominikbalint  staff   110B Mar  3 17:54 it.png
+-rw-r--r--@  1 dominikbalint  staff    94K Mar  3 17:54 jquery.js
+-rw-r--r--@  1 dominikbalint  staff    42K Mar  3 17:54 latin-english-dictionary.html
+-rw-r--r--@  1 dominikbalint  staff   524B Mar  3 17:54 logo-dictionary.gif
+-rw-r--r--@  1 dominikbalint  staff     2B Mar  3 17:54 main.js
+-rw-r--r--@  1 dominikbalint  staff   314K Mar  3 17:54 new_onetag.js
+-rw-r--r--@  1 dominikbalint  staff    16K Mar  3 17:54 online-latin-dictionary.css
+-rw-r--r--@  1 dominikbalint  staff    11K Mar  3 17:54 online-latin-dictionary.js
+-rw-r--r--@  1 dominikbalint  staff    43B Mar  3 17:54 pixel.gif
+-rw-r--r--@  1 dominikbalint  staff    48K Mar  3 17:54 plusone.js
+-rw-r--r--@  1 dominikbalint  staff   3.1K Mar  3 17:54 tag.js
+
+./Zdroje2/files/17:
+total 3408
+drwx------@ 48 dominikbalint  staff   1.5K Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff    14K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   246K Mar  3 17:54 Family-Office.png
+-rw-r--r--@  1 dominikbalint  staff   2.2K Mar  3 17:54 a11y.js
+-rw-r--r--@  1 dominikbalint  staff    43K Mar  3 17:54 analytics.js
+-rw-r--r--@  1 dominikbalint  staff   8.0K Mar  3 17:54 autocomplete.js
+-rw-r--r--@  1 dominikbalint  staff   2.3K Mar  3 17:54 comment-reply.js
+-rw-r--r--@  1 dominikbalint  staff   3.8K Mar  3 17:54 core.js
+-rw-r--r--@  1 dominikbalint  staff   2.2K Mar  3 17:54 detectmobilebrowser.js
+-rw-r--r--@  1 dominikbalint  staff   1.1K Mar  3 17:54 dom-ready.js
+-rw-r--r--@  1 dominikbalint  staff   121K Mar  3 17:54 global-5989abf4a3.css
+-rw-r--r--@  1 dominikbalint  staff    60K Mar  3 17:54 gtm.js
+-rw-r--r--@  1 dominikbalint  staff   4.3K Mar  3 17:54 havel-partners-logo.png
+-rw-r--r--@  1 dominikbalint  staff   3.3K Mar  3 17:54 hotjar-1513745.js
+-rw-r--r--@  1 dominikbalint  staff   9.8K Mar  3 17:54 jquery-migrate.js
+-rw-r--r--@  1 dominikbalint  staff    59K Mar  3 17:54 jquery.js
+-rw-r--r--@  1 dominikbalint  staff   1.4K Mar  3 17:54 jquery_002.js
+-rw-r--r--@  1 dominikbalint  staff    20K Mar  3 17:54 jquery_003.js
+-rw-r--r--@  1 dominikbalint  staff   8.2K Mar  3 17:54 jquery_004.js
+-rw-r--r--@  1 dominikbalint  staff   4.9K Mar  3 17:54 jquery_005.js
+-rw-r--r--@  1 dominikbalint  staff    95K Mar  3 17:54 jquery_006.js
+-rw-r--r--@  1 dominikbalint  staff   7.6K Mar  3 17:54 jquery_007.js
+-rw-r--r--@  1 dominikbalint  staff   6.9K Mar  3 17:54 lazysizes.js
+-rw-r--r--@  1 dominikbalint  staff   260B Mar  3 17:54 linked-in.png
+-rw-r--r--@  1 dominikbalint  staff    31K Mar  3 17:54 live-form-validation.js
+-rw-r--r--@  1 dominikbalint  staff   6.8K Mar  3 17:54 magnific-popup.css
+-rw-r--r--@  1 dominikbalint  staff    42K Mar  3 17:54 main.js
+-rw-r--r--@  1 dominikbalint  staff   9.3K Mar  3 17:54 menu.js
+-rw-r--r--@  1 dominikbalint  staff   400K Mar  3 17:54 modules.js
+-rw-r--r--@  1 dominikbalint  staff    98K Mar  3 17:54 nejasnosti-ve-sverenskem-fondu-pro-pripad-smrti-doporucujeme-zridit-sverensky-fond-za-zivota.html
+-rw-r--r--@  1 dominikbalint  staff    15K Mar  3 17:54 nette.js
+-rw-r--r--@  1 dominikbalint  staff    10K Mar  3 17:54 plugins.js
+-rw-r--r--@  1 dominikbalint  staff   6.3K Mar  3 17:54 position.js
+-rw-r--r--@  1 dominikbalint  staff   1.8K Mar  3 17:54 search-white.png
+-rw-r--r--@  1 dominikbalint  staff   389B Mar  3 17:54 search.png
+-rw-r--r--@  1 dominikbalint  staff   2.4K Mar  3 17:54 slicknav.css
+-rw-r--r--@  1 dominikbalint  staff    40K Mar  3 17:54 style.css
+-rw-r--r--@  1 dominikbalint  staff    19K Mar  3 17:54 vdMultiSelect.js
+-rw-r--r--@  1 dominikbalint  staff   3.6K Mar  3 17:54 vd_script.js
+-rw-r--r--@  1 dominikbalint  staff   1.1K Mar  3 17:54 vd_style.css
+-rw-r--r--@  1 dominikbalint  staff   3.9K Mar  3 17:54 vdselect.js
+-rw-r--r--@  1 dominikbalint  staff    48K Mar  3 17:54 vdslider.js
+-rw-r--r--@  1 dominikbalint  staff    32K Mar  3 17:54 vdslider3.js
+-rw-r--r--@  1 dominikbalint  staff   6.7K Mar  3 17:54 widget.js
+-rw-r--r--@  1 dominikbalint  staff   1.4K Mar  3 17:54 wp-embed.js
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 wp-emoji-release.js
+-rw-r--r--@  1 dominikbalint  staff    97K Mar  3 17:54 wp-polyfill.js
+
+./Zdroje2/files/19:
+total 2952
+drwx------@ 24 dominikbalint  staff   768B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff    40K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   447K Mar  3 17:54 1586224604985593.js
+-rw-r--r--@  1 dominikbalint  staff    88K Mar  3 17:54 39_191-prakticke-aspekty-sverenskeho-fondu-ve-svetle-navrhu-urgentni-novely-obcanskeho-zakoniku.html
+-rw-r--r--@  1 dominikbalint  staff    43K Mar  3 17:54 analytics.js
+-rw-r--r--@  1 dominikbalint  staff   254K Mar  3 17:54 app.js
+-rw-r--r--@  1 dominikbalint  staff   7.1K Mar  3 17:54 css.css
+-rw-r--r--@  1 dominikbalint  staff    37K Mar  3 17:54 czechpoint.png
+-rw-r--r--@  1 dominikbalint  staff   126K Mar  3 17:54 fbevents.js
+-rw-r--r--@  1 dominikbalint  staff    59K Mar  3 17:54 gtm.js
+-rw-r--r--@  1 dominikbalint  staff   694B Mar  3 17:54 ico-facebook.svg
+-rw-r--r--@  1 dominikbalint  staff   4.4K Mar  3 17:54 logo-ce.png
+-rw-r--r--@  1 dominikbalint  staff   9.1K Mar  3 17:54 logo-de.png
+-rw-r--r--@  1 dominikbalint  staff   2.9K Mar  3 17:54 logo-enn.png
+-rw-r--r--@  1 dominikbalint  staff   7.5K Mar  3 17:54 logo-esn.png
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 logo-iun.png
+-rw-r--r--@  1 dominikbalint  staff   8.8K Mar  3 17:54 logo-ne.png
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 logo-nkcr-big.png
+-rw-r--r--@  1 dominikbalint  staff   7.2K Mar  3 17:54 logo-nkcr.png
+-rw-r--r--@  1 dominikbalint  staff    76K Mar  3 17:54 main.css
+-rw-r--r--@  1 dominikbalint  staff    64K Mar  3 17:54 notarskyrad.png
+-rw-r--r--@  1 dominikbalint  staff    69K Mar  3 17:54 obcanskopravni.png
+-rw-r--r--@  1 dominikbalint  staff    56K Mar  3 17:54 spolecnosti.png
+
+./Zdroje2/files/21:
+total 2096
+drwx------@ 27 dominikbalint  staff   864B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff   4.6K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   2.8K Mar  3 17:54 BrowserUpdateWarning.css
+-rw-r--r--@  1 dominikbalint  staff   5.9K Mar  3 17:54 BrowserUpdateWarning.js
+-rw-r--r--@  1 dominikbalint  staff   4.5K Mar  3 17:54 autocomplete.js
+-rw-r--r--@  1 dominikbalint  staff   5.3K Mar  3 17:54 bgColorScroll.js
+-rw-r--r--@  1 dominikbalint  staff   187K Mar  3 17:54 bootstrap.css
+-rw-r--r--@  1 dominikbalint  staff    23K Mar  3 17:54 content-views.html
+-rw-r--r--@  1 dominikbalint  staff   4.0K Mar  3 17:54 core.js
+-rw-r--r--@  1 dominikbalint  staff   1.7K Mar  3 17:54 custom.css
+-rw-r--r--@  1 dominikbalint  staff   2.0K Mar  3 17:54 infolinka-01.png
+-rw-r--r--@  1 dominikbalint  staff   7.0K Mar  3 17:54 jquery-migrate.js
+-rw-r--r--@  1 dominikbalint  staff    21B Mar  3 17:54 jquery-noconflict.js
+-rw-r--r--@  1 dominikbalint  staff    94K Mar  3 17:54 jquery.js
+-rw-r--r--@  1 dominikbalint  staff   2.2K Mar  3 17:54 logo-KS-color02.png
+-rw-r--r--@  1 dominikbalint  staff   2.3K Mar  3 17:54 logo-grey-small.png
+-rw-r--r--@  1 dominikbalint  staff    82K Mar  3 17:54 mootools-core.js
+-rw-r--r--@  1 dominikbalint  staff   231K Mar  3 17:54 mootools-more.js
+-rw-r--r--@  1 dominikbalint  staff    36K Mar  3 17:54 muz-letadlo.jpg
+-rw-r--r--@  1 dominikbalint  staff   2.8K Mar  3 17:54 search.js
+-rw-r--r--@  1 dominikbalint  staff   1.5K Mar  3 17:54 social.js
+-rw-r--r--@  1 dominikbalint  staff   166K Mar  3 17:54 theme.css
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 theme.js
+-rw-r--r--@  1 dominikbalint  staff    45K Mar  3 17:54 uikit.js
+-rw-r--r--@  1 dominikbalint  staff    28K Mar  3 17:54 widgetkit-3c2f609e.js
+-rw-r--r--@  1 dominikbalint  staff    54K Mar  3 17:54 widgetkit-f79bf735.css
+
+./Zdroje2/files/23:
+total 2112
+drwx------@ 34 dominikbalint  staff   1.1K Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff   3.4K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff    36K Mar  3 17:54 all.css
+-rw-r--r--@  1 dominikbalint  staff    43K Mar  3 17:54 analytics.js
+-rw-r--r--@  1 dominikbalint  staff    20K Mar  3 17:54 css_DeVWOKhHoYD7d-xZQP2nebCU6C1UTFX2aEB_pEDmwBA.css
+-rw-r--r--@  1 dominikbalint  staff   189K Mar  3 17:54 css_QfFgGcP6bhBEGdU23YvwtsAMpUu7KBm2Xj9TimJ5XGg.css
+-rw-r--r--@  1 dominikbalint  staff   2.9K Mar  3 17:54 css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css
+-rw-r--r--@  1 dominikbalint  staff    15K Mar  3 17:54 css_omHwmeHrN5KawdpsV4PLI18KeTOaCPrjWrngHmCyVAg.css
+-rw-r--r--@  1 dominikbalint  staff   7.9K Mar  3 17:54 css_qBv023sLwmBbBuRSgoAy-nV_5tGZQ_qKxdXK0K0xifA.css
+-rw-r--r--@  1 dominikbalint  staff   126K Mar  3 17:54 fbevents.js
+-rw-r--r--@  1 dominikbalint  staff   2.0K Mar  3 17:54 individualna_uprava_dedictvi_02_1.png
+-rw-r--r--@  1 dominikbalint  staff    46K Mar  3 17:54 individualni-uprava-dedictvi.html
+-rw-r--r--@  1 dominikbalint  staff    38K Mar  3 17:54 js_0PAqfHQ-dHaXMNehBkv09TXbjdvxS7TI6ZS7hx4nwZA.js
+-rw-r--r--@  1 dominikbalint  staff   9.7K Mar  3 17:54 js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js
+-rw-r--r--@  1 dominikbalint  staff    67K Mar  3 17:54 js_QQzYEYFGUH1EHiFg-77MxWpfJma4wJjnD0OwBhOlq1E.js
+-rw-r--r--@  1 dominikbalint  staff   984B Mar  3 17:54 js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js
+-rw-r--r--@  1 dominikbalint  staff    72K Mar  3 17:54 js_SeaOPT_dr9Y0_05yl7o2AWbmPbUz3HQWtxSXHg2bgJ8.js
+-rw-r--r--@  1 dominikbalint  staff   112K Mar  3 17:54 js_uGF27q8E_lGP0jRIB0K5xN6ATypG6r0TrtkJevJwqAI.js
+-rw-r--r--@  1 dominikbalint  staff   114K Mar  3 17:54 js_x0MhBQfHNAIO1NwkQgzf_TGN4b8eMmKre3nqUfoQv3w.js
+-rw-r--r--@  1 dominikbalint  staff    18K Mar  3 17:54 js_yDuIrf_OzLmmoR3Ct0XZHQr4DNZNvil5KQwH5up8u8Q.js
+-rw-r--r--@  1 dominikbalint  staff    48K Mar  3 17:54 logo.svg
+-rw-r--r--@  1 dominikbalint  staff   3.2K Mar  3 17:54 logo_0.png
+-rw-r--r--@  1 dominikbalint  staff   3.1K Mar  3 17:54 logo_atc_.jpg
+-rw-r--r--@  1 dominikbalint  staff   3.0K Mar  3 17:54 nexia_ap_rgb_gradient_0.png
+-rw-r--r--@  1 dominikbalint  staff   2.7K Mar  3 17:54 obmysleny.png
+-rw-r--r--@  1 dominikbalint  staff   3.2K Mar  3 17:54 oh_cz_0.jpg
+-rw-r--r--@  1 dominikbalint  staff   2.2K Mar  3 17:54 poskytnuti-profesionalniho-sverenskeho-spravce.png
+-rw-r--r--@  1 dominikbalint  staff   4.5K Mar  3 17:54 respond.js
+-rw-r--r--@  1 dominikbalint  staff   2.0K Mar  3 17:54 rz-audina-logo__1.png
+-rw-r--r--@  1 dominikbalint  staff   2.9K Mar  3 17:54 skalicka_logo02.png
+-rw-r--r--@  1 dominikbalint  staff   2.1K Mar  3 17:54 sol_logo_0.png
+-rw-r--r--@  1 dominikbalint  staff    44B Mar  3 17:54 tr.gif
+-rw-r--r--@  1 dominikbalint  staff   2.5K Mar  3 17:54 vznik-sverenskeho-fondu.png
+
+./Zdroje2/files/26:
+total 6424
+drwx------@ 72 dominikbalint  staff   2.3K Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff    10K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   3.5K Mar  3 17:54 160530zidle.jpg
+-rw-r--r--@  1 dominikbalint  staff   2.9K Mar  3 17:54 170710europarfemy.jpg
+-rw-r--r--@  1 dominikbalint  staff   4.2K Mar  3 17:54 180131ceske-souteze-logo-mini.jpg
+-rw-r--r--@  1 dominikbalint  staff   4.9K Mar  3 17:54 180201Bobule50.jpg
+-rw-r--r--@  1 dominikbalint  staff   3.4K Mar  3 17:54 180425Pravopisne.jpg
+-rw-r--r--@  1 dominikbalint  staff   2.6K Mar  3 17:54 190116Bottega_Knot_tip.jpg
+-rw-r--r--@  1 dominikbalint  staff    13K Mar  3 17:54 191029Ultramat-Turbo_Box.jpg
+-rw-r--r--@  1 dominikbalint  staff   126K Mar  3 17:54 36449791.jpg
+-rw-r--r--@  1 dominikbalint  staff    85K Mar  3 17:54 Standard.js
+-rw-r--r--@  1 dominikbalint  staff   1.1K Mar  3 17:54 a
+-rw-r--r--@  1 dominikbalint  staff   4.0K Mar  3 17:54 a.js
+-rw-r--r--@  1 dominikbalint  staff    19K Mar  3 17:54 a_002.js
+-rw-r--r--@  1 dominikbalint  staff   105K Mar  3 17:54 adsbygoogle.js
+-rw-r--r--@  1 dominikbalint  staff   3.0K Mar  3 17:54 ag.js
+-rw-r--r--@  1 dominikbalint  staff   2.5K Mar  3 17:54 ajs.js
+-rw-r--r--@  1 dominikbalint  staff   1.0K Mar  3 17:54 ajs_002.js
+-rw-r--r--@  1 dominikbalint  staff   1.0K Mar  3 17:54 ajs_003.js
+-rw-r--r--@  1 dominikbalint  staff   166K Mar  3 17:54 async-ads.js
+-rw-r--r--@  1 dominikbalint  staff    11K Mar  3 17:54 bbnaut-lib-2.js
+-rw-r--r--@  1 dominikbalint  staff    31K Mar  3 17:54 bootstrap.js
+-rw-r--r--@  1 dominikbalint  staff    91K Mar  3 17:54 clanek-16528-sverensky-fond-dedictvi-je-mnohem-jednodussi.html
+-rw-r--r--@  1 dominikbalint  staff    74B Mar  3 17:54 co.js
+-rw-r--r--@  1 dominikbalint  staff   2.2K Mar  3 17:54 colorbox.css
+-rw-r--r--@  1 dominikbalint  staff   4.5K Mar  3 17:54 cookieconsent.js
+-rw-r--r--@  1 dominikbalint  staff   257K Mar  3 17:54 cse_element__cs.js
+-rw-r--r--@  1 dominikbalint  staff   366K Mar  3 17:54 dc96aefd2c9a4ccd5a7a4438470a6752.jpg
+-rw-r--r--@  1 dominikbalint  staff    11K Mar  3 17:54 default.css
+-rw-r--r--@  1 dominikbalint  staff    40K Mar  3 17:54 defaultcs.css
+-rw-r--r--@  1 dominikbalint  staff   373B Mar  3 17:54 domecek.png
+-rw-r--r--@  1 dominikbalint  staff    22K Mar  3 17:54 dot-small.js
+-rw-r--r--@  1 dominikbalint  staff    42B Mar  3 17:54 dot.gif
+-rw-r--r--@  1 dominikbalint  staff   4.1K Mar  3 17:54 en.png
+-rw-r--r--@  1 dominikbalint  staff   2.6K Mar  3 17:54 fb.js
+-rw-r--r--@  1 dominikbalint  staff   6.2K Mar  3 17:54 fl.js
+-rw-r--r--@  1 dominikbalint  staff    45K Mar  3 17:54 ga.js
+-rw-r--r--@  1 dominikbalint  staff   943B Mar  3 17:54 initidmatch.js
+-rw-r--r--@  1 dominikbalint  staff   267K Mar  3 17:54 jquery-1.js
+-rw-r--r--@  1 dominikbalint  staff    34K Mar  3 17:54 jquery-ui.css
+-rw-r--r--@  1 dominikbalint  staff   460K Mar  3 17:54 jquery-ui.js
+-rw-r--r--@  1 dominikbalint  staff    21K Mar  3 17:54 jquery.js
+-rw-r--r--@  1 dominikbalint  staff    20K Mar  3 17:54 jquery_002.js
+-rw-r--r--@  1 dominikbalint  staff   3.9K Mar  3 17:54 jquery_003.js
+-rw-r--r--@  1 dominikbalint  staff    25K Mar  3 17:54 jquery_004.js
+-rw-r--r--@  1 dominikbalint  staff    84K Mar  3 17:54 jquery_005.js
+-rw-r--r--@  1 dominikbalint  staff    43B Mar  3 17:54 lg.gif
+-rw-r--r--@  1 dominikbalint  staff    43B Mar  3 17:54 lg_002.gif
+-rw-r--r--@  1 dominikbalint  staff    43B Mar  3 17:54 lg_003.gif
+-rw-r--r--@  1 dominikbalint  staff   6.7K Mar  3 17:54 list_3365b05bf19cf87b3943e54396e40816.png
+-rw-r--r--@  1 dominikbalint  staff    19K Mar  3 17:54 list_36317277edac279668ac20f60715fe91.jpg
+-rw-r--r--@  1 dominikbalint  staff    19K Mar  3 17:54 list_3f021f8b4774d44c83c390c486100250.jpg
+-rw-r--r--@  1 dominikbalint  staff    16K Mar  3 17:54 list_4f49b4c60cdcc5e94fae9aa0cb3e04ae.jpg
+-rw-r--r--@  1 dominikbalint  staff    24K Mar  3 17:54 list_5e9750940735ead17a441e3226a61266.jpg
+-rw-r--r--@  1 dominikbalint  staff    17K Mar  3 17:54 list_631889794a55162abfce519a46ccc4e8.jpg
+-rw-r--r--@  1 dominikbalint  staff    33K Mar  3 17:54 list_6b5b6c86ba63dbac9e191661007f244d.png
+-rw-r--r--@  1 dominikbalint  staff    23K Mar  3 17:54 list_ee677c3923f9daf9021841f21c7b22f9.jpg
+-rw-r--r--@  1 dominikbalint  staff    29K Mar  3 17:54 list_ef5f919ba8c93dab5dc41946f55c2de2.jpg
+-rw-r--r--@  1 dominikbalint  staff    12K Mar  3 17:54 list_f54ee7b1b8fb1e0309f7a7f63d1fb6da.jpg
+-rw-r--r--@  1 dominikbalint  staff    12K Mar  3 17:54 list_f8f733b82f2d333fdf5dffc118a0dd46.jpg
+-rw-r--r--@  1 dominikbalint  staff   1.1K Mar  3 17:54 messages_cs.js
+-rw-r--r--@  1 dominikbalint  staff   4.7K Mar  3 17:54 scripts.js
+-rw-r--r--@  1 dominikbalint  staff   3.1K Mar  3 17:54 sdk.js
+-rw-r--r--@  1 dominikbalint  staff   197K Mar  3 17:54 sdk_002.js
+-rw-r--r--@  1 dominikbalint  staff    13K Mar  3 17:54 spc.js
+-rw-r--r--@  1 dominikbalint  staff   2.2K Mar  3 17:54 spcjs.js
+-rw-r--r--@  1 dominikbalint  staff   138K Mar  3 17:54 ssp.js
+-rw-r--r--@  1 dominikbalint  staff    46K Mar  3 17:54 styles.css
+-rw-r--r--@  1 dominikbalint  staff   1.7K Mar  3 17:54 sznrecommend-measure.js
+-rw-r--r--@  1 dominikbalint  staff    31K Mar  3 17:54 sznrecommend.js
+-rw-r--r--@  1 dominikbalint  staff    33K Mar  3 17:54 xgemius.js
+
+./Zdroje2/files/27:
+total 1632
+drwx------@  3 dominikbalint  staff    96B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-r--r--@  1 dominikbalint  staff   813K Mar  3 17:54 Jurčík - Svěřenský fond mortis causa.pdf
+
+./Zdroje2/files/29:
+total 9832
+drwx------@ 85 dominikbalint  staff   2.7K Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff   5.3K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   8.5K Mar  3 17:54 1565940480917_01c7.png
+-rw-r--r--@  1 dominikbalint  staff    79K Mar  3 17:54 Anag_banner_5756_pravi_prostor_300x300px.png
+-rw-r--r--@  1 dominikbalint  staff   104K Mar  3 17:54 BSN_logo_upravene.png
+-rw-r--r--@  1 dominikbalint  staff    68K Mar  3 17:54 CP-2.png
+-rw-r--r--@  1 dominikbalint  staff    26K Mar  3 17:54 Frantisek-Weyr-a-moderni-teorie-prava_Havranek.png
+-rw-r--r--@  1 dominikbalint  staff    23K Mar  3 17:54 Konen-zacha-2.png
+-rw-r--r--@  1 dominikbalint  staff   3.2K Mar  3 17:54 L.js
+-rw-r--r--@  1 dominikbalint  staff   188K Mar  3 17:54 LAWYERS.png
+-rw-r--r--@  1 dominikbalint  staff    34K Mar  3 17:54 Matzner_logo_upravene.png
+-rw-r--r--@  1 dominikbalint  staff   5.6K Mar  3 17:54 Nazor-paty.png
+-rw-r--r--@  1 dominikbalint  staff   5.7K Mar  3 17:54 Nazor-sesty_Findejs.png
+-rw-r--r--@  1 dominikbalint  staff    11K Mar  3 17:54 Zajisteni-majetkuobchodni-podil.png
+-rw-r--r--@  1 dominikbalint  staff    40K Mar  3 17:54 accace-nov-2.jpg
+-rw-r--r--@  1 dominikbalint  staff    71K Mar  3 17:54 advokati-pisek_logo_upravene.png
+-rw-r--r--@  1 dominikbalint  staff    43K Mar  3 17:54 analytics.js
+-rw-r--r--@  1 dominikbalint  staff    44K Mar  3 17:54 animaleye_logo_upravene.png
+-rw-r--r--@  1 dominikbalint  staff    28K Mar  3 17:54 asociaceverejnychzakazek_upravene.png
+-rw-r--r--@  1 dominikbalint  staff   1.5M Mar  3 17:54 banner-HOZ_300x300_PP.png
+-rw-r--r--@  1 dominikbalint  staff    11K Mar  3 17:54 banner_vtip_300x300_8.png
+-rw-r--r--@  1 dominikbalint  staff   949B Mar  3 17:54 bootstrap-stars.css
+-rw-r--r--@  1 dominikbalint  staff   2.3K Mar  3 17:54 bootstrap-toolkit.js
+-rw-r--r--@  1 dominikbalint  staff    36K Mar  3 17:54 bootstrap.js
+-rw-r--r--@  1 dominikbalint  staff    64K Mar  3 17:54 bova_logo_upravene.png
+-rw-r--r--@  1 dominikbalint  staff    23K Mar  3 17:54 css.css
+-rw-r--r--@  1 dominikbalint  staff    11K Mar  3 17:54 dedistvi375.png
+-rw-r--r--@  1 dominikbalint  staff    37K Mar  3 17:54 echo24_loga_upravene.png
+-rw-r--r--@  1 dominikbalint  staff    48K Mar  3 17:54 echo_loga_upravene.png
+-rw-r--r--@  1 dominikbalint  staff    25K Mar  3 17:54 etina-komendov_upravene.png
+-rw-r--r--@  1 dominikbalint  staff    37K Mar  3 17:54 fabianpartners_logo_upravene.png
+-rw-r--r--@  1 dominikbalint  staff   827B Mar  3 17:54 fb.png
+-rw-r--r--@  1 dominikbalint  staff    68K Mar  3 17:54 forum24_banner_300x300px.jpg
+-rw-r--r--@  1 dominikbalint  staff    19K Mar  3 17:54 forum24_loga_upravene.png
+-rw-r--r--@  1 dominikbalint  staff    77K Mar  3 17:54 frankbold_logo_upravene.png
+-rw-r--r--@  1 dominikbalint  staff    64K Mar  3 17:54 ghs_legal_logo_upravene.png
+-rw-r--r--@  1 dominikbalint  staff    20K Mar  3 17:54 grada_logo_upravene.png
+-rw-r--r--@  1 dominikbalint  staff    60K Mar  3 17:54 gtm.js
+-rw-r--r--@  1 dominikbalint  staff   820B Mar  3 17:54 in.png
+-rw-r--r--@  1 dominikbalint  staff   3.5K Mar  3 17:54 insight.js
+-rw-r--r--@  1 dominikbalint  staff    34K Mar  3 17:54 intro.js
+-rw-r--r--@  1 dominikbalint  staff    21K Mar  3 17:54 introdata.js
+-rw-r--r--@  1 dominikbalint  staff   7.1K Mar  3 17:54 introjs.css
+-rw-r--r--@  1 dominikbalint  staff    87K Mar  3 17:54 ivs_logo_upravene.png
+-rw-r--r--@  1 dominikbalint  staff   9.8K Mar  3 17:54 jquery-migrate-1.js
+-rw-r--r--@  1 dominikbalint  staff    95K Mar  3 17:54 jquery.js
+-rw-r--r--@  1 dominikbalint  staff    21K Mar  3 17:54 jquery_002.js
+-rw-r--r--@  1 dominikbalint  staff    25K Mar  3 17:54 jquery_003.js
+-rw-r--r--@  1 dominikbalint  staff    16K Mar  3 17:54 jquery_004.js
+-rw-r--r--@  1 dominikbalint  staff   3.4K Mar  3 17:54 jquery_005.js
+-rw-r--r--@  1 dominikbalint  staff   5.7K Mar  3 17:54 jquery_006.js
+-rw-r--r--@  1 dominikbalint  staff   6.0K Mar  3 17:54 jquery_007.js
+-rw-r--r--@  1 dominikbalint  staff    22K Mar  3 17:54 jquery_008.js
+-rw-r--r--@  1 dominikbalint  staff   7.8K Mar  3 17:54 jquery_009.js
+-rw-r--r--@  1 dominikbalint  staff    58K Mar  3 17:54 kcu_logo_upravene.png
+-rw-r--r--@  1 dominikbalint  staff   8.2K Mar  3 17:54 lemmon-slider.js
+-rw-r--r--@  1 dominikbalint  staff   3.4K Mar  3 17:54 logo-dark.png
+-rw-r--r--@  1 dominikbalint  staff   2.3K Mar  3 17:54 logo-mini.png
+-rw-r--r--@  1 dominikbalint  staff   7.9K Mar  3 17:54 logo.svg
+-rw-r--r--@  1 dominikbalint  staff   211K Mar  3 17:54 main.css
+-rw-r--r--@  1 dominikbalint  staff    20K Mar  3 17:54 main.js
+-rw-r--r--@  1 dominikbalint  staff    76K Mar  3 17:54 mup_logo_upravene.png
+-rw-r--r--@  1 dominikbalint  staff    69K Mar  3 17:54 nepominutelny-dedic.html
+-rw-r--r--@  1 dominikbalint  staff    67K Mar  3 17:54 nevrkla_logo_upravene.png
+-rw-r--r--@  1 dominikbalint  staff    41K Mar  3 17:54 plavec_logo_upravene.png
+-rw-r--r--@  1 dominikbalint  staff    15K Mar  3 17:54 pravniprostor1.png
+-rw-r--r--@  1 dominikbalint  staff    11K Mar  3 17:54 pravniprostor2.png
+-rw-r--r--@  1 dominikbalint  staff   1.1K Mar  3 17:54 print-preview.css
+-rw-r--r--@  1 dominikbalint  staff   4.4K Mar  3 17:54 print.css
+-rw-r--r--@  1 dominikbalint  staff    34K Mar  3 17:54 randl_partners_logo_upravene.png
+-rw-r--r--@  1 dominikbalint  staff    52K Mar  3 17:54 ritland--partners.png
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 rss.png
+-rw-r--r--@  1 dominikbalint  staff   197K Mar  3 17:54 sdk.js
+-rw-r--r--@  1 dominikbalint  staff   3.1K Mar  3 17:54 sdk_002.js
+-rw-r--r--@  1 dominikbalint  staff    30K Mar  3 17:54 sedlakova_logo_upravene.png
+-rw-r--r--@  1 dominikbalint  staff    63K Mar  3 17:54 smscr_logo_upravene.png
+-rw-r--r--@  1 dominikbalint  staff    76K Mar  3 17:54 spdcr_logo_upravene.png
+-rw-r--r--@  1 dominikbalint  staff    40K Mar  3 17:54 taubellegal_logo_upravene.png
+-rw-r--r--@  1 dominikbalint  staff   254K Mar  3 17:54 tinymce.js
+-rw-r--r--@  1 dominikbalint  staff   931B Mar  3 17:54 tw.png
+-rw-r--r--@  1 dominikbalint  staff    29K Mar  3 17:54 ucetni_portal_upravene.png
+-rw-r--r--@  1 dominikbalint  staff    36K Mar  3 17:54 vz24_logo_upravene.png
+-rw-r--r--@  1 dominikbalint  staff    49K Mar  3 17:54 widget.js
+-rw-r--r--@  1 dominikbalint  staff    19K Mar  3 17:54 zue1ucd.js
+
+./Zdroje2/files/31:
+total 944
+drwx------@  4 dominikbalint  staff   128B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff   232K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   237K Mar  3 17:54 Institut_nepominutelneho_dedice_doplneny_o_pohled_notarske_praxe_21._stoleti.html
+
+./Zdroje2/files/33:
+total 952
+drwx------@ 27 dominikbalint  staff   864B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff    14K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   4.6K Mar  3 17:54 ajax.js
+-rw-r--r--@  1 dominikbalint  staff   1.1K Mar  3 17:54 ankety.js
+-rw-r--r--@  1 dominikbalint  staff    47K Mar  3 17:54 boxes.css
+-rw-r--r--@  1 dominikbalint  staff   172K Mar  3 17:54 dedictvi-.html
+-rw-r--r--@  1 dominikbalint  staff   894B Mar  3 17:54 ebrana.gif
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 elements.js
+-rw-r--r--@  1 dominikbalint  staff   7.2K Mar  3 17:54 format.css
+-rw-r--r--@  1 dominikbalint  staff   2.8K Mar  3 17:54 ga-set.js
+-rw-r--r--@  1 dominikbalint  staff   1.5K Mar  3 17:54 globals.html
+-rw-r--r--@  1 dominikbalint  staff   6.0K Mar  3 17:54 hover.js
+-rw-r--r--@  1 dominikbalint  staff    30K Mar  3 17:54 jquery-latest.js
+-rw-r--r--@  1 dominikbalint  staff    20K Mar  3 17:54 jquery-ui-1.js
+-rw-r--r--@  1 dominikbalint  staff    31K Mar  3 17:54 jquery.js
+-rw-r--r--@  1 dominikbalint  staff    11K Mar  3 17:54 jquery_002.js
+-rw-r--r--@  1 dominikbalint  staff   9.0K Mar  3 17:54 logo.gif
+-rw-r--r--@  1 dominikbalint  staff   8.5K Mar  3 17:54 main.js
+-rw-r--r--@  1 dominikbalint  staff   5.1K Mar  3 17:54 print_css.css
+-rw-r--r--@  1 dominikbalint  staff   1.0K Mar  3 17:54 rb.gif
+-rw-r--r--@  1 dominikbalint  staff   3.2K Mar  3 17:54 realityass.js
+-rw-r--r--@  1 dominikbalint  staff   1.0K Mar  3 17:54 schranka.js
+-rw-r--r--@  1 dominikbalint  staff   9.5K Mar  3 17:54 swfobject_2.js
+-rw-r--r--@  1 dominikbalint  staff   3.3K Mar  3 17:54 thickbox.css
+-rw-r--r--@  1 dominikbalint  staff    13K Mar  3 17:54 thickbox.js
+-rw-r--r--@  1 dominikbalint  staff   5.7K Mar  3 17:54 watchdog.js
+
+./Zdroje2/files/35:
+total 3832
+drwx------@ 33 dominikbalint  staff   1.0K Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff    13K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   100K Mar  3 17:54 343942186057729.js
+-rw-r--r--@  1 dominikbalint  staff    80K Mar  3 17:54 Cover%20-%20ebook_1.jpg
+-rw-r--r--@  1 dominikbalint  staff    43K Mar  3 17:54 analytics.js
+-rw-r--r--@  1 dominikbalint  staff    97K Mar  3 17:54 app.php
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 bigmenu-contact.jpg
+-rw-r--r--@  1 dominikbalint  staff    30K Mar  3 17:54 book-model.png
+-rw-r--r--@  1 dominikbalint  staff   693B Mar  3 17:54 close.svg
+-rw-r--r--@  1 dominikbalint  staff   4.6K Mar  3 17:54 css.css
+-rw-r--r--@  1 dominikbalint  staff   549B Mar  3 17:54 custom.css
+-rw-r--r--@  1 dominikbalint  staff   126K Mar  3 17:54 fbevents.js
+-rw-r--r--@  1 dominikbalint  staff    72K Mar  3 17:54 gtm.js
+-rw-r--r--@  1 dominikbalint  staff   3.5K Mar  3 17:54 hotjar-1325240.js
+-rw-r--r--@  1 dominikbalint  staff   109K Mar  3 17:54 icon-search.html
+-rw-r--r--@  1 dominikbalint  staff   1.6K Mar  3 17:54 icons8-facebook-3.svg
+-rw-r--r--@  1 dominikbalint  staff   2.8K Mar  3 17:54 icons8-linkedin.svg
+-rw-r--r--@  1 dominikbalint  staff   2.2K Mar  3 17:54 icons8-phone.svg
+-rw-r--r--@  1 dominikbalint  staff   1.5K Mar  3 17:54 icons8-play-button.svg
+-rw-r--r--@  1 dominikbalint  staff   1.6K Mar  3 17:54 icons8-xbox-menu.svg
+-rw-r--r--@  1 dominikbalint  staff    85K Mar  3 17:54 jquery-3.js
+-rw-r--r--@  1 dominikbalint  staff    19K Mar  3 17:54 logo-symbol.svg
+-rw-r--r--@  1 dominikbalint  staff   2.2K Mar  3 17:54 main.css
+-rw-r--r--@  1 dominikbalint  staff   1.1K Mar  3 17:54 main.js
+-rw-r--r--@  1 dominikbalint  staff   400K Mar  3 17:54 modules.js
+-rw-r--r--@  1 dominikbalint  staff   117K Mar  3 17:54 nepominutelny-dedic.html
+-rw-r--r--@  1 dominikbalint  staff   7.6K Mar  3 17:54 normalize.css
+-rw-r--r--@  1 dominikbalint  staff   142K Mar  3 17:54 sverenska.css
+-rw-r--r--@  1 dominikbalint  staff    34K Mar  3 17:54 sverenska_sprava-logo-fc-b.svg
+-rw-r--r--@  1 dominikbalint  staff    38K Mar  3 17:54 webflow.css
+-rw-r--r--@  1 dominikbalint  staff   278K Mar  3 17:54 webflow.js
+-rw-r--r--@  1 dominikbalint  staff    17K Mar  3 17:54 webfont.js
+
+./Zdroje2/files/37:
+total 752
+drwx------@ 14 dominikbalint  staff   448B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff    13K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff    44K Mar  3 17:54 Fideicommissum.html
+-rw-r--r--@  1 dominikbalint  staff    43K Mar  3 17:54 analytics.js
+-rw-r--r--@  1 dominikbalint  staff   6.7K Mar  3 17:54 hamb.png
+-rw-r--r--@  1 dominikbalint  staff   1.3K Mar  3 17:54 load.css
+-rw-r--r--@  1 dominikbalint  staff   172K Mar  3 17:54 load.js
+-rw-r--r--@  1 dominikbalint  staff    35K Mar  3 17:54 load_002.css
+-rw-r--r--@  1 dominikbalint  staff    25K Mar  3 17:54 load_002.js
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 pen.png
+-rw-r--r--@  1 dominikbalint  staff   3.4K Mar  3 17:54 poweredby_mediawiki_88x31.png
+-rw-r--r--@  1 dominikbalint  staff   570B Mar  3 17:54 search-ltr.png
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 user.png
+
+./Zdroje2/files/39:
+total 752
+drwx------@ 14 dominikbalint  staff   448B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff    13K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff    44K Mar  3 17:54 Fideicommissum.html
+-rw-r--r--@  1 dominikbalint  staff    43K Mar  3 17:54 analytics.js
+-rw-r--r--@  1 dominikbalint  staff   6.7K Mar  3 17:54 hamb.png
+-rw-r--r--@  1 dominikbalint  staff    35K Mar  3 17:54 load.css
+-rw-r--r--@  1 dominikbalint  staff   172K Mar  3 17:54 load.js
+-rw-r--r--@  1 dominikbalint  staff   1.3K Mar  3 17:54 load_002.css
+-rw-r--r--@  1 dominikbalint  staff    25K Mar  3 17:54 load_002.js
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 pen.png
+-rw-r--r--@  1 dominikbalint  staff   3.4K Mar  3 17:54 poweredby_mediawiki_88x31.png
+-rw-r--r--@  1 dominikbalint  staff   570B Mar  3 17:54 search-ltr.png
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 user.png
+
+./Zdroje2/files/4:
+total 12128
+drwx------@ 33 dominikbalint  staff   1.0K Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff   539K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   4.3M Mar  3 17:54 2.html
+-rw-r--r--@  1 dominikbalint  staff    43K Mar  3 17:54 analytics.js
+-rw-r--r--@  1 dominikbalint  staff   2.0K Mar  3 17:54 bootstrap-wysihtml5.css
+-rw-r--r--@  1 dominikbalint  staff   806B Mar  3 17:54 bootstrap-wysihtml5.js
+-rw-r--r--@  1 dominikbalint  staff    95K Mar  3 17:54 bootstrap.css
+-rw-r--r--@  1 dominikbalint  staff    27K Mar  3 17:54 bootstrap.js
+-rw-r--r--@  1 dominikbalint  staff    13K Mar  3 17:54 bootstrap3-wysihtml5.js
+-rw-r--r--@  1 dominikbalint  staff   3.8K Mar  3 17:54 cookieconsent.css
+-rw-r--r--@  1 dominikbalint  staff    19K Mar  3 17:54 cookieconsent.js
+-rw-r--r--@  1 dominikbalint  staff    47K Mar  3 17:54 corpStyle.css
+-rw-r--r--@  1 dominikbalint  staff   3.4K Mar  3 17:54 djangojs.js
+-rw-r--r--@  1 dominikbalint  staff    28K Mar  3 17:54 font-awesome.css
+-rw-r--r--@  1 dominikbalint  staff    54K Mar  3 17:54 gtm.js
+-rw-r--r--@  1 dominikbalint  staff    13K Mar  3 17:54 icons.css
+-rw-r--r--@  1 dominikbalint  staff    84K Mar  3 17:54 jquery-2.js
+-rw-r--r--@  1 dominikbalint  staff    25K Mar  3 17:54 jquery-ui.css
+-rw-r--r--@  1 dominikbalint  staff   223K Mar  3 17:54 jquery-ui.js
+-rw-r--r--@  1 dominikbalint  staff    10K Mar  3 17:54 jquery.js
+-rw-r--r--@  1 dominikbalint  staff   1.0K Mar  3 17:54 jquery_002.js
+-rw-r--r--@  1 dominikbalint  staff   3.0K Mar  3 17:54 jqueryupload.js
+-rw-r--r--@  1 dominikbalint  staff   3.1K Mar  3 17:54 logo_header.png
+-rw-r--r--@  1 dominikbalint  staff    65K Mar  3 17:54 nga.js
+-rw-r--r--@  1 dominikbalint  staff    62K Mar  3 17:54 screen.css
+-rw-r--r--@  1 dominikbalint  staff   276B Mar  3 17:54 screen_cs.css
+-rw-r--r--@  1 dominikbalint  staff    35K Mar  3 17:54 section1.css
+-rw-r--r--@  1 dominikbalint  staff    15K Mar  3 17:54 select2.css
+-rw-r--r--@  1 dominikbalint  staff    60K Mar  3 17:54 select2.js
+-rw-r--r--@  1 dominikbalint  staff   948B Mar  3 17:54 select2_locale_cs.js
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 underscore-min.js
+-rw-r--r--@  1 dominikbalint  staff   110K Mar  3 17:54 wysihtml5-0.js
+
+./Zdroje2/files/42:
+total 4280
+drwx------@ 57 dominikbalint  staff   1.8K Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff    12K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   2.5K Mar  3 17:54 PhoenixGoogleAnalytics.js
+-rw-r--r--@  1 dominikbalint  staff    11K Mar  3 17:54 accordion.js
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 ad.js
+-rw-r--r--@  1 dominikbalint  staff   251K Mar  3 17:54 alpha.js
+-rw-r--r--@  1 dominikbalint  staff    43K Mar  3 17:54 analytics.js
+-rw-r--r--@  1 dominikbalint  staff   8.1K Mar  3 17:54 analytics_002.js
+-rw-r--r--@  1 dominikbalint  staff   5.2K Mar  3 17:54 anne-sraders.png
+-rw-r--r--@  1 dominikbalint  staff   5.7K Mar  3 17:54 authUser.js
+-rw-r--r--@  1 dominikbalint  staff   5.8K Mar  3 17:54 balloonHeader.js
+-rw-r--r--@  1 dominikbalint  staff   2.1K Mar  3 17:54 beacon.js
+-rw-r--r--@  1 dominikbalint  staff   8.7K Mar  3 17:54 beta.js
+-rw-r--r--@  1 dominikbalint  staff   6.3K Mar  3 17:54 breadcrumbs.js
+-rw-r--r--@  1 dominikbalint  staff   3.4K Mar  3 17:54 config.js
+-rw-r--r--@  1 dominikbalint  staff   6.7K Mar  3 17:54 coverline_a.jpg
+-rw-r--r--@  1 dominikbalint  staff   6.4K Mar  3 17:54 coverline_subscribe.jpg
+-rw-r--r--@  1 dominikbalint  staff   9.4K Mar  3 17:54 delta.js
+-rw-r--r--@  1 dominikbalint  staff   5.7K Mar  3 17:54 ellipsis.js
+-rw-r--r--@  1 dominikbalint  staff    74K Mar  3 17:54 ford-unveils-a-red-hot-sexy-powerful-2018-mustang.jpg
+-rw-r--r--@  1 dominikbalint  staff    12K Mar  3 17:54 gamma.js
+-rw-r--r--@  1 dominikbalint  staff    53K Mar  3 17:54 gpt.js
+-rw-r--r--@  1 dominikbalint  staff   8.4K Mar  3 17:54 hubRebalancer.js
+-rw-r--r--@  1 dominikbalint  staff   3.1K Mar  3 17:54 iconFallback.js
+-rw-r--r--@  1 dominikbalint  staff   3.1K Mar  3 17:54 import.js
+-rw-r--r--@  1 dominikbalint  staff   109B Mar  3 17:54 integrator.js
+-rw-r--r--@  1 dominikbalint  staff   109B Mar  3 17:54 integrator_002.js
+-rw-r--r--@  1 dominikbalint  staff   6.2K Mar  3 17:54 logo_tst.svg
+-rw-r--r--@  1 dominikbalint  staff   373K Mar  3 17:54 main.css
+-rw-r--r--@  1 dominikbalint  staff   6.2K Mar  3 17:54 mobile.svg
+-rw-r--r--@  1 dominikbalint  staff   3.9K Mar  3 17:54 notifier.js
+-rw-r--r--@  1 dominikbalint  staff    10K Mar  3 17:54 onj0fpk.css
+-rw-r--r--@  1 dominikbalint  staff   3.6K Mar  3 17:54 overlay.js
+-rw-r--r--@  1 dominikbalint  staff   6.4K Mar  3 17:54 p.js
+-rw-r--r--@  1 dominikbalint  staff    17K Mar  3 17:54 page.js
+-rw-r--r--@  1 dominikbalint  staff    32K Mar  3 17:54 pge-will-fight-criminal-charge-in-san-bruno-blast.jpg
+-rw-r--r--@  1 dominikbalint  staff   3.8K Mar  3 17:54 picture.js
+-rw-r--r--@  1 dominikbalint  staff   7.2K Mar  3 17:54 print.css
+-rw-r--r--@  1 dominikbalint  staff   166K Mar  3 17:54 pubads_impl_2020011301.js
+-rw-r--r--@  1 dominikbalint  staff   5.3K Mar  3 17:54 salishRecirculation.js
+-rw-r--r--@  1 dominikbalint  staff    30K Mar  3 17:54 sallie-mae-says-its-reviewing-sen-elizabeth-warrens-letter.jpg
+-rw-r--r--@  1 dominikbalint  staff   4.5K Mar  3 17:54 simpleForm.js
+-rw-r--r--@  1 dominikbalint  staff   6.6K Mar  3 17:54 stickyNav.js
+-rw-r--r--@  1 dominikbalint  staff   2.9K Mar  3 17:54 streamMoreItems.js
+-rw-r--r--@  1 dominikbalint  staff   3.5K Mar  3 17:54 style.js
+-rw-r--r--@  1 dominikbalint  staff   3.8K Mar  3 17:54 superLink.js
+-rw-r--r--@  1 dominikbalint  staff   9.1K Mar  3 17:54 tabs.js
+-rw-r--r--@  1 dominikbalint  staff    51K Mar  3 17:54 texas-instruments.jpg
+-rw-r--r--@  1 dominikbalint  staff   6.2K Mar  3 17:54 thestreet.svg
+-rw-r--r--@  1 dominikbalint  staff   105K Mar  3 17:54 traders5.jpg
+-rw-r--r--@  1 dominikbalint  staff   107K Mar  3 17:54 traders7.jpg
+-rw-r--r--@  1 dominikbalint  staff    39K Mar  3 17:54 trump-is-becoming-an-albatross-around-wall-streets-neck-cram.jpg
+-rw-r--r--@  1 dominikbalint  staff    38K Mar  3 17:54 video-jim-cramer-reacts-to-general-electrics-dividend-worrie.jpg
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 webcomponents.js
+-rw-r--r--@  1 dominikbalint  staff   265K Mar  3 17:54 what-is-a-trust-14644964.html
+-rw-r--r--@  1 dominikbalint  staff   145K Mar  3 17:54 what-is-a-trust-a-guide-to-different-types-and-their-uses.png
+
+./Zdroje2/files/44:
+total 1088
+drwx------@ 15 dominikbalint  staff   480B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff    73K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   598B Mar  3 17:54 10px-Global_thinking.png
+-rw-r--r--@  1 dominikbalint  staff   435B Mar  3 17:54 10px-OOjs_UI_icon_edit-ltr-progressive.png
+-rw-r--r--@  1 dominikbalint  staff   520B Mar  3 17:54 16px-Folder_Hexagonal_Icon.png
+-rw-r--r--@  1 dominikbalint  staff    16K Mar  3 17:54 180px-Shakespeare-Testament.jpg
+-rw-r--r--@  1 dominikbalint  staff   6.5K Mar  3 17:54 220px-Chart_of_a_trust.jpg
+-rw-r--r--@  1 dominikbalint  staff   2.4K Mar  3 17:54 38px-Wikisource-logo.png
+-rw-r--r--@  1 dominikbalint  staff   272K Mar  3 17:54 index.html
+-rw-r--r--@  1 dominikbalint  staff    40K Mar  3 17:54 load.css
+-rw-r--r--@  1 dominikbalint  staff    77K Mar  3 17:54 load.js
+-rw-r--r--@  1 dominikbalint  staff    18K Mar  3 17:54 load_002.css
+-rw-r--r--@  1 dominikbalint  staff   1.5K Mar  3 17:54 poweredby_mediawiki_88x31.png
+-rw-r--r--@  1 dominikbalint  staff   2.4K Mar  3 17:54 wikimedia-button.png
+
+./Zdroje2/files/46:
+total 1728
+drwx------@ 18 dominikbalint  staff   576B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff   133K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   435B Mar  3 17:54 10px-OOjs_UI_icon_edit-ltr-progressive.png
+-rw-r--r--@  1 dominikbalint  staff   5.8K Mar  3 17:54 220px-Cardozo_Nomination.JPG
+-rw-r--r--@  1 dominikbalint  staff    33K Mar  3 17:54 220px-Constitution_of_India.jpg
+-rw-r--r--@  1 dominikbalint  staff    35K Mar  3 17:54 220px-Corpus_Iuris_Civilis_02.jpg
+-rw-r--r--@  1 dominikbalint  staff    16K Mar  3 17:54 220px-Uscatitle11.jpg
+-rw-r--r--@  1 dominikbalint  staff    23K Mar  3 17:54 220px-Westminster_Hall_edited.jpg
+-rw-r--r--@  1 dominikbalint  staff    49K Mar  3 17:54 300px-Map_of_the_Legal_systems_of_the_world_en.png
+-rw-r--r--@  1 dominikbalint  staff   1.9K Mar  3 17:54 34px-Wikiquote-logo.png
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 WilliamBlackstone.jpg
+-rw-r--r--@  1 dominikbalint  staff   373K Mar  3 17:54 index.html
+-rw-r--r--@  1 dominikbalint  staff    40K Mar  3 17:54 load.css
+-rw-r--r--@  1 dominikbalint  staff    77K Mar  3 17:54 load.js
+-rw-r--r--@  1 dominikbalint  staff    18K Mar  3 17:54 load_002.css
+-rw-r--r--@  1 dominikbalint  staff   1.5K Mar  3 17:54 poweredby_mediawiki_88x31.png
+-rw-r--r--@  1 dominikbalint  staff   2.4K Mar  3 17:54 wikimedia-button.png
+
+./Zdroje2/files/48:
+total 280
+drwx------@ 13 dominikbalint  staff   416B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff   8.9K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   4.2K Mar  3 17:54 config.js
+-rw-r--r--@  1 dominikbalint  staff    49K Mar  3 17:54 index-alpha.html
+-rw-r--r--@  1 dominikbalint  staff   6.5K Mar  3 17:54 lib.js
+-rw-r--r--@  1 dominikbalint  staff   5.7K Mar  3 17:54 main.css
+-rw-r--r--@  1 dominikbalint  staff   297B Mar  3 17:54 main_002.css
+-rw-r--r--@  1 dominikbalint  staff    30K Mar  3 17:54 onload.js
+-rw-r--r--@  1 dominikbalint  staff   3.6K Mar  3 17:54 print.js
+-rw-r--r--@  1 dominikbalint  staff   305B Mar  3 17:54 section-header-en.css
+-rw-r--r--@  1 dominikbalint  staff    33B Mar  3 17:54 send-to-friend.js
+-rw-r--r--@  1 dominikbalint  staff   3.2K Mar  3 17:54 uOttawa-logo.png
+
+./Zdroje2/files/51:
+total 1976
+drwx------@ 16 dominikbalint  staff   512B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff   4.8K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   416B Mar  3 17:54 a.png
+-rw-r--r--@  1 dominikbalint  staff   190K Mar  3 17:54 all.js
+-rw-r--r--@  1 dominikbalint  staff   427B Mar  3 17:54 button-dw.png
+-rw-r--r--@  1 dominikbalint  staff   280B Mar  3 17:54 button-rss.png
+-rw-r--r--@  1 dominikbalint  staff   248B Mar  3 17:54 button-vector.png
+-rw-r--r--@  1 dominikbalint  staff   321B Mar  3 17:54 button-xhtml.png
+-rw-r--r--@  1 dominikbalint  staff   184K Mar  3 17:54 css.css
+-rw-r--r--@  1 dominikbalint  staff    42B Mar  3 17:54 indexer.gif
+-rw-r--r--@  1 dominikbalint  staff   339K Mar  3 17:54 jquery.php
+-rw-r--r--@  1 dominikbalint  staff   186K Mar  3 17:54 js.php
+-rw-r--r--@  1 dominikbalint  staff   8.5K Mar  3 17:54 jsme-na-facebook.png
+-rw-r--r--@  1 dominikbalint  staff    36K Mar  3 17:54 otazka-39.html
+-rw-r--r--@  1 dominikbalint  staff   1.9K Mar  3 17:54 sunnysoft-logo.png
+
+./Zdroje2/files/53:
+total 2024
+drwx------@ 17 dominikbalint  staff   544B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff   7.8K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   411B Mar  3 17:54 a.png
+-rw-r--r--@  1 dominikbalint  staff   190K Mar  3 17:54 all.js
+-rw-r--r--@  1 dominikbalint  staff   427B Mar  3 17:54 button-dw.png
+-rw-r--r--@  1 dominikbalint  staff   280B Mar  3 17:54 button-rss.png
+-rw-r--r--@  1 dominikbalint  staff   248B Mar  3 17:54 button-vector.png
+-rw-r--r--@  1 dominikbalint  staff   321B Mar  3 17:54 button-xhtml.png
+-rw-r--r--@  1 dominikbalint  staff   184K Mar  3 17:54 css.css
+-rw-r--r--@  1 dominikbalint  staff    42B Mar  3 17:54 indexer.gif
+-rw-r--r--@  1 dominikbalint  staff   339K Mar  3 17:54 jquery.php
+-rw-r--r--@  1 dominikbalint  staff   186K Mar  3 17:54 js.php
+-rw-r--r--@  1 dominikbalint  staff   8.5K Mar  3 17:54 jsme-na-facebook.png
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 manzelstiv-dite.jpg
+-rw-r--r--@  1 dominikbalint  staff    42K Mar  3 17:54 otazka-41.html
+-rw-r--r--@  1 dominikbalint  staff   1.9K Mar  3 17:54 sunnysoft-logo.png
+
+./Zdroje2/files/56:
+total 2008
+drwx------@ 16 dominikbalint  staff   512B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff   9.6K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   415B Mar  3 17:54 a.png
+-rw-r--r--@  1 dominikbalint  staff   190K Mar  3 17:54 all.js
+-rw-r--r--@  1 dominikbalint  staff   427B Mar  3 17:54 button-dw.png
+-rw-r--r--@  1 dominikbalint  staff   280B Mar  3 17:54 button-rss.png
+-rw-r--r--@  1 dominikbalint  staff   248B Mar  3 17:54 button-vector.png
+-rw-r--r--@  1 dominikbalint  staff   321B Mar  3 17:54 button-xhtml.png
+-rw-r--r--@  1 dominikbalint  staff   184K Mar  3 17:54 css.css
+-rw-r--r--@  1 dominikbalint  staff    42B Mar  3 17:54 indexer.gif
+-rw-r--r--@  1 dominikbalint  staff   339K Mar  3 17:54 jquery.php
+-rw-r--r--@  1 dominikbalint  staff   186K Mar  3 17:54 js.php
+-rw-r--r--@  1 dominikbalint  staff   8.5K Mar  3 17:54 jsme-na-facebook.png
+-rw-r--r--@  1 dominikbalint  staff    47K Mar  3 17:54 prednaska3.html
+-rw-r--r--@  1 dominikbalint  staff   1.9K Mar  3 17:54 sunnysoft-logo.png
+
+./Zdroje2/files/6:
+total 920
+drwx------@  8 dominikbalint  staff   256B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff   2.7K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   9.4K Mar  3 17:54 ctan-rot-ff5ef84c1b1224b861edaf720adbeacc.gif
+-rw-r--r--@  1 dominikbalint  staff    31K Mar  3 17:54 mactex.html
+-rw-r--r--@  1 dominikbalint  staff   334K Mar  3 17:54 portal-944f93dcc061b0c8fb36b9debe744e42.js
+-rw-r--r--@  1 dominikbalint  staff    70K Mar  3 17:54 skin.css
+-rw-r--r--@  1 dominikbalint  staff   2.3K Mar  3 17:54 skin_002.css
+
+./Zdroje2/files/60:
+total 512
+drwx------@  5 dominikbalint  staff   160B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff   111K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   132K Mar  3 17:54 digest1.html
+-rw-r--r--@  1 dominikbalint  staff   5.9K Mar  3 17:54 latinlibrary.css
+
+./Zdroje2/files/62:
+total 776
+drwx------@  5 dominikbalint  staff   160B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff   136K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   243K Mar  3 17:54 D1_Scott.html
+-rw-r--r--@  1 dominikbalint  staff   2.2K Mar  3 17:54 marbre2.jpg
+
+./Zdroje2/files/66:
+total 2952
+drwx------@ 24 dominikbalint  staff   768B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff    40K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   447K Mar  3 17:54 1586224604985593.js
+-rw-r--r--@  1 dominikbalint  staff    88K Mar  3 17:54 39_191-prakticke-aspekty-sverenskeho-fondu-ve-svetle-navrhu-urgentni-novely-obcanskeho-zakoniku.html
+-rw-r--r--@  1 dominikbalint  staff    43K Mar  3 17:54 analytics.js
+-rw-r--r--@  1 dominikbalint  staff   254K Mar  3 17:54 app.js
+-rw-r--r--@  1 dominikbalint  staff   7.1K Mar  3 17:54 css.css
+-rw-r--r--@  1 dominikbalint  staff    37K Mar  3 17:54 czechpoint.png
+-rw-r--r--@  1 dominikbalint  staff   126K Mar  3 17:54 fbevents.js
+-rw-r--r--@  1 dominikbalint  staff    59K Mar  3 17:54 gtm.js
+-rw-r--r--@  1 dominikbalint  staff   694B Mar  3 17:54 ico-facebook.svg
+-rw-r--r--@  1 dominikbalint  staff   4.4K Mar  3 17:54 logo-ce.png
+-rw-r--r--@  1 dominikbalint  staff   9.1K Mar  3 17:54 logo-de.png
+-rw-r--r--@  1 dominikbalint  staff   2.9K Mar  3 17:54 logo-enn.png
+-rw-r--r--@  1 dominikbalint  staff   7.5K Mar  3 17:54 logo-esn.png
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 logo-iun.png
+-rw-r--r--@  1 dominikbalint  staff   8.8K Mar  3 17:54 logo-ne.png
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 logo-nkcr-big.png
+-rw-r--r--@  1 dominikbalint  staff   7.2K Mar  3 17:54 logo-nkcr.png
+-rw-r--r--@  1 dominikbalint  staff    76K Mar  3 17:54 main.css
+-rw-r--r--@  1 dominikbalint  staff    64K Mar  3 17:54 notarskyrad.png
+-rw-r--r--@  1 dominikbalint  staff    69K Mar  3 17:54 obcanskopravni.png
+-rw-r--r--@  1 dominikbalint  staff    56K Mar  3 17:54 spolecnosti.png
+
+./Zdroje2/files/68:
+total 11320
+drwx------@ 123 dominikbalint  staff   3.8K Mar  3 17:54 .
+drwx------@  42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@   1 dominikbalint  staff   297K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@   1 dominikbalint  staff   100K Mar  3 17:54 7b0c038d-ddfd-4985-89ff-9f4eaecfc07d.css
+-rw-r--r--@   1 dominikbalint  staff   838B Mar  3 17:54 91af64d0-37f1-4744-b486-037c39034f73.css
+-rw-r--r--@   1 dominikbalint  staff   2.2K Mar  3 17:54 BootstrapAddModal_View.js
+-rw-r--r--@   1 dominikbalint  staff   2.0K Mar  3 17:54 BootstrapModal_View.js
+-rw-r--r--@   1 dominikbalint  staff   2.0K Mar  3 17:54 ChunkBuilder.js
+-rw-r--r--@   1 dominikbalint  staff   1.4K Mar  3 17:54 ChunkConfiguration_Model.js
+-rw-r--r--@   1 dominikbalint  staff   2.1K Mar  3 17:54 ChunkHelper.js
+-rw-r--r--@   1 dominikbalint  staff    16K Mar  3 17:54 ChunkNoteup_View.js
+-rw-r--r--@   1 dominikbalint  staff   3.4K Mar  3 17:54 ChunkShowMore_View.js
+-rw-r--r--@   1 dominikbalint  staff   1.4K Mar  3 17:54 ChunkState_Model.js
+-rw-r--r--@   1 dominikbalint  staff   3.7K Mar  3 17:54 Chunk_Collection.js
+-rw-r--r--@   1 dominikbalint  staff   966B Mar  3 17:54 Chunk_Model.js
+-rw-r--r--@   1 dominikbalint  staff    39K Mar  3 17:54 Chunk_View.js
+-rw-r--r--@   1 dominikbalint  staff    12K Mar  3 17:54 EditNote_View.js
+-rw-r--r--@   1 dominikbalint  staff   1.4K Mar  3 17:54 FormMessage_View.js
+-rw-r--r--@   1 dominikbalint  staff   1.0K Mar  3 17:54 Hash_Model.js
+-rw-r--r--@   1 dominikbalint  staff   811B Mar  3 17:54 HeadingBranch_Collection.js
+-rw-r--r--@   1 dominikbalint  staff    10K Mar  3 17:54 HeadingBranch_View.js
+-rw-r--r--@   1 dominikbalint  staff   1.9K Mar  3 17:54 HeadingHover_View.js
+-rw-r--r--@   1 dominikbalint  staff   1.1K Mar  3 17:54 Heading_Model.js
+-rw-r--r--@   1 dominikbalint  staff   5.8K Mar  3 17:54 Heading_View.js
+-rw-r--r--@   1 dominikbalint  staff   1.8K Mar  3 17:54 InputMessage_View.js
+-rw-r--r--@   1 dominikbalint  staff   2.1K Mar  3 17:54 MenuMore_View.js
+-rw-r--r--@   1 dominikbalint  staff   5.8K Mar  3 17:54 NewComment_View.js
+-rw-r--r--@   1 dominikbalint  staff   1.7K Mar  3 17:54 NewHighlight_View.js
+-rw-r--r--@   1 dominikbalint  staff   6.3K Mar  3 17:54 NewLink_View.js
+-rw-r--r--@   1 dominikbalint  staff    12K Mar  3 17:54 NewNote_View.js
+-rw-r--r--@   1 dominikbalint  staff   9.2K Mar  3 17:54 NoteLink_View.js
+-rw-r--r--@   1 dominikbalint  staff   1.4K Mar  3 17:54 NotesChunk_Model.js
+-rw-r--r--@   1 dominikbalint  staff    16K Mar  3 17:54 NotesChunk_View.js
+-rw-r--r--@   1 dominikbalint  staff   647B Mar  3 17:54 NotesLimitReachedModal_View.js
+-rw-r--r--@   1 dominikbalint  staff   652B Mar  3 17:54 NotesOverlapChunksModal_View.js
+-rw-r--r--@   1 dominikbalint  staff   232B Mar  3 17:54 NotesSearchCount_Model.js
+-rw-r--r--@   1 dominikbalint  staff   1.8K Mar  3 17:54 NotesSearchCount_View.js
+-rw-r--r--@   1 dominikbalint  staff   457B Mar  3 17:54 NotesSearchResults_Collection.js
+-rw-r--r--@   1 dominikbalint  staff   587B Mar  3 17:54 NotesSearchResults_CollectionModel.js
+-rw-r--r--@   1 dominikbalint  staff    10K Mar  3 17:54 NotesSearchResults_View.js
+-rw-r--r--@   1 dominikbalint  staff   388B Mar  3 17:54 NotesSearch_Model.js
+-rw-r--r--@   1 dominikbalint  staff   2.7K Mar  3 17:54 NotesSearch_View.js
+-rw-r--r--@   1 dominikbalint  staff   6.5K Mar  3 17:54 NoteupSearch_View.js
+-rw-r--r--@   1 dominikbalint  staff   2.0K Mar  3 17:54 Print_Multi_Selected_View.js
+-rw-r--r--@   1 dominikbalint  staff   587B Mar  3 17:54 ProfileArea_View.js
+-rw-r--r--@   1 dominikbalint  staff   1.0K Mar  3 17:54 PromiseWorker.js
+-rw-r--r--@   1 dominikbalint  staff   4.7K Mar  3 17:54 ScrollState_Model.js
+-rw-r--r--@   1 dominikbalint  staff    26K Mar  3 17:54 Scroll_View.js
+-rw-r--r--@   1 dominikbalint  staff   1.2K Mar  3 17:54 SearchResult_Collection.js
+-rw-r--r--@   1 dominikbalint  staff   400B Mar  3 17:54 SearchResult_CollectionModel.js
+-rw-r--r--@   1 dominikbalint  staff   6.7K Mar  3 17:54 SearchResults_View.js
+-rw-r--r--@   1 dominikbalint  staff   309B Mar  3 17:54 Search_Model.js
+-rw-r--r--@   1 dominikbalint  staff   2.1K Mar  3 17:54 Search_View.js
+-rw-r--r--@   1 dominikbalint  staff   737B Mar  3 17:54 Tab_View.js
+-rw-r--r--@   1 dominikbalint  staff   9.4K Mar  3 17:54 Toc_View.js
+-rw-r--r--@   1 dominikbalint  staff   1.3K Mar  3 17:54 TouchHeadingBranch_Collection.js
+-rw-r--r--@   1 dominikbalint  staff    16K Mar  3 17:54 TouchHeadingBranch_View.js
+-rw-r--r--@   1 dominikbalint  staff   2.8K Mar  3 17:54 TouchHeading_View.js
+-rw-r--r--@   1 dominikbalint  staff   3.6K Mar  3 17:54 TouchToc_View.js
+-rw-r--r--@   1 dominikbalint  staff    20K Mar  3 17:54 app.js
+-rw-r--r--@   1 dominikbalint  staff    13K Mar  3 17:54 axios.js
+-rw-r--r--@   1 dominikbalint  staff    54K Mar  3 17:54 backbone-0.js
+-rw-r--r--@   1 dominikbalint  staff    13K Mar  3 17:54 backbone.js
+-rw-r--r--@   1 dominikbalint  staff    44K Mar  3 17:54 backbone_002.js
+-rw-r--r--@   1 dominikbalint  staff    28K Mar  3 17:54 bootstrap-responsive-zoupio.css
+-rw-r--r--@   1 dominikbalint  staff   170K Mar  3 17:54 bootstrap-zoupio.css
+-rw-r--r--@   1 dominikbalint  staff    60K Mar  3 17:54 bootstrap.js
+-rw-r--r--@   1 dominikbalint  staff   2.0K Mar  3 17:54 c501e19b-3418-4655-9a50-1273db47f843.css
+-rw-r--r--@   1 dominikbalint  staff    78B Mar  3 17:54 canliiNoteups.js
+-rw-r--r--@   1 dominikbalint  staff   1.5K Mar  3 17:54 d78627b8-72ae-4b72-83c0-3d71dcfbd095.css
+-rw-r--r--@   1 dominikbalint  staff   5.0K Mar  3 17:54 document.js
+-rw-r--r--@   1 dominikbalint  staff   1.9M Mar  3 17:54 en.html
+-rw-r--r--@   1 dominikbalint  staff   2.0K Mar  3 17:54 enquire.js
+-rw-r--r--@   1 dominikbalint  staff    13K Mar  3 17:54 es2015.js
+-rw-r--r--@   1 dominikbalint  staff   6.4K Mar  3 17:54 es6-promise-auto.js
+-rw-r--r--@   1 dominikbalint  staff    33K Mar  3 17:54 includes.js
+-rw-r--r--@   1 dominikbalint  staff   261K Mar  3 17:54 jquery-1.js
+-rw-r--r--@   1 dominikbalint  staff   223K Mar  3 17:54 jquery-ui-1.js
+-rw-r--r--@   1 dominikbalint  staff   5.5K Mar  3 17:54 jquery.js
+-rw-r--r--@   1 dominikbalint  staff   1.9K Mar  3 17:54 jquery_002.js
+-rw-r--r--@   1 dominikbalint  staff   1.4K Mar  3 17:54 jquery_003.js
+-rw-r--r--@   1 dominikbalint  staff   1.2K Mar  3 17:54 lexumSolrHighlighterJS.js
+-rw-r--r--@   1 dominikbalint  staff   287B Mar  3 17:54 lexviewCors.js
+-rw-r--r--@   1 dominikbalint  staff   406B Mar  3 17:54 lexviewPiwikTracker.js
+-rw-r--r--@   1 dominikbalint  staff   402K Mar  3 17:54 lodash-3.js
+-rw-r--r--@   1 dominikbalint  staff    21K Mar  3 17:54 lz-string-1.js
+-rw-r--r--@   1 dominikbalint  staff   125K Mar  3 17:54 moment-with-langs.js
+-rw-r--r--@   1 dominikbalint  staff    66K Mar  3 17:54 piwik.js
+-rw-r--r--@   1 dominikbalint  staff    19K Mar  3 17:54 qweri-document-annotations.css
+-rw-r--r--@   1 dominikbalint  staff    14K Mar  3 17:54 qweri-document-content.css
+-rw-r--r--@   1 dominikbalint  staff   5.4K Mar  3 17:54 qweri-document-panel.css
+-rw-r--r--@   1 dominikbalint  staff   2.5K Mar  3 17:54 qweri-document-print.css
+-rw-r--r--@   1 dominikbalint  staff   1.5K Mar  3 17:54 qweri-document-search.css
+-rw-r--r--@   1 dominikbalint  staff   1.2K Mar  3 17:54 qweri-document-tipped.css
+-rw-r--r--@   1 dominikbalint  staff   8.3K Mar  3 17:54 qweri-document-toc.css
+-rw-r--r--@   1 dominikbalint  staff   3.4K Mar  3 17:54 qweri-document.css
+-rw-r--r--@   1 dominikbalint  staff   1.5K Mar  3 17:54 qweri-logger.js
+-rw-r--r--@   1 dominikbalint  staff   2.5K Mar  3 17:54 qweri-plugins.js
+-rw-r--r--@   1 dominikbalint  staff   6.1K Mar  3 17:54 qweri-remote-logger.js
+-rw-r--r--@   1 dominikbalint  staff   5.8K Mar  3 17:54 qweri-solr-highlighter.css
+-rw-r--r--@   1 dominikbalint  staff   3.7K Mar  3 17:54 qweri-utils.js
+-rw-r--r--@   1 dominikbalint  staff    14K Mar  3 17:54 qweri.css
+-rw-r--r--@   1 dominikbalint  staff   4.5K Mar  3 17:54 qweri_by_lexum-en.svg
+-rw-r--r--@   1 dominikbalint  staff   2.6K Mar  3 17:54 qweri_logo.svg
+-rw-r--r--@   1 dominikbalint  staff    46K Mar  3 17:54 rangy-classapplier.js
+-rw-r--r--@   1 dominikbalint  staff   158K Mar  3 17:54 rangy-core.js
+-rw-r--r--@   1 dominikbalint  staff    26K Mar  3 17:54 rangy-highlighter.js
+-rw-r--r--@   1 dominikbalint  staff   9.3K Mar  3 17:54 rangy-selectionsaverestore.js
+-rw-r--r--@   1 dominikbalint  staff    80K Mar  3 17:54 rangy-textrange.js
+-rw-r--r--@   1 dominikbalint  staff    16K Mar  3 17:54 rison-0.js
+-rw-r--r--@   1 dominikbalint  staff    19K Mar  3 17:54 select2.css
+-rw-r--r--@   1 dominikbalint  staff   153K Mar  3 17:54 select2.js
+-rw-r--r--@   1 dominikbalint  staff    11K Mar  3 17:54 smoothscroll.js
+-rw-r--r--@   1 dominikbalint  staff   5.1K Mar  3 17:54 svg4everybody-2.js
+-rw-r--r--@   1 dominikbalint  staff   376K Mar  3 17:54 tinymce.js
+-rw-r--r--@   1 dominikbalint  staff   3.9K Mar  3 17:54 tipped.css
+-rw-r--r--@   1 dominikbalint  staff    53K Mar  3 17:54 tipped.js
+-rw-r--r--@   1 dominikbalint  staff    15K Mar  3 17:54 tippy.css
+-rw-r--r--@   1 dominikbalint  staff    35K Mar  3 17:54 tippy.js
+-rw-r--r--@   1 dominikbalint  staff    44K Mar  3 17:54 velocity.js
+-rw-r--r--@   1 dominikbalint  staff    13K Mar  3 17:54 velocity_002.js
+-rw-r--r--@   1 dominikbalint  staff    13K Mar  3 17:54 webClient-plugins.js
+-rw-r--r--@   1 dominikbalint  staff   148B Mar  3 17:54 zoupio-tipped.js
+
+./Zdroje2/files/70:
+total 3864
+drwx------@ 70 dominikbalint  staff   2.2K Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff    49K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 0e0c4b151c75802b6bf6aada20a9eb73.jpg
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 100fd3f8895d0304cfdd32cc4e66609c.jpg
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 12c7cd66f6f26306fe3298671113cb37.jpg
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 1937d1e108b7fbc11546d237b06d1b90.jpg
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 59a069df3405de5b74587619856965e4.jpg
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 7dd150a443f77d0dc016dbec872c2520.jpg
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 805d8ac19881e0a3c5e60c5d3526a176.jpg
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 89c96c90c40544f9a3db9bbd8b680caf.jpg
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 9594fbe981c450631d20dc81d8406577.jpg
+-rw-r--r--@  1 dominikbalint  staff   469B Mar  3 17:54 AnWpMobileMenu.js
+-rw-r--r--@  1 dominikbalint  staff    55K Mar  3 17:54 _mobile.css
+-rw-r--r--@  1 dominikbalint  staff   8.4K Mar  3 17:54 accordion.js
+-rw-r--r--@  1 dominikbalint  staff    43K Mar  3 17:54 analytics.js
+-rw-r--r--@  1 dominikbalint  staff   709B Mar  3 17:54 api.js
+-rw-r--r--@  1 dominikbalint  staff    82K Mar  3 17:54 app.js
+-rw-r--r--@  1 dominikbalint  staff   1.8K Mar  3 17:54 appear.js
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 b303da40e6944c10891e832bae42b7b1.jpg
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 b9798a92c6a08ab9a0a2950a4c56512e.jpg
+-rw-r--r--@  1 dominikbalint  staff    21K Mar  3 17:54 baton_en.png
+-rw-r--r--@  1 dominikbalint  staff    37K Mar  3 17:54 blog-lecours-538x2181.jpg
+-rw-r--r--@  1 dominikbalint  staff    27K Mar  3 17:54 bootstrap.js
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 c3f649e56b29b04ae873ba043a44b8c5.jpg
+-rw-r--r--@  1 dominikbalint  staff   403B Mar  3 17:54 canada.png
+-rw-r--r--@  1 dominikbalint  staff   2.9K Mar  3 17:54 cms-navigation-base.css
+-rw-r--r--@  1 dominikbalint  staff   2.3K Mar  3 17:54 cms-navigation.css
+-rw-r--r--@  1 dominikbalint  staff   2.2K Mar  3 17:54 comment-reply.js
+-rw-r--r--@  1 dominikbalint  staff   3.9K Mar  3 17:54 core.js
+-rw-r--r--@  1 dominikbalint  staff   3.1K Mar  3 17:54 css.css
+-rw-r--r--@  1 dominikbalint  staff    26K Mar  3 17:54 custom-main.js
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 e2057b089c03e409d6f85dac08ab2db1.jpg
+-rw-r--r--@  1 dominikbalint  staff   4.4K Mar  3 17:54 easy-pie-chart.js
+-rw-r--r--@  1 dominikbalint  staff    18K Mar  3 17:54 eurojuris-final.png
+-rw-r--r--@  1 dominikbalint  staff   1.2K Mar  3 17:54 fb5f215ff0a10233f5d81749d0feda59.jpg
+-rw-r--r--@  1 dominikbalint  staff    30K Mar  3 17:54 font-awesome.css
+-rw-r--r--@  1 dominikbalint  staff    10K Mar  3 17:54 forms-api.js
+-rw-r--r--@  1 dominikbalint  staff   268B Mar  3 17:54 fr.png
+-rw-r--r--@  1 dominikbalint  staff   600B Mar  3 17:54 gb.png
+-rw-r--r--@  1 dominikbalint  staff    57K Mar  3 17:54 gtm.js
+-rw-r--r--@  1 dominikbalint  staff   170K Mar  3 17:54 inheritance-law-canadian-province-quebec.html
+-rw-r--r--@  1 dominikbalint  staff    35K Mar  3 17:54 isotope.js
+-rw-r--r--@  1 dominikbalint  staff   9.8K Mar  3 17:54 jquery-migrate.js
+-rw-r--r--@  1 dominikbalint  staff   3.3K Mar  3 17:54 jquery.js
+-rw-r--r--@  1 dominikbalint  staff    30K Mar  3 17:54 jquery_002.js
+-rw-r--r--@  1 dominikbalint  staff    21K Mar  3 17:54 jquery_003.js
+-rw-r--r--@  1 dominikbalint  staff    95K Mar  3 17:54 jquery_004.js
+-rw-r--r--@  1 dominikbalint  staff    10K Mar  3 17:54 jquery_005.js
+-rw-r--r--@  1 dominikbalint  staff   114K Mar  3 17:54 karma-builder.css
+-rw-r--r--@  1 dominikbalint  staff    23K Mar  3 17:54 karma-builder.js
+-rw-r--r--@  1 dominikbalint  staff    17K Mar  3 17:54 karma-dark.css
+-rw-r--r--@  1 dominikbalint  staff    17K Mar  3 17:54 logo-100-3.jpg
+-rw-r--r--@  1 dominikbalint  staff   257K Mar  3 17:54 recaptcha__en.js
+-rw-r--r--@  1 dominikbalint  staff   2.6K Mar  3 17:54 retina.js
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 scripts.js
+-rw-r--r--@  1 dominikbalint  staff   5.8K Mar  3 17:54 scrollWatch.js
+-rw-r--r--@  1 dominikbalint  staff    29K Mar  3 17:54 style.css
+-rw-r--r--@  1 dominikbalint  staff   239K Mar  3 17:54 style_002.css
+-rw-r--r--@  1 dominikbalint  staff    12K Mar  3 17:54 style_003.css
+-rw-r--r--@  1 dominikbalint  staff   851B Mar  3 17:54 style_004.css
+-rw-r--r--@  1 dominikbalint  staff   1.6K Mar  3 17:54 styles.css
+-rw-r--r--@  1 dominikbalint  staff   522B Mar  3 17:54 stylesheet.css
+-rw-r--r--@  1 dominikbalint  staff   8.2K Mar  3 17:54 superfish.js
+-rw-r--r--@  1 dominikbalint  staff    12K Mar  3 17:54 tabs.js
+-rw-r--r--@  1 dominikbalint  staff   7.9K Mar  3 17:54 waypoints.js
+-rw-r--r--@  1 dominikbalint  staff   6.7K Mar  3 17:54 widget.js
+-rw-r--r--@  1 dominikbalint  staff    19K Mar  3 17:54 worldmap-grey-1x.png
+-rw-r--r--@  1 dominikbalint  staff   109K Mar  3 17:54 worldmap.js
+-rw-r--r--@  1 dominikbalint  staff   1.4K Mar  3 17:54 wp-embed.js
+
+./Zdroje2/files/73:
+total 2928
+drwx------@ 24 dominikbalint  staff   768B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff    34K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   447K Mar  3 17:54 1586224604985593.js
+-rw-r--r--@  1 dominikbalint  staff    81K Mar  3 17:54 39_181-podrobneji-k-sverenskemu-fondu.html
+-rw-r--r--@  1 dominikbalint  staff    43K Mar  3 17:54 analytics.js
+-rw-r--r--@  1 dominikbalint  staff   254K Mar  3 17:54 app.js
+-rw-r--r--@  1 dominikbalint  staff   7.2K Mar  3 17:54 css.css
+-rw-r--r--@  1 dominikbalint  staff    37K Mar  3 17:54 czechpoint.png
+-rw-r--r--@  1 dominikbalint  staff   126K Mar  3 17:54 fbevents.js
+-rw-r--r--@  1 dominikbalint  staff    59K Mar  3 17:54 gtm.js
+-rw-r--r--@  1 dominikbalint  staff   694B Mar  3 17:54 ico-facebook.svg
+-rw-r--r--@  1 dominikbalint  staff   4.4K Mar  3 17:54 logo-ce.png
+-rw-r--r--@  1 dominikbalint  staff   9.1K Mar  3 17:54 logo-de.png
+-rw-r--r--@  1 dominikbalint  staff   2.9K Mar  3 17:54 logo-enn.png
+-rw-r--r--@  1 dominikbalint  staff   7.5K Mar  3 17:54 logo-esn.png
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 logo-iun.png
+-rw-r--r--@  1 dominikbalint  staff   8.8K Mar  3 17:54 logo-ne.png
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 logo-nkcr-big.png
+-rw-r--r--@  1 dominikbalint  staff   7.2K Mar  3 17:54 logo-nkcr.png
+-rw-r--r--@  1 dominikbalint  staff    76K Mar  3 17:54 main.css
+-rw-r--r--@  1 dominikbalint  staff    64K Mar  3 17:54 notarskyrad.png
+-rw-r--r--@  1 dominikbalint  staff    69K Mar  3 17:54 obcanskopravni.png
+-rw-r--r--@  1 dominikbalint  staff    56K Mar  3 17:54 spolecnosti.png
+
+./Zdroje2/files/74:
+total 1424
+drwx------@  3 dominikbalint  staff    96B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-r--r--@  1 dominikbalint  staff   709K Mar  3 17:54 Kuhn - Vedlejší doložky v závěti.pdf
+
+./Zdroje2/files/82:
+total 1976
+drwx------@ 16 dominikbalint  staff   512B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff   6.6K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   415B Mar  3 17:54 a.png
+-rw-r--r--@  1 dominikbalint  staff   191K Mar  3 17:54 all.js
+-rw-r--r--@  1 dominikbalint  staff   427B Mar  3 17:54 button-dw.png
+-rw-r--r--@  1 dominikbalint  staff   280B Mar  3 17:54 button-rss.png
+-rw-r--r--@  1 dominikbalint  staff   248B Mar  3 17:54 button-vector.png
+-rw-r--r--@  1 dominikbalint  staff   321B Mar  3 17:54 button-xhtml.png
+-rw-r--r--@  1 dominikbalint  staff   184K Mar  3 17:54 css.css
+-rw-r--r--@  1 dominikbalint  staff    42B Mar  3 17:54 indexer.gif
+-rw-r--r--@  1 dominikbalint  staff   339K Mar  3 17:54 jquery.php
+-rw-r--r--@  1 dominikbalint  staff   186K Mar  3 17:54 js.php
+-rw-r--r--@  1 dominikbalint  staff   8.5K Mar  3 17:54 jsme-na-facebook.png
+-rw-r--r--@  1 dominikbalint  staff    34K Mar  3 17:54 otazka-75.html
+-rw-r--r--@  1 dominikbalint  staff   1.9K Mar  3 17:54 sunnysoft-logo.png
+
+./Zdroje2/files/84:
+total 1760
+drwx------@ 40 dominikbalint  staff   1.3K Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff   9.4K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   107B Mar  3 17:54 arrow.png
+-rw-r--r--@  1 dominikbalint  staff   1.0K Mar  3 17:54 beez5-position1.css
+-rw-r--r--@  1 dominikbalint  staff   945B Mar  3 17:54 beez_20-position1.css
+-rw-r--r--@  1 dominikbalint  staff    28K Mar  3 17:54 bootstrap.js
+-rw-r--r--@  1 dominikbalint  staff   491B Mar  3 17:54 caption.js
+-rw-r--r--@  1 dominikbalint  staff   564B Mar  3 17:54 color.css
+-rw-r--r--@  1 dominikbalint  staff   5.6K Mar  3 17:54 core.js
+-rw-r--r--@  1 dominikbalint  staff   2.0K Mar  3 17:54 footer_omega.png
+-rw-r--r--@  1 dominikbalint  staff   2.7K Mar  3 17:54 general.css
+-rw-r--r--@  1 dominikbalint  staff   1.9K Mar  3 17:54 global.css
+-rw-r--r--@  1 dominikbalint  staff   6.4K Mar  3 17:54 html5fallback.js
+-rw-r--r--@  1 dominikbalint  staff   9.6K Mar  3 17:54 icon-home.jpg
+-rw-r--r--@  1 dominikbalint  staff    89K Mar  3 17:54 informacni-brozura.html
+-rw-r--r--@  1 dominikbalint  staff   5.8K Mar  3 17:54 jcemediabox.css
+-rw-r--r--@  1 dominikbalint  staff    57K Mar  3 17:54 jcemediabox.js
+-rw-r--r--@  1 dominikbalint  staff   9.8K Mar  3 17:54 jquery-migrate.js
+-rw-r--r--@  1 dominikbalint  staff    21B Mar  3 17:54 jquery-noconflict.js
+-rw-r--r--@  1 dominikbalint  staff    95K Mar  3 17:54 jquery.js
+-rw-r--r--@  1 dominikbalint  staff    46K Mar  3 17:54 loga.png
+-rw-r--r--@  1 dominikbalint  staff   3.9K Mar  3 17:54 logo.png
+-rw-r--r--@  1 dominikbalint  staff   1.6K Mar  3 17:54 logo1.png
+-rw-r--r--@  1 dominikbalint  staff   2.9K Mar  3 17:54 maximenuckmobile.css
+-rw-r--r--@  1 dominikbalint  staff   8.3K Mar  3 17:54 maximenuckmobile.js
+-rw-r--r--@  1 dominikbalint  staff    13K Mar  3 17:54 maximenuhck.css
+-rw-r--r--@  1 dominikbalint  staff    13K Mar  3 17:54 maximenuhck_002.css
+-rw-r--r--@  1 dominikbalint  staff   1.1K Mar  3 17:54 maximenuresponsiveck.css
+-rw-r--r--@  1 dominikbalint  staff   2.3K Mar  3 17:54 media.css
+-rw-r--r--@  1 dominikbalint  staff   3.8K Mar  3 17:54 moo_maximenuhck.css
+-rw-r--r--@  1 dominikbalint  staff    17K Mar  3 17:54 moomaximenuck.js
+-rw-r--r--@  1 dominikbalint  staff    82K Mar  3 17:54 mootools-core.js
+-rw-r--r--@  1 dominikbalint  staff   231K Mar  3 17:54 mootools-more.js
+-rw-r--r--@  1 dominikbalint  staff   290B Mar  3 17:54 pdf.gif
+-rw-r--r--@  1 dominikbalint  staff   4.0K Mar  3 17:54 respond.js
+-rw-r--r--@  1 dominikbalint  staff   1.4K Mar  3 17:54 searchButton.gif
+-rw-r--r--@  1 dominikbalint  staff   6.9K Mar  3 17:54 style.css
+-rw-r--r--@  1 dominikbalint  staff   896B Mar  3 17:54 system.css
+-rw-r--r--@  1 dominikbalint  staff    26K Mar  3 17:54 template.css
+
+./Zdroje2/files/86:
+total 2592
+drwx------@ 25 dominikbalint  staff   800B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff    40K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   940B Mar  3 17:54 2018-05_kpd.png
+-rw-r--r--@  1 dominikbalint  staff    49K Mar  3 17:54 2019-03_anag.jpg
+-rw-r--r--@  1 dominikbalint  staff    45K Mar  3 17:54 2019-03_kralik.png
+-rw-r--r--@  1 dominikbalint  staff    33K Mar  3 17:54 EPI83.png
+-rw-r--r--@  1 dominikbalint  staff    61K Mar  3 17:54 SAK.jpg
+-rw-r--r--@  1 dominikbalint  staff    43K Mar  3 17:54 Vlastimil%20Vitoul%20II.jpg
+-rw-r--r--@  1 dominikbalint  staff   3.8K Mar  3 17:54 WoltersKluwer-web-1.png
+-rw-r--r--@  1 dominikbalint  staff   672K Mar  3 17:54 Zakon-o-advokacii-5cmweb.jpg
+-rw-r--r--@  1 dominikbalint  staff    32K Mar  3 17:54 advokati_do_skol-171x145.jpg
+-rw-r--r--@  1 dominikbalint  staff    13K Mar  3 17:54 ba_3_2019_mini.png
+-rw-r--r--@  1 dominikbalint  staff    10K Mar  3 17:54 banner_oceneni_2018_.png
+-rw-r--r--@  1 dominikbalint  staff    12K Mar  3 17:54 epravo.jpg
+-rw-r--r--@  1 dominikbalint  staff   107K Mar  3 17:54 funkcni-kategorizace-sverenskych-fondu.html
+-rw-r--r--@  1 dominikbalint  staff    91K Mar  3 17:54 jquery.js
+-rw-r--r--@  1 dominikbalint  staff   2.8K Mar  3 17:54 logo-ak.png
+-rw-r--r--@  1 dominikbalint  staff   6.0K Mar  3 17:54 logo.png
+-rw-r--r--@  1 dominikbalint  staff   6.7K Mar  3 17:54 normalize.css
+-rw-r--r--@  1 dominikbalint  staff   3.3K Mar  3 17:54 pepa.css
+-rw-r--r--@  1 dominikbalint  staff    10K Mar  3 17:54 promo-2.png
+-rw-r--r--@  1 dominikbalint  staff   2.1K Mar  3 17:54 rss_icon.png
+-rw-r--r--@  1 dominikbalint  staff   9.9K Mar  3 17:54 screen.css
+-rw-r--r--@  1 dominikbalint  staff   512B Mar  3 17:54 search-arrow.png
+
+./Zdroje2/files/88:
+total 2040
+drwx------@ 24 dominikbalint  staff   768B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff    34K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff    81K Mar  3 17:54 39_181-podrobneji-k-sverenskemu-fondu.html
+-rw-r--r--@  1 dominikbalint  staff    43K Mar  3 17:54 analytics.js
+-rw-r--r--@  1 dominikbalint  staff   254K Mar  3 17:54 app.js
+-rw-r--r--@  1 dominikbalint  staff   7.2K Mar  3 17:54 css.css
+-rw-r--r--@  1 dominikbalint  staff    37K Mar  3 17:54 czechpoint.png
+-rw-r--r--@  1 dominikbalint  staff   126K Mar  3 17:54 fbevents.js
+-rw-r--r--@  1 dominikbalint  staff    59K Mar  3 17:54 gtm.js
+-rw-r--r--@  1 dominikbalint  staff   694B Mar  3 17:54 ico-facebook.svg
+-rw-r--r--@  1 dominikbalint  staff   4.4K Mar  3 17:54 logo-ce.png
+-rw-r--r--@  1 dominikbalint  staff   9.1K Mar  3 17:54 logo-de.png
+-rw-r--r--@  1 dominikbalint  staff   2.9K Mar  3 17:54 logo-enn.png
+-rw-r--r--@  1 dominikbalint  staff   7.5K Mar  3 17:54 logo-esn.png
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 logo-iun.png
+-rw-r--r--@  1 dominikbalint  staff   8.8K Mar  3 17:54 logo-ne.png
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 logo-nkcr-big.png
+-rw-r--r--@  1 dominikbalint  staff   7.2K Mar  3 17:54 logo-nkcr.png
+-rw-r--r--@  1 dominikbalint  staff    76K Mar  3 17:54 main.css
+-rw-r--r--@  1 dominikbalint  staff    64K Mar  3 17:54 notarskyrad.png
+-rw-r--r--@  1 dominikbalint  staff    69K Mar  3 17:54 obcanskopravni.png
+-rw-r--r--@  1 dominikbalint  staff    56K Mar  3 17:54 spolecnosti.png
+-rw-r--r--@  1 dominikbalint  staff    44B Mar  3 17:54 tr.gif
+
+./Zdroje2/files/91:
+total 2064
+drwx------@ 24 dominikbalint  staff   768B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff    40K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff    88K Mar  3 17:54 39_191-prakticke-aspekty-sverenskeho-fondu-ve-svetle-navrhu-urgentni-novely-obcanskeho-zakoniku.html
+-rw-r--r--@  1 dominikbalint  staff    43K Mar  3 17:54 analytics.js
+-rw-r--r--@  1 dominikbalint  staff   254K Mar  3 17:54 app.js
+-rw-r--r--@  1 dominikbalint  staff   7.2K Mar  3 17:54 css.css
+-rw-r--r--@  1 dominikbalint  staff    37K Mar  3 17:54 czechpoint.png
+-rw-r--r--@  1 dominikbalint  staff   126K Mar  3 17:54 fbevents.js
+-rw-r--r--@  1 dominikbalint  staff    59K Mar  3 17:54 gtm.js
+-rw-r--r--@  1 dominikbalint  staff   694B Mar  3 17:54 ico-facebook.svg
+-rw-r--r--@  1 dominikbalint  staff   4.4K Mar  3 17:54 logo-ce.png
+-rw-r--r--@  1 dominikbalint  staff   9.1K Mar  3 17:54 logo-de.png
+-rw-r--r--@  1 dominikbalint  staff   2.9K Mar  3 17:54 logo-enn.png
+-rw-r--r--@  1 dominikbalint  staff   7.5K Mar  3 17:54 logo-esn.png
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 logo-iun.png
+-rw-r--r--@  1 dominikbalint  staff   8.8K Mar  3 17:54 logo-ne.png
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 logo-nkcr-big.png
+-rw-r--r--@  1 dominikbalint  staff   7.2K Mar  3 17:54 logo-nkcr.png
+-rw-r--r--@  1 dominikbalint  staff    76K Mar  3 17:54 main.css
+-rw-r--r--@  1 dominikbalint  staff    64K Mar  3 17:54 notarskyrad.png
+-rw-r--r--@  1 dominikbalint  staff    69K Mar  3 17:54 obcanskopravni.png
+-rw-r--r--@  1 dominikbalint  staff    56K Mar  3 17:54 spolecnosti.png
+-rw-r--r--@  1 dominikbalint  staff    44B Mar  3 17:54 tr.gif
+
+./Zdroje2/files/93:
+total 2040
+drwx------@ 24 dominikbalint  staff   768B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff    34K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff    81K Mar  3 17:54 39_181-podrobneji-k-sverenskemu-fondu.html
+-rw-r--r--@  1 dominikbalint  staff    43K Mar  3 17:54 analytics.js
+-rw-r--r--@  1 dominikbalint  staff   254K Mar  3 17:54 app.js
+-rw-r--r--@  1 dominikbalint  staff   7.2K Mar  3 17:54 css.css
+-rw-r--r--@  1 dominikbalint  staff    37K Mar  3 17:54 czechpoint.png
+-rw-r--r--@  1 dominikbalint  staff   126K Mar  3 17:54 fbevents.js
+-rw-r--r--@  1 dominikbalint  staff    59K Mar  3 17:54 gtm.js
+-rw-r--r--@  1 dominikbalint  staff   694B Mar  3 17:54 ico-facebook.svg
+-rw-r--r--@  1 dominikbalint  staff   4.4K Mar  3 17:54 logo-ce.png
+-rw-r--r--@  1 dominikbalint  staff   9.1K Mar  3 17:54 logo-de.png
+-rw-r--r--@  1 dominikbalint  staff   2.9K Mar  3 17:54 logo-enn.png
+-rw-r--r--@  1 dominikbalint  staff   7.5K Mar  3 17:54 logo-esn.png
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 logo-iun.png
+-rw-r--r--@  1 dominikbalint  staff   8.8K Mar  3 17:54 logo-ne.png
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 logo-nkcr-big.png
+-rw-r--r--@  1 dominikbalint  staff   7.2K Mar  3 17:54 logo-nkcr.png
+-rw-r--r--@  1 dominikbalint  staff    76K Mar  3 17:54 main.css
+-rw-r--r--@  1 dominikbalint  staff    64K Mar  3 17:54 notarskyrad.png
+-rw-r--r--@  1 dominikbalint  staff    69K Mar  3 17:54 obcanskopravni.png
+-rw-r--r--@  1 dominikbalint  staff    56K Mar  3 17:54 spolecnosti.png
+-rw-r--r--@  1 dominikbalint  staff    44B Mar  3 17:54 tr.gif
+
+./Zdroje2/files/96:
+total 2936
+drwx------@ 25 dominikbalint  staff   800B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-------@  1 dominikbalint  staff    26K Mar  3 17:54 .zotero-ft-cache
+-rw-r--r--@  1 dominikbalint  staff   447K Mar  3 17:54 1586224604985593.js
+-rw-r--r--@  1 dominikbalint  staff    77K Mar  3 17:54 39_488-sverensky-fond-po-zmenach-pravni-upravy.html
+-rw-r--r--@  1 dominikbalint  staff    44K Mar  3 17:54 analytics.js
+-rw-r--r--@  1 dominikbalint  staff   254K Mar  3 17:54 app.js
+-rw-r--r--@  1 dominikbalint  staff   7.3K Mar  3 17:54 css.css
+-rw-r--r--@  1 dominikbalint  staff    37K Mar  3 17:54 czechpoint.png
+-rw-r--r--@  1 dominikbalint  staff   126K Mar  3 17:54 fbevents.js
+-rw-r--r--@  1 dominikbalint  staff    59K Mar  3 17:54 gtm.js
+-rw-r--r--@  1 dominikbalint  staff   694B Mar  3 17:54 ico-facebook.svg
+-rw-r--r--@  1 dominikbalint  staff   4.4K Mar  3 17:54 logo-ce.png
+-rw-r--r--@  1 dominikbalint  staff   9.1K Mar  3 17:54 logo-de.png
+-rw-r--r--@  1 dominikbalint  staff   2.9K Mar  3 17:54 logo-enn.png
+-rw-r--r--@  1 dominikbalint  staff   7.5K Mar  3 17:54 logo-esn.png
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 logo-iun.png
+-rw-r--r--@  1 dominikbalint  staff   8.8K Mar  3 17:54 logo-ne.png
+-rw-r--r--@  1 dominikbalint  staff    14K Mar  3 17:54 logo-nkcr-big.png
+-rw-r--r--@  1 dominikbalint  staff   7.2K Mar  3 17:54 logo-nkcr.png
+-rw-r--r--@  1 dominikbalint  staff    76K Mar  3 17:54 main.css
+-rw-r--r--@  1 dominikbalint  staff    64K Mar  3 17:54 notarskyrad.png
+-rw-r--r--@  1 dominikbalint  staff    69K Mar  3 17:54 obcanskopravni.png
+-rw-r--r--@  1 dominikbalint  staff    56K Mar  3 17:54 spolecnosti.png
+-rw-r--r--@  1 dominikbalint  staff    11K Mar  3 17:54 sverenskefondyfu1.png
+
+./Zdroje2/files/97:
+total 2336
+drwx------@  3 dominikbalint  staff    96B Mar  3 17:54 .
+drwx------@ 42 dominikbalint  staff   1.3K Mar  3 17:54 ..
+-rw-r--r--@  1 dominikbalint  staff   1.1M Mar  3 17:54 Ondřejcová - Procesní souvislosti svěřenských fondů v komparati.pdf
