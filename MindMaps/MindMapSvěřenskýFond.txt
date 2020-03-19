@@ -1,0 +1,1343 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf400
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red191\green191\blue191;}
+{\*\expandedcolortbl;;\csgray\c79525;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww28600\viewh18000\viewkind0
+\deftab720
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf0 Sv\uc0\u283 \u345 ensk\'fd fond\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  304/2013 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/80595/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky o ve\u345 ejn\'fdch rejst\u345 \'edc\'edch pr\'e1vnick\'fdch a fyzick\'fdch osob a o evidenci sv\u283 \u345 ensk\'fdch fond\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  351/2013 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/80795/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Na\uc0\u345 \'edzen\'ed Vl\'e1dy \u268 esk\'e9 republiky o v\'fd\'9ai \'farok\u367  z prodlen\'ed a n\'e1klad\u367  spojen\'fdch s uplatn\u283 n\'edm pohled\'e1vky\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  323/2013 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/80641/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka Ministerstva spravedlnosti formul\'e1\uc0\u345 e na pod\'e1v\'e1n\'ed n\'e1vrh\u367  na z\'e1pis do ve\u345 ejn\'e9ho rejst\u345 \'edku\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  184/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/92236/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Na\uc0\u345 \'edzen\'ed Vl\'e1dy \u268 esk\'e9 republiky zm\u283 na na\u345 \'edzen\'ed o v\'fd\'9ai \'farok\u367  z prodlen\'ed a n\'e1klad\u367  spojen\'fdch s uplatn\u283 n\'edm pohled\'e1vky\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  89/2012 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/74907/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky ob\u269 ansk\'fd z\'e1kon\'edk\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  99/1963 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/30398/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon N\'e1rodn\'edho shrom\'e1\'9ed\uc0\u283 n\'ed ob\u269 ansk\'fd soudn\'ed \u345 \'e1d\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  586/1992 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/40374/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon \uc0\u268 esk\'e9 n\'e1rodn\'ed rady o dan\'edch z p\u345 \'edjm\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  141/1961 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/30139/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon N\'e1rodn\'edho shrom\'e1\'9ed\uc0\u283 n\'ed trestn\'ed \u345 \'e1d\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  40/2009 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/68040/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky trestn\'ed z\'e1kon\'edk\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  235/2004 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/57849/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky o dani z p\u345 idan\'e9 hodnoty\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  177/1996 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/44272/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka Ministerstva spravedlnosti advok\'e1tn\'ed tarif\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  455/1991 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/39498/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Feder\'e1ln\'edho shrom\'e1\'9ed\uc0\u283 n\'ed \'9eivnostensk\'fd z\'e1kon\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  563/1991 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/39611/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Feder\'e1ln\'edho shrom\'e1\'9ed\uc0\u283 n\'ed o \'fa\u269 etnictv\'ed\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  549/1991 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/39597/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon \uc0\u268 esk\'e9 n\'e1rodn\'ed rady o soudn\'edch poplatc\'edch\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  56/2001 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/50994/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky o podm\'ednk\'e1ch provozu vozidel na pozemn\'edch komunikac\'edch\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  292/2013 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/80583/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky o zvl\'e1\'9atn\'edch \u345 \'edzen\'edch soudn\'edch\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  256/2013 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/80383/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky katastr\'e1ln\'ed z\'e1kon\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  253/2008 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/67214/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky o n\u283 kter\'fdch opat\u345 en\'edch proti legalizaci v\'fdnos\u367  z trestn\'e9 \u269 innosti a financov\'e1n\'ed terorismu\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  340/2013 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/80744/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1konn\'e9 opat\uc0\u345 en\'ed Sen\'e1tu o dani z nabyt\'ed nemovit\'fdch v\u283 c\'ed\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  240/2013 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/80335/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky o investi\u269 n\'edch spole\u269 nostech a investi\u269 n\'edch fondech\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  634/2004 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/58613/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky o spr\'e1vn\'edch poplatc\'edch\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  357/2013 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/80843/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka \uc0\u268 esk\'e9ho \'fa\u345 adu zem\u283 m\u283 \u345 ick\'e9ho a katastr\'e1ln\'edho katastr\'e1ln\'ed vyhl\'e1\'9aka\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  338/1992 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/40062/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon \uc0\u268 esk\'e9 n\'e1rodn\'ed rady o dani z nemovit\'fdch v\u283 c\'ed\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  168/1999 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/47910/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky z\'e1kon o poji\'9at\u283 n\'ed odpov\u283 dnosti z provozu vozidla\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  91/2012 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/74909/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky o mezin\'e1rodn\'edm pr\'e1vu soukrom\'e9m\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  111/2009 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/68500/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky o z\'e1kladn\'edch registrech\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  256/2001 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/51516/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky o poh\u345 ebnictv\'ed a o zm\u283 n\u283  n\u283 kter\'fdch z\'e1kon\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  93/2009 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/68445/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky o auditorech\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  593/1992 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/40382/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon \uc0\u268 esk\'e9 n\'e1rodn\'ed rady o rezerv\'e1ch pro zji\'9at\u283 n\'ed z\'e1kladu dan\u283  z p\u345 \'edjm\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  247/1995 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/43269/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky o volb\'e1ch do Parlamentu \u268 esk\'e9 republiky\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  323/2002 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/53670/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka Ministerstva financ\'ed o rozpo\uc0\u269 tov\'e9 skladb\u283 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  196/2001 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/51382/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka Ministerstva spravedlnosti not\'e1\uc0\u345 sk\'fd tarif\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  424/1991 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/39464/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Feder\'e1ln\'edho shrom\'e1\'9ed\uc0\u283 n\'ed o sdru\'9eov\'e1n\'ed v politick\'fdch stran\'e1ch a v politick\'fdch hnut\'edch\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  505/2001-Org.\
+  https://www.noveaspi.cz/products/lawText/1/52225/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti vnit\uc0\u345 n\'ed a kancel\'e1\u345 sk\'fd \u345 \'e1d pro okresn\'ed, krajsk\'e9 a vrchn\'ed soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  275/2012 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/78075/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky z\'e1kon o volb\u283  prezidenta republiky\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  164/2013 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/80086/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky o mezin\'e1rodn\'ed spolupr\'e1ci p\u345 i spr\'e1v\u283  dan\'ed a o zm\u283 n\u283  dal\'9a\'edch z\'e1kon\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  130/2000 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/49298/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky o volb\'e1ch do zastupitelstev kraj\u367  a o zm\u283 n\u283  n\u283 kter\'fdch z\'e1kon\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  275/2008 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/67275/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed \u268 esk\'e9ho statistick\'e9ho \'fa\u345 adu o zaveden\'ed Klasifikace produkce (CZ-CPA)\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  62/2003 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/55330/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky o volb\'e1ch do Evropsk\'e9ho parlamentu a o zm\u283 n\u283  n\u283 kter\'fdch z\'e1kon\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  247/2013 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/80349/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka \uc0\u268 esk\'e9 n\'e1rodn\'ed banky o \'9e\'e1dostech podle z\'e1kona o investi\u269 n\'edch spole\u269 nostech a fondech\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  162/2015 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/84304/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka Ministerstva vnitra o podrobnostech \'fa\uc0\u345 ednick\'e9 zkou\'9aky\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  67/2018 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/90146/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka \uc0\u268 esk\'e9 n\'e1rodn\'ed banky o po\'9eadavc\'edch na syst\'e9m proti legalizaci v\'fdnos\u367  z trestn\'e9 \u269 innosti\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  293/2013 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/80584/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na ob\u269 ansk\'e9ho soudn\'edho \u345 \'e1du a n\u283 kter\'fdch dal\'9a\'edch z\'e1kon\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  302/2016 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/87083/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 ny z\'e1kona o politick\'fdch stran\'e1ch a dal\'9a\'edch souvisej\'edc\'edch z\'e1kon\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  \uc0\u268 \'daZK-03030/2016-22\
+  https://www.noveaspi.cz/products/lawText/1/85942/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  N\'e1vod \uc0\u268 esk\'e9ho \'fa\u345 adu zem\u283 m\u283 \u345 ick\'e9ho a katastr\'e1ln\'edho pro spr\'e1vu katastru nemovitost\'ed\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  300/2016 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/87081/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky o centr\'e1ln\'ed evidenci \'fa\u269 t\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  72/2014 Sb.m.s.\
+  https://www.noveaspi.cz/products/lawText/1/83233/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva zahrani\u269 n\'edch v\u283 c\'ed Dohoda s USA o zlep\'9aen\'ed dodr\'9eov\'e1n\'ed da\u328 ov\'fdch p\u345 edpis\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  249/2013 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/80351/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka \uc0\u268 esk\'e9 n\'e1rodn\'ed banky o oznamov\'e1n\'ed \'fadaj\u367  investi\u269 n\'edmi fondy \u268 esk\'e9 n\'e1rodn\'ed bance\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  474/2013 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/81292/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka \uc0\u268 esk\'e9 n\'e1rodn\'ed banky odm\u283 na likvid\'e1tora, nucen\'e9ho spr\'e1vce a insolven\u269 n\'edho spr\'e1vce\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  346/2013 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/80770/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka \uc0\u268 esk\'e9 n\'e1rodn\'ed banky o p\u345 edkl\'e1d\'e1n\'ed v\'fdkaz\u367  bankami a pobo\u269 kami zahrani\u269 n\'edch bank \u268 esk\'e9 n\'e1rodn\'ed bance\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  303/2013 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/80594/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na z\'e1kon\u367  v souvis. s p\u345 ijet\'edm rekodifikace soukrom\'e9ho pr\'e1va\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  344/2013 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/80768/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1konn\'e9 opat\uc0\u345 en\'ed Sen\'e1tu zm\u283 na z\'e1kon\u367  v souvislosti s rekodifikac\'ed soukrom\'e9ho pr\'e1va\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  460/2016 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/87646/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na ob\u269 ansk\'e9ho z\'e1kon\'edku a dal\'9a\'edch souvisej\'edc\'edch z\'e1kon\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  373/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/93041/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Proti-infla\u269 n\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2020-2026 II, CPI %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  196/2018 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/90707/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka \uc0\u268 esk\'e9 n\'e1rodn\'ed banky o \'9e\'e1dostech podle z\'e1kona o distribuci poji\'9at\u283 n\'ed a zaji\'9at\u283 n\'ed\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  368/2016 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/87367/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na z\'e1kona o opat\u345 en\'edch proti legalizaci v\'fdnos\u367  z trestn\'e9 \u269 innosti a financov\'e1n\'ed terorismu\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  GF\uc0\u344 -D-18\
+  https://www.noveaspi.cz/products/lawText/1/83385/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Pokyn Gener\'e1ln\'edho finan\uc0\u269 n\'edho \u345 editelstv\'ed k ru\u269 en\'ed v da\u328 ov\'e9m \u345 \'edzen\'ed\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  170/2017 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/88558/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na n\u283 kter\'fdch z\'e1kon\u367  v oblasti dan\'ed\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  267/2014 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/82926/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na z\'e1kona o dan\'edch z p\u345 \'edjm\u367  a zm\u283 na dal\'9a\'edch souvis. z\'e1kon\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  337/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/92910/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  N\'e1lez \'dastavn\'edho soudu ve v\uc0\u283 ci n\'e1vrhu na zru\'9aen\'ed \'a7 72 odst. 1 a 2 z\'e1kona \u269 . 280/2009 Sb., da\u328 ov\'fd \u345 \'e1d\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  21/1999 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/47448/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva zahrani\u269 n\'edch v\u283 c\'ed \'damluva o z\'e1kazu nebo omezen\'ed pou\'9eit\'ed n\u283 kter\'fdch konven\u269 n\'edch zbran\'ed\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  77/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/91689/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Proti-infla\u269 n\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2019-2025, CPI %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  221/2015 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/84593/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na z\'e1kona o \'fa\u269 etnictv\'ed a zm\u283 na n\u283 kter\'fdch dal\'9a\'edch z\'e1kon\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  303/2017 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/88988/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na z\'e1kon\u367  v souvislosti se zru\'9aen\'edm statusu ve\u345 . prosp\u283 \'9anosti\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  193/2017 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/88638/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na z\'e1kona o poh\u345 ebnictv\'ed a dal\'9a\'edch souvisej\'edc\'edch z\'e1kon\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  287/2018 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/91141/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na trestn\'edho z\'e1kon\'edku a n\u283 kter\'fdch dal\'9a\'edch z\'e1kon\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  60/2018 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/90067/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  N\'e1lez \'dastavn\'edho soudu n\'e1vrh na zru\'9aen\'ed n\uc0\u283 kter\'fdch ustanoven\'ed z\'e1kona \u269 . 424/1991 Sb.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  GF04/2014\
+  https://www.noveaspi.cz/products/lawText/1/84214/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Informace Gener\'e1ln\'edho finan\uc0\u269 n\'edho \u345 editelstv\'ed osvobozen\'ed od dan\u283  z nabyt\'ed nemovit\'fdch v\u283 c\'ed u nov\'fdch staveb\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  1/2014 (CBO)\
+  https://www.noveaspi.cz/products/lawText/1/81434/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  \'da\uc0\u345 edn\'ed sd\u283 len\'ed \u268 esk\'e9 n\'e1rodn\'ed banky o p\u345 \'edpustnosti pob\'eddek p\u345 i distribuci produkt\u367  na finan\u269 n\'edm trhu\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  14/2018 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/89733/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka \uc0\u268 esk\'e9 n\'e1rodn\'ed banky o platebn\'edch syst\'e9mech s neodvolatelnost\'ed z\'fa\u269 tov\'e1n\'ed\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  86/2015 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/83936/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na z\'e1kona o v\'fdkonu zaji\'9at\u283 n\'ed majetku a v\u283 c\'ed v trestn\'edm \u345 \'edzen\'ed\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  99/2014 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/82165/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Reinvesti\u269 n\'ed spo\u345 ic\'ed st\'e1tn\'ed dluhopis,2014-2019\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  371/2017 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/89263/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na z\'e1kon\u367  v souvislosti s p\u345 ijet\'edm z\'e1kona o platebn\'edm styku\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  55/2017 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/88068/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na trestn\'edho z\'e1kon\'edku a dal\'9a\'edch z\'e1kon\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  63/2017 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/88076/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na z\'e1kona o poji\'9at\u283 n\'ed odpov\u283 dnosti z provozu vozidla\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  148/2016 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/86464/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na z\'e1kona o podnik\'e1n\'ed na kapit\'e1lov\'e9m trhu a dal\'9a\'edch z\'e1kon\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  105/2016 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/86200/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na z\'e1kon\u367  v oblasti mezin\'e1rodn\'ed spolupr\'e1ce p\u345 i spr\'e1v\u283  dan\'ed\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  100/2014 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/82166/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm. pro Variabiln\'ed spo\u345 ic\'ed st\'e1tn\'ed dluhopis \u268 R, 2014-2020\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  304/2016 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/87085/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na z\'e1kona o poji\'9a\u357 ovnictv\'ed a dal\'9a\'edch z\'e1kon\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  36/2015 Sb.m.s.\
+  https://www.noveaspi.cz/products/lawText/1/84183/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva zahrani\u269 n\'edch v\u283 c\'ed o sjedn\'e1n\'ed Smlouvy o obchodu se zbran\u283 mi\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  322/2016 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/87177/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na volebn\'edch z\'e1kon\u367  a dal\'9a\'edch souvisej\'edc\'edch z\'e1kon\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  242/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/92476/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Fixn\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2020-2026, 1,25 %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  78/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/91690/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Reinvesti\u269 n\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2019-2025 III, FIX %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  321/2016 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/87176/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na z\'e1kon\u367  v souvislosti s prokazov\'e1n\'edm p\u367 vodu majetku\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  241/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/92475/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Proti-infla\u269 n\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2020-2026, CPI %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  240/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/92474/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Reinvesti\u269 n\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2020-2026, FIX %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  47484/17/7100-20118-012287\
+  https://www.noveaspi.cz/products/lawText/1/88951/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Informace Gener\'e1ln\'edho finan\uc0\u269 n\'edho \u345 editelstv\'ed k aplikaci institutu nespolehliv\'e9 osoby a souvisej\'edc\'ed problematiky podle z\'e1kona o DPH\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  289/2017 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/88973/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na \'9eivnostensk\'e9ho z\'e1kona a z\'e1kona o spr\'e1vn\'edch poplatc\'edch\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  343/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/92941/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka Ministerstva financ\'ed zm\uc0\u283 na vyhl\'e1\'9aky o rozpo\u269 tov\'e9 skladb\u283 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  299/2016 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/87080/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na z\'e1kona o auditorech a dal\'9a\'edch p\u345 edpis\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  168/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/92156/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Proti-infla\u269 n\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2019-2025 II, CPI %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  17/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/91375/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Reinvesti\u269 n\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2019-2025 II, FIX %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  278/2018 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/91118/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Reinvesti\u269 n\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2019-2025, FIX %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  334/2014 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/83210/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na z\'e1kona o auditorech\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  167/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/92155/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Fixn\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2019-2025, 1,50 %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  169/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/92157/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Reinvesti\u269 n\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2019-2025 IV, FIX %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  215/1994 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/42222/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva zahrani\u269 n\'edch v\u283 c\'ed o p\u345 istoupen\'ed k Protokolu k \'damluv\u283  o d\'e1lkov\'e9m zne\u269 i\'9a\u357 ov\'e1n\'ed ovzdu\'9a\'ed\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  390/2013 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/80987/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka Ministerstva spravedlnosti zm\uc0\u283 na advok\'e1tn\'edho tarifu\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  434/2017 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/89461/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Na\uc0\u345 \'edzen\'ed Vl\'e1dy \u268 esk\'e9 republiky zm\u283 na na\u345 \'edzen\'ed o v\'fd\'9ai \'farok\u367  z prodlen\'ed a n\'e1klad\u367  spojen\'fdch s uplatn\u283 n\'edm pohled\'e1vky\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  MF01/2014\
+  https://www.noveaspi.cz/products/lawText/1/87050/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Informace Ministerstva financ\'ed da\uc0\u328  z nemovit\'fdch v\u283 c\'ed v roce 2014, zm\u283 ny od 1.1.2014\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  336/2014 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/83212/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Z\'e1kon Parlamentu \uc0\u268 esk\'e9 republiky zm\u283 na z\'e1kona o investi\u269 n\'edch spole\u269 nostech a fondech a zm\u283 na dal\'9a\'edch z\'e1kon\u367 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  25/2013 Sb.m.s.\
+  https://www.noveaspi.cz/products/lawText/1/79619/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva zahrani\u269 n\'edch v\u283 c\'ed o p\u345 \'edstupu \u268 R ke Stanov\'e1m Sv\u283 tov\'e9 organizace cestovn\'edho ruchu\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  ZP47/2017\
+  https://www.noveaspi.cz/products/lawText/1/89051/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  V\'fdzva Ministerstva \'9eivotn\'edho prost\uc0\u345 ed\'ed v\'fdzva \u269 . 12/2017 k pod\'e1v\'e1n\'ed \'9e\'e1dost\'ed o podporu v r\'e1mci NP \'8eP\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  459/2017 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/89531/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka Ministerstva spravedlnosti zm\uc0\u283 na formul\'e1\u345 \u367  na pod\'e1v\'e1n\'ed n\'e1vrh\u367  na z\'e1pis do ve\u345 ejn\'e9ho rejst\u345 \'edku\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  ZP44/2017\
+  https://www.noveaspi.cz/products/lawText/1/89048/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  V\'fdzva Ministerstva \'9eivotn\'edho prost\uc0\u345 ed\'ed v\'fdzva \u269 . 6/2017 k pod\'e1v\'e1n\'ed \'9e\'e1dost\'ed o podporu v r\'e1mci NP \'8eP\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  ZP28/2017\
+  https://www.noveaspi.cz/products/lawText/1/88393/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  V\'fdzva Ministerstva \'9eivotn\'edho prost\uc0\u345 ed\'ed v\'fdzva \u269 . 6/2017 k p\u345 edkl\'e1d\'e1n\'ed \'9e\'e1dost\'ed o podporu v r\'e1mci NP \'8eP\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  160/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/92104/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka Ministerstva vnitra zm\uc0\u283 na vyhl\'e1\'9aky o podrobnostech \'fa\u345 ednick\'e9 zkou\'9aky\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  432/2013 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/81148/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka Ministerstva spravedlnosti zm\uc0\u283 na not\'e1\u345 sk\'e9ho tarifu\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  216/2014 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/82716/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka \uc0\u268 esk\'e9 n\'e1rodn\'ed banky zm\u283 na vyhl\'e1\'9aky o p\u345 edkl\'e1d\'e1n\'ed v\'fdkaz\u367  bankami a pobo\u269 kami zahr. bank\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  374/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/93042/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Reinvesti\u269 n\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2020-2026 II, FIX %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  372/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/93040/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Fixn\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2020-2026 II, 1,50 %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  344/2014 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/83224/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka \uc0\u268 esk\'e9 n\'e1rodn\'ed banky zm\u283 na vyhl. o \'9e\'e1dostech podle z\'e1kona o investi\u269 n\'edch spole\u269 nostech\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  52/2014-OD-MET\
+  https://www.noveaspi.cz/products/lawText/1/84760/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  50/2013-OD-MET\
+  https://www.noveaspi.cz/products/lawText/1/81403/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  MSP-84/2017-OPR-M\
+  https://www.noveaspi.cz/products/lawText/1/90452/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na instrukce o vym\'e1h\'e1n\'ed pohled\'e1vek\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  2/2017-OOJ-MET\
+  https://www.noveaspi.cz/products/lawText/1/90789/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  11/2018 (VV)\
+  https://www.noveaspi.cz/products/lawText/1/90087/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Usnesen\'ed Vl\'e1dy \uc0\u268 esk\'e9 republiky o Ak\u269 n\'edm pl\'e1nu boje s korupc\'ed na rok 2018\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  115/2006 Sb.m.s.\
+  https://www.noveaspi.cz/products/lawText/1/62515/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva zahrani\u269 n\'edch v\u283 c\'ed zm\u283 na \'damluvy o z\'e1kazu n\u283 kter\'fdch konv. zbran\'ed a p\u345 ijet\'ed Protokolu V\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  372/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/93040/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Fixn\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2020-2026 II, 1,50 %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  344/2014 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/83224/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka \uc0\u268 esk\'e9 n\'e1rodn\'ed banky zm\u283 na vyhl. o \'9e\'e1dostech podle z\'e1kona o investi\u269 n\'edch spole\u269 nostech\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  52/2014-OD-MET\
+  https://www.noveaspi.cz/products/lawText/1/84760/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  50/2013-OD-MET\
+  https://www.noveaspi.cz/products/lawText/1/81403/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  MSP-84/2017-OPR-M\
+  https://www.noveaspi.cz/products/lawText/1/90452/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na instrukce o vym\'e1h\'e1n\'ed pohled\'e1vek\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  2/2017-OOJ-MET\
+  https://www.noveaspi.cz/products/lawText/1/90789/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  11/2018 (VV)\
+  https://www.noveaspi.cz/products/lawText/1/90087/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Usnesen\'ed Vl\'e1dy \uc0\u268 esk\'e9 republiky o Ak\u269 n\'edm pl\'e1nu boje s korupc\'ed na rok 2018\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  115/2006 Sb.m.s.\
+  https://www.noveaspi.cz/products/lawText/1/62515/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva zahrani\u269 n\'edch v\u283 c\'ed zm\u283 na \'damluvy o z\'e1kazu n\u283 kter\'fdch konv. zbran\'ed a p\u345 ijet\'ed Protokolu V\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  372/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/93040/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Fixn\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2020-2026 II, 1,50 %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  344/2014 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/83224/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka \uc0\u268 esk\'e9 n\'e1rodn\'ed banky zm\u283 na vyhl. o \'9e\'e1dostech podle z\'e1kona o investi\u269 n\'edch spole\u269 nostech\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  52/2014-OD-MET\
+  https://www.noveaspi.cz/products/lawText/1/84760/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  50/2013-OD-MET\
+  https://www.noveaspi.cz/products/lawText/1/81403/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  MSP-84/2017-OPR-M\
+  https://www.noveaspi.cz/products/lawText/1/90452/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na instrukce o vym\'e1h\'e1n\'ed pohled\'e1vek\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  2/2017-OOJ-MET\
+  https://www.noveaspi.cz/products/lawText/1/90789/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  11/2018 (VV)\
+  https://www.noveaspi.cz/products/lawText/1/90087/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Usnesen\'ed Vl\'e1dy \uc0\u268 esk\'e9 republiky o Ak\u269 n\'edm pl\'e1nu boje s korupc\'ed na rok 2018\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  115/2006 Sb.m.s.\
+  https://www.noveaspi.cz/products/lawText/1/62515/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva zahrani\u269 n\'edch v\u283 c\'ed zm\u283 na \'damluvy o z\'e1kazu n\u283 kter\'fdch konv. zbran\'ed a p\u345 ijet\'ed Protokolu V\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  372/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/93040/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Fixn\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2020-2026 II, 1,50 %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  344/2014 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/83224/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka \uc0\u268 esk\'e9 n\'e1rodn\'ed banky zm\u283 na vyhl. o \'9e\'e1dostech podle z\'e1kona o investi\u269 n\'edch spole\u269 nostech\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  52/2014-OD-MET\
+  https://www.noveaspi.cz/products/lawText/1/84760/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  50/2013-OD-MET\
+  https://www.noveaspi.cz/products/lawText/1/81403/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  MSP-84/2017-OPR-M\
+  https://www.noveaspi.cz/products/lawText/1/90452/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na instrukce o vym\'e1h\'e1n\'ed pohled\'e1vek\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  2/2017-OOJ-MET\
+  https://www.noveaspi.cz/products/lawText/1/90789/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  11/2018 (VV)\
+  https://www.noveaspi.cz/products/lawText/1/90087/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Usnesen\'ed Vl\'e1dy \uc0\u268 esk\'e9 republiky o Ak\u269 n\'edm pl\'e1nu boje s korupc\'ed na rok 2018\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  115/2006 Sb.m.s.\
+  https://www.noveaspi.cz/products/lawText/1/62515/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva zahrani\u269 n\'edch v\u283 c\'ed zm\u283 na \'damluvy o z\'e1kazu n\u283 kter\'fdch konv. zbran\'ed a p\u345 ijet\'ed Protokolu V\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  372/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/93040/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Fixn\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2020-2026 II, 1,50 %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  344/2014 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/83224/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka \uc0\u268 esk\'e9 n\'e1rodn\'ed banky zm\u283 na vyhl. o \'9e\'e1dostech podle z\'e1kona o investi\u269 n\'edch spole\u269 nostech\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  52/2014-OD-MET\
+  https://www.noveaspi.cz/products/lawText/1/84760/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  50/2013-OD-MET\
+  https://www.noveaspi.cz/products/lawText/1/81403/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  MSP-84/2017-OPR-M\
+  https://www.noveaspi.cz/products/lawText/1/90452/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na instrukce o vym\'e1h\'e1n\'ed pohled\'e1vek\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  2/2017-OOJ-MET\
+  https://www.noveaspi.cz/products/lawText/1/90789/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  11/2018 (VV)\
+  https://www.noveaspi.cz/products/lawText/1/90087/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Usnesen\'ed Vl\'e1dy \uc0\u268 esk\'e9 republiky o Ak\u269 n\'edm pl\'e1nu boje s korupc\'ed na rok 2018\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  115/2006 Sb.m.s.\
+  https://www.noveaspi.cz/products/lawText/1/62515/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva zahrani\u269 n\'edch v\u283 c\'ed zm\u283 na \'damluvy o z\'e1kazu n\u283 kter\'fdch konv. zbran\'ed a p\u345 ijet\'ed Protokolu V\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  372/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/93040/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Fixn\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2020-2026 II, 1,50 %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  344/2014 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/83224/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka \uc0\u268 esk\'e9 n\'e1rodn\'ed banky zm\u283 na vyhl. o \'9e\'e1dostech podle z\'e1kona o investi\u269 n\'edch spole\u269 nostech\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  52/2014-OD-MET\
+  https://www.noveaspi.cz/products/lawText/1/84760/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  50/2013-OD-MET\
+  https://www.noveaspi.cz/products/lawText/1/81403/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  MSP-84/2017-OPR-M\
+  https://www.noveaspi.cz/products/lawText/1/90452/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na instrukce o vym\'e1h\'e1n\'ed pohled\'e1vek\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  2/2017-OOJ-MET\
+  https://www.noveaspi.cz/products/lawText/1/90789/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  11/2018 (VV)\
+  https://www.noveaspi.cz/products/lawText/1/90087/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Usnesen\'ed Vl\'e1dy \uc0\u268 esk\'e9 republiky o Ak\u269 n\'edm pl\'e1nu boje s korupc\'ed na rok 2018\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  115/2006 Sb.m.s.\
+  https://www.noveaspi.cz/products/lawText/1/62515/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva zahrani\u269 n\'edch v\u283 c\'ed zm\u283 na \'damluvy o z\'e1kazu n\u283 kter\'fdch konv. zbran\'ed a p\u345 ijet\'ed Protokolu V\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  372/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/93040/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Fixn\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2020-2026 II, 1,50 %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  344/2014 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/83224/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka \uc0\u268 esk\'e9 n\'e1rodn\'ed banky zm\u283 na vyhl. o \'9e\'e1dostech podle z\'e1kona o investi\u269 n\'edch spole\u269 nostech\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  52/2014-OD-MET\
+  https://www.noveaspi.cz/products/lawText/1/84760/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  50/2013-OD-MET\
+  https://www.noveaspi.cz/products/lawText/1/81403/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  MSP-84/2017-OPR-M\
+  https://www.noveaspi.cz/products/lawText/1/90452/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na instrukce o vym\'e1h\'e1n\'ed pohled\'e1vek\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  2/2017-OOJ-MET\
+  https://www.noveaspi.cz/products/lawText/1/90789/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  11/2018 (VV)\
+  https://www.noveaspi.cz/products/lawText/1/90087/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Usnesen\'ed Vl\'e1dy \uc0\u268 esk\'e9 republiky o Ak\u269 n\'edm pl\'e1nu boje s korupc\'ed na rok 2018\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  115/2006 Sb.m.s.\
+  https://www.noveaspi.cz/products/lawText/1/62515/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva zahrani\u269 n\'edch v\u283 c\'ed zm\u283 na \'damluvy o z\'e1kazu n\u283 kter\'fdch konv. zbran\'ed a p\u345 ijet\'ed Protokolu V\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  372/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/93040/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Fixn\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2020-2026 II, 1,50 %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  344/2014 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/83224/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka \uc0\u268 esk\'e9 n\'e1rodn\'ed banky zm\u283 na vyhl. o \'9e\'e1dostech podle z\'e1kona o investi\u269 n\'edch spole\u269 nostech\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  52/2014-OD-MET\
+  https://www.noveaspi.cz/products/lawText/1/84760/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  50/2013-OD-MET\
+  https://www.noveaspi.cz/products/lawText/1/81403/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  MSP-84/2017-OPR-M\
+  https://www.noveaspi.cz/products/lawText/1/90452/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na instrukce o vym\'e1h\'e1n\'ed pohled\'e1vek\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  2/2017-OOJ-MET\
+  https://www.noveaspi.cz/products/lawText/1/90789/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  11/2018 (VV)\
+  https://www.noveaspi.cz/products/lawText/1/90087/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Usnesen\'ed Vl\'e1dy \uc0\u268 esk\'e9 republiky o Ak\u269 n\'edm pl\'e1nu boje s korupc\'ed na rok 2018\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  115/2006 Sb.m.s.\
+  https://www.noveaspi.cz/products/lawText/1/62515/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva zahrani\u269 n\'edch v\u283 c\'ed zm\u283 na \'damluvy o z\'e1kazu n\u283 kter\'fdch konv. zbran\'ed a p\u345 ijet\'ed Protokolu V\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  372/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/93040/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Fixn\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2020-2026 II, 1,50 %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  344/2014 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/83224/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka \uc0\u268 esk\'e9 n\'e1rodn\'ed banky zm\u283 na vyhl. o \'9e\'e1dostech podle z\'e1kona o investi\u269 n\'edch spole\u269 nostech\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  52/2014-OD-MET\
+  https://www.noveaspi.cz/products/lawText/1/84760/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  50/2013-OD-MET\
+  https://www.noveaspi.cz/products/lawText/1/81403/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  MSP-84/2017-OPR-M\
+  https://www.noveaspi.cz/products/lawText/1/90452/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na instrukce o vym\'e1h\'e1n\'ed pohled\'e1vek\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  2/2017-OOJ-MET\
+  https://www.noveaspi.cz/products/lawText/1/90789/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  11/2018 (VV)\
+  https://www.noveaspi.cz/products/lawText/1/90087/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Usnesen\'ed Vl\'e1dy \uc0\u268 esk\'e9 republiky o Ak\u269 n\'edm pl\'e1nu boje s korupc\'ed na rok 2018\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  115/2006 Sb.m.s.\
+  https://www.noveaspi.cz/products/lawText/1/62515/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva zahrani\u269 n\'edch v\u283 c\'ed zm\u283 na \'damluvy o z\'e1kazu n\u283 kter\'fdch konv. zbran\'ed a p\u345 ijet\'ed Protokolu V\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  372/2019 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/93040/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva financ\'ed emisn\'ed podm\'ednky pro Fixn\'ed st\'e1tn\'ed dluhopis \u268 esk\'e9 republiky, 2020-2026 II, 1,50 %\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  344/2014 Sb.\
+  https://www.noveaspi.cz/products/lawText/1/83224/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Vyhl\'e1\'9aka \uc0\u268 esk\'e9 n\'e1rodn\'ed banky zm\u283 na vyhl. o \'9e\'e1dostech podle z\'e1kona o investi\u269 n\'edch spole\u269 nostech\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  52/2014-OD-MET\
+  https://www.noveaspi.cz/products/lawText/1/84760/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  50/2013-OD-MET\
+  https://www.noveaspi.cz/products/lawText/1/81403/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  MSP-84/2017-OPR-M\
+  https://www.noveaspi.cz/products/lawText/1/90452/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na instrukce o vym\'e1h\'e1n\'ed pohled\'e1vek\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  2/2017-OOJ-MET\
+  https://www.noveaspi.cz/products/lawText/1/90789/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Instrukce Ministerstva spravedlnosti zm\uc0\u283 na vnit\u345 n\'edho a kancel\'e1\u345 sk\'e9ho \u345 \'e1du pro soudy\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  11/2018 (VV)\
+  https://www.noveaspi.cz/products/lawText/1/90087/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Usnesen\'ed Vl\'e1dy \uc0\u268 esk\'e9 republiky o Ak\u269 n\'edm pl\'e1nu boje s korupc\'ed na rok 2018\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0  115/2006 Sb.m.s.\
+  https://www.noveaspi.cz/products/lawText/1/62515/1/2?vtextu=Sv%C4%9B%C5%99ensk%C3%BD%20fond#lema0\
+  Sd\uc0\u283 len\'ed Ministerstva zahrani\u269 n\'edch v\u283 c\'ed zm\u283 na \'damluvy o z\'e1kazu n\u283 kter\'fdch konv. zbran\'ed a p\u345 ijet\'ed Protokolu V\cell \lastrow\row
+}
