@@ -1,29 +1,43 @@
 \documentclass{article}
+
+% Language definition
 \usepackage[utf8]{inputenc}
+\usepackage[czech]{babel}
+
+% Package definition and folder with images
 \usepackage{graphicx}
 \graphicspath{ {./Obrazky/} }
+
+% Package difinition
 \usepackage{fancyhdr}
 \usepackage{xcolor}
 \usepackage{titling}
 \usepackage{array}
 \usepackage{todonotes}
+
+% Base header definition
 \setlength\headheight{26pt}
 \lhead{\includegraphics[width=3cm,height=\dimexpr \headheight-\dp\strutbox]{newcevro}}
 \rhead{\small{\leftmark}}
 
+% Bibliography definition
 \usepackage{biblatex}
 \addbibresource{Zdroje.bib}
 
+% Footnote package definition
 \usepackage{footnote} %Package použitý k tomu, aby byli citace uvnitř float elementů pod čarou
 \makesavenoteenv{figure} %Nastavení toho, aby byli citace uvnitř figure pod čarou
 
+% Package definition
 \usepackage{xcolor}
 
+% Different language for contents and figures
 \renewcommand\contentsname{Obsah}
 \renewcommand\listfigurename{Seznam obrázků}
 \renewcommand\figurename{Obrázek}
 
-\fancypagestyle{smallertextinheader}{ % Dokončit styl s menším textem v hlavičce
+% Special header style definition for sections with long text in header
+\fancypagestyle{smallertextinheader}{ % Dokončit styl s menším textem v hlavičce, již je dokončeno
    \fancyhf{}
    \fancyhead[LE,LO]{\includegraphics[width=3cm, height=\dimexpr \headheight-\dp\strutbox]{newcevro}}
    \fancyhead[RE,RO]{%
@@ -31,14 +45,17 @@
    {\small\uppercase\leftmark}}%
 }
 
-\fancypagestyle{Contents}{ % Dokončit styl s menším textem v hlavičce
+% Special header for contents only
+\fancypagestyle{Contents}{ % Dokončit styl s menším textem v hlavičce, již je dokončeno
    \fancyhf{}
    \fancyhead[LE,LO]{\includegraphics[width=3cm, height=\dimexpr \headheight-\dp\strutbox]{newcevro}}
    \fancyhead[RE,RO]{\small{\uppercase{\rightmark}}}
 }
 
+% Basic page style definition
 \pagestyle{fancy}
 
+% Pretitle definition
 \pretitle{
 	\begin{center}
 	\LARGE
@@ -46,12 +63,15 @@
 }
 \posttitle{\end{center}}
 
+% Document body --------------
 \begin{document}
 
+% Title definition for second page
 \title{Svěřenský fond jako nástroj transferu majetku mezi generacemi}
 \author{Dominik Bálint}
 \date{01.12.2019}
 
+% First page of my bachelors work
 \pagenumbering{gobble}
   \thispagestyle{empty}
   \begin{center}
@@ -70,6 +90,7 @@
   {\Large \textbf{Praha 2019}} \\
   \end{center}
   
+ % Second page information 
 \newpage
   \thispagestyle{empty}
   \maketitle
@@ -82,6 +103,7 @@
   {\Large Mgr. Ing.  Střeleček  Tomáš LL.M.} \\
   \end{center}
   
+% Čestné prohlášení  
 \newpage
   \thispagestyle{empty}
   \vspace*{\fill}
@@ -92,13 +114,14 @@ Prohlašuji, že jsem předkládanou práci zpracoval samostatně, uvedl
 v ní všechny použité prameny a zdroje, které jsou uvedeny v seznamu použité
 literatury, a v textu řádně vyznačil jejich použití. \\
 
-\noindent V Praze dne \today \\
+\noindent V Praze dne {\selectlanguage{czech}\today} \\ %Změněno na české datum, možná budu muset odebrat, babel package způsobuje z nějakého důvodu error
 \vspace{10mm} \\
 \begin{tabular}{p{6cm}c}
 & ................................................. \\
 & Dominik Bálint
 \end{tabular}
 
+% Poděkování
 \newpage
 
 \thispagestyle{empty}
@@ -111,12 +134,14 @@ Střeleček  Tomáš LL.M. za podporu, trpělivost, spolupráci, podněty ke zle
 také za čas, který mi věnoval při vedení práce.
 
 \vspace*{\fill}
- 
+
+% Page with contents 
 \newpage
   \thispagestyle{Contents}
   \tableofcontents
   \listoffigures
-  
+
+% Strana se seznamem použitých zkratek  
 \newpage
  \pagenumbering{arabic}
  
@@ -134,7 +159,7 @@ také za čas, který mi věnoval při vedení práce.
 \textbf{OZ} & zákon č. 89/2012 Sb., občanský zákoník	
 \end{tabular}
 
-  
+% Samotný text práce začíná zde  
 \newpage
   
 \section{Úvod}
@@ -207,13 +232,13 @@ PŘEKLAD \\
 
 \indent V kontinentálním právu se instituty, které by se svým obsahem shodovaly s výše popsaným vymezením, začaly používat již v antickém Římě ve formě takzvaného fideikomisu (latinsky \textit{fideicommissum}, pochází ze slov \textit{fīdē} v překladu "důvěra" a \textit{commissum} v překladu "svěřené", dohromady též jako "tvé důvěře svěřuji"\footfullcite{noauthor_fideicommissum_nodate}) a také v právu anglosaském ve formě trustů (anglicky \textit{trust}, v překladu "důvěra"). Ve většině zemí západního světa, používajících obou právních systém\-ů je tato forma správy cizího majetku dlouhodobě používána k uchování, převodu, správě, zachování celistvosti, nebo použití k dalším soukromým, nebo veřejným účelům\footfullcite[Kapitola Úvod, str. IX]{bednarikova_barbora_sverenske_2014}, v různých formách. Některé země tradičně využívají institutu trustu, například Irsko, jiné země právní úpravu trustu známou především ze zemí Common Law\footnote{Země používající anglosaský systém práva} přizpůsobili kontinentálnímu právnímu myšlení, mezi tyto země lze zařadit Lichtenštejnsko (Treuhandverhältnis) a Lucembursko (Fiducie), další země se rozhodly funkci trustu nahradit jiným institutem - Německo (Treuhand) a Rakousko (Privatstftungsgesetz) \footfullcite{trust_2014}. \\
 
-\indent V momentální právní úpravě, tedy v občanském zákoníku, jsou v paragrafech 1448 a 1449 fakticky vymezeny účely svěřenského fondu, těmito účely je účel soukromý a účel veřejný\footfullcite{noauthor_zakon_2012}. Soukromý svěřenský fond slouží ku prospěchu určité osoby, nebo na její památku, z tohoto ustanovení je možné dovodit, že svěřenský fond založený za soukromým účelem slouží k ochraně, uchování, rozmnožení, správě a převodu vyčleněného majetku. Co se veřejného účelu týče, hlavním účelem nemůže být dosahování zisku nebo provozování závodu, svěřenský fond založený za veřejným účelem tedy slouží k veřejnému, především socioekonomickému, prospěchu, 
+\indent V momentální právní úpravě, tedy v občanském zákoníku, jsou v paragrafech 1448 a 1449 fakticky vymezeny účely svěřenského fondu, těmito účely je účel soukromý a účel veřejný\footfullcite{noauthor_zakon_2012}. Soukromý svěřenský fond slouží ku prospěchu určité osoby, nebo na její památku, z tohoto ustanovení je možné dovodit, že svěřenský fond založený za soukromým účelem slouží k ochraně, uchování, rozmnožení, správě a převodu vyčleněného majetku, práce tedy bude primárně zaměřena na svěřenské fondy založené za tímto účelem, protože právě tyto svěřenské fondy se dají použít k mezigeneračnímu převodu majetku. Co se veřejného účelu týče, hlavním účelem nemůže být dosahování zisku nebo provozování závodu, svěřenský fond založený za veřejným účelem tedy slouží k veřejnému, především socioekonomickému, prospěchu, 
 
 \newpage 
 
 do kterého důvodová správa k § 1448 - 1452 řadí účely kulturní, vzdělávací, vědecké, náboženské a další podobné účely.\footfullcite{jaroslav_svejkovsky_sprava_2015} \\
 
-Považuji za důležité zaměřit se v mé práci i na historii svěřenských institutů a správy cizího majetku, neboť k pochopení, vysvětlení a popsání mnoha sporných otázek, které si dnes mnozí právníci pokládají, s ohledem na svěřenské fondy, je nutné znát historické souvislosti a kontext vývoje právní vědy na našem území. \\
+Následující kapitoly možná budou působit vzhledem k názvu a zaměření práce poněkud extenzivně, ale považuji za důležité zaměřit se v mé práci i na historii svěřenských institutů a správy cizího majetku, neboť k pochopení, vysvětlení a popsání mnoha sporných otázek, které si dnes mnozí právníci pokládají, s ohledem na svěřenské fondy, je nutné znát historické souvislosti a kontext vývoje právní vědy na našem území. Toto bude důležité především v částech zaměřujících se na rozdíly v pojetí vlastnictví. \\
 
 \newpage
 
@@ -551,13 +576,16 @@ Napsat o situaci v Itálii.\footfullcite{lubos_tichy_sverensky_2017}
 
 Shrnutí toho, co práce obsahovala. Následovat bude shrnutí praktické části práce, tedy že v tato úprava chybí a zároveň není ustálená rozhodovací praxe soudů. Zhodnotit návrhy řešení a nastínit, zda by mohli pomoci, nebo ne.
 
+% Konec hlavní části práce, následují zdroje
 \newpage
 \thispagestyle{Contents}
 \section*{Zdroje}\markright{ZDROJE}
+% Counter definition pro přidání čísla ke zdrojům v obsahu práce, možná číslo odeberu
 \newcounter{SecZdroje}
 \setcounter{SecZdroje}{\thesection}
 \addtocounter{SecZdroje}{1}
 \addcontentsline{toc}{section}{\theSecZdroje \hspace{1,7 mm} Zdroje}
+% Zde je definováno jak budou vypsány zdroje, přesná specifikace je obsažena v mappingu
 \printbibliography[type=misc,heading=subbibliography,title={Online zdroje}]
 \printbibliography[type=book,heading=subbibliography,title={Knižní zdroje}]
 \printbibliography[type=article,heading=subbibliography,title={Články}]
