@@ -1,0 +1,150 @@
+\documentclass{article}
+
+% Language definition
+\usepackage[utf8]{inputenc}
+%\usepackage[czech]{babel}
+
+% Package definition and folder with images
+\usepackage{graphicx}
+\graphicspath{ {./Obrazky/} }
+
+% Package difinition
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage{titling}
+\usepackage{array}
+\usepackage{todonotes}
+
+% Base header definition
+\setlength\headheight{26pt}
+\lhead{\includegraphics[width=3cm,height=\dimexpr \headheight-\dp\strutbox]{newcevro}}
+\rhead{\small{\leftmark}}
+
+% Bibliography definition
+\usepackage{biblatex}
+\addbibresource{Zdroje.bib}
+
+% Footnote package definition
+\usepackage{footnote} %Package použitý k tomu, aby byli citace uvnitř float elementů pod čarou
+\makesavenoteenv{figure} %Nastavení toho, aby byli citace uvnitř figure pod čarou
+
+% Package definition
+\usepackage{xcolor}
+
+% Different language for contents and figures
+\renewcommand\contentsname{Obsah}
+\renewcommand\listfigurename{Seznam obrázků}
+\renewcommand\figurename{Obrázek}
+
+% Special header style definition for sections with long text in header
+\fancypagestyle{smallertextinheader}{ % Dokončit styl s menším textem v hlavičce, již je dokončeno
+   \fancyhf{}
+   \fancyhead[L]{\includegraphics[width=3cm, height=\dimexpr \headheight-\dp\strutbox]{newcevro}}
+   \fancyhead[R]{%
+   \parbox[b]{\dimexpr \textwidth-3cm-\columnsep}%
+   {\small\uppercase\leftmark}}%
+   \fancyfoot[C]{\thepage}
+}
+
+% Special header for contents only
+\fancypagestyle{Contents}{ % Dokončit styl s menším textem v hlavičce, již je dokončeno
+   \fancyhf{}
+   \fancyhead[LE,LO]{\includegraphics[width=3cm, height=\dimexpr \headheight-\dp\strutbox]{newcevro}}
+   \fancyhead[RE,RO]{\small{\uppercase{\rightmark}}}
+}
+
+% Basic page style definition
+\pagestyle{fancy}
+
+% Pretitle definition
+\pretitle{
+	\begin{center}
+	\LARGE
+	\includegraphics[width=10cm,height=3cm,keepaspectratio]{newcevro}
+}
+\posttitle{\end{center}}
+
+% Document body --------------
+\begin{document}
+
+% First page of my bachelors work
+\pagenumbering{gobble}
+  \thispagestyle{empty}
+  \begin{center}
+  \includegraphics[width=10cm,height=3cm,keepaspectratio]{newcevro} \\
+  \end{center}
+  \vspace{15mm}
+  \begin{center}
+  {\Large Vysoká škola Cevro Institut} \\
+  \vspace{15mm}
+  {\Large \textbf{Římské právo, odpovědi na otázky}} \\
+  \vspace{15mm}
+  {\Large Dominik Bálint} \\
+  \vspace{49mm}
+  {\Large \textbf{Praha 2020}} \\
+  \end{center}
+
+% Page with contents 
+\newpage
+  \thispagestyle{Contents}
+  \tableofcontents
+  
+\newpage
+\section{Právní otázky}  
+\subsection{Otázka první, citační zákon}
+\textbf{\textit{\underline{Otázka}}}\\
+\textit{Podle citačního zákona se řešila právní otázka, na níž měli shodný názor Ulpianus a Modestinus, opačný názor měli Papinianus a Gaius, Paulus se k řešení nevyjádřil. Podle jakého názoru bylo rozhodnuto, a proč?}\\
+Ahoj
+\subsection{Otázka druhá, sv. Ivo, patron všech právníků}
+\textbf{\textit{\underline{Otázka}}}\\
+\textit{Patron právníků sv. Ivo na slavném sousoší drží v ruce Justiniánovu kodifikaci. Nasměrujte zájemce, kde přesně toto sousoší nalezne.}\\
+Ahoj
+\subsection{Otázka třetí, vražda ženy}
+\textbf{\textit{\underline{Otázka}}}\\
+\textit{Podle Pliniovy Přírodní historie A. M. varoval svoji manželku, aby neupíjela víno ze sudu ve vinném sklepě. Když zjistil, že varování neuposlechla, zabil ji. Stalo se tak na počátku republiky. Jaký byste předpověděli výsledek soudního řízení s obžalovaným A. M.? Pro zájemce i otázka, jaké jméno se skrývá za iniciálami.}\\
+Ahoj
+\subsection{Otázka čtvrtá, ovdovělá žena a změna právního postavení její rodiny}
+\textbf{\textit{\underline{Otázka}}}\\
+\textit{Lucia ovdověla. Její zesnulý manžel zanechal syna a neprovdanou zletilou dceru. Jak se změnilo právní postavení pozůstalých vdovy, dcery a syna?}\\
+Ahoj
+\subsection{Otázka pátá, nalezenec u cesty}
+\textbf{\textit{\underline{Otázka}}}\\
+\textit{Marcus nalezl u cesty odložené dítě. O jeho matce nebylo nic známo. Byl nalezenec považován za otroka nebo za svobodného? Z jakého principu vycházelo římské právo?}\\
+Podívat se na to z pohledu Ius Naturale a Ius Civile.
+Citovat Gaia co je Ius Naturale a co je Ius Civile.
+Dále se na případ podívat pokud by došlo k osvojení.
+Ahoj
+\subsection{Otázka šestá, vlastník domu na vinici}
+\textbf{\textit{\underline{Otázka}}}\\
+\textit{Marcus postavil na svůj náklad na Gaiově vinici na místě, kde dříve stával jiný, již zbořený Gaiův domek, kam všichni včetně Tita vyšlapanou cestou chodili popíjet víno, s Gaiovým souhlasem nový viničný domek. Kdo byl vlastníkem tohoto domku? Mohl Titus bez dalšího chodit stejnou cestou k novému domku?}\\
+Ahoj
+\subsection{Otázka sedmá, teorie právního úkonu}
+\textbf{\textit{\underline{Otázka}}}\\
+\textit{K jaké teorii právního úkonu, resp. právního jednání (teorie projevu či teorie vůle) se hlásilo římské právo a hlásí Ústavní soud ČR? V čem tato teorie spočívá?}\\
+Ahoj
+\subsection{Otázka osmá, pohledávka z hazardních her}
+\textbf{\textit{\underline{Otázka}}}\\
+\textit{Titus a Marcus hráli v domku na Gaiově vinici o peníze kostky. Titus prohrál, ale neměl na zaplacení. Slíbil, že druhý den dluh splatí. Ač byl hlavou rodiny, jeho manželka Lucia ho doma opilého a s dluhem ze hry právě nevítala. Aby si ji usmířil, rozhodl se Titus v kocovině, že Markovi nezaplatí. Ten se ovšem zaplacení domáhal. Jak to podle práva s Markovou pohledávkou dopadlo?}\\
+Ahoj
+\subsection{Otázka devátá, koupě otroka}
+\textbf{\textit{\underline{Otázka}}}\\
+\textit{Po tom všem Titus, na něhož se Marcus zlobil, uviděl v přístavu urostlého otroka, který by se hodil na gladiátora. Věděl, že Marcus, který měl gladiátorskou školu, mluvil o tom, že by potřeboval nové otroky. Titus tedy za otroka zaplatil a přivedl ho Markovi. Ten si otroka ponechal a dokonce Markovi odpustil, jak se minule zachoval. Markus ale za otroka zaplatil a především měl výdaje i s tím, než ho z přístavu přivedl do Markovy gladiátorské školy (nezaměňovat s CEVRO ). O jaký právní vztah a institut se jednalo a kdo nesl náklady akce?}\\
+Ahoj
+\subsection{Otázka desátá, vykoupení otroka}
+\textbf{\textit{\underline{Otázka}}}\\
+\textit{Titus si ale nedal pokoj a opět "kalil". Otroci k tomu hráli a zpívali, on jim házel mince. Dělával to docela často, a tak otrok – kapelník měl ukrytý měšec s již slušnou sumou. Zato Titus se ocitl bez prostředků a přitom si chtěl koupit další pozemek na vinici. Mohl mu otrok nabídnout, že se za peníze, které měl v měšci, vykoupí z otroctví?}\\
+Ahoj
+% Konec hlavní části práce, následují zdroje
+\newpage
+\thispagestyle{Contents}
+\section*{Zdroje}\markright{ZDROJE}
+% Counter definition pro přidání čísla ke zdrojům v obsahu práce, možná číslo odeberu
+\newcounter{SecZdroje}
+\setcounter{SecZdroje}{\thesection}
+\addtocounter{SecZdroje}{1}
+\addcontentsline{toc}{section}{\theSecZdroje \hspace{1,7 mm} Zdroje}
+% Zde je definováno jak budou vypsány zdroje, přesná specifikace je obsažena v mappingu
+\printbibliography[type=misc,heading=subbibliography,title={Online zdroje}]
+\printbibliography[type=book,heading=subbibliography,title={Knižní zdroje}]
+\printbibliography[type=article,heading=subbibliography,title={Články}]
+\end{document}
