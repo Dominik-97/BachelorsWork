@@ -30,7 +30,7 @@
 |	Ekonomie a Podnikové finance	|	28.  Řízení  rizik,  definice  rizika  a  nejistoty,  kategorizace  rizik,  metody  měření  a  ošetření  rizik,  Risk Apettite, organizace řízení rizik ve společnosti.	|		|
 |	Ekonomie a Podnikové finance	|	29.  Projektové řízení, dilema projektového řízení, věcná a procesní stránka projektu, faktory úspěchu projektu, projektová řídící struktura, nástroje pro řízení projektů.	|		|
 |	Ekonomie a Podnikové finance	|	30.  Marketing a odbyt, hlavní úkoly marketingového oddělení, marketingové techniky, vztah podnikové a  marketingové  strategie.  Trh  a  jeho  segmentace,  definování  cílových  zákaznických  skupin  a zaměření - targeting a positioning.	|		|
-|	Obchodní Právo	|	1. Pojem, povaha, předmět, systém a prameny obchodního práva.	|	Musím ještě zjistit	|
+|	Obchodní Právo	|	1. Pojem, povaha, předmět, systém a prameny obchodního práva.	|	**POJEM** <br> * https://is.muni.cz/do/law/shop/publikace/22752563/210-5361-Ukazka.pdf <br> * https://kramerius-vs.nkp.cz/view/uuid:a0c8d720-1873-11e4-8e0d-005056827e51?page=uuid:d75b9d20-22e8-11e4-8c14-5ef3fc9bb22f	|
 |	Obchodní Právo	|	2. Pojmy podnikatel, podnikání, obchodní závod (jen vymezení pojmu) pobočka, odštěpný závod,  majetek a jmění. Členění podnikatelů. Sídlo podnikatele.	|	Občanský zákoník, co je členění podnikatelů?	|
 |	Obchodní Právo	|	3. Obchodní firma a obchodní tajemství a jejich ochrana. Obchodní listiny.	|		|
 |	Obchodní Právo	|	4. Právní jednání podnikatele fyzické osoby. Právní jednání podnikatele právnické osoby. Prokura, opatrovník, vedoucí odštěpného závodu, osoba pověřená určitou činností při provozu závodu.	|		|
