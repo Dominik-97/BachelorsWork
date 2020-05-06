@@ -69,9 +69,9 @@
 |	Občanské Právo	|	7.  Právní   skutečnosti.   Právní   jednání   –   pojem,   náležitosti,   vady   a   jejich následky.	|	<ul><li>- [ ] Občanský zákoník, Právní skutečnosti, § 545 až 654	</li></ul>|
 |	Občanské Právo	|	8.  Čas    jako    občanskoprávní    skutečnost.    Promlčení,    prekluze    a    další občanskoprávní instituty založené na běhu času.	|	<ul><li>- [ ] Občanský zákoník, Právní události, § 600 až 654	</li></ul> |
 |	Občanské Právo	|	9.  Manželství,  majetkové  právo  manželské. Rodiče  a  dítě, osvojení,  náhradní formy péče o dítě.	|	<ul><li>- [ ] Občanský zákoník, Rodinné právo, § 655 až 975 </li></br>	|
-|	Občanské Právo	|	10.Vlastnické právo a jeho ochrana. Spoluvlastnictví.	|	<ul><li>- [ ] Občanský zákoník, Absolutní majetková práva, §976 až 1399 </li></ul>	|
+|	Občanské Právo	|	10.Vlastnické právo a jeho ochrana. Spoluvlastnictví.	|	<ul><li>- [ ] Občanský zákoník, Absolutní majetková práva, § 976 až 1399 </li></ul>	|
 |	Občanské Právo	|	11.Držba a detence. Věcná práva k věci cizí.	|	<ul><li>- [ ] Stejné jako otázka Občanské právo deset </li></ul>	|
-|	Občanské Právo	|	12.Dědické právo – pojem, systém, základní pojmy a principy. Dědění. Odkaz.	|	Občanský zákoník	|
+|	Občanské Právo	|	12.Dědické právo – pojem, systém, základní pojmy a principy. Dědění. Odkaz.	|	<ul><li>- [ ] Občanský zákoník, Dědické právo, § 1475 až 1720 </li></ul>	|
 |	Občanské Právo	|	13.Závazek  a  jeho  struktura  (subjekty  a  strany,  předmět,  obsah).  Společné závazky. Vznik závazku.	|	Občanský zákoník	|
 |	Občanské Právo	|	14.Smlouvy,  jejich  uzavírání,  formování  jejich  obsahu,  jejich  forma  a  účinky. Smlouva o smlouvě budoucí.	|	Občanský zákoník	|
 |	Občanské Právo	|	15.Závazky ze smluv uzavíraných se spotřebitelem.	|	Občanský zákoník	|
