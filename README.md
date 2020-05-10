@@ -14,3 +14,10 @@ K 19 Mar 2020 at 16:21
 | Characters | 84199 |
 
 K 8 Apr 2020 at 16:26 (16:19)
+
+| Count name | Count |
+| ------ | ------ |
+| Words | 19285 |
+| Characters | 127891 |
+
+K 10 May 2020 at 13:12
