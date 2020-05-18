@@ -14,6 +14,7 @@
 \usepackage{titling}
 \usepackage{array}
 \usepackage{todonotes}
+\usepackage{tabularx} % Pro vytvoření tabulky, která bude mít full page width, musím zkontrolovat, zda tento package někde v práci něco nerozhodil
 
 % Base header definition
 \setlength\headheight{26pt}
@@ -570,7 +571,11 @@ Velkou součást této části práva tvoří právo majetkové relativní a abs
 
 Je nepochybné, že v případě, kdy se vlastník tohoto majetku, respektive jmění, rozhodne svůj majetek svěřit jinému subjektu do správy, za jakýmkoliv účelem, tedy rozmnožením, zařízením převodu, správy a podobně, bude primárně vybírat z možností jemu představených zákonem. Těchto možností je mnoho, majetek bývá pravidelně spravován na základně smlouvy, standardně příkazního typu, osobami určenými v této smlouvě, standardně jimi může být investiční fond, záložna, družstvo, jiný k tomu pověřený správce či banka.\\
 
-Nově lze krom výše zmíněných druhů správy majetku a jiných, pro běžné občany poněkud exotičtějších způsobů správy majetku, jako je vložení majetku do ústavu\footnote{V tomto případě zásadně za účelem sledujícím veřejný prospěch.}, obchodní korporace či fundace\footnote{Nadační fond a nadace, kdy musí být obdobně sledování společensky nebo hospodářsky prospěšný účel.}, využít i jednotlivé formy svěřenského fondu.
+Nově lze krom výše zmíněných druhů správy majetku a jiných, pro běžné občany poněkud exotičtějších způsobů správy majetku, jako je vložení majetku do ústavu\footnote{V tomto případě zásadně za účelem sledujícím veřejný prospěch.}, obchodní korporace či fundace\footnote{Nadační fond a nadace, kdy musí být obdobně sledování společensky nebo hospodářsky prospěšný účel.} nebo využítí i různých dalších nástrojů jako jsou různá spoření s investiční složkou či investičních fondů\footfullcite{noauthor_zakon_nodate_investicni_spol_a_investicni_fondy}, využít i jednotlivé formy svěřenského fondu.\\
+
+Zajímavé je zmínit i možnost využití zahraničních trust-like struktur, je ale nutné vzít na vědomí, že Česká republika není signatářem Haagské konvence o právu uplatnitelném na trusty a jejich uznávání a funkčnost těchto institutů, v praxi České právní úpravy tak může být, oproti zemím, které jsou signatáři a mají vyřešené kolizní normy, jako je například Itálie, problematický\footfullcite{noauthor_hcch_nodate}\textsuperscript{,}\footnote{Příklady těchto institutů uvádím v kapitole Úvod do historických počátků svěřenství a svěřenských fondů.}.\\
+
+
 
 --Koment\\
 Popsat jak je v momentální právní úpravě vyložen institut svěřenského fondu a jaké možnosti poskytuje. \\
@@ -602,6 +607,8 @@ Definovat správně svěřenský fond, jakožto velice flexibilní právní inst
 % Dopsat alterace a modifikace testamentu
 % Nevystupuje jako subjekt ale spíše jako objekt právních vztahů
 % Jelikož nelze svěřenský fond zařadit mezi právnické osoby, není možné na něj aplikovat ustanovení o právnických osobách v procesních, daňových, trestních a dalších předpisech. Zákonodárce proto musel tyto právní předpisy novelizovat s ohledem na úpravu svěřenských fondů. Důsledky zařazení svěřenského fondu do českého právního řádu tak lze pozorovat v právních předpisech napříč celým právním systémem
+
+%Nově lze využít i formy svěřenského fondu, jehož základ tvoří osamostatněný majetek (resp. jmění), vyčleněný jeho zakladatelem k určitému účelu, svěřený do správy svěřenskému správci.
 
 
 V rámci současné právní úpravy je svěřenský fond upravený především v části třetí OZ, hlavě \MakeUppercase{{\romannumeral 2}} - věcná práva v § 1448 až § 1474. \\
@@ -782,9 +789,43 @@ Trust je založen na velké, řekl bych téměř neomezené, variabilitě účel
 \item přidružený fond nadace.
 \end{enumerate}
 
-\subsection{Ostatní formy správy majetku, rozhodující faktory pro vhodný výběr}
+\subsection{Ostatní formy správy majetku, rozhodující faktory pro vhodný výběr a z toho vycházející problémy, doporučení a výhody}
 
-Vhodný výčet rozhodujících faktorů, který je přímo aplikovatelný na výběr, pro zakladatele, vhodné formy správy majetku dobře shrnuje ve svém příspěvku do Bulletinu advokacie Kateřina Ronovská\footfullcite[Vydání 7-8 2016]{ronovska_bulletin_vyber_formy_spravy_majetku}.
+Vhodný výčet rozhodujících faktorů, který je přímo aplikovatelný na výběr, pro zakladatele, vhodné formy správy majetku dobře shrnuje ve svém příspěvku do Bulletinu advokacie Kateřina Ronovská\footfullcite[Vydání 7-8 2016]{ronovska_bulletin_vyber_formy_spravy_majetku}.\\
+
+S těmito faktory se osobně ztotožňuji, mé potenciální doporučení a upozornění plynou zejména z aplikování těchto faktorů na právní úpravu svěřenských fondů.\\
+
+Docentka Ronovská uvádní následující faktory, které aplikuje na větší množství forem správy majetku:
+
+\begin{itemize}
+	\item Faktor 1: stabilita právního prostředí, důvěra v právní řád jako celek, předvídatelnost soudního rozhodování,
+	\item Faktor 2: vhodně a proporcionálně nastavený právní rámec; v oblasti práva soukromého zejména ponechání dostatečného prostoru pro realizaci představ vlastníka majetku (při vymezení účelu, způsobu správy, zakotvení práv osob beneficientů), jakož i efekt (ochrana majetku) vůči třetím osobám,
+	\item Faktor 3: míra diskrétnosti, resp. ochrany soukromí,
+	\item Faktor 4: způsob a adekvátnost dohledu nad správou (důvěra v osobu správce majetku a eliminace možnosti jeho selhání),
+	\item Faktor 5: nákladnost zřízení určitého instrumentu, jakož i následné "provozní" náklady spojené se správou,
+	\item Faktor 6: "příznivý" nebo alespoň "neutrální", resp. "nedemotivující" daňový režim.
+\end{itemize}
+
+\noindent\begin{tabularx}{\textwidth}{X|X|X}
+\textbf{Faktor} & \textbf{Problém} & \textbf{Výhoda} \\
+\hline
+Faktor 1 & 
+\begin{itemize} 
+\item Nejasná regulace a chybějící judikatura 
+\item Systémové nedostatky vztahující se k dědickému právu
+\end{itemize} 
+& \\
+\hline
+Faktor 2 & & \\
+\hline
+Faktor 3 & & \\
+\hline
+Faktor 4 & & \\
+\hline
+Faktor 5 & & \\
+\hline
+Faktor 6 & & \\
+\end{tabularx}
 
 \subsection{Potenciální možnosti použití v rámci převodu majetku a jeho přínos oproti klasickým způsobům pořízení pro případ smrti a jiným způsobům převodu práv}
 
