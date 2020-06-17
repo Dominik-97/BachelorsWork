@@ -22,8 +22,14 @@
 \rhead{\small{\leftmark}}
 
 % Bibliography definition
-\usepackage{biblatex}
+\usepackage[backend=biber,defernumbers=true]{biblatex}
 \addbibresource{Zdroje.bib}
+
+%Přidán backend biber pro sorting, nakonec jsem se ale rozhodl skrýt čísla v bibliografii pomocí defernumbers a omitnumbers
+%Deklarace, že před bibliografií nic nebude, od kraje nebude žádný prostor a mezi bibligorafickými záznami bude větší mezera
+\DeclareFieldFormat{labelnumberwidth}{}
+\setlength{\biblabelsep}{0pt}
+\setlength\bibitemsep{1.5\itemsep}
 
 % Footnote package definition
 \usepackage{footnote} %Package použitý k tomu, aby byli citace uvnitř float elementů pod čarou
@@ -1915,6 +1921,9 @@ Mimo výše uvedené nedostatky české právní úpravy, respektive potenciáln
 %Napsat že subjektivizace asi není to pravé ořechové, ve vztahu k implementaci tohoto institutu do právních systému civil law to ale je jedno z možných řešení, otázka pak samozřejmě je, jak budou takto omezované instituty (zde můžu vyjít z práce Michala Skuhrovce) konkurenceschopné na celosvětové scéně.
 
 \subsection{Možnosti použití svěřenského fondu k obcházení věřitelů}
+
+
+
 \subsection{Rozdílné pojetí vlastnictví}
 
 Další otázku, kterou si mnozí právní experti položili je samotné pojetí vlastnictví v systému civil law, které je dle mnohých jen těžko kompatibilní s děleným vlastnictvím, které je inherentně spojeno se systémy common law.\\
@@ -2068,8 +2077,8 @@ Přes všechna pozitiva, kterých je mnoho, tak lze pouze doufat, že problémy 
 \addtocounter{SecZdroje}{1}
 \addcontentsline{toc}{section}{\theSecZdroje \hspace{1,7 mm} Zdroje}
 % Zde je definováno jak budou vypsány zdroje, přesná specifikace je obsažena v mappingu
-\printbibliography[type=misc,heading=subbibliography,title={Online zdroje}]
-\printbibliography[type=book,heading=subbibliography,title={Knižní zdroje}]
-\printbibliography[type=article,heading=subbibliography,title={Články}]
-\printbibliography[type=proceedings,heading=subbibliography,title={Zákony}]	
+\printbibliography[omitnumbers=true,type=misc,heading=subbibliography,title={Online zdroje}]
+\printbibliography[omitnumbers=true,type=book,heading=subbibliography,title={Knižní zdroje}]
+\printbibliography[omitnumbers=true,type=article,heading=subbibliography,title={Články}]
+\printbibliography[omitnumbers=true,type=proceedings,heading=subbibliography,title={Zákony}]	
 \end{document}
