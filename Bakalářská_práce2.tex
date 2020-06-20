@@ -147,6 +147,8 @@ také za čas, který mi věnoval při vedení práce.
 \newpage
   \thispagestyle{Contents}
   \tableofcontents
+  
+ \newpage
   \listoffigures
 
 % Part of the page I list appendixes list on
@@ -653,7 +655,9 @@ Nicméně na svěřenství bylo stále nahlíženo jako na šlechtické privileg
 
 Podle § 1 se zrušilo svěřenství (rodinné fideikomisy) a nová nemohla být zřizována. Rovněž pozbyla platnost ustanovení zřizovacích listin, rodiných usnesení a jiných opatření o svěřenství. Zanikly také substituční nároky. Jednotlivé poměry měly být vypořádány dohodou. V případě nedosažení dohody do 6 měsíců od vydání tohoto zákona připadl majetek do vlastnictví správce, jako přední dědic přičemž svěřenské nástupnictví měl první čekatel.\\
 
-Svěřenské náhradnictví pak bylo zrušeno Občanským zákoníkem z roku 1950 a stalo se tak posledním hřebíkem do rakve svěřenských institutů v České republice. Ty byly znovu zavedeny až přijetím a účinností nového Občanského zákoníku\footnote{Jistou obdobu před přijetím nového Občanského zákoníku také můžeme sptřovat ve fondech kolektivního investování v již zrušeném Zákoně o kolektivním investování z roku 2004.}.
+Svěřenské náhradnictví pak bylo zrušeno Občanským zákoníkem z roku 1950 a stalo se tak posledním hřebíkem do rakve svěřenských institutů v České republice. Ty byly znovu zavedeny až přijetím a účinností nového Občanského zákoníku\footnote{Jistou obdobu před přijetím nového Občanského zákoníku také můžeme sptřovat ve fondech kolektivního investování v již zrušeném Zákoně o kolektivním investování z roku 2004.}.\\
+
+Na přípravě nového Občanského zákoníku pracovala z pověření ministra spravedlnosti rekodifikační komise vedená prof. Dr. JUDr. Karlem Eliášem z právnické fakulty ZČU v Plzni, ti svojí prací završili dlouholetou práci významných českých právníků na rekodifikaci civilního práva tak, aby odráželo nové společenské podmínky, které se v České republice vytvořiliy po roce 1989\footfullcite[Úvod, strana IX]{bednarikova_barbora_sverenske_2014}. Tato příprava vyústila až v nový Občanský zákoník, který je s několika novelizacemi k současnému datu účinný.\\
 
 %Konstituován bych možná měl přepsat na strukturován
 
@@ -958,9 +962,10 @@ V rámci jednání u soudního komisaře, jímž je soudem pověřený notář, 
 %Co když se pořízení pro případ smrti, nebo závěť učiněná před svědky neshoduje se závětí, dle které byl vyčleněn majetek do svěřenského fondu. Podle mě soud zhodnotí, kdo má slabší nárok respektive důkazy a toho pak odkáže, aby podal žalobu v občanskoprávním řízení.
 
 \newpage
+%{\pagestyle{smallertextinheader}
 \thispagestyle{smallertextinheader}
 
-\section{Svěřenský fond jako nástroj mezigeneračního transferu majetku}
+\section[Svěřenský fond jako mezigenerační nástroj transferu majetku]{Svěřenský fond jako mezigenerační nástroj\\ transferu majetku}
 
 V rámci důvodové zprávy k Novému Občanskému zákoníku uvedl zákonodárce velice zajímavou myšlenku: \textit{Návrh vychází z ideje, že funkční určení soukromého práva je sloužit člověku jako prostředek k prosazování jeho svobody. Účel občanského kodexu je umožnit i garantovat svobodné utváření soukromého života, a ponechat tedy co nejširší prostor svobodné iniciativě jednotlivce. Proto také osnova klade zásadní důraz na hledisko autonomie vůle.}\footfullcite[Strana 20]{Duvodovazprava}. Tato idea se zásadně projevila v oblasti správy majetku, kde představuje základní východisko pro nově zavedený institut svěřenského fondu, a dalších obdobných forem správy majetku, a staví na základním stvebním kamenu pro rekodifikaci soukromého práva. Tímto stavebním kamenem není nic jiného, než pohled na soukromé právo jako na právo, které má v soukromé svéře sloužit subjektům práva jako prostředek prosazování svobody a vytváření svobodného prostoru a iniciativy k vlastním řešením určitých problémů.\\
 
@@ -1562,6 +1567,8 @@ Větší výhody tohoto bodu však spatřuji při založení svěřenského fond
 
 Při porovnání se samotným prominutím tohoto jinak vylučujícího jednání z dědického práva tak docházíme k závěru, že při použití svěřenského fondu lze vhodně působit na osobnost daného dědice a lze nad ním uvažovat jako nad určitou motivací k polepšení a je z tohoto hlediska i společensky prospěšný. Předpokladem je, že nejspíše nebude mnoho fondů založených za tímto účelem a mnoho potenciálních zakladatelů ani nad podobným účelem, pro který založit svěřenský fond, nebude přemýšlet, tento bod je proto pojmut pouze jako jistá inspirace pro lidi čelící této situaci.\\
 
+%\clearpage
+%}
 \newpage
 
 \thispagestyle{smallertextinheader}
@@ -2296,7 +2303,7 @@ Přes všechna pozitiva, kterých je mnoho, tak lze pouze doufat, že problémy 
 
 % Konec hlavní části práce, následují zdroje
 \newpage
-\thispagestyle{Contents}
+{\pagestyle{Contents}
 \section*{Zdroje}\markright{ZDROJE}
 % Counter definition pro přidání čísla ke zdrojům v obsahu práce, možná číslo odeberu
 \newcounter{SecZdroje}
@@ -2308,4 +2315,6 @@ Přes všechna pozitiva, kterých je mnoho, tak lze pouze doufat, že problémy 
 \printbibliography[omitnumbers=true,type=book,heading=subbibliography,title={Knižní zdroje}]
 \printbibliography[omitnumbers=true,type=article,heading=subbibliography,title={Články}]
 \printbibliography[omitnumbers=true,type=proceedings,heading=subbibliography,title={Zákony}]	
+\clearpage
+}
 \end{document}
