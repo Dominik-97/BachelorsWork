@@ -1,5 +1,8 @@
 \documentclass{scrartcl}
+
+% --------------------------------------------------------------------------
 %\usepackage[T1]{fontenc}
+% --------------------------------------------------------------------------
 
 \usepackage[margin=2cm]{geometry}
 
@@ -9,8 +12,11 @@
 \usepackage{calc, attachfile}
 \usepackage[czech]{babel}
 \usepackage[utf8]{inputenc}
+
+% --------------------------------------------------------------------------
 %\usepackage[main=english,czech]{babel}
 %\usepackage[czech]{babel}
+% --------------------------------------------------------------------------
 
 \usepackage{lmodern}
 
@@ -35,15 +41,21 @@
  Typ & Odkaz\\
  \hline
  Bakalářská práce & \openfilelink{\detokenize{Bakalářská_práce2}.pdf}{\texttt{Bakalářská\_práce2.pdf}}\\
+
+ % --------------------------------------------------------------------------
  %Příloha k bakalářské práci & \openfilelink{\detokenize{Bakalářská_práce2}.pdf}{\texttt{Bakalářská_práce_návrh\\_smlouvy.pdf}}\\
+ % --------------------------------------------------------------------------
+
  Příloha k bakalářské práci & \openfilelink{myfile.pdf}{\texttt{Bakalářská\_práce\_návrh\_smlouvy.pdf}}\\
  \hline
 \end{tabular}
 
+% --------------------------------------------------------------------------
 %Ahoj
 
 %\textattachfileandprintout{\detokenize{Bakalářská_práce2}.pdf}{linktext}
 
 %\paragraph{Demonstration:} \openfilelink{\detokenize{Bakalářská_práce2}.pdf}{Link to the embedded file \texttt{\detokenize{Bakalářská_práce2}.pdf}}
+% --------------------------------------------------------------------------
 
 \end{document}
