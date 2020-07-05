@@ -88,6 +88,22 @@
 \makeatother
 
 % --------------------------------------------------------------------------
+% For hiding part of the work if needed
+% Usage
+% \ifcomment
+% Part I want to hide
+% \fi
+% Then
+% |           Command          | Result |
+% | -------------------------- | ------ |
+% | \commenttrue               | Shown  |
+% | <percentsight>\commenttrue | Hidden |
+% --------------------------------------------------------------------------
+
+\newif\ifcomment
+%\commenttrue
+
+% --------------------------------------------------------------------------
 % Special header style definition for sections with long text in header
 % --------------------------------------------------------------------------
 
