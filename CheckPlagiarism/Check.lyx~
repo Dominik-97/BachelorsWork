@@ -5,6 +5,9 @@
 \save_transient_properties true
 \origin unavailable
 \textclass article
+\begin_preamble
+
+\end_preamble
 \use_default_options true
 \maintain_unincluded_children false
 \language english
@@ -28,7 +31,7 @@
 \output_sync 0
 \bibtex_command default
 \index_command default
-\paperfontsize 10
+\paperfontsize default
 \spacing single
 \use_hyperref false
 \papersize default
@@ -81,7 +84,23 @@
 \align center
 
 \size large
-Státnicové zkoušky
+Státnicové zkoušky, kontrola bakalářské práce plagiátorským systémem
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+sloppy
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -581,9 +600,25 @@ status open
 
 \end_inset
 
- URL: https://www.kurzy.cz/zakony/89-2012-obcansky-zakonik/cast-3-hlava-2-dil-6-od
-dil-4-pododdil-1/ Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth
-/podob/a59e958eaa891455/fd5e299e2a10533d/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://www.kurzy.cz/zakony/89-2012-obcansky-zakonik/cast-3-hlava-2-dil-6-odd
+il-4-pododdil-1/ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/fd5e299e2a10533d/
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -617,9 +652,54 @@ status open
 
 \end_inset
 
- URL: http://zakony.kurzy.cz/89-2012-obcansky-zakonik/paragraf-1448/ Procento
- podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/5d
-e85b84070e55af/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://zakony.kurzy.cz/89-2012-obcansky-zakonik/paragraf-1448/ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/5de85b84070e55af/
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -653,9 +733,54 @@ status open
 
 \end_inset
 
- URL: https://zakony.kurzy.cz/89-2012-obcansky-zakonik/paragraf-1448/ Procento
- podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/1c
-c732fe1fafabc8/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://zakony.kurzy.cz/89-2012-obcansky-zakonik/paragraf-1448/ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/1cc732fe1fafabc8/
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -689,9 +814,69 @@ status open
 
 \end_inset
 
- URL: https://zakony.kurzy.cz/89-2012-obcansky-zakonik/paragraf-20/ Procento
- podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/94
-87d3c6aace2a18/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://zakony.kurzy.cz/89-2012-obcansky-zakonik/paragraf-20/ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/9487d3c6aace2a18/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -725,9 +910,70 @@ status open
 
 \end_inset
 
- URL: https://obczan.cz/zakon/noz/cast-treti/hlava-ii/dil-6/oddil-4/pododdil-1?do
-=detail-item-4120- Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/aut
-h/podob/a59e958eaa891455/2b5b026998710dc2/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://obczan.cz/zakon/noz/cast-treti/hlava-ii/dil-6/oddil-4/pododdil-1?do=
+detail-item-4120- 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/2b5b026998710dc2/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -761,9 +1007,70 @@ status open
 
 \end_inset
 
- URL: https://www.obczan.cz/zakon/noz/cast-treti/hlava-ii/dil-6/oddil-4/pododdil-1
-?do=detail- Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob
-/a59e958eaa891455/172ca6bf63499650/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://www.obczan.cz/zakon/noz/cast-treti/hlava-ii/dil-6/oddil-4/pododdil-1?
+do=detail- 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/172ca6bf63499650/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -797,9 +1104,70 @@ status open
 
 \end_inset
 
- URL: http://www.obczan.cz/zakon/noz/cast-treti/hlava-ii/dil-6/oddil-4/pododdil-1?
-do=detail- Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/
-a59e958eaa891455/b6ae9123a0cadbe5/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://www.obczan.cz/zakon/noz/cast-treti/hlava-ii/dil-6/oddil-4/pododdil-1?d
+o=detail- 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/b6ae9123a0cadbe5/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -833,10 +1201,70 @@ status open
 
 \end_inset
 
- URL: https://obczan.cz/zakon/noz/cast-treti/hlava-ii/dil-6/oddil-4/pododdil-1?de
-tail-item-4118-comments-item-3605-expanded=1 Procento podobnosti: < 5 %
- Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/5e8ab1e8dc2dde12/
- ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://obczan.cz/zakon/noz/cast-treti/hlava-ii/dil-6/oddil-4/pododdil-1?det
+ail-item-4118-comments-item-3605-expanded=1 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/5e8ab1e8dc2dde12/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -870,8 +1298,69 @@ status open
 
 \end_inset
 
- URL: http://www.drsf.cz/node/39 Procento podobnosti: < 5 % Podobnosti: https://od
-evzdej.cz/auth/podob/a59e958eaa891455/16e34e3c3ae95a09/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://www.drsf.cz/node/39 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/16e34e3c3ae95a09/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -905,10 +1394,71 @@ status open
 
 \end_inset
 
- URL: https://www.obczan.cz/zakon/noz/cast-treti/hlava-ii/dil-6/oddil-4/pododdil-1
-?detail-item-4118-comments-item-3605-expanded=1&detail-item-4111-comments-item-3
-961-expanded=1 Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/po
-dob/a59e958eaa891455/78c39d5579e29b05/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://www.obczan.cz/zakon/noz/cast-treti/hlava-ii/dil-6/oddil-4/pododdil-1?
+detail-item-4118-comments-item-3605-expanded=1&detail-item-4111-comments-item-39
+61-expanded=1 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/78c39d5579e29b05/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -942,9 +1492,69 @@ status open
 
 \end_inset
 
- URL: http://www.sverenska-sprava.cz/magazin/slovnik Procento podobnosti:
- < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/9f0aa0568214dc
-4b/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://www.sverenska-sprava.cz/magazin/slovnik 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/9f0aa0568214dc4b/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -978,9 +1588,69 @@ status open
 
 \end_inset
 
- URL: https://www.aplu.cz/investice/zalozeni-sverenskeho-fondu/ Procento podobnost
-i: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/242217519abd
-6b8c/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://www.aplu.cz/investice/zalozeni-sverenskeho-fondu/ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/242217519abd6b8c/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -1014,10 +1684,71 @@ status open
 
 \end_inset
 
- URL: https://cc.bingj.com/cache.aspx?q=sv%C4%9B%C5%99ensk%C3%BD+zisif+fond+oz+obmy
-%C5%A1len%C3%BD&d=4963626867367601&mkt=en-US&setlang=en-US&w=lLSvid6flETRMk_GfxO
-Ozu5hZwQgvZsZ Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/pod
-ob/a59e958eaa891455/e46d114524df583e/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://cc.bingj.com/cache.aspx?q=sv%C4%9B%C5%99ensk%C3%BD+zisif+fond+oz+obmy%
+C5%A1len%C3%BD&d=4963626867367601&mkt=en-US&setlang=en-US&w=lLSvid6flETRMk_GfxOO
+zu5hZwQgvZsZ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/e46d114524df583e/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -1051,8 +1782,107 @@ status open
 
 \end_inset
 
- URL: http://www.unipa.it/gpino/Ulpiano.pdf Procento podobnosti: < 5 % Podobnosti:
- https://odevzdej.cz/auth/podob/a59e958eaa891455/8587bd2f51aea1f7/ =======
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://www.unipa.it/gpino/Ulpiano.pdf 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/8587bd2f51aea1f7/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Agenda: Zdroj z Internetu 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://zakony.centrum.cz/danovy-rad/cast-2-hlava-1-dil-2-paragraf-24
  
 \begin_inset ERT
 status open
@@ -1072,24 +1902,7 @@ status open
 \end_layout
 
 \begin_layout Standard
-Agenda: Zdroj z Internetu 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-
-\backslash
-
-\end_layout
-
-\end_inset
-
- URL: http://zakony.centrum.cz/danovy-rad/cast-2-hlava-1-dil-2-paragraf-24
- Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/03f60e2f463ff3f3/ ======= 
+Procento podobnosti: < 5 % 
 \begin_inset ERT
 status open
 
@@ -1108,169 +1921,7 @@ status open
 \end_layout
 
 \begin_layout Standard
-Agenda: Zdroj z Internetu 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-
-\backslash
-
-\end_layout
-
-\end_inset
-
- URL: https://www.mesec.cz/zakony/obcansky-zakonik-2014/f4583528/ Procento
- podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/d8
-0422288caaa382/ ======= 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-
-\backslash
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Agenda: Zdroj z Internetu 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-
-\backslash
-
-\end_layout
-
-\end_inset
-
- URL: https://cc.bingj.com/cache.aspx?q=zakon+obcansky+zakonik+sverensky+kolektivni
-ho&d=4931972929227984&mkt=en-US&setlang=en-US&w=RULTP85QwYfCzXbd12v_O-Ne-ZN56SOD
- Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/1713becf218dfeea/ ======= 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-
-\backslash
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Agenda: Zdroj z Internetu 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-
-\backslash
-
-\end_layout
-
-\end_inset
-
- URL: https://www.podnikatel.cz/zakony/novy-obcansky-zakonik/f4583528/ Procento
- podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/8e
-a056ef3c32476b/ ======= 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-
-\backslash
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Agenda: Zdroj z Internetu 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-
-\backslash
-
-\end_layout
-
-\end_inset
-
- URL: http://drsf.cz/node/41 Procento podobnosti: < 5 % Podobnosti: https://odevz
-dej.cz/auth/podob/a59e958eaa891455/8c9c53f6dca6de2c/ ======= 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-
-\backslash
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Agenda: Zdroj z Internetu 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-
-\backslash
-
-\end_layout
-
-\end_inset
-
- URL: http://cc.bingj.com/cache.aspx?q=soud+dostupn%C3%BD+prosp%C4%9B%C5%A1n%C3%BD+
-z%C3%A1kon%C3%ADk+pozd%C4%9Bj%C5%A1%C3%AD&d=4799370059584336&mkt=en-US&setlang=e
-n-US&w=axpMFPk1y6GGgC7aX0Ud7X_54LHMfFtm Procento podobnosti: < 5 % Podobnosti:
- https://odevzdej.cz/auth/podob/a59e958eaa891455/243182fcaecd184d/ =======
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/03f60e2f463ff3f3/
  
 \begin_inset ERT
 status open
@@ -1290,24 +1941,7 @@ status open
 \end_layout
 
 \begin_layout Standard
-Agenda: Zdroj z Internetu 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-
-\backslash
-
-\end_layout
-
-\end_inset
-
- URL: https://zakony.kurzy.cz/89-2012-obcansky-zakonik/cast-3-hlava-2-dil-6-oddil-
-4/ Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958e
-aa891455/5e71ba69e8e2cdd2/ ======= 
+======= 
 \begin_inset ERT
 status open
 
@@ -1341,9 +1975,69 @@ status open
 
 \end_inset
 
- URL: https://www.kurzy.cz/zakony/89-2012-obcansky-zakonik/cast-3-hlava-2-dil-6-od
-dil-4/ Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e
-958eaa891455/67c840fe499e65fd/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://www.mesec.cz/zakony/obcansky-zakonik-2014/f4583528/ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/d80422288caaa382/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -1377,9 +2071,71 @@ status open
 
 \end_inset
 
- URL: https://www.podnikatel.cz/zakony/novy-obcansky-zakonik/f4583528/ Procento
- podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/fe
-726a003d099977/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://cc.bingj.com/cache.aspx?q=zakon+obcansky+zakonik+sverensky+kolektivnih
+o&d=4931972929227984&mkt=en-US&setlang=en-US&w=RULTP85QwYfCzXbd12v_O-Ne-ZN56SOD
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/1713becf218dfeea/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -1413,9 +2169,69 @@ status open
 
 \end_inset
 
- URL: http://aprsf.cz/wp-content/uploads/2015/04/predpisy-noz-1448-an.pdf
- Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/a58aca8f20caf837/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://www.podnikatel.cz/zakony/novy-obcansky-zakonik/f4583528/ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/8ea056ef3c32476b/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -1449,9 +2265,69 @@ status open
 
 \end_inset
 
- URL: https://zakony.pohoda.cz/obcanske-pravo/novy-obcansky-zakonik/sverensky-fond
-/ Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958ea
-a891455/d6c5e1e25b89a2a6/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://drsf.cz/node/41 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/8c9c53f6dca6de2c/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -1485,9 +2361,71 @@ status open
 
 \end_inset
 
- URL: http://www.spolecnosti123.cz/sverenske-fondy.php Procento podobnosti:
- < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/c1b8dd26091f80
-f5/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://cc.bingj.com/cache.aspx?q=soud+dostupn%C3%BD+prosp%C4%9B%C5%A1n%C3%BD+z
+%C3%A1kon%C3%ADk+pozd%C4%9Bj%C5%A1%C3%AD&d=4799370059584336&mkt=en-US&setlang=en
+-US&w=axpMFPk1y6GGgC7aX0Ud7X_54LHMfFtm 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/243182fcaecd184d/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -1521,9 +2459,70 @@ status open
 
 \end_inset
 
- URL: http://zakony.centrum.cz/obcansky-zakonik-novy/cast-3-hlava-2-dil-6-oddil-4
- Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/cb46fefada192d9c/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://zakony.kurzy.cz/89-2012-obcansky-zakonik/cast-3-hlava-2-dil-6-oddil-4
+/ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/5e71ba69e8e2cdd2/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -1557,9 +2556,70 @@ status open
 
 \end_inset
 
- URL: https://portal.pohoda.cz/obcanske-pravo/novy-obcansky-zakonik/sverensky-fond
-/ Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958ea
-a891455/4565bf8c08c0f410/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://www.kurzy.cz/zakony/89-2012-obcansky-zakonik/cast-3-hlava-2-dil-6-odd
+il-4/ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/67c840fe499e65fd/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -1593,10 +2653,69 @@ status open
 
 \end_inset
 
- URL: https://cc.bingj.com/cache.aspx?q=sv%C4%9B%C5%99ensk%C3%BD+zisif+fond+oz+obmy
-%C5%A1len%C3%BD&d=4582843682784822&mkt=en-US&setlang=en-US&w=VuQhiDWzR2kkCTyNUVG
-BvWZBRIUS-UDF Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/pod
-ob/a59e958eaa891455/dda25f1fa633b419/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://www.podnikatel.cz/zakony/novy-obcansky-zakonik/f4583528/ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/fe726a003d099977/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -1630,9 +2749,69 @@ status open
 
 \end_inset
 
- URL: http://www.sverenskyfond.cz/navrh-sverenskeho-fondu-v-novem-oz Procento
- podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/af
-fee540529e31c5/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://aprsf.cz/wp-content/uploads/2015/04/predpisy-noz-1448-an.pdf 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/a58aca8f20caf837/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -1666,10 +2845,70 @@ status open
 
 \end_inset
 
- URL: https://cc.bingj.com/cache.aspx?q=sv%C4%9B%C5%99ensk%C3%BD+z%C3%A1kon%C3%ADk+
-oz+isbn+poz%C5%AFstalost&d=4582843662997980&mkt=en-US&setlang=en-US&w=htz4sx1ycY
-0kCTyNUVGBvWZBRIUS-UDF Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz
-/auth/podob/a59e958eaa891455/ad4c6b8d803e3d96/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://zakony.pohoda.cz/obcanske-pravo/novy-obcansky-zakonik/sverensky-fond/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/d6c5e1e25b89a2a6/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -1703,9 +2942,69 @@ status open
 
 \end_inset
 
- URL: https://journals.muni.cz/cpvp/article/view/5362 Procento podobnosti:
- < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/74a38f18577775
-37/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://www.spolecnosti123.cz/sverenske-fondy.php 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/c1b8dd26091f80f5/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -1739,9 +3038,70 @@ status open
 
 \end_inset
 
- URL: http://www.sverenskyfond.cz/navrh-sverenskeho-fondu-v-novem-oz Procento
- podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/63
-b818b7844757b8/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://zakony.centrum.cz/obcansky-zakonik-novy/cast-3-hlava-2-dil-6-oddil-4
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/cb46fefada192d9c/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -1775,10 +3135,70 @@ status open
 
 \end_inset
 
- URL: https://www.obczan.cz/zakon/noz/cast-treti/hlava-ii/dil-6/oddil-4/pododdil-1
-?detail-item-4120-comments-item-3606-expanded=1 Procento podobnosti: < 5
- % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/17a27e76d5f92658/
- ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://portal.pohoda.cz/obcanske-pravo/novy-obcansky-zakonik/sverensky-fond/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/4565bf8c08c0f410/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -1812,9 +3232,71 @@ status open
 
 \end_inset
 
- URL: http://www.sverenskyfond.cz/navrh-sverenskeho-fondu-v-novem-oz Procento
- podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/2c
-075f98abbe9245/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://cc.bingj.com/cache.aspx?q=sv%C4%9B%C5%99ensk%C3%BD+zisif+fond+oz+obmy%
+C5%A1len%C3%BD&d=4582843682784822&mkt=en-US&setlang=en-US&w=VuQhiDWzR2kkCTyNUVGB
+vWZBRIUS-UDF 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/dda25f1fa633b419/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -1848,9 +3330,69 @@ status open
 
 \end_inset
 
- URL: https://www.profispolecnosti.cz/cs/novy-obcansky-zakonik/novy-obcansky-zakon
-ik-sverensky-fond/a-3093/ Procento podobnosti: < 5 % Podobnosti: https://odevzde
-j.cz/auth/podob/a59e958eaa891455/c2dd06fdc58f048b/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://www.sverenskyfond.cz/navrh-sverenskeho-fondu-v-novem-oz 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/affee540529e31c5/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -1884,9 +3426,71 @@ status open
 
 \end_inset
 
- URL: https://www.profispolecnosti.cz/cs/novy-obcansky-zakonik/novy-obcansky-zakon
-ik-sverensky-fond/a-3093/ Procento podobnosti: < 5 % Podobnosti: https://odevzde
-j.cz/auth/podob/a59e958eaa891455/0f8e5cf95db8a0c7/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://cc.bingj.com/cache.aspx?q=sv%C4%9B%C5%99ensk%C3%BD+z%C3%A1kon%C3%ADk+o
+z+isbn+poz%C5%AFstalost&d=4582843662997980&mkt=en-US&setlang=en-US&w=htz4sx1ycY0
+kCTyNUVGBvWZBRIUS-UDF 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/ad4c6b8d803e3d96/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -1920,10 +3524,54 @@ status open
 
 \end_inset
 
- URL: https://cc.bingj.com/cache.aspx?q=zakon+obcansky+zakonik+sverensky+kolektivni
-ho&d=5047795297618601&mkt=en-US&setlang=en-US&w=loRS71OLlwT3eN9MMYkL8l3RjhsDHOsh
- Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/4977d29e01026b3b/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://journals.muni.cz/cpvp/article/view/5362 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/74a38f1857777537/
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -1957,9 +3605,69 @@ status open
 
 \end_inset
 
- URL: http://www.podnikatel.cz/zakony/novy-obcansky-zakonik/f4583528/ Procento
- podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/41
-04e57677994be8/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://www.sverenskyfond.cz/navrh-sverenskeho-fondu-v-novem-oz 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/63b818b7844757b8/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -1993,9 +3701,70 @@ status open
 
 \end_inset
 
- URL: https://zakony.kurzy.cz/89-2012-obcansky-zakonik/cast-3-hlava-2-dil-6-oddil-
-4/ Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958e
-aa891455/004085ea2522d86a/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://www.obczan.cz/zakon/noz/cast-treti/hlava-ii/dil-6/oddil-4/pododdil-1?
+detail-item-4120-comments-item-3606-expanded=1 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/17a27e76d5f92658/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2029,9 +3798,69 @@ status open
 
 \end_inset
 
- URL: http://zakony.kurzy.cz/89-2012-obcansky-zakonik/cast-3-hlava-2-dil-6-oddil-4
-/ Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958ea
-a891455/7737d7c783f242c2/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://www.sverenskyfond.cz/navrh-sverenskeho-fondu-v-novem-oz 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/2c075f98abbe9245/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2065,9 +3894,70 @@ status open
 
 \end_inset
 
- URL: http://www.mesec.cz/zakony/obcansky-zakonik-2014/f4583528/ Procento
- podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/ce
-c34ca50bdf7092/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://www.profispolecnosti.cz/cs/novy-obcansky-zakonik/novy-obcansky-zakoni
+k-sverensky-fond/a-3093/ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/c2dd06fdc58f048b/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2101,9 +3991,70 @@ status open
 
 \end_inset
 
- URL: http://www.podnikatel.cz/zakony/novy-obcansky-zakonik/f4583528/ Procento
- podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/c1
-91b54eb4aa2872/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://www.profispolecnosti.cz/cs/novy-obcansky-zakonik/novy-obcansky-zakoni
+k-sverensky-fond/a-3093/ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/0f8e5cf95db8a0c7/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2137,9 +4088,71 @@ status open
 
 \end_inset
 
- URL: http://zakony.kurzy.cz/89-2012-obcansky-zakonik/cast-3-hlava-2-dil-6-oddil-4
-/ Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958ea
-a891455/9ca826b283878588/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://cc.bingj.com/cache.aspx?q=zakon+obcansky+zakonik+sverensky+kolektivnih
+o&d=5047795297618601&mkt=en-US&setlang=en-US&w=loRS71OLlwT3eN9MMYkL8l3RjhsDHOsh
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/4977d29e01026b3b/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2173,9 +4186,69 @@ status open
 
 \end_inset
 
- URL: https://www.mesec.cz/zakony/obcansky-zakonik-2014/f4583528/ Procento
- podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/b6
-773bb2f19972a1/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://www.podnikatel.cz/zakony/novy-obcansky-zakonik/f4583528/ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/4104e57677994be8/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2209,9 +4282,70 @@ status open
 
 \end_inset
 
- URL: http://www.mesec.cz/zakony/obcansky-zakonik-2014/f4583528/ Procento
- podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/a9
-acffaa3910f8ed/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://zakony.kurzy.cz/89-2012-obcansky-zakonik/cast-3-hlava-2-dil-6-oddil-4
+/ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/004085ea2522d86a/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2245,9 +4379,70 @@ status open
 
 \end_inset
 
- URL: http://fond-sverensky.cz/sverensky-fond.php Procento podobnosti: < 5
- % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/8208dcc0f0fc6c4f/
- ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://zakony.kurzy.cz/89-2012-obcansky-zakonik/cast-3-hlava-2-dil-6-oddil-4/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/7737d7c783f242c2/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2281,9 +4476,69 @@ status open
 
 \end_inset
 
- URL: https://www.epravo.cz/top/efocus/novy-obcansky-zakonik-64-sprava-ciziho-maje
-tku-sverensky-fond-92345.html Procento podobnosti: < 5 % Podobnosti: https://odev
-zdej.cz/auth/podob/a59e958eaa891455/926f1fca1cc74346/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://www.mesec.cz/zakony/obcansky-zakonik-2014/f4583528/ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/cec34ca50bdf7092/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2317,9 +4572,69 @@ status open
 
 \end_inset
 
- URL: http://finance.idnes.cz/sverensky-fond-lze-pouzit-jako-novy-nastroj-pro-priv
-atni-spravu-majetku-1lu Procento podobnosti: < 5 % Podobnosti: https://odevzdej.c
-z/auth/podob/a59e958eaa891455/87ccb6c099285ab3/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://www.podnikatel.cz/zakony/novy-obcansky-zakonik/f4583528/ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/c191b54eb4aa2872/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2353,10 +4668,597 @@ status open
 
 \end_inset
 
- URL: http://finance.idnes.cz/sverensky-fond-lze-pouzit-jako-novy-nastroj-pro-priv
-atni-spravu-majetku-1lu-/pravo.aspx%3Fc%3DA130206_131243_pravo_vr Procento
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://zakony.kurzy.cz/89-2012-obcansky-zakonik/cast-3-hlava-2-dil-6-oddil-4/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/9ca826b283878588/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Agenda: Zdroj z Internetu 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://www.mesec.cz/zakony/obcansky-zakonik-2014/f4583528/ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/b6773bb2f19972a1/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Agenda: Zdroj z Internetu 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://www.mesec.cz/zakony/obcansky-zakonik-2014/f4583528/ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/a9acffaa3910f8ed/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Agenda: Zdroj z Internetu 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://fond-sverensky.cz/sverensky-fond.php 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/8208dcc0f0fc6c4f/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Agenda: Zdroj z Internetu 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://www.epravo.cz/top/efocus/novy-obcansky-zakonik-64-sprava-ciziho-majet
+ku-sverensky-fond-92345.html 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/926f1fca1cc74346/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Agenda: Zdroj z Internetu 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://finance.idnes.cz/sverensky-fond-lze-pouzit-jako-novy-nastroj-pro-priva
+tni-spravu-majetku-1lu 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/87ccb6c099285ab3/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Agenda: Zdroj z Internetu 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://finance.idnes.cz/sverensky-fond-lze-pouzit-jako-novy-nastroj-pro-priva
+tni-spravu-majetku-1lu-/pravo.aspx%3Fc%3DA130206_131243_pravo_vr Procento
  podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/2e
-81fe39da8b4b2d/ ======= 
+81fe39da8b4b2d/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2390,9 +5292,17 @@ status open
 
 \end_inset
 
- URL: http://finance.idnes.cz/sverensky-fond-lze-pouzit-jako-novy-nastroj-pro-priv
-atni-spravu-majetku- Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/a
-uth/podob/a59e958eaa891455/ddecc27a99f762db/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://finance.idnes.cz/sverensky-fond-lze-pouzit-jako-novy-nastroj-pro-priva
+tni-spravu-majetku- Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/au
+th/podob/a59e958eaa891455/ddecc27a99f762db/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2426,9 +5336,17 @@ status open
 
 \end_inset
 
- URL: http://finance.idnes.cz/sverensky-fond-lze- Procento podobnosti: < 5
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://finance.idnes.cz/sverensky-fond-lze- Procento podobnosti: < 5
  % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/8f0a3342db99747c/
- ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2462,9 +5380,17 @@ status open
 
 \end_inset
 
- URL: https://business.center.cz/business/pravo/zakony/obcansky-zakonik/cast1h2d1.a
-spx Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958
-eaa891455/bbb4036730c2d7b8/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://business.center.cz/business/pravo/zakony/obcansky-zakonik/cast1h2d1.as
+px Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958e
+aa891455/bbb4036730c2d7b8/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2501,8 +5427,11 @@ status open
  URL: http://cc.bingj.com/cache.aspx?q=pr%C3%A1vn%C3%AD+osobnost+sv%C3%A9pr%C3%A1vn
 ost+subjektivita+pr%C3%A1vnick%C3%BD&d=4627820525324721&mkt=en-US&setlang=en-US&
 w=-IqCiVlbVOQ4fVQfkH3A_XQ5tkavNU_z Procento podobnosti: < 5 % Podobnosti:
- https://odevzdej.cz/auth/podob/a59e958eaa891455/2e8ddaf040eb0e8d/ =======
- 
+ https://odevzdej.cz/auth/podob/a59e958eaa891455/2e8ddaf040eb0e8d/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2538,7 +5467,11 @@ status open
 
  URL: https://business.center.cz/business/pravo/zakony/obcansky-zakonik/cast1h2d1.a
 spx Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958
-eaa891455/f7bfb25f91987321/ ======= 
+eaa891455/f7bfb25f91987321/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2574,7 +5507,11 @@ status open
 
  URL: http://business.center.cz/business/pravo/zakony/obcansky-zakonik/cast1h2d1.as
 px Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958e
-aa891455/389c1a299b9db7c7/ ======= 
+aa891455/389c1a299b9db7c7/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2611,7 +5548,11 @@ status open
  URL: http://cc.bingj.com/cache.aspx?q=zrs+man%C5%BEel+z%C3%A1kon+ob%C4%8Dansk%C3%B
 D+zvl%C3%A1%C5%A1tn%C3%AD&d=4627820525324721&mkt=en-US&setlang=en-US&w=-IqCiVlbV
 OQ4fVQfkH3A_XQ5tkavNU_z Procento podobnosti: < 5 % Podobnosti: https://odevzdej.c
-z/auth/podob/a59e958eaa891455/b3e70d6ac53ea974/ ======= 
+z/auth/podob/a59e958eaa891455/b3e70d6ac53ea974/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2647,7 +5588,11 @@ status open
 
  URL: https://business.center.cz/business/Pravo/zakony/obcansky-zakonik/cast1h2d1.a
 spx Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958
-eaa891455/d6c997c7e2208e30/ ======= 
+eaa891455/d6c997c7e2208e30/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2683,7 +5628,11 @@ status open
 
  URL: http://business.center.cz/business/pravo/zakony/obcansky-zakonik/cast1h2d1.as
 px Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958e
-aa891455/00191708ad4629b1/ ======= 
+aa891455/00191708ad4629b1/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2720,7 +5669,11 @@ status open
  URL: http://cc.bingj.com/cache.aspx?q=sv%C3%A9pr%C3%A1vnost+pr%C3%A1vn%C3%AD+osobn
 ost+subjektivita+osoba&d=4627820590729610&mkt=en-US&setlang=en-US&w=YO1kNMKtlvU4
 fVQfkH3A_XQ5tkavNU_z Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/a
-uth/podob/a59e958eaa891455/b4e6dfe540a499f3/ ======= 
+uth/podob/a59e958eaa891455/b4e6dfe540a499f3/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2756,7 +5709,11 @@ status open
 
  URL: https://www.mesec.cz/zakony/obcansky-zakonik-2014/f4578906/ Procento
  podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/f3
-22df96b0523ca1/ ======= 
+22df96b0523ca1/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2792,7 +5749,11 @@ status open
 
  URL: https://www.podnikatel.cz/zakony/novy-obcansky-zakonik/f4578906/ Procento
  podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/94
-f00f4a31971bd6/ ======= 
+f00f4a31971bd6/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2828,7 +5789,11 @@ status open
 
  URL: http://zakony.centrum.cz/obcansky-zakonik-novy/cast-1-hlava-2-dil-1
  Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/7717952e52cf4295/ ======= 
+891455/7717952e52cf4295/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2901,7 +5866,11 @@ status open
  URL: https://cc.bingj.com/cache.aspx?q=dostupn%C3%BD+online+z%C3%A1kon+st%C3%A1t+u
 stanoven%C3%AD&d=4647070606036581&mkt=en-US&setlang=en-US&w=yxoX0DDrhjVBPn7Y39bQ
 wIvJi5zWw8Pj Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podo
-b/a59e958eaa891455/2a584d105d994517/ ======= 
+b/a59e958eaa891455/2a584d105d994517/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2937,7 +5906,11 @@ status open
 
  URL: http://www.spolecnosti123.cz/sverenske-fondy.php Procento podobnosti:
  < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/05a7f9d503bfdd
-5a/ ======= 
+5a/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -2973,7 +5946,11 @@ status open
 
  URL: http://www.epravo.cz/top/efocus/novy-obcansky-zakonik-64-sprava-ciziho-majet
 ku-sverensky-fond-92345.html Procento podobnosti: < 5 % Podobnosti: https://odevz
-dej.cz/auth/podob/a59e958eaa891455/6ef5b2fdafe3c258/ ======= 
+dej.cz/auth/podob/a59e958eaa891455/6ef5b2fdafe3c258/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -3010,7 +5987,11 @@ status open
  URL: http://finance.idnes.cz/sverensky-fond-lze-pouzit-jako-novy-nastroj-pro-priv
 atni-spravu-majetku-1lu-/pravo.aspx?c=A130206_131243_pravo_vr Procento podobnosti
 : < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/805d892b83779
-e7b/ ======= 
+e7b/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -3047,7 +6028,11 @@ status open
  URL: http://cc.bingj.com/cache.aspx?q=sv%C4%9B%C5%99ensk%C3%BD+fond+obmy%C5%A1len%
 C3%BD+majetek+spr%C3%83%C2%A1vce&d=4615489645708580&mkt=en-US&setlang=en-US&w=Wc
 G32wjqLdUy4Yxv3sk71xDLPxPxwyow Procento podobnosti: < 5 % Podobnosti: https://od
-evzdej.cz/auth/podob/a59e958eaa891455/f31187e1ff471dc2/ ======= 
+evzdej.cz/auth/podob/a59e958eaa891455/f31187e1ff471dc2/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -3083,7 +6068,11 @@ status open
 
  URL: http://business.center.cz/business/pravo/zakony/obcansky-zakonik/cast1h2d1.as
 px Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958e
-aa891455/0c6f4ab03f6a4f17/ ======= 
+aa891455/0c6f4ab03f6a4f17/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -3119,7 +6108,11 @@ status open
 
  URL: https://zakony.kurzy.cz/89-2012-obcansky-zakonik/cast-1-hlava-2-dil-1/
  Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/513f6f9bd329d535/ ======= 
+891455/513f6f9bd329d535/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -3155,7 +6148,11 @@ status open
 
  URL: https://portal.pohoda.cz/obcanske-pravo/novy-obcansky-zakonik/vseobecna-usta
 noveni/ Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59
-e958eaa891455/f72b6cb4e1edc897/ ======= 
+e958eaa891455/f72b6cb4e1edc897/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -3191,7 +6188,11 @@ status open
 
  URL: https://www.mesec.cz/zakony/obcansky-zakonik-2014/f4578906/ Procento
  podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/54
-f8b9b04376596b/ ======= 
+f8b9b04376596b/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -3228,7 +6229,11 @@ status open
  URL: https://www.idnes.cz/finance/pravo/sverensky-fond-lze-pouzit-jako-novy-nastr
 oj-pro-privatni-spravu-majetku.A130206_131243_pravo_vr Procento podobnosti:
  < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/644f2cfa3d2916
-ac/ ======= 
+ac/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -3264,8 +6269,11 @@ status open
 
  URL: http://www.havelpartners.cz/cs/rekodifikace/publikace/289-sverensky-fond-nov
 y-nastroj-pro-privatni-spravu-majetku Procento podobnosti: < 5 % Podobnosti:
- https://odevzdej.cz/auth/podob/a59e958eaa891455/6a377e07038f46cc/ =======
- 
+ https://odevzdej.cz/auth/podob/a59e958eaa891455/6a377e07038f46cc/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -3301,8 +6309,11 @@ status open
 
  URL: http://www.havelholasek.cz/cs/rekodifikace/publikace/289-sverensky-fond-novy
 -nastroj-pro-privatni-spravu-majetku Procento podobnosti: < 5 % Podobnosti:
- https://odevzdej.cz/auth/podob/a59e958eaa891455/3ead5b1645923d51/ =======
- 
+ https://odevzdej.cz/auth/podob/a59e958eaa891455/3ead5b1645923d51/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -6309,7 +9320,11 @@ Agenda: Studijní materiály; Fakulta: , Předmět: MVV42K, Období: jaro 2020
  - is.muni.cz Vloženo: 15.
  5.
  2020 Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e9
-58eaa891455/f5ddafc2f4addf86/ ======= 
+58eaa891455/f5ddafc2f4addf86/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -6345,7 +9360,11 @@ status open
 
  URL: http://www.trustycr.cz/trust-sverensky-fond/ Procento podobnosti: <
  5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/95bde1afe3d1ef0f
-/ ======= 
+/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -6381,7 +9400,11 @@ status open
 
  URL: https://zakony.kurzy.cz/89-2012-obcansky-zakonik/cast-3-hlava-2-dil-6-oddil-
 4-pododdil-4/ Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/pod
-ob/a59e958eaa891455/ca238473a0514c59/ ======= 
+ob/a59e958eaa891455/ca238473a0514c59/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -6417,7 +9440,11 @@ status open
 
  URL: https://www.podnikatel.cz/zakony/novy-obcansky-zakonik/f4583388/ Procento
  podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/2e
-e3c13f981e7ad1/ ======= 
+e3c13f981e7ad1/
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -6453,7 +9480,11 @@ status open
 
  URL: http://business.center.cz/business/pravo/zakony/obcansky-zakonik/cast3h2d6.as
 px Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958e
-aa891455/271cce8a61d7d0bb/ ======= 
+aa891455/271cce8a61d7d0bb/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -6489,7 +9520,11 @@ status open
 
  URL: http://www.giuri.unipd.it/conferences/FOV2-0001F91C/PARTIZIONI%20DEL%20DIRITT
 O.pdf Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e95
-8eaa891455/06fa49e54d0a550a/ ======= 
+8eaa891455/06fa49e54d0a550a/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -6525,7 +9560,11 @@ status open
 
  URL: http://www.business.center.cz/business/pravo/zakony/obcansky-zakonik/cast3h2d
 6.aspx Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e9
-58eaa891455/f921941c7df8fc97/ ======= 
+58eaa891455/f921941c7df8fc97/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -6561,7 +9600,11 @@ status open
 
  URL: http://business.center.cz/business/pravo/zakony/obcansky-zakonik/cast3h2d6.as
 px Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958e
-aa891455/02db9c9903215d90/ ======= 
+aa891455/02db9c9903215d90/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -6598,7 +9641,11 @@ status open
  URL: https://cc.bingj.com/cache.aspx?q=majetek+spr%C3%A1va+majetkov%C3%BD+benefici
 ent+fisk%C3%A1ln%C3%AD&d=5006713937997972&mkt=en-US&setlang=en-US&w=PRG1VbvCqwzk
 ynk0uNEMhKIuZ-icy3RB Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/a
-uth/podob/a59e958eaa891455/4801cf627fba52a7/ ======= 
+uth/podob/a59e958eaa891455/4801cf627fba52a7/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -6634,7 +9681,11 @@ status open
 
  URL: https://portal.pohoda.cz/obcanske-pravo/novy-obcansky-zakonik/sprava-ciziho-
 majetku/ Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a5
-9e958eaa891455/3176e97af13eb6ad/ ======= 
+9e958eaa891455/3176e97af13eb6ad/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -6670,7 +9721,11 @@ status open
 
  URL: https://business.center.cz/business/pravo/zakony/obcansky-zakonik/cast3h2d6.a
 spx Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958
-eaa891455/9a4c40394d9cdc88/ ======= 
+eaa891455/9a4c40394d9cdc88/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -6706,7 +9761,11 @@ status open
 
  URL: http://zakony.centrum.cz/obcansky-zakonik-novy/cast-3-hlava-2-dil-6
  Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/725cd9b06b8d1f2f/ ======= 
+891455/725cd9b06b8d1f2f/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -6742,7 +9801,11 @@ status open
 
  URL: http://zakony.centrum.cz/obcansky-zakonik-novy/cast-3-hlava-2-dil-6
  Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/271388a7acee24d7/ ======= 
+891455/271388a7acee24d7/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -6779,7 +9842,11 @@ status open
  URL: https://cc.bingj.com/cache.aspx?q=sv%C4%9B%C5%99ensk%C3%BD+zisif+fond+oz+obmy
 %C5%A1len%C3%BD&d=5032578251360236&mkt=en-US&setlang=en-US&w=Vq3fdo_lANXwjRPe0sA
 5yepA2zvriFq- Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/pod
-ob/a59e958eaa891455/fee6673aea570500/ ======= 
+ob/a59e958eaa891455/fee6673aea570500/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -6815,7 +9882,11 @@ status open
 
  URL: http://investorske-druzstvo.wz.cz/infoburza/id24243/ Procento podobnosti:
  < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/d962a657cae9c1
-c9/ ======= 
+c9/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -6852,7 +9923,11 @@ status open
  URL: http://cc.bingj.com/cache.aspx?q=sv%C4%9B%C5%99ensk%C3%BD+fond+noz+majetek+ob
 my%C5%A1len%C3%BD&d=4527674781992378&mkt=en-US&setlang=en-US&w=KzIj-_pSLEYK8rG6G
 Ypcn8FcutN62MGj Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/p
-odob/a59e958eaa891455/9d0c5a151e3f3e25/ ======= 
+odob/a59e958eaa891455/9d0c5a151e3f3e25/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -6888,7 +9963,11 @@ status open
 
  URL: https://www.epravo.cz/top/clanky/sverensky-fond-v-novem-obcanskem-zakoniku-8
 4181.html Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a5
-9e958eaa891455/a459fd8a9db2877e/ ======= 
+9e958eaa891455/a459fd8a9db2877e/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -6924,7 +10003,11 @@ status open
 
  URL: https://www.epravo.cz/top/clanky/sverensky-fond-v-novem-obcanskem-zakoniku-8
 4181.html Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a5
-9e958eaa891455/f29f32f170473821/ ======= 
+9e958eaa891455/f29f32f170473821/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -6960,7 +10043,11 @@ status open
 
  URL: https://www.epravo.cz/top/clanky/sverensky-fond-vnovem-obcanskem-zakoniku-84
 181.html Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59
-e958eaa891455/1d160ae015f4ff7a/ ======= 
+e958eaa891455/1d160ae015f4ff7a/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -6996,7 +10083,11 @@ status open
 
  URL: http://www.epravo.cz/top/clanky/sverensky-fond-v-novem-obcanskemzakoniku-841
 81.html Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e
-958eaa891455/f19bac4a578eaa8e/ ======= 
+958eaa891455/f19bac4a578eaa8e/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7032,7 +10123,11 @@ status open
 
  URL: http://www.epravo.cz/top/clanky/sverensky-fond-v-novem-obcanskem-zakoniku-84
 181.html Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59
-e958eaa891455/32b7e22682d38a4c/ ======= 
+e958eaa891455/32b7e22682d38a4c/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7069,7 +10164,11 @@ status open
  URL: http://cc.bingj.com/cache.aspx?q=sv%C4%9B%C5%99ensk%C3%BD+fond+obmy%C5%A1len%
 C3%BD+majetek+spr%C3%83%C2%A1vce&d=4527674781992378&mkt=en-US&setlang=en-US&w=Kz
 Ij-_pSLEYK8rG6GYpcn8FcutN62MGj Procento podobnosti: < 5 % Podobnosti: https://od
-evzdej.cz/auth/podob/a59e958eaa891455/723639ee7bb4b1e7/ ======= 
+evzdej.cz/auth/podob/a59e958eaa891455/723639ee7bb4b1e7/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7105,7 +10204,11 @@ status open
 
  URL: https://www.epravo.cz/top/clanky/sverensky-fond-v-novem-obcanskem-zakoniku-8
 4181.html Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a5
-9e958eaa891455/8d6ca8a937188e16/ ======= 
+9e958eaa891455/8d6ca8a937188e16/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7141,7 +10244,11 @@ status open
 
  URL: http://www.epravo.cz/top/clanky/sverensky-fond-vnovem-obcanskem-zakoniku-841
 81.html Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e
-958eaa891455/643ea51b26f19e76/ ======= 
+958eaa891455/643ea51b26f19e76/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7177,7 +10284,11 @@ status open
 
  URL: https://www.podnikatel.cz/clanky/lex-babis-vyresi-sverensky-fond-vlk-se-naze
 re-a-agrofert-zustane-cely/ Procento podobnosti: < 5 % Podobnosti: https://odevz
-dej.cz/auth/podob/a59e958eaa891455/151d20fcb48beb5e/ ======= 
+dej.cz/auth/podob/a59e958eaa891455/151d20fcb48beb5e/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7213,7 +10324,11 @@ status open
 
  URL: https://www.obczan.cz/zakon/noz/cast-prvni/hlava-ii/dil-1?detail-item-48-com
 ments-item-1558- Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/
-podob/a59e958eaa891455/56a5f64ff9e87301/ ======= 
+podob/a59e958eaa891455/56a5f64ff9e87301/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7249,7 +10364,11 @@ status open
 
  URL: http://zakony.centrum.cz/obcansky-zakonik-novy/cast-1-hlava-2 Procento
  podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/bc
-f5ebcfe67aea37/ ======= 
+f5ebcfe67aea37/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7285,7 +10404,11 @@ status open
 
  URL: http://www.obczan.cz/zakon/noz/cast-prvni/hlava-ii/dil-1?detail-item-48-comm
 ents-item-1558- Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/p
-odob/a59e958eaa891455/07eb97b2248f017b/ ======= 
+odob/a59e958eaa891455/07eb97b2248f017b/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7321,7 +10444,11 @@ status open
 
  URL: http://www.obczan.cz/zakon/noz/cast-prvni/hlava-ii/dil-1?detail-item-48-
  Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/afc7035e6124529b/ ======= 
+891455/afc7035e6124529b/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7357,7 +10484,11 @@ status open
 
  URL: https://www.obczan.cz/zakon/noz/cast-prvni/hlava-ii/dil-1?detail-item-48-
  Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/a0757318a7e196d7/ ======= 
+891455/a0757318a7e196d7/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7393,7 +10524,11 @@ status open
 
  URL: http://zakony.centrum.cz/obcansky-zakonik-novy/cast-1-hlava-2%3Fstrana%3D13
  Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/12f91654e6059e0d/ ======= 
+891455/12f91654e6059e0d/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7429,7 +10564,11 @@ status open
 
  URL: http://zakony.centrum.cz/obcansky-zakonik-novy/cast-1-hlava-2%3Fstrana%3D25
  Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/806c009d3f8fab43/ ======= 
+891455/806c009d3f8fab43/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7465,7 +10604,11 @@ status open
 
  URL: http://zakony.centrum.cz/obcansky-zakonik-novy/cast-1-hlava-2%3Fstrana%3D20
  Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/95cd924c8b99cb61/ ======= 
+891455/95cd924c8b99cb61/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7501,7 +10644,11 @@ status open
 
  URL: http://zakony.centrum.cz/obcansky-zakonik-novy/cast-1-hlava-2%3Fstrana%3D7
  Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/ec8d928220ffeb23/ ======= 
+891455/ec8d928220ffeb23/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7537,7 +10684,11 @@ status open
 
  URL: http://zakony.centrum.cz/obcansky-zakonik-novy/cast-1-hlava-2%3Fstrana%3D17
  Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/8f09e8c7b8216846/ ======= 
+891455/8f09e8c7b8216846/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7573,7 +10724,11 @@ status open
 
  URL: http://zakony.centrum.cz/obcansky-zakonik-novy/cast-1-hlava-2%3Fstrana%3D22
  Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/9264f374d0e499ad/ ======= 
+891455/9264f374d0e499ad/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7609,7 +10764,11 @@ status open
 
  URL: http://zakony.centrum.cz/obcansky-zakonik-novy/cast-1-hlava-2%3Fstrana%3D16
  Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/a750be39e9144976/ ======= 
+891455/a750be39e9144976/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7645,7 +10804,11 @@ status open
 
  URL: http://zakony.centrum.cz/obcansky-zakonik-novy/cast-1-hlava-2%3Fstrana%3D14
  Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/31261d6ef4cd54f0/ ======= 
+891455/31261d6ef4cd54f0/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7681,7 +10844,11 @@ status open
 
  URL: http://business.center.cz/business/pravo/zakony/obcansky-zakonik/cast3h2d6.as
 px Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958e
-aa891455/603a2b6ddc893993/ ======= 
+aa891455/603a2b6ddc893993/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7718,7 +10885,11 @@ status open
  URL: https://www.nkcr.cz/casopis-ad-notam/detail/39_191-prakticke-aspekty-sverens
 keho-fondu-ve-svetle-navrhu-urgentni-novely-obcanskeho-zakoniku Procento
  podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/d9
-30546921664efb/ ======= 
+30546921664efb/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7754,7 +10925,11 @@ status open
 
  URL: http://portal.justice.cz/Justice2/MS/ms.aspx?o=23&j=33&k=2483&d=23015
  Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/185aa53fa540d1b3/ ======= 
+891455/185aa53fa540d1b3/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7791,7 +10966,11 @@ status open
  URL: https://cc.bingj.com/cache.aspx?q=oz+kontraktace+n%C3%A1le%C5%BEitost+mus%C3%
 AD+n%C3%A1vrh&d=4630251519804935&mkt=en-US&setlang=en-US&w=MYRWFu0LSb45mDbkc9m7F
 ESXlU4Ob2Wd Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob
-/a59e958eaa891455/17dd076767b91d4f/ ======= 
+/a59e958eaa891455/17dd076767b91d4f/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7828,7 +11007,11 @@ status open
  URL: https://www.nkcr.cz/casopis-ad-notam/detail/39_191-prakticke-aspekty-sverens
 keho-fondu-ve-svetle-navrhu-urgentni-novely-obcanskeho-zakoniku Procento
  podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/48
-9f20b0c0722a1a/ ======= 
+9f20b0c0722a1a/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7865,7 +11048,11 @@ status open
  URL: https://cc.bingj.com/cache.aspx?q=majetek+spr%C3%A1va+majetkov%C3%BD+benefici
 ent+fisk%C3%A1ln%C3%AD&d=4803351583130067&mkt=en-US&setlang=en-US&w=K0buWjgToTGI
 T4sQwK8j64oAs1sd7p8y Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/a
-uth/podob/a59e958eaa891455/ed3eed590aca82c8/ ======= 
+uth/podob/a59e958eaa891455/ed3eed590aca82c8/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7901,7 +11088,11 @@ status open
 
  URL: https://www.mesec.cz/zakony/obcansky-zakonik-2014/f4583388/ Procento
  podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/2d
-838c3022665eb4/ ======= 
+838c3022665eb4/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7937,7 +11128,11 @@ status open
 
  URL: http://zakony.kurzy.cz/89-2012-obcansky-zakonik/cast-3-hlava-2-dil-6/
  Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa
-891455/5cd3e0a141b31c2c/ ======= 
+891455/5cd3e0a141b31c2c/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -7973,7 +11168,11 @@ status open
 
  URL: http://www.sverenskyspravce.cz/cz/pravo/ Procento podobnosti: < 5 %
  Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/777b0f7f64312727/
- ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8009,7 +11208,11 @@ status open
 
  URL: http://www.podnikatel.cz/zakony/novy-obcansky-zakonik/f4583388/ Procento
  podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/4c
-b115cd2be8a921/ ======= 
+b115cd2be8a921/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8044,8 +11247,11 @@ status open
 \end_inset
 
  URL: http://sverenskyspravce.cz/cz/pravo/ Procento podobnosti: < 5 % Podobnosti:
- https://odevzdej.cz/auth/podob/a59e958eaa891455/449c9ef3627afd7b/ =======
- 
+ https://odevzdej.cz/auth/podob/a59e958eaa891455/449c9ef3627afd7b/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8081,7 +11287,11 @@ status open
 
  URL: http://www.podnikatel.cz/zakony/novy-obcansky-zakonik/f4583388/ Procento
  podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/18
-d7fbfcad85774f/ ======= 
+d7fbfcad85774f/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8117,7 +11327,11 @@ status open
 
  URL: http://www.mesec.cz/zakony/obcansky-zakonik-2014/f4583388/ Procento
  podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/8e
-1b02f453116438/ ======= 
+1b02f453116438/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8153,7 +11367,11 @@ status open
 
  URL: https://www.du.cz/33/sverensky-fond-uniqueidmRRWSbk196FNf8-jVUh4EuC0JFqQkWOy
 ttJVFFohsn0/ Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podo
-b/a59e958eaa891455/44d3824354abd53f/ ======= 
+b/a59e958eaa891455/44d3824354abd53f/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8189,7 +11407,11 @@ status open
 
  URL: http://cimpel.cz/dedictvi/sverensky-fond/ Procento podobnosti: < 5
  % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/100ea746669e7d8f/
- ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8225,7 +11447,11 @@ status open
 
  URL: https://www.profispolecnosti.cz/cs/neziskove-organizace/sverenske-fondy/a-38
 05/ Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958
-eaa891455/bbbe2bf8a49f2c73/ ======= 
+eaa891455/bbbe2bf8a49f2c73/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8261,7 +11487,11 @@ status open
 
  URL: https://www.obczan.cz/zakon/noz/cast-prvni/hlava-ii/dil-1?detail-item-48-com
 ments-item-1558-expanded=1 Procento podobnosti: < 5 % Podobnosti: https://odevzd
-ej.cz/auth/podob/a59e958eaa891455/35385d7f5b0dbfb2/ ======= 
+ej.cz/auth/podob/a59e958eaa891455/35385d7f5b0dbfb2/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8298,7 +11528,11 @@ status open
  URL: http://probyznysinfo.ihned.cz/c1-61568940-jak-souvisi-rekodifikace-s-nektery
 mi-danemi-sve-danove-souvislosti-ma-i-sverensky-fond Procento podobnosti:
  < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/513764dcbce307
-f6/ ======= 
+f6/ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8334,7 +11568,11 @@ status open
 
  URL: http://www.cmiel.cz/obchodni-spolecnosti-i/ Procento podobnosti: < 5
  % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/eb07abc7e81fffd2/
- ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8368,8 +11606,49 @@ status open
 
 \end_inset
 
- URL: https://anzdoc.com/ekonomika.html Procento podobnosti: < 5 % Podobnosti:
- https://odevzdej.cz/auth/podob/a59e958eaa891455/55559e60fc565be4/ =======
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://anzdoc.com/ekonomika.html 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/55559e60fc565be4/
  
 \begin_inset ERT
 status open
@@ -8385,29 +11664,11 @@ status open
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Standard
-Agenda: Zdroj z Internetu 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-
-\backslash
-
-\end_layout
-
-\end_inset
-
- URL: https://cc.bingj.com/cache.aspx?q=k%C4%8D+p%C5%99es%C3%A1hnout+nizozemsko+%C4
-%8Dinit+cit&d=4867136114132613&mkt=en-US&setlang=en-US&w=nUYb6C-cIQClUUD6rcVss8V
-_Pob5o_zF Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a
-59e958eaa891455/bd79afa1d73ebd62/ ======= 
+======= 
 \begin_inset ERT
 status open
 
@@ -8441,9 +11702,71 @@ status open
 
 \end_inset
 
- URL: http://www.cmiel.cz/aktuality/obchodni-spolecnosti-i Procento podobnosti:
- < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/d6ce9d3909bbc1
-94/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://cc.bingj.com/cache.aspx?q=k%C4%8D+p%C5%99es%C3%A1hnout+nizozemsko+%C4%
+8Dinit+cit&d=4867136114132613&mkt=en-US&setlang=en-US&w=nUYb6C-cIQClUUD6rcVss8V_
+Pob5o_zF 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/bd79afa1d73ebd62/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8477,9 +11800,24 @@ status open
 
 \end_inset
 
- URL: http://www.cmiel.cz/blog/obchodni-spolecnosti-i/ Procento podobnosti:
- < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/d2e74e4b5203f5
-ad/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://www.cmiel.cz/aktuality/obchodni-spolecnosti-i 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/d6ce9d3909bbc194/
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8513,9 +11851,24 @@ status open
 
 \end_inset
 
- URL: http://www.cmiel.cz/aktuality/obchodni-spolecnosti-i/ Procento podobnosti:
- < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/95fa1cd6cb83c8
-66/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://www.cmiel.cz/blog/obchodni-spolecnosti-i/ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/d2e74e4b5203f5ad/
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8549,9 +11902,24 @@ status open
 
 \end_inset
 
- URL: http://www.cmiel.cz/blog/obchodni-spolecnosti-i/ Procento podobnosti:
- < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/ced3a6049c51dc
-75/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://www.cmiel.cz/aktuality/obchodni-spolecnosti-i/ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/95fa1cd6cb83c866/
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8585,10 +11953,24 @@ status open
 
 \end_inset
 
- URL: https://www.nkcr.cz/casopis-ad-notam/detail/39_191-praktickeaspekty-sverensk
-eho-fondu-ve-svetle-navrhu-urgentni-novely-obcanskeho-zakoniku Procento
- podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/2e
-843c05ff88ebab/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://www.cmiel.cz/blog/obchodni-spolecnosti-i/ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/ced3a6049c51dc75/
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8622,9 +12004,25 @@ status open
 
 \end_inset
 
- URL: http://cimpel.cz/dedictvi/sverensky-fond/ Procento podobnosti: < 5
- % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/0c1ab5f1abe86b81/
- ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://www.nkcr.cz/casopis-ad-notam/detail/39_191-praktickeaspekty-sverenske
+ho-fondu-ve-svetle-navrhu-urgentni-novely-obcanskeho-zakoniku 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/2e843c05ff88ebab/
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8658,9 +12056,24 @@ status open
 
 \end_inset
 
- URL: https://www.mesec.cz/zakony/obcansky-zakonik-2014/f4579840/ Procento
- podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/40
-3cf273a19298e3/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://cimpel.cz/dedictvi/sverensky-fond/ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/0c1ab5f1abe86b81/
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8679,121 +12092,79 @@ status open
 \end_layout
 
 \begin_layout Standard
-Agenda: Studijní materiály; Fakulta: , Předmět: MV816K, Období: jaro 2020
- - is.muni.cz Název : Formy správy majetku.
+Agenda: Zdroj z Internetu 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://www.mesec.cz/zakony/obcansky-zakonik-2014/f4579840/ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/403cf273a19298e3/
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Agenda: Studijní materiály; 
+\end_layout
+
+\begin_layout Standard
+Fakulta: , Předmět: MV816K, Období: jaro 2020 - is.muni.cz Název : Formy správy
+ majetku.
  Svěřenské fondy (v širších souvislostech) Vloženo: 16.
  3.
- 2020 Procento podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e9
-58eaa891455/b7649dde30335779/ ======= 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-
-\backslash
-
-\end_layout
-
-\end_inset
-
-
+ 2020 
 \end_layout
 
 \begin_layout Standard
-Agenda: Zdroj z Internetu 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-
-\backslash
-
-\end_layout
-
-\end_inset
-
- URL: https://www.svsp.cz/co-je-sverensky-fond Procento podobnosti: < 5 %
- Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/f7f2e80a1d0f90f3/
- ======= 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-
-\backslash
-
-\end_layout
-
-\end_inset
-
-
+Procento podobnosti: < 5 % 
 \end_layout
 
 \begin_layout Standard
-Agenda: Zdroj z Internetu 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-
-\backslash
-
-\end_layout
-
-\end_inset
-
- URL: https://jansusanka.cz/moje-sluzby/sverensky-fond Procento podobnosti:
- < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/b0cad84d88e35f
-ed/ ======= 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-
-\backslash
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Agenda: Zdroj z Internetu 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-
-\backslash
-
-\end_layout
-
-\end_inset
-
- URL: http://www.ucetnikavarna.cz/archiv/dokument/doc-d42649v53719-89-2012-sb-zako
-n-obcansky-zakonik/%3F%26docpage%3D91 Procento podobnosti: < 5 % Podobnosti:
- https://odevzdej.cz/auth/podob/a59e958eaa891455/52d208d770b26c74/ =======
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/b7649dde30335779/
  
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8827,9 +12198,24 @@ status open
 
 \end_inset
 
- URL: http://www.brachlegal.cz/cz/29-sverenske-fondy-a-jejich-vyuziti Procento
- podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/92
-792fc9bd475b91/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://www.svsp.cz/co-je-sverensky-fond 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/f7f2e80a1d0f90f3/
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8863,9 +12249,24 @@ status open
 
 \end_inset
 
- URL: http://www.havelpartners.cz/nejasnosti-ve-sverenskem- Procento podobnosti:
- < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/7a211fc787b6b1
-0c/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://jansusanka.cz/moje-sluzby/sverensky-fond 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/b0cad84d88e35fed/
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8899,9 +12300,178 @@ status open
 
 \end_inset
 
- URL: https://www.havelpartners.cz/nejasnosti-ve-sverenskem- Procento podobnosti:
- < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/54f37170bd6628
-5a/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://www.ucetnikavarna.cz/archiv/dokument/doc-d42649v53719-89-2012-sb-zakon
+-obcansky-zakonik/%3F%26docpage%3D91 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/52d208d770b26c74/
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Agenda: Zdroj z Internetu 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://www.brachlegal.cz/cz/29-sverenske-fondy-a-jejich-vyuziti 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/92792fc9bd475b91/
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Agenda: Zdroj z Internetu 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+URL: http://www.havelpartners.cz/nejasnosti-ve-sverenskem- 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/7a211fc787b6b10c/
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Agenda: Zdroj z Internetu 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://www.havelpartners.cz/nejasnosti-ve-sverenskem- 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/54f37170bd66285a/
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -8941,14 +12511,59 @@ status open
 \begin_layout Standard
 URL: https://www.havelpartners.cz/nejasnosti-ve-sverenskem-fondu-pro-pripad-smrti-
 doporucujeme-zridit-sv 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
 \end_layout
 
 \begin_layout Standard
 Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
 \end_layout
 
 \begin_layout Standard
 Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/97c9c9aa65d38d60/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
  
 \end_layout
 
@@ -8987,9 +12602,69 @@ status open
 
 \end_inset
 
- URL: https://www.vyznam-slova.com/Pr%C3%A1vnick%C3%A1%20osoba Procento podobnosti
-: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/f8a1902d03daa
-4ba/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://www.vyznam-slova.com/Pr%C3%A1vnick%C3%A1%20osoba 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/f8a1902d03daa4ba/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -9023,9 +12698,69 @@ status open
 
 \end_inset
 
- URL: https://www.mesec.cz/zakony/obcansky-zakonik-2014/f4579840/ Procento
- podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/ea
-5662e80517d373/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://www.mesec.cz/zakony/obcansky-zakonik-2014/f4579840/ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/ea5662e80517d373/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -9059,9 +12794,69 @@ status open
 
 \end_inset
 
- URL: https://www.podnikatel.cz/zakony/novy-obcansky-zakonik/f4579840/ Procento
- podobnosti: < 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/2d
-9a6c59906be46a/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://www.podnikatel.cz/zakony/novy-obcansky-zakonik/f4579840/ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/2d9a6c59906be46a/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -9095,11 +12890,71 @@ status open
 
 \end_inset
 
- URL: https://cc.bingj.com/cache.aspx?q=nadace+neziskovkycz+ob%C4%8Dansk%C3%BD+z%C3
-%A1kon%C3%ADk+ob%C4%8Dansk%C3%BD+z%C3%A1kon%C3%ADk&d=4987798987016197&mkt=en-US&
-setlang=en-US&w=UjiR7F94uE3cMEEDR2uDJBVlHuhfQZfU Procento podobnosti: <
- 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/bbd9305e7a57b4e8
-/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://cc.bingj.com/cache.aspx?q=nadace+neziskovkycz+ob%C4%8Dansk%C3%BD+z%C3%
+A1kon%C3%ADk+ob%C4%8Dansk%C3%BD+z%C3%A1kon%C3%ADk&d=4987798987016197&mkt=en-US&s
+etlang=en-US&w=UjiR7F94uE3cMEEDR2uDJBVlHuhfQZfU 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/bbd9305e7a57b4e8/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -9133,11 +12988,71 @@ status open
 
 \end_inset
 
- URL: https://cc.bingj.com/cache.aspx?q=nadace+neziskovkycz+ob%C4%8Dansk%C3%BD+z%C3
-%A1kon%C3%ADk+ob%C4%8Dansk%C3%BD+z%C3%A1kon%C3%ADk&d=4995216340222193&mkt=en-US&
-setlang=en-US&w=kpkFWy1_Rozfj4Y_3B88Prl2fYPLJM1W Procento podobnosti: <
- 5 % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/648a0f882f7d20ab
-/ ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://cc.bingj.com/cache.aspx?q=nadace+neziskovkycz+ob%C4%8Dansk%C3%BD+z%C3%
+A1kon%C3%ADk+ob%C4%8Dansk%C3%BD+z%C3%A1kon%C3%ADk&d=4995216340222193&mkt=en-US&s
+etlang=en-US&w=kpkFWy1_Rozfj4Y_3B88Prl2fYPLJM1W 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/648a0f882f7d20ab/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -9171,9 +13086,69 @@ status open
 
 \end_inset
 
- URL: https://cimpel.cz/dedictvi/sverensky-fond/ Procento podobnosti: < 5
- % Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/742fce0de7587a04/
- ======= 
+ 
+\end_layout
+
+\begin_layout Standard
+URL: https://cimpel.cz/dedictvi/sverensky-fond/ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Procento podobnosti: < 5 % 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podobnosti: https://odevzdej.cz/auth/podob/a59e958eaa891455/742fce0de7587a04/
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+======= 
 \begin_inset ERT
 status open
 
@@ -9193,8 +13168,41 @@ status open
 
 \begin_layout Standard
 (Po kliknutí na odkaz "Podobnosti" se přihlaste do systému účtem vedeným
- na tutéž adresu, kterou jste uvedli pro zaslání výsledků podobností.) ----------
-------------------------------------------------------
+ na tutéž adresu, kterou jste uvedli pro zaslání výsledků podobností.) 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+----------------------------------------------------------------
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
 \end_layout
 
 \begin_layout Standard
@@ -9206,6 +13214,21 @@ Pro přístup k nalezeným podobnostem je potřebné být přihlášen do systé
  Obvyklé dotazy uživatelů jsou zpracovány v FAQ (často kladené otázky) http://od
 evzdej.cz/help/odevzdej/faq.
  Zpracováno automaticky Informačním systémem Odevzdej.cz.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+ 
 \end_layout
 
 \end_body
