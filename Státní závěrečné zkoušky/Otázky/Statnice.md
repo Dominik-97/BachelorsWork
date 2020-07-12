@@ -2,55 +2,154 @@
 
 {{TOC}}
 
-## Občanské právo
+## Přehled
 
-### Otázka 1
+[Přehled otázek](Information.md)
 
-<ul>
-<li>Ahoj</li>
-<li>Ahoj</li>
-</ul>
+## Informace k jednotlivým otázkám
 
-Here's a sentence with a footnote. [^1]
+### Občanské právo
 
-[^1]: This is the footnote.
+#### Otázka 1 - Občanské právo hmotné – pojem, předmět, prameny, systém, systematika občanského zákoníku, dispozitivní a kogentní normy v občanském právu.
 
-## Obchodní právo
-
-### Otázka 1
-
-## Ekonomika a podnikové finance
-
-### Otázka 1
+- [ ] § 1 - 14 
 
 ---
 
-```LaTeX
-\part{Učební pomůcka státní závěrečné zkoušky}
-\label{učebnípomůckastátnízávěrečnézkoušky}
+**§ 1- 14**
 
-\tableofcontents
+---
 
-\chapter{Občanské právo}
-\label{občansképrávo}
+* Ahoj.
+* Ahoj.
 
-\section{Otázka 1}
-\label{otázka1}
+---
 
-Here's a sentence with a footnote. \footnote{This is the footnote.}
+[^1]: This is the footnote.
 
-\chapter{Obchodní právo}
-\label{obchodníprávo}
+---
 
-\section{Otázka 1}
-\label{otázka1}
+#### Otázka 2
 
-\chapter{Ekonomika a podnikové finance}
-\label{ekonomikaapodnikovéfinance}
+---
 
-\section{Otázka 1}
-\label{otázka1}
-```
+---
+
+---
+
+---
+
+#### Otázka 3
+
+---
+
+---
+
+---
+
+---
+
+#### Otázka 4
+
+---
+
+---
+
+---
+
+---
+
+#### Otázka 5
+
+---
+
+---
+
+---
+
+---
+
+#### Otázka 6
+
+---
+
+---
+
+---
+
+---
+
+#### Otázka 7
+
+---
+
+---
+
+---
+
+---
+
+#### Otázka 2 -  Osoby v právním smyslu. Fyzické osoby. Ochrana osobnosti člověka. 
+
+- [ ] § 15 - 117  [^1]
+
+---
+
+**§ 15 - 117**
+
+---
+
+* Here's a sentence with a footnote. [^2]
+* Koblížek.
+
+---
+
+[^2]: § 115 až 117 jsou zrušeny.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Obchodní právo
+
+#### Otázka 1
+
+---
+
+---
+
+---
+
+---
+
+#### Otázka 2
+
+### Ekonomika a podnikové finance
+
+#### Otázka 1
+
+---
+
+---
+
+---
+
+---
+
+#### Otázka 2
+
 
 
 
