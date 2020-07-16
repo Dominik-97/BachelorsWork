@@ -1,6 +1,8 @@
+Jednotlivé bližší podklady k níže uvedeným otázkám mám také [zde](Statnice.md).
+
 |	Okruh	|	Otázka	|	Zdroj	|
 |	 ------	|	 ------	|	 ------	|
-|	Ekonomie a Podnikové finance	|	1.     Rozhodování   ekonomických   subjektů,   teoretické    modely   ekonomických   systémů    (zvykový, centrálně plánovaný, tržní a tržně-smíšený), ekonomický koloběh.	|		|
+|	Ekonomie a Podnikové finance	|	1.     Rozhodování   ekonomických   subjektů,   teoretické    modely   ekonomických   systémů    (zvykový, centrálně plánovaný, tržní a tržně-smíšený), ekonomický koloběh.	|	Distanční opora, viz bližší podklady.	|
 |	Ekonomie a Podnikové finance	|	2.    Trh a jeho funkce, teoretické zdůvodnění různých přístupů k trhu (liberální, keynesovský), výsledek potlačení trhu (např. v centrálně plánované ekonomice), definice tržního selhání.	|		|
 |	Ekonomie a Podnikové finance	|	3.    Užitek, blahobyt, náklady obětované příležitosti, individuální a tržní poptávka, poptávka v krátkém a dlouhém období, elasticita poptávky.	|		|
 |	Ekonomie a Podnikové finance	|	4.    Model   dokonalé   konkurence   a   modely   nedokonalé   konkurence   (monopolistická   konkurence, oligopol,   monopol).   Příčiny   vzniku   a   zachování   monopolu   v   ekonomice,   státem   vytvářené monopoly. Regulace monopolu.	|		|
