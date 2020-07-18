@@ -1,5 +1,10 @@
 Jednotlivé bližší podklady k níže uvedeným otázkám mám také [zde](Statnice.md).
 
+Dodatečné úkoly:
+
+- [ ] Přečíst si Listinu základních práv a svobod,
+- [ ] přečíst si Ústavu.
+
 |	Okruh	|	Otázka	|	Zdroj	|
 |	 ------	|	 ------	|	 ------	|
 |	Ekonomie a Podnikové finance	|	1.     Rozhodování   ekonomických   subjektů,   teoretické    modely   ekonomických   systémů    (zvykový, centrálně plánovaný, tržní a tržně-smíšený), ekonomický koloběh.	|	Distanční opora, viz bližší podklady.	|
