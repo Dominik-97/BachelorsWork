@@ -69,7 +69,7 @@ After this, there were only small changes. The extent of the work should not dif
 
 **Státní\ závěrečné\ zkoušky/** directory contains files regarding my finals.
 
-**Zadání\** direcotry contains just my Bachelors Work form.
+**Zadání/** directory contains just my Bachelors Work form.
 
 **Zaloha/** directory contains backup of some of the versions of my Bachelors Work.
 
