@@ -1,5 +1,7 @@
 # BachelorsWork
-Repository storing data for my bachelors work
+Repository storing data for my bachelors work and also for my Finals.
+
+This is the branch I use to work with files regarding my Finals, for the more in-depth description of this repository, please refer to the README.md in NewStructure2 branch of this repository.
 
 | Count name | Count |
 | ------ | ------ |
