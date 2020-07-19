@@ -37,27 +37,27 @@ Dodatečné úkoly:
 |	Ekonomie a Podnikové finance	|	28.  Řízení  rizik,  definice  rizika  a  nejistoty,  kategorizace  rizik,  metody  měření  a  ošetření  rizik,  Risk Apettite, organizace řízení rizik ve společnosti.	|		|
 |	Ekonomie a Podnikové finance	|	29.  Projektové řízení, dilema projektového řízení, věcná a procesní stránka projektu, faktory úspěchu projektu, projektová řídící struktura, nástroje pro řízení projektů.	|		|
 |	Ekonomie a Podnikové finance	|	30.  Marketing a odbyt, hlavní úkoly marketingového oddělení, marketingové techniky, vztah podnikové a  marketingové  strategie.  Trh  a  jeho  segmentace,  definování  cílových  zákaznických  skupin  a zaměření - targeting a positioning.	|		|
-|	Obchodní Právo	|	1. Pojem, povaha, předmět, systém a prameny obchodního práva.	| Musím ještě zjistit |
-|	Obchodní Právo	|	2. Pojmy podnikatel, podnikání, obchodní závod (jen vymezení pojmu) pobočka, odštěpný závod,  majetek a jmění. Členění podnikatelů. Sídlo podnikatele.	|	Občanský zákoník, co je členění podnikatelů?	|
-|	Obchodní Právo	|	3. Obchodní firma a obchodní tajemství a jejich ochrana. Obchodní listiny.	|		|
-|	Obchodní Právo	|	4. Právní jednání podnikatele fyzické osoby. Právní jednání podnikatele právnické osoby. Prokura, opatrovník, vedoucí odštěpného závodu, osoba pověřená určitou činností při provozu závodu.	|		|
-|	Obchodní Právo	|	5. Právní úprava živnostenského podnikání.	|		|
-|	Obchodní Právo	|	6. Právní úprava neživnostenského podnikání. Podnikání zahraničních osob v České republice.	|		|
-|	Obchodní Právo	|	7. Obchodní rejstřík. Pojem a funkce obchodního rejstříku, princip publicity. Živnostenský rejstřík.	|	<ul><li>- [ ] Pokud se naučím otázku Občanské právo tři, tak umím i tuhle, přidat musím tedy ještě živnostenský rejstřík.</li></ul>	|
-|	Obchodní Právo	|	8. Právo proti nekalé soutěži I (obecná skutková podstata nekalé soutěže, klamavá reklama, klamavé označení zboží a služeb, vyvolání nebezpečí záměny, parazitování na pověsti, podplácení).	|		|
-|	Obchodní Právo	|	9. Právo proti nekalé soutěži II (zlehčování, nepřípustná srovnávací reklama, porušení obchodního tajemství, dotěrné obtěžování, ohrožení zdraví a životního prostřední, ochrana proti nekalé soutěži).	|		|
-|	Obchodní Právo	|	10. Právo proti omezování hospodářské soutěže.	|		|
-|	Obchodní Právo	|	11. Práva k nehmotným statkům při podnikání – výsledky tvůrčí duševní činnosti (vynález, užitný vzor, průmyslový vzor, topografie polovodičového výrobku, odrůda rostlin, a zlepšovací návrh).	|		|
-|	Obchodní Právo	|	12. Práva k nehmotným statkům při podnikání – ochranná označení (ochranná známka, označení původu a zeměpisné označení).	|		|
-|	Obchodní Právo	|	13. Státní podnik a specifika majetkové účasti státu v jiných podnikatelských subjektech.	|	<ul><li>- [ ] Pokud se naučím otázku Občanské právo tři, tak umím i tuhle.</li></ul>	|
-|	Obchodní Právo	|	14. Specifika právního postavení podnikatele v závazkových právních vztazích.	|		|
-|	Obchodní Právo	|	15. Povinnosti podnikatele z tzv. spotřebitelských smluv.	|		|
-|	Obchodní Právo	|	16. Veřejné zakázky (zadání veřejné zakázky, zadavatel a dodavatel, zásady zadávání veřejných zakázek, druhy a režimy veřejných zakázek, zadávací řízení, veřejné zakázky malého rozsahu).	|		|
-|	Obchodní Právo	|	17. Obchodní závod a dispozice s ním. Rodinný závod.	|		|
-|	Obchodní Právo	|	18. Cenné papíry a zaknihované cenné papíry.	|		|
-|	Obchodní Právo	|	19. Právní úprava podnikání na kapitálovém trhu.  Právní úprava kolektivního investování.	|		|
-|	Obchodní Právo	|	20. Správní a trestní odpovědnost podnikatele (obecně).	|		|
-|	Obchodní Právo	|	21. Společnost podle občanského práva, tichá společnost.	|		|
+|	Obchodní Právo	|	1. Pojem, povaha, předmět, systém a prameny obchodního práva.	| https://www.smarteca.cz/my-reader/18388_20170327_0?fileName=Text%2FObchodni_pravo_podnikatel-1.xhtml&location=pi-8 Strana 27-52 |
+|	Obchodní Právo	|	2. Pojmy podnikatel, podnikání, obchodní závod (jen vymezení pojmu) pobočka, odštěpný závod,  majetek a jmění. Členění podnikatelů. Sídlo podnikatele.	|	Občanský zákoník, co je členění podnikatelů? Pojem podnikatel - Smarteca 54 až 64, Obchodní závod viz Otázka číslo 17, Pobočka a Odštěpný závod Občanský zákoník § 503, Jmění a Majetek - Občanský zákoník § 495 <br> Členění podnikatelů musím zjistit co je, domnívám se, že se jedná o fyzickou osobu, která vykonává živnostenské, nebo neživnostenské podnikání, nebo o právnickou osobu <br> Sídlo podnikatele - Smarteca 75 až 77	|
+|	Obchodní Právo	|	3. Obchodní firma a obchodní tajemství a jejich ochrana. Obchodní listiny.	|	Obchodní firma - 65 až 73, Obchodní tajemství - viz otázka číslo 11, Obchodní listiny - https://portal.pohoda.cz/zakon-a-pravo/novy-obcansky-zakonik/novy-obcansky-zakonik-%E2%80%93-obchodni-listiny/	|
+|	Obchodní Právo	|	4. Právní jednání podnikatele fyzické osoby. Právní jednání podnikatele právnické osoby. Prokura, opatrovník, vedoucí odštěpného závodu, osoba pověřená určitou činností při provozu závodu.	|	Smarteca 78 až 102	|
+|	Obchodní Právo	|	5. Právní úprava živnostenského podnikání.	|	Smarteca 123 až 140	|
+|	Obchodní Právo	|	6. Právní úprava neživnostenského podnikání. Podnikání zahraničních osob v České republice.	|	Smarteca 141 až 150	|
+|	Obchodní Právo	|	7. Obchodní rejstřík. Pojem a funkce obchodního rejstříku, princip publicity. Živnostenský rejstřík.	|	<ul><li>- [ ] Pokud se naučím otázku Občanské právo tři, tak umím i tuhle, přidat musím tedy ještě živnostenský rejstřík.</li></ul> Smarteca strana 155 až 166	|
+|	Obchodní Právo	|	8. Právo proti nekalé soutěži I (obecná skutková podstata nekalé soutěže, klamavá reklama, klamavé označení zboží a služeb, vyvolání nebezpečí záměny, parazitování na pověsti, podplácení).	|	Smarteca 281 až 283, 291 až 310	|
+|	Obchodní Právo	|	9. Právo proti nekalé soutěži II (zlehčování, nepřípustná srovnávací reklama, porušení obchodního tajemství, dotěrné obtěžování, ohrožení zdraví a životního prostřední, ochrana proti nekalé soutěži).	|	Ibid.	|
+|	Obchodní Právo	|	10. Právo proti omezování hospodářské soutěže.	|	Smarteca 249 až 276	|
+|	Obchodní Právo	|	11. Práva k nehmotným statkům při podnikání – výsledky tvůrčí duševní činnosti (vynález, užitný vzor, průmyslový vzor, topografie polovodičového výrobku, odrůda rostlin, a zlepšovací návrh).	|	Smarteca 200 až 245	|
+|	Obchodní Právo	|	12. Práva k nehmotným statkům při podnikání – ochranná označení (ochranná známka, označení původu a zeměpisné označení).	|	Ibid.	|
+|	Obchodní Právo	|	13. Státní podnik a specifika majetkové účasti státu v jiných podnikatelských subjektech.	|	<ul><li>- [ ] Pokud se naučím otázku Občanské právo tři, tak umím i tuhle.</li></ul>	 Zákon číslo 77/1997 Sb. a § 28 až 30 14/2003 Sb.|
+|	Obchodní Právo	|	14. Specifika právního postavení podnikatele v závazkových právních vztazích.	|	Smarteca 395 až 423	|
+|	Obchodní Právo	|	15. Povinnosti podnikatele z tzv. spotřebitelských smluv.	|	Ibid.	|
+|	Obchodní Právo	|	16. Veřejné zakázky (zadání veřejné zakázky, zadavatel a dodavatel, zásady zadávání veřejných zakázek, druhy a režimy veřejných zakázek, zadávací řízení, veřejné zakázky malého rozsahu).	|	Smarteca 446 až 463	|
+|	Obchodní Právo	|	17. Obchodní závod a dispozice s ním. Rodinný závod.	|	Smarteca 107 až 120	|
+|	Obchodní Právo	|	18. Cenné papíry a zaknihované cenné papíry.	|	Smarteca 313 až 346	|
+|	Obchodní Právo	|	19. Právní úprava podnikání na kapitálovém trhu.  Právní úprava kolektivního investování.	|	https://www.smarteca.cz/my-reader/11006_20150414_0?fileName=page525.xhtml&location=pi-9841 , Strana 572 až 587, ještě se pro jistotu podívat na Google	|
+|	Obchodní Právo	|	20. Správní a trestní odpovědnost podnikatele (obecně).	|	Smarteca 629 až 707	|
+|	Obchodní Právo	|	21. Společnost podle občanského práva, tichá společnost.	|	Občanský zákoník § 2716 až 2755	|
 |	Obchodní Právo	|	22. Obecné otázky obchodních společností a družstev I (právní úprava, druhy, vznik, zánik a neplatnost).	|		|
 |	Obchodní Právo	|	23. Obecné otázky obchodních společností a družstev II (základní kapitál, vklad, podíl, orgány, jednání, koncernové právo).	|		|
 |	Obchodní Právo	|	24. Osobní obchodní společnosti (veřejná obchodní společnost, komanditní společnost).	|	<ul><li>- [ ] Pokud se naučím otázku Občanské právo tři, tak umím i tuhle.</li></ul>	|
