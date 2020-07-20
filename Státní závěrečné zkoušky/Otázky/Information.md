@@ -7,24 +7,24 @@ Dodatečné úkoly:
 
 | Okruh | Rozsah stránek |
 | --- | --- |
-| Ekonomie a Podnikové finance | ? |
+| Ekonomie a Podnikové finance | 81 |
 | Obchodní právo | 816 (hodně obecně, spíše méně) + 36 stránek poslední dvě otázky |
 | Občanské právo | |
 
 |	Okruh	|	Otázka	|	Zdroj	|
 |	 ------	|	 ------	|	 ------	|
-|	Ekonomie a Podnikové finance	|	1.     Rozhodování   ekonomických   subjektů,   teoretické    modely   ekonomických   systémů    (zvykový, centrálně plánovaný, tržní a tržně-smíšený), ekonomický koloběh.	|	Distanční opora, viz bližší podklady.	|
-|	Ekonomie a Podnikové finance	|	2.    Trh a jeho funkce, teoretické zdůvodnění různých přístupů k trhu (liberální, keynesovský), výsledek potlačení trhu (např. v centrálně plánované ekonomice), definice tržního selhání.	|		|
-|	Ekonomie a Podnikové finance	|	3.    Užitek, blahobyt, náklady obětované příležitosti, individuální a tržní poptávka, poptávka v krátkém a dlouhém období, elasticita poptávky.	|		|
-|	Ekonomie a Podnikové finance	|	4.    Model   dokonalé   konkurence   a   modely   nedokonalé   konkurence   (monopolistická   konkurence, oligopol,   monopol).   Příčiny   vzniku   a   zachování   monopolu   v   ekonomice,   státem   vytvářené monopoly. Regulace monopolu.	|		|
+|	Ekonomie a Podnikové finance	|	1.     Rozhodování   ekonomických   subjektů,   teoretické    modely   ekonomických   systémů    (zvykový, centrálně plánovaný, tržní a tržně-smíšený), ekonomický koloběh.	|	Distanční opora, viz bližší podklady. <br> Rozhodování - Robert Holmann Ekonomie 1 až 20 <br> Modely - distanční opora [tady](Podklady/Ekonomie_a_Podnikove_finance/dist_opora_Ekonomie.pdf) 1 strana + přečíst si o tom něco na internetu <br> Ekonomický koloběh - Ekonomie strana 1 až 20	|
+|	Ekonomie a Podnikové finance	|	2.    Trh a jeho funkce, teoretické zdůvodnění různých přístupů k trhu (liberální, keynesovský), výsledek potlačení trhu (např. v centrálně plánované ekonomice), definice tržního selhání.	|	Asi mi zbývá pouze online zdroje	|
+|	Ekonomie a Podnikové finance	|	3.    Užitek, blahobyt, náklady obětované příležitosti, individuální a tržní poptávka, poptávka v krátkém a dlouhém období, elasticita poptávky.	|	Ekonomie 21 až 52	|
+|	Ekonomie a Podnikové finance	|	4.    Model   dokonalé   konkurence   a   modely   nedokonalé   konkurence   (monopolistická   konkurence, oligopol,   monopol).   Příčiny   vzniku   a   zachování   monopolu   v   ekonomice,   státem   vytvářené monopoly. Regulace monopolu.	|	Ekonomie 130 až	160 |
 |	Ekonomie a Podnikové finance	|	5.    Trh  práce  a  nabídka  práce,  nezaměstnanost  (pojem,  měření,  druhy),  vztah  vývoje  ekonomiky  a nezaměstnanosti (Okunův zákon, Philipsova křivka).	|		|
 |	Ekonomie a Podnikové finance	|	6.    Výkonnost   ekonomiky   a   popis   pomocí   makroekonomických   agregátů   (HDP,   HNP,   investice, spotřeba) a měření výkonnosti, faktory ekonomického růstu.	|		|
 |	Ekonomie a Podnikové finance	|	7.    Hospodářský   cyklus   (pojem,   vnější   a   vnitřní   příčiny   vzniku   a   příklady),   časové   rozlišení jednotlivých typů cyklů (krátkodobé, střednědobé, dlouhodobé).	|		|
 |	Ekonomie a Podnikové finance	|	8.    Peníze a měna, funkce peněz a formy peněz, postup, výhody a rizika zavádění společné měny Euro (tzv. Maastrichtská kritéria).	|		|
 |	Ekonomie a Podnikové finance	|	9.    Finanční  trhy  (pojem,  členění),  subjekty  a  instrumenty  finančního  trhu  (typy  cenných  papírů), úloha finančních trhů v ekonomice. Investiční rozhodování, časová hodnota peněz.	|		|
 |	Ekonomie a Podnikové finance	|	10.  Monetární  politika,  cíle,  hlavní  subjekt  a  měnové  nástroje  ČNB.  Inflace  (příčiny,  pojem,  typy, měření, důsledky).	|		|
-|	Ekonomie a Podnikové finance	|	11.   Fiskální  politika  (cíle,  hlavní  subjekty  a  nástroje),  analýza  vládních  výdajů  (obecné  problémy, restriktivní   a   expanzivní   přístup,   vestavěné   stabilizátory,   vliv   dotací   a   subvencí,   deficity   a vytěsňování soukromých investic).	|		|
-|	Ekonomie a Podnikové finance	|	12.  Podnik a jeho okolí, ekonomická  podstata podnikání,  právní formy podnikání, konkurenční okolí podniku,   možnosti   a   metody   srovnání   s   konkurencí   (potenciální   konkurence,   koncentrace   v odvětví, relevantní trh, odvětvová klasifikace ekonomických činností, benchmarking - DEA a SWOT analýza, Competitive Intelligence).	|		|
+|	Ekonomie a Podnikové finance	|	11.   Fiskální  politika  (cíle,  hlavní  subjekty  a  nástroje),  analýza  vládních  výdajů  (obecné  problémy, restriktivní   a   expanzivní   přístup,   vestavěné   stabilizátory,   vliv   dotací   a   subvencí,   deficity   a vytěsňování soukromých investic).	|	Do této otázky se jedná o Ekonomii	|
+|	Ekonomie a Podnikové finance	|	12.  Podnik a jeho okolí, ekonomická  podstata podnikání,  právní formy podnikání, konkurenční okolí podniku,   možnosti   a   metody   srovnání   s   konkurencí   (potenciální   konkurence,   koncentrace   v odvětví, relevantní trh, odvětvová klasifikace ekonomických činností, benchmarking - DEA a SWOT analýza, Competitive Intelligence).	|	Od této otázky se jedná o Podnikové finance	|
 |	Ekonomie a Podnikové finance	|	13.  Efektivnost  podniku  a  její  základní  kategorie,  cíle  a  funkce  podniku  (poslání  a  vize  podniku, S.M.A.R.T.   cíle,   ziskové   a   neziskové   formy   podnikání,   podnikatelské   objevování),   investiční rozhodování podniku (základní metody a jejich užití).	|		|
 |	Ekonomie a Podnikové finance	|	14.  Finanční  řízení  podniku  (organizace  a  hlavní  úkoly  finančního  managementu),  finanční  analýza (nástroje pro rozhodování finančního managementu). Financování podniku (vnější a vnitřní zdroje, rozvaha),   hospodářský   výsledek   podniku   (rentabilita,   výsledovka).   Majetková   a   kapitálová struktura podniku.	|		|
 |	Ekonomie a Podnikové finance	|	15.  Podnikové  řízení  (rámec  strategického  řízení,  taktické  a  operativní  řízení),  oddělení  vlastnictví  a řízení  podniku,  správa  a  řízení  velké  společnosti  (korporátní  strategie,  nadnárodní  společnosti). Organizační výstavba podniku (typická oddělení v podniku, organizační inovace).	|		|
