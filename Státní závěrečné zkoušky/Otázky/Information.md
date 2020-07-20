@@ -1,5 +1,9 @@
 Jednotlivé bližší podklady k níže uvedeným otázkám mám také [zde](Statnice.md).
 
+Dodatečné informace:
+
+- Pokud odkazuji na nějaké PDF, či Smartecu, označuji důležité části i tam.
+
 Dodatečné úkoly:
 
 - [ ] Přečíst si Listinu základních práv a svobod,
@@ -13,7 +17,7 @@ Dodatečné úkoly:
 
 |	Okruh	|	Otázka	|	Zdroj	|
 |	 ------	|	 ------	|	 ------	|
-|	Ekonomie a Podnikové finance	|	1.     Rozhodování   ekonomických   subjektů,   teoretické    modely   ekonomických   systémů    (zvykový, centrálně plánovaný, tržní a tržně-smíšený), ekonomický koloběh.	|	Distanční opora, viz bližší podklady. <br> Rozhodování - Robert Holmann Ekonomie 1 až 20 <br> Modely - distanční opora [tady](Podklady/Ekonomie_a_Podnikove_finance/dist_opora_Ekonomie.pdf) 1 strana + přečíst si o tom něco na internetu <br> Ekonomický koloběh - Ekonomie strana 1 až 20	|
+|	Ekonomie a Podnikové finance	|	1.     Rozhodování   ekonomických   subjektů,   teoretické    modely   ekonomických   systémů    (zvykový, centrálně plánovaný, tržní a tržně-smíšený), ekonomický koloběh.	|	Distanční opora, viz bližší podklady. (Kapitola I a Kapitola II) - **Přečteno** <br> Rozhodování - Robert Holmann Ekonomie 1 až 20 - **Přečteno** <br> Modely - distanční opora [tady](Podklady/Ekonomie_a_Podnikove_finance/dist_opora_Ekonomie.pdf) 1 strana + přečíst si o tom něco na internetu <br> Ekonomický koloběh - Ekonomie strana 1 až 20 - **Přečteno**	|
 |	Ekonomie a Podnikové finance	|	2.    Trh a jeho funkce, teoretické zdůvodnění různých přístupů k trhu (liberální, keynesovský), výsledek potlačení trhu (např. v centrálně plánované ekonomice), definice tržního selhání.	|	Asi mi zbývá pouze online zdroje	|
 |	Ekonomie a Podnikové finance	|	3.    Užitek, blahobyt, náklady obětované příležitosti, individuální a tržní poptávka, poptávka v krátkém a dlouhém období, elasticita poptávky.	|	Ekonomie 21 až 52	|
 |	Ekonomie a Podnikové finance	|	4.    Model   dokonalé   konkurence   a   modely   nedokonalé   konkurence   (monopolistická   konkurence, oligopol,   monopol).   Příčiny   vzniku   a   zachování   monopolu   v   ekonomice,   státem   vytvářené monopoly. Regulace monopolu.	|	Ekonomie 130 až	160 |
