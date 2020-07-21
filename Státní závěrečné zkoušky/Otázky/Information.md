@@ -6,8 +6,11 @@ Dodatečné informace:
 
 Dodatečné úkoly:
 
-- [ ] Přečíst si Listinu základních práv a svobod,
-- [ ] přečíst si Ústavu.
+- Právo
+  - [ ] Přečíst si Listinu základních práv a svobod,
+  - [ ] přečíst si Ústavu.
+- Ekonomie
+  - [ ] Přečíst si základní Ekonomické pojmy v učebnici Ekonomie.
 
 | Okruh | Rozsah stránek |
 | --- | --- |
@@ -18,8 +21,8 @@ Dodatečné úkoly:
 |	Okruh	|	Otázka	|	Zdroj	|
 |	 ------	|	 ------	|	 ------	|
 |	Ekonomie a Podnikové finance	|	1.     Rozhodování   ekonomických   subjektů,   teoretické    modely   ekonomických   systémů    (zvykový, centrálně plánovaný, tržní a tržně-smíšený), ekonomický koloběh.	|	Distanční opora, viz bližší podklady. (Kapitola I a Kapitola II) - **Přečteno** <br> Rozhodování - Robert Holmann Ekonomie 1 až 20 - **Přečteno** <br> Modely - distanční opora [tady](Podklady/Ekonomie_a_Podnikove_finance/dist_opora_Ekonomie.pdf) 1 strana + přečíst si o tom něco na internetu <br> Ekonomický koloběh - Ekonomie strana 1 až 20 - **Přečteno**	|
-|	Ekonomie a Podnikové finance	|	2.    Trh a jeho funkce, teoretické zdůvodnění různých přístupů k trhu (liberální, keynesovský), výsledek potlačení trhu (např. v centrálně plánované ekonomice), definice tržního selhání.	|	Asi mi zbývá pouze online zdroje	|
-|	Ekonomie a Podnikové finance	|	3.    Užitek, blahobyt, náklady obětované příležitosti, individuální a tržní poptávka, poptávka v krátkém a dlouhém období, elasticita poptávky.	|	Ekonomie 21 až 52	|
+|	Ekonomie a Podnikové finance	|	2.    Trh a jeho funkce, teoretické zdůvodnění různých přístupů k trhu (liberální, keynesovský), výsledek potlačení trhu (např. v centrálně plánované ekonomice), definice tržního selhání.	|	Asi mi zbývá pouze online zdroje <br> Trh a jeho funkce - Podívat se na Ekospace <br> Různé přístupy k trhu o tom si můžu přečíst [tady](https://cs.wikipedia.org/wiki/Ekonomick%C3%BD_liberalismus) <br> Výsledek potalčení trhu - musím najít <br> Definice tržního selhání - Podíva se na Ekospace	|
+|	Ekonomie a Podnikové finance	|	3.    Užitek, blahobyt, náklady obětované příležitosti, individuální a tržní poptávka, poptávka v krátkém a dlouhém období, elasticita poptávky.	|	Ekonomie 21 až 52 - **Přečteno**	|
 |	Ekonomie a Podnikové finance	|	4.    Model   dokonalé   konkurence   a   modely   nedokonalé   konkurence   (monopolistická   konkurence, oligopol,   monopol).   Příčiny   vzniku   a   zachování   monopolu   v   ekonomice,   státem   vytvářené monopoly. Regulace monopolu.	|	Ekonomie 130 až	160 |
 |	Ekonomie a Podnikové finance	|	5.    Trh  práce  a  nabídka  práce,  nezaměstnanost  (pojem,  měření,  druhy),  vztah  vývoje  ekonomiky  a nezaměstnanosti (Okunův zákon, Philipsova křivka).	|	Ekonomie 264 až 277	|
 |	Ekonomie a Podnikové finance	|	6.    Výkonnost   ekonomiky   a   popis   pomocí   makroekonomických   agregátů   (HDP,   HNP,   investice, spotřeba) a měření výkonnosti, faktory ekonomického růstu.	|	Hrubý národní produkt jako národohospodářský agregát v sobě zahrnuje investice a spotřebu.	|
