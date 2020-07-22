@@ -1484,9 +1484,37 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Dokonalá konkurence
+- [ ] Nedokonalá konkurence
+  - [ ] Monopol
+    - [ ] Příčiny jeho vzniku a zachování monopolu v ekonomice
+    - [ ] Státem vytvářené monopoly
+    - [ ] Regulace monopolů
+  - [ ] Oligopol
+  - [ ] Monopolistická konkurence
+  - [ ] Monopsom
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+
+
+- Dokonalá konkurence
+  - Doplnit.
+- Nedokonalá konkurence
+  - Doplnit
+  - Monopol
+    - Doplnit
+    - Příčiny jeho vzniku a zachování monopolu v ekonomice
+    - Státem vytvářené monopoly
+    - Regulace monopolů
+  - Oligopol
+    - Doplnit
+  - Monopolistická konkurence
+    - Doplnit
+  - Monopson
+    - Doplnit
 
 ---
 
