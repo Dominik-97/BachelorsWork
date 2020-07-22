@@ -10,16 +10,26 @@
 
 ### Občanské právo
 
+---
+
 #### Otázka 1 - Občanské právo hmotné – pojem, předmět, prameny, systém, systematika občanského zákoníku, dispozitivní a kogentní normy v občanském právu.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
 
 - [x] § 1 - 14 
 - [ ] Dodělat ostatní části této otázky
 
----
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
 
 **§ 1- 14**
 
----
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
 
 * Pojem
   * [Občanské právo hmotné](https://www.smarteca.cz/my-reader/15471_20160525_0?fileName=obcanske_pravo_hmotne_dil1_-_2016-epub-6.xhtml&location=pi-167), obash mám jako komentář k nadpisu
@@ -48,7 +58,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 * Obecná část
   * Paragrafy 1 až 14.
 
----
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
 
 [^1]: § 1 odstavec 2 Občanského zákoníku.
 [^2]: § 1 odstavec 2 Občanského zákoníku.
@@ -57,13 +69,21 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 
 #### Otázka 2 -  Osoby v právním smyslu. Fyzické osoby. Ochrana osobnosti člověka. 
 
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
 - [ ] § 15 - 117  [^3]
 
----
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
 
 **§ 15 - 117**
 
----
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
 
 * Rozdíl mezi právní osobností a svéprávností.
 * Právní osobnosti ani svéprávnosti se nikdo nemůže vzdát. [^4]
@@ -74,7 +94,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
   * Omezení svéprávnosti
 * Koblížek.
 
----
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
 
 [^3]: § 115 až 117 jsou zrušeny.
 [^4]: Jedná se tedy o kogentní ustanovení, viz Otázka číslo 1, v souladu s § 1 odstavce 2 Občanského zákoníku.
@@ -83,95 +105,1193 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 
 #### Otázka 3 -  Právnické osoby – pojem, třídění, organizační struktura, přičítání právního jednání a protiprávních činů, vznik a zánik, likvidace a přeměny. 
 
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
 - [ ] § 118 - 435
 
----
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
 
 **§ 118 - 435**
 
----
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
 
----
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
 
 ---
 
 #### Otázka 4 - Zastoupení, včetně opatrovnictví. 
 
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
 - [ ] § 436 - 488
 
----
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
 
 **§ 436 - 488**
 
----
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
 
 ---
 
----
+#### Otázka 5 - Věci a jejich rozdělení.
 
-#### Otázka 5
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
 
----
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
 
----
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
 
----
-
----
-
-#### Otázka 6
-
----
-
----
-
----
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
 
 ---
 
-#### Otázka 7
+#### Otázka 6 - Subjektivní práva a právní povinnosti. Ochrana subjektivních práv. Soukromoprávní odpovědnost.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
 
 ---
 
----
+#### Otázka 7 - Právní skutečnosti. Právní jednání – pojem, náležitosti, vady a jejich následky.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
 
 ---
 
+#### Otázka 8 - Čas jako občanskoprávní skutečnost. Promlčení, prekluze a další občanskoprávní instituty založené na běhu času.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
 ---
 
-#### Otázka 8
+#### Otázka 9 - Manželství, majetkové právo manželské. Rodiče a dítě, osvojení, náhradní formy péče o dítě.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
 
 ---
 
----
+#### Otázka 10 - Vlastnické právo a jeho ochrana. Spoluvlastnictví.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
 
 ---
+
+#### Otázka 11 - Držba a detence. Věcná práva k věci cizí.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 12 - Dědické právo – pojem, systém, základní pojmy a principy. Dědění. Odkaz.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 13 - Závazek a jeho struktura (subjekty a strany, předmět, obsah). Společné závazky. Vznik závazku.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 14 - Smlouvy, jejich uzavírání, formování jejich obsahu, jejich forma a účinky. Smlouva o smlouvě budoucí.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 15 - Závazky ze smluv uzavíraných se spotřebitelem.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 16 - Změny závazků. Zajištění a utvrzení dluhů.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 17 - Zánik závazků.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 18 - Závazky z porušení smlouvy (z prodlení, z vadného plnění, z újmy způsobené porušením smluvní povinnosti). Závazky z bezdůvodného obohacení.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 19 - Darování, koupě a směna.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 20 - Přenechání věci k užití jinému.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 21 - Závazky ze smluv příkazního typu.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 22 - Dílo.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 23 - Závazky z bankovních smluv, závazky z přepravních smluv.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 24 - Závazky ze zaopatřovacích a odvážných smluv.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 25 - Soudnictví, soudní soustava, justiční systém.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 26 - Subjekty civilního procesu. Procesní úkony.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 27 - Jednání. Dokazování.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 28 - Rozhodnutí. Opravné prostředky.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 29 - Výkon rozhodnutí a exekuce. Insolvenční řízení.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 30 - Alternativní řešení sporů.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
 
 ---
 
 ### Obchodní právo
 
-#### Otázka 1
+---
+
+#### Otázka 1 - Pojem, povaha, předmět, systém a prameny obchodního práva.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
 
 ---
 
----
+#### Otázka 2 - Pojmy podnikatel, podnikání, obchodní závod (jen vymezení pojmu) pobočka, odštěpný závod, majetek a jmění. Členění podnikatelů. Sídlo podnikatele.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
 
 ---
 
+#### Otázka 3 - Obchodní firma a obchodní tajemství a jejich ochrana. Obchodní listiny.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
 ---
 
-#### Otázka 2
+#### Otázka 4 - Právní jednání podnikatele fyzické osoby. Právní jednání podnikatele právnické osoby. Prokura, opatrovník, vedoucí odštěpného závodu, osoba pověřená určitou činností při provozu závodu.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 5 - Právní úprava živnostenského podnikání.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 6 - Právní úprava neživnostenského podnikání. Podnikání zahraničních osob v České republice.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 7 - Obchodní rejstřík. Pojem a funkce obchodního rejstříku, princip publicity. Živnostenský rejstřík.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 8 - Právo proti nekalé soutěži I (obecná skutková podstata nekalé soutěže, klamavá reklama, klamavé označení zboží a služeb, vyvolání nebezpečí záměny, parazitování na pověsti, podplácení).
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 9 - Právo proti nekalé soutěži II (zlehčování, nepřípustná srovnávací reklama, porušení obchodního tajemství, dotěrné obtěžování, ohrožení zdraví a životního prostřední, ochrana proti nekalé soutěži).
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 10 - Právo proti omezování hospodářské soutěže.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 11 - Práva k nehmotným statkům při podnikání – výsledky tvůrčí duševní činnosti (vynález, užitný vzor, průmyslový vzor, topografie polovodičového výrobku, odrůda rostlin, a zlepšovací návrh).
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 12 - Práva k nehmotným statkům při podnikání – ochranná označení (ochranná známka, označení původu a zeměpisné označení).
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 13 - Státní podnik a specifika majetkové účasti státu v jiných podnikatelských subjektech.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 14 - Specifika právního postavení podnikatele v závazkových právních vztazích.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 15 - Povinnosti podnikatele z tzv. spotřebitelských smluv.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 16 - Veřejné zakázky (zadání veřejné zakázky, zadavatel a dodavatel, zásady zadávání veřejných zakázek, druhy a režimy veřejných zakázek, zadávací řízení, veřejné zakázky malého rozsahu).
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 17 - Obchodní závod a dispozice s ním. Rodinný závod.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 18 - Cenné papíry a zaknihované cenné papíry.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 19 - Právní úprava podnikání na kapitálovém trhu. Právní úprava kolektivního investování.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 20 - Správní a trestní odpovědnost podnikatele (obecně).
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 21 - Společnost podle občanského práva, tichá společnost.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 22 - Obecné otázky obchodních společností a družstev I (právní úprava, druhy, vznik, zánik a neplatnost).
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 23 - Obecné otázky obchodních společností a družstev II (základní kapitál, vklad, podíl, orgány, jednání, koncernové právo).
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 24 - Osobní obchodní společnosti (veřejná obchodní společnost, komanditní společnost).
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 25 - Společnost s ručením omezeným.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 26 - Akciová společnost – založení, vznik a zánik, organizační struktura.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 27 - Cenné papíry vydávané akciovou společností. Zvýšení a snížení základního kapitálu akciové společnosti.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 28 - Družstvo.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 29 - Přeměny obchodních korporací. Nadnárodní formy obchodních korporací.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
+
+#### Otázka 30 - Zvláštní úprava některých obchodních korporací (banky, pojišťovny a zajišťovny, družstevní záložny, investiční společnosti a investiční fondy).
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|--------------\| <br>
+\| Paragrafy \| <br>
+\|--------------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+\|--------------------------------------\| <br>
+\| Zdroje a poznámky pod čarou \| <br>
+\|--------------------------------------\| <br>
+
+---
 
 ### Ekonomika a podnikové finance
 
+---
+
 #### Otázka 1 - Rozhodování ekonomických subjektů, teoretické modely ekonomických systémů (zvykový, centrálně plánovaný, tržní a tržně-smíšený), ekonomický koloběh.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
 
 - [ ] Rozhodování ekonomických subjektů
 - [ ] Teoretické model ekonomických subjektů
 - [ ] Ekonomický koloběh
 
----
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
 
 **Rozhodování ekonomických subjektů**
 * Dohledat zdroj
@@ -186,18 +1306,354 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 
 #### Otázka 2 - Trh a jeho funkce, teoretické zdůvodnění různých přístupů k trhu (liberální, keynesovský), výsledek potlačení trhu (např. v centrálně plánované ekonomice), definice tržního selhání.
 
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
 - [ ] Trh a jeho funkce
 - [ ] Teoretické zdůvodnění různých přístupů k trhu
 - [ ] Výsledek potalčení trhu
 - [ ] Definice tržního selhání
 
----
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
 
 ---
 
 #### Otázka 3 - Užitek, blahobyt, náklady obětované příležitosti, individuální a tržní poptávka, poptávka v krátkém a dlouhém období, elasticita poptávky.
 
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
 ---
+
+#### Otázka 4 - Model dokonalé konkurence a modely nedokonalé konkurence (monopolistická konkurence, oligopol, monopol). Příčiny vzniku a zachování monopolu v ekonomice, státem vytvářené monopoly. Regulace monopolu.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 5 - Trh práce a nabídka práce, nezaměstnanost (pojem, měření, druhy), vztah vývoje ekonomiky a nezaměstnanosti (Okunův zákon, Philipsova křivka).
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 6 - Výkonnost ekonomiky a popis pomocí makroekonomických agregátů (HDP, HNP, investice, spotřeba) a měření výkonnosti, faktory ekonomického růstu.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 7 - Hospodářský cyklus (pojem, vnější a vnitřní příčiny vzniku a příklady), časové rozlišení jednotlivých typů cyklů (krátkodobé, střednědobé, dlouhodobé).
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 8 - Peníze a měna, funkce peněz a formy peněz, postup, výhody a rizika zavádění společné měny Euro (tzv. Maastrichtská kritéria).
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 9 - Finanční trhy (pojem, členění), subjekty a instrumenty finančního trhu (typy cenných papírů), úloha finančních trhů v ekonomice. Investiční rozhodování, časová hodnota peněz.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 10 - Monetární politika, cíle, hlavní subjekt a měnové nástroje ČNB. Inflace (příčiny, pojem, typy, měření, důsledky).
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 11 - Fiskální politika (cíle, hlavní subjekty a nástroje), analýza vládních výdajů (obecné problémy, restriktivní a expanzivní přístup, vestavěné stabilizátory, vliv dotací a subvencí, deficity a vytěsňování soukromých investic).
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 12 - Podnik a jeho okolí, ekonomická podstata podnikání, právní formy podnikání, konkurenční okolí podniku, možnosti a metody srovnání s konkurencí (potenciální konkurence, koncentrace v odvětví, relevantní trh, odvětvová klasifikace ekonomických činností, benchmarking - DEA a SWOT analýza, Competitive Intelligence).
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 13 - Efektivnost podniku a její základní kategorie, cíle a funkce podniku (poslání a vize podniku, S.M.A.R.T. cíle, ziskové a neziskové formy podnikání, podnikatelské objevování), investiční rozhodování podniku (základní metody a jejich užití).
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 14 - Finanční řízení podniku (organizace a hlavní úkoly finančního managementu), finanční analýza (nástroje pro rozhodování finančního managementu). Financování podniku (vnější a vnitřní zdroje, rozvaha), hospodářský výsledek podniku (rentabilita, výsledovka). Majetková a kapitálová struktura podniku.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 15 - Podnikové řízení (rámec strategického řízení, taktické a operativní řízení), oddělení vlastnictví a řízení podniku, správa a řízení velké společnosti (korporátní strategie, nadnárodní společnosti). Organizační výstavba podniku (typická oddělení v podniku, organizační inovace).
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 16 - Podnikové účetnictví (právní úprava, zásady a jejich odraz ve vedení účetnictví), účetní výkazy, manažerské účetnictví a podniková statistika (role podnikových informačních systémů, vztah k finančnímu účetnictví).
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 17 - Cenové strategie, odbyt a marketing, marketingový mix, životní cyklus produktu; řízení distribučních kanálů; marketingová komunikace, propagační mix, marketingová inovace.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 18 - Tržní hodnota podniku, faktory tvorby hodnoty, měření hodnoty podniku.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 19 - Výroba a její zabezpečení (výrobní plán, druhy podniků, typy výrobní činnosti, výnosy z rozsahu), lokalizace podniku, globální hodnotové řetězce, produktová inovace, procesní inovace.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 20 - Majetek podniku – charakteristika, členění, rozdíl mezi dlouhodobým a krátkodobým majetkem, oceňování, pořízení, odepisování, vyřazení.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 21 - Pohledávky a závazky podniku – vznik a členění, zásada opatrnosti, cizí a vlastní zdroje. Náklad a výnos - druhy, pravidla účtování, odraz v účetních výkazech. Řízení a účtování zásob – charakteristika, členění, způsoby účtování, oceňování spotřeby
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 22 - Výsledek hospodaření podniku, účetní závěrka – pravidla, postup, úloha auditu.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 23 - Daně z hlediska hospodaření podniku, druhy a diskuse v rámci daňové reformy.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 24 - Role manažera v organizaci, organizační vztahy a vazby, klíčové odpovědnosti při vedení a řízení podřízených a jejich uplatňování.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 25 -Charakteristika pracovní pozice a výběr podřízených, požadavky na profil kandidáta, způsobilosti odborné a osobnostní, jak zajistit výběr správného kandidáta. Styly vedení podřízených – základní manažerské typy, situační vedení a jeho uplatňování, delegování, koučování a jejich správné uplatňování.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 26 - Hodnocení, motivace a rozvoj podřízených, typologie osobnosti, motivační faktory, motivační nástroje, měření a hodnocení výkonnosti, nástroje rozvoje podřízených.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 27 - Nákup, logistika, zásobování. Hlavní úkoly logistického oddělení, logistické metody, řízení zásob, marketingový nákupní mix.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 28 - Řízení rizik, definice rizika a nejistoty, kategorizace rizik, metody měření a ošetření rizik, Risk Apettite, organizace řízení rizik ve společnosti.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 29 - Projektové řízení, dilema projektového řízení, věcná a procesní stránka projektu, faktory úspěchu projektu, projektová řídící struktura, nástroje pro řízení projektů.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
+
+---
+
+#### Otázka 30 - Marketing a odbyt, hlavní úkoly marketingového oddělení, marketingové techniky, vztah podnikové a marketingové strategie. Trh a jeho segmentace, definování cílových zákaznických skupin a zaměření - targeting a positioning.
+
+\|---------\| <br>
+\| Úkoly \| <br>
+\|---------\| <br>
+
+\|------------------------------\| <br>
+\| Vysvětlení a Poznámky \| <br>
+\|------------------------------\| <br>
 
 ---
 
