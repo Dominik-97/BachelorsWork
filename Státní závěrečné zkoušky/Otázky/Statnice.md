@@ -1501,9 +1501,18 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
 
 
 - Dokonalá konkurence
-  - Doplnit.
+  - Respektive dokonalý trh.
+  - Poptávka po statku nabízeném na trhu s dokonalou konkurencí je dokonale elastická.
+  - Nepatrné zvýšení ceny se na takovémto trhu projeví ztrátou veškerých zákazníků, zatímco nepatrně snížení ceny se projeví tím, že u daného prodejce budou chtít kupovat daný statek úplně všichni, nicméně prodejce nedokáže uspokojit celkovou agregátní poptávku.
+  - Výrobce tedy nemůže změnami své produkce ovlivnit docilovanou cenu. Pokud toto platí pro všechny výrobce dodávající na daný trh, říkáme o takovém trhu, že je dokonalý (též dokonale konkurenční).
+  - Dokonale elastická nebo neelastická poptávka je poptávkou: kdy i nepatrná změna ceny má nekonečný vliv na odezvu nabídky resp. poptávky, a naopak **dokonale neelastická nabídka/poptávka**, kdy nabídka nebo poptávka po daném zboží je zcela nezávislá na její ceně.
+  - Podmínky
+    - Podmínky, které musí trh splňovat, aby se dal považovat za dokonale konkurenční jsou:
+      - 
 - Nedokonalá konkurence
-  - Doplnit
+  - Poptávka na trhu s nedokonalou konkurencí není dokonale elastická.
+  - Zvýšením ceny tak sníží poptávané množství, ale ne až na nulu. A snížení ceny nezíská prodejci celý trh, neboť někteří kupující budou stále nakupovat od původních dodavatelů.
+  - Výrobce tak může změnami své produkce do určité míry ovlivnit docilovanou cenu. Takový trh je nedokonalý (též nedokonale konkurenční).
   - Monopol
     - Doplnit
     - Příčiny jeho vzniku a zachování monopolu v ekonomice
