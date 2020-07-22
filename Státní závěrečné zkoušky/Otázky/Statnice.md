@@ -1374,9 +1374,67 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
 \| Úkoly \| <br>
 \|---------\| <br>
 
+- [ ] Užitek
+- [ ] Blahobyt
+- [ ] Náklady obětované příležitosti
+- [ ] Individuální a tržní poptávka
+- [ ] Poptávka v krátkém a dlouhém období
+- [ ] Elasticita poptávky
+
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+
+
+- **Užitek**
+  - Kolik určitého statku má spotřebitel kupovat a jak má svůj důchod mezi různé statky rozdělit.
+  - Celkový užitek vs. mezní užitek.
+  - Mezní užitek s roztoucí spotřebou klesá - zákon klesajícího mezního užitku.
+  - Celkový užitek - součet mezních užitků.
+  - Racionální spotřebitel není ochoten platit za statek vyšší cenu, než jaký je mezní užitek daného statku. Zvyšuje nákup statku pouze do takového množství, kdy je ještě mezní užitek statku vyšší nebo alespoň roven ceně.
+  - Mezní užitek se oceňuje v penězích.
+  - Spotřebitelův přebytek - pokud koupí něco levněji, než kolik ba za to byl ochoten s ohledem na svůj mezní užitek zaplatit.
+  - Spotřebitelům přebytek je zákonitost, platí vždy, když se spotřebitel chová racionálně, neboť by nekoupil něco, co mu přinese menší užitek, než kolik to něco stojí samo o sobě.
+  - Pro obchodníka - může být vždy minimálně na úrovni mezního užitku pokud smlouvá, pokud jsou stanoveny pevné ceny zákazník má větší šanci, že získá spotřebitelův přebytek.
+- Blahobyt
+  - Blahobyt obecně: výraz pro takový stav společnosti, její části nebo rodiny, jednotlivce, který umožňuje v nadbytku uspokojovat všechny potřeby.
+  - Ekonomický blahobyt: rovnovážné ceny, které na trhu vznikají, vedou svou alokační funkcí k takovému rozdělení zdrojů, které maximalizuje užitek všech zúčastněných; kupujících i prodávajících.
+  - Ekonomie blahobytu: typická metodika začíná odvozením (nebo předpokladem) funkce sociální péče, kterou lze poté použít k hodnocení ekonomicky proveditelných alokací zdrojů z hlediska sociální péče, kterou představují. Takové funkce obvykle zahrnují opatření ekonomické účinnosti a spravedlnosti, i když novější pokusy o kvantifikaci sociálního blahobytu zahrnovaly širší škálu opatření včetně ekonomické svobody (jako v přístupu založeném na schopnostech).
+- Náklady obětované příležitosti
+  - Kupováním jednoho statku obětuje člověk jiný statek respektive nějakou jinou příležitost.
+  - Analýza nákladů a výnosů (cost-benefit analýza). Výnosem je získávaný užitek a nákladem je obětovaný užitek.
+  - Dokud je mezní užitek jednoho statku vyšší než mezní užitek druhého statku, snaží se spotřebitel přesunout své zdroje (peníze, volný čas) ze statku s nižším mezním užitkem na statek s vyšším mezním užitkem.
+  - Celkový užitek z obou statků bude maximalizován tehdy, když bude splněna podmínka:
+    - MU jednoho statku / cena daného statku = MU druhého statku / cena druhého statku.
+    - Platí, že spotřebitel bude chtít danou peněžní částku rozdělit mezi ně tak, aby, pokud možno, byla splněna rovnice:
+    - MU1 / P1 = MU2 / P2.
+    - Tato rovnice vyjadřuje podmínku optimálního rozdělení dané peněžní částky mezi dva statky. Z toho vyplývá, jak racionální spotřebitel rozdělí svůj peněžní důchod mezi nákupy různých statků. Toto rozdělení musí splňovat následující podmínku:
+    - MU1 / P1 = MU2 / P2 = MU3 / P3 = MUn / Pn.
+    - Pokud je tato podmínka splněna lze hovořit o optimální spotřebitelské alokaci.
+- Poptávka
+  - Poptávka ukazuje, jak závisí poptávané množství statku na ceně.
+  - Znázorněna pomocí křivky poptávky.
+  - Křivka poptávky ukazuje, jak se mění kupované množství daného statku v závislosti na jeho ceně. Ovšem při nezměněném důchodu kupujícího a při nezměněné ceně ostatních statků.
+  - Křivka poptávky v zásadě kopíruje křivku mezního užitku - jedná se o zákon klesající poptávky. Každý její bod říká, že cena, kterou spotřebitel platí, odpovídá meznímu užitku statku.
+  - Poptávané množství je množství statku, které spotřebitel při určité ceně poptává, to je klesající funkcí. Zatímco poptávka je celou funkcí, nicméně tato funkce může sama o sobě také klesat, nebo stoupat jejím posunem v grafu.
+  - Zákon klesající poptávky - důchodový a substituční efekt
+    - Důchodový efekt: spotřebitel při vyšší ceně kupuje méně statku, protože mu původní částka nestačí na nákup původního množství (které kupoval před zvýšením ceny).
+    - Substituční efekt: spotřebitel při zvýšení ceny statku nakupuje méně tohoto statku, protože jej substituuje (nahrazuje) jinými statky.
+    - Oba tyto efekty způsobují, že poptávka je klesající funkcí ceny, neboli při vyšší ceně kupují spotřebitelé menší množství a při nižší ceně vyšší množství.
+    - Substituty:
+      - Vše nejde substituovat v technickém smyslu, ve spotřebitelském smyslu toho ale lze substituovat většina.
+      - Podstatou spotřebitelské substituce je náhrada jednoho uspokojení jiným uspokojením.
+    - Křivka poptávky ukazuje, jak se mění poptávané množství statku v závislosti na ceně tohoto statku, při ostatních cenách a důchodech neměnných. Zákon klesající poptávky říká, že poptávané množství klesne, když vzroste cena statku a přitom se nezmění ostatní ceny ani důchody.
+    - Cena statku se však nicméně může měnit i tehdy, když probíhá **inflace**, neboli klesá kupní síla koruny.
+      - Inflace však sama o sobě nemá vliv na poptávané množství statku. Poptávané množství statku se mění pouze tehdy, když se mění jeho cena v poměru k ostatním cenám.
+  - Individuální poptávka, tržní poptávka a poptávka po statku jednoho prodávajícího:
+    - Individuální poptávka: viz předchozí bod.
+    - Tržní poptávka je souhrnná poptávka všech kupujících po daném statku.
+    - Tržní poptávka je součtem individuálních poptávek (poptávek jednotlivých kupujících).
+    - Elasticita tržní poptávky má vliv na výdaje kupujících a tím i na příjmy prodávajících. Výdaje kupujících jsou totiž příjmy (tržbami) prodávajících.
+      - Je-li tržní poptávka neelastická, zvýšení ceny a snížení množství statku bude mít za následek zvýšení výdajů kupujících i příjmu prodávajících.
+      - Je-li tržní poptávka elastická bude mít zvýšení ceny naopak za následek snížení výdajů kupujících i příjmů prodávajících.
 
 ---
 
