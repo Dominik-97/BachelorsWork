@@ -1293,14 +1293,48 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+**Ekonomie**
+
+Studuje chování jednotlivců, je to věda o lidském jednání.
+
+Není objektivně měřitelná, je to společenská věda.
+
+Ekonomie se zabývá racionálním rozhodováním lidí v podmínkách vzácnosti - tuto racionalitu nenalezneme ve volbě cílů, ale ve volbě prostředků k dosažení cílů.
+
+Pokud příležitosti plně využijí zdroj, je takový zdroj vzácný, člověk řeší problematiku efektivní alokace vzácného zdroje. Pokud zdroj není vzácný, dá se na něj pohlížet jako na volný zdroj (Existují i volné a veřejné statky).
+
+Racionální volba: jak mám rozdělit svůj vzácný zdroj mezi příležitosti, abych dosáhl maximálního prospěchu?
+
+Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
+
 **Rozhodování ekonomických subjektů**
-* Dohledat zdroj
+* Člověk ekonomický se řídí jediným cílem - maximalizovat svůj užitek (uspokojení) a minimalizuje náklady.
+* Průměrné (celkové) uspokojení vs. Mezní uspokojení (užitek, přírůstek uspokojení).
+* Pokud chceme rozdělit svůj vzácný zdroj (třeba čas nebo peníze) mezi více příležitostí, porovnáváme důsledky uspokojení z těchto příležitostí.
+* V kardinalistické teorii jasně stanoveným číselným užitkem, v rámci ordinalistické teorie za pomocí indiferenčních křivek - křivka v grafu je konvexní.
+* Hranice produkčních možností ukazuje všechny možné kombinace dvou výrobků, které je možné získat s daným zdrojem (s danými zdroji) - křivka v fragu je konkávní. Toto v kombinaci s uspokojením (ať už osobním, nebo ve smyslu za jaký produkt dostane více peněž) určuje optimální bod na hranici produkčních možností - bod v němž bude přírůstek uspokojení z jednoho výrobku pokud možno stejný jako přírůstek uspokojení z druhého výrobku.
+* Zákon klesajícího výnosu.
+* Lidé se chovají v souladu s ekonomickými zákony, i když tyto zákony neznají a nikdy je nestudovali. (Jedná se zkrátka o princip chybou se učíš, pokud by se tak nechovali, tak by brzi poznali, že si škodí.)
+* Racionalita tak nespočívá v tom, že je člověk ekonomický neomylný, ale že systematicky neopakuje chyby, nýbrž se z nich učí a napravuje je.
+* Člověk dále sleduje vlastní zájem, tento vlastní zájem je však v souladu s obecným zájmem. Racionální chování jednotlivce tedy vede k efektivnímu výsledku. Adam Smith popsal v díle Pojednání o podstatě a původu bohatství národů z roku 1776 o takzvané neviditelné ruce trhu. Tato neviditelná ruka trhu slaďuje zájmy jednotlivců se zájmy společnosti, neviditelná ruka trhu spočívá v tržních cenách.
+* V tržní ekonomice svoboná směna a tržní ceny zajišťují soulad mezi prospěchem jednotlivce a společným prospěchem. Ceny a zisk vedou výrobce k tomu, aby dělali to, co chtějí spotřebitelé. Přestože výrobcům vůbec nejde o spotřebitele ale o vlastní zisky. (Zákon nabídky a poptávky.)
+* Kvůli neviditelné ruce trhu tak nemusí existovat žádná centrální autorita předávající informace co kdo potřebujeme, díky dělbě práce a neviditelné ruce trhu je zajištěno, že všichni dokážeme spolupracovat a spolufungovat v tržní ekonomice, tak, že na konci veškerých procesů vznikají věci a služby, který každý z nás chce. (Záleží tedy na měnících preferencích spotřebitelů, v měnících se výrobních technologiích, nebo v měnící se vzácnosti různých zdrojů, lidé na tyto změny reagují a přizpůsobují se jim ve smyslu co mají vyrábět a spotřebovávat, kde to mají prodávat a kupovat, do čeho mají investovat.) Tyto informace sedimentují pouze v cenách.
+* Funkce cen:
+  * Informační: poskytuje informace výrobcům a zákazníkům viz předchozí bod.
+  * Motivační: například v případě růstu cen motivuje výrobce, aby vyráběli více.
+  * Alokační: vede výrobce k tomu, aby realokovali své výrobní zdroje mezi různá použití efektivně - zákonitě pak musí některým lidem vzniknout ztráty a jiným zisky, poskytování zboží a služeb jednoho typu je vždy na úkor jiného typu, který by se místo něj mohl vyrábět - viz hranice produkčních možností.
+  * Distribuční: funkce ceny spočívá v tom, že cena je nástrojem rozdělování zboží mezi lidi. Zboží se rozdělí mezi spotřebitele podle jejich ochoty platit.
+* Ceny se nepohybují nahoru a dolů samy od sebe, ale jsou to obchodníci a spekulatni, které je uvádějí do pohybu. Například ve smyslu mezinárodní arbitráže (nakupování zboží ve státě, kde je levnější a jeho následný prodej tam, kde jedražší), ta prosazuje zákon jediné ceny. Díky tomuto je tak přenos informací za pomoci ceny mnohem rychlejší.
 
 **Teoretické modely ekonomických systémů**
 * Distanční opora popisuje všechny 4, viz [distanční opora](Podklady/Ekonomie_a_Podnikove_finance/dist_opora_Ekonomie.pdf)
 
 **Ekonomický koloběh**
-* Je rovněž obsažen v distanční opoře
+* Záleží na tom, kolik sektorů uvažujeme (dva, tři, nebo čtyři).
+* Nejzákladnějším případem je dvousektorová ekonomika složená ze sektoru domácností a ze sektoru firem.
+* Východiskem pro výrobu jsou výrobní faktory, tedy půda, práce a kapitál. S využitím výrobních faktorů se vyrábějí statky (zboží a služby). Tyto výrobní faktory jsou ve vlastnictví domácností a ty je za peníze pronajímají firmám. Tyto peníze, které domácnosti od firem utží se nazývají důchody domácností.
+* Za důchody domácností pak domácnosti od firme nakupují na trhu zboží a služeb jednotlivé statky. Peníze, které firmy dostanou od domácností jsou příjmy firem, za tyto příjmy si pak firmy mohou opět od domácností najímat výrobní faktory.
+* Ekonomika funguje jako nepřetržitý koloběh.
 
 ---
 
