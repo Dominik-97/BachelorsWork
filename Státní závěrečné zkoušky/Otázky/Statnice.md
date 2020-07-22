@@ -1361,10 +1361,16 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
 - [ ] Výsledek potalčení trhu
 - [ ] Definice tržního selhání
 - [ ] Podívat se i na nabídku a poptávku
+- [ ] V souvislosti s nabídkou a poptávkou se podívat i na teorém pavučiny
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
+
+- Teorém pavučiny
+  - Dobrý zdroj je například zde [tady](https://www.miras.cz/seminarky/mikroekonomie-n02-nabidka.php).
+
+
 
 ---
 
@@ -1374,12 +1380,12 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Užitek
-- [ ] Blahobyt
-- [ ] Náklady obětované příležitosti
-- [ ] Individuální a tržní poptávka
-- [ ] Poptávka v krátkém a dlouhém období
-- [ ] Elasticita poptávky
+- [x] Užitek
+- [x] Blahobyt
+- [x] Náklady obětované příležitosti
+- [x] Individuální a tržní poptávka
+- [x] Poptávka v krátkém a dlouhém období
+- [x] Elasticita poptávky
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -1467,6 +1473,8 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
       - Změna ceny komplementu: pokud například vzroste cena komplementu, může se snížit poptávka po jiném statku, jemuž je daný statek komplementem.
       - Změna ceny substitutu: pokud se například sníží cena substitutu, může to vést ke snížení poptávky o jiný statek.
   - Když se mění poptávané množství v závislosti na změně ceny daného statku, pohybuje se spotřebitel podél křivky poptávky. Změna poptávky se však projevuje posunem celé poptávkové křivky. Roste-li poptávka, posouvá se poptávková křivka doprava. Klesá-li poptávka, posouvá se poptávková křivka doleva.
+- Dodatek: Indiferenční křivky, viz otázka 1 ordinalistický přístup.
+  - Dodělat.
 
 ---
 
