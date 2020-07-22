@@ -1285,9 +1285,9 @@ pokud tyto občanskoprávní vztahy neupravují jiné zákony_ . Nově lze defin
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Rozhodování ekonomických subjektů
-- [ ] Teoretické model ekonomických subjektů
-- [ ] Ekonomický koloběh
+- [x] Rozhodování ekonomických subjektů
+- [x] Teoretické model ekonomických subjektů
+- [x] Ekonomický koloběh
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -1308,6 +1308,7 @@ Racionální volba: jak mám rozdělit svůj vzácný zdroj mezi příležitosti
 Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
 
 **Rozhodování ekonomických subjektů**
+
 * Člověk ekonomický se řídí jediným cílem - maximalizovat svůj užitek (uspokojení) a minimalizuje náklady.
 * Průměrné (celkové) uspokojení vs. Mezní uspokojení (užitek, přírůstek uspokojení).
 * Pokud chceme rozdělit svůj vzácný zdroj (třeba čas nebo peníze) mezi více příležitostí, porovnáváme důsledky uspokojení z těchto příležitostí.
@@ -1328,13 +1329,24 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
 
 **Teoretické modely ekonomických systémů**
 * Distanční opora popisuje všechny 4, viz [distanční opora](Podklady/Ekonomie_a_Podnikove_finance/dist_opora_Ekonomie.pdf)
+* Jedná se tedy o způsoby, kterými společnost jako celek řeší základní ekonomické otázky.
+* Základní kategorie jsou:
+  * Zvyková ekonomika: rigidní, řešení ekonomických otázek na základě zvyků a tradic, primitivní, ekonomický output dostává především náčelník, nebo velký vlastník půdy. Volba povolání vyhází z rodinné nebo etnické tradice, málo se produkuje, je toho málo k dispozici.
+  * Centrálně řízená ekonomika: o odpovědích na základní ekonomické otázky rozhoduje nějaká centralizovaná autorita, především vláda. Centrální autorita stanovuje kvóty pro výrobu, stanovuje ceny a rovněž přerozděluje ekonomický output mezi obyvatele. Kapitálové statky jsou vlastněny státem. Omezená konkurence díky vysoké koncentraci výroby a monopolizaci ekonomiky. Je značně neefektivní.
+  * Tržní systém: na ekonomické otázky odpovídají jednotlivci na základě svých rozhodnutí a samozřejmě i externality. Systém je založen na samostatném (decentralizovaném) rozhodování ekonomických subjektů. Rozhodování je založeno na cenách, směně, neviditelné ruce trhu (tedy ceně) a laissez faire - stát tedy nezasahuje do hospodářství a nesnaží se ho řídit. Výrobní faktory jsou vlastněny soukromně, klíčovou úlohu o základních ekonomických otázkách hrají v tomto systému trhy, ne kterých ceny vznikají. Podstatně efektivnější, než dva předchozí systémy. Chod tržní ekonomiky je stimulován a poháněn touhou po zisku, jedná se tedy o jakýsi ziskový motiv.
+  * Smíšený systém: spojuje trh se zásahy vlády do ekonomiky. Převažuje ve většině moderních ekonomik. Trh je stále nejdůležitějším faktorem, ale stát do ekonomiky může zasahovat a korigovat ji (fiskální poliitka státu a monetární politika národních bank). 
 
 **Ekonomický koloběh**
+
 * Záleží na tom, kolik sektorů uvažujeme (dva, tři, nebo čtyři).
 * Nejzákladnějším případem je dvousektorová ekonomika složená ze sektoru domácností a ze sektoru firem.
 * Východiskem pro výrobu jsou výrobní faktory, tedy půda, práce a kapitál. S využitím výrobních faktorů se vyrábějí statky (zboží a služby). Tyto výrobní faktory jsou ve vlastnictví domácností a ty je za peníze pronajímají firmám. Tyto peníze, které domácnosti od firem utží se nazývají důchody domácností.
 * Za důchody domácností pak domácnosti od firme nakupují na trhu zboží a služeb jednotlivé statky. Peníze, které firmy dostanou od domácností jsou příjmy firem, za tyto příjmy si pak firmy mohou opět od domácností najímat výrobní faktory.
 * Ekonomika funguje jako nepřetržitý koloběh.
+* Třísektor obsahuje i stát - ten kontroluje, nastavuje rovné prostředí a daní, čtyřsektor i zahraničí, tedy export a import a investice a dividendy.
+* V rámci ekonomického koloběhu lze hovořit o jeho rovnováze a nerovnováze. Rovnováha - obecně pokud se veškeré příjmy budou rovna veškerým výdajům. Nerovnováha - pokud se nebudou rovnat, výše národního důchodu tak bude klesat nebo stoupat.
+* Národní důchod je čistý domácí produkt po odečtení nepřímých daní z podnikání, jedná se tedy o souhrn příjmů výrobních faktorů na daném území za určité období.
+* Rovněž lze hovořit o rovnováze agregátní nabídky a poptávky. O tu se jedná v případě že se agregátní nabídka rovná agregátní poptávce. Pokud se rovná, nebudou ceny růst ani klesat = stagflace. Pokud bude agregátní poptávka nižší než agregátní nabídka, jedná se o deflační mezeru = deflace. Pokud bude agregátní nabídka nižší než agregátní poptávka, jedná se o inflační mezeru = inflace.
 
 ---
 
@@ -1348,6 +1360,7 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
 - [ ] Teoretické zdůvodnění různých přístupů k trhu
 - [ ] Výsledek potalčení trhu
 - [ ] Definice tržního selhání
+- [ ] Podívat se i na nabídku a poptávku
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
