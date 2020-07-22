@@ -1435,6 +1435,38 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
     - Elasticita tržní poptávky má vliv na výdaje kupujících a tím i na příjmy prodávajících. Výdaje kupujících jsou totiž příjmy (tržbami) prodávajících.
       - Je-li tržní poptávka neelastická, zvýšení ceny a snížení množství statku bude mít za následek zvýšení výdajů kupujících i příjmu prodávajících.
       - Je-li tržní poptávka elastická bude mít zvýšení ceny naopak za následek snížení výdajů kupujících i příjmů prodávajících.
+      - Po zanesení do grafu je křivka neelastické poptávky více strmá, než křivka elastické poptávky, která je spíše pložší.
+      - Výrobci tak nedokáží využít nízké elasticity tržní poptávky k tomu, aby zvýšili své příjmy.
+      - Cenová elasticita tržní poptávky není není pro výrobce žádnou užitečnou informací, neboť na konkurenčním trhu, kde je mnoho prodávajících, není jeden prodávající sám o sobě schopen významněji ovlivnit celkové množství statku na trhu a tudíž ani cenu. Pokud by snížil svojí produkci, konkurenti jeho výpadek snadno a ochotně nahradí.
+      - Poptávka po statku jednoho prodávajícího je tak méně strmá a elastičtější než tržní poptávka.
+      - Výrobce ke svému rozhodování nepotřebuje znát tržní poptávku, ale poptávku po svém zboží. Poptávka po statku jednoho prodávajícího je méně strmá a mnohem elastičtější než tržní poptávka. Je to způsobeno rozdílným substitučním efektem: pokud se zvýší cena na celém trhu, u všech výrobců, kupující by museli daný statek nahrazovat jinými statky. Pokud ale zvýše cenu pouze jeden z výrobců, kupující jej nahrazují stejným statkem od jiných výrobců.
+- Poptávka v krátkém a dlouhém období
+  - Poptávka závisí na spotřebitelových preferencích a na jeho omezeních (důchodu a cenách). 
+  - Poptávka po stejném zboží je nicméně jiná v krátkém období a v dlouhém období.
+  - Zvýšení ceny motivuje spotřebitele ke snížení poptávaného množství, nicméně v krátkém období je sníží méně a teprve v dlouhém období je sníží více. V krátkém období je substituce například kvůli našem spotřebním zvyklostem složitější.
+  - Spotřebitelská subsituce si vyžaduje určitý čas. Člověk ekonomický je racionální a přizpůsobivý, je však méně přizpůsobivý v krátkém období.
+  - To ovšem znamená, že křivka poptávky je v krátkém období strmější než v dlouhém období.
+- Cenová elasticita poptávky
+  - Zákon klesající poptávky nám říká, že zvýší-li se cena statku, sníží se kupované množství statku.
+  - Výdaje jsou násobkem ceny a množství, není tedy jasné, zda se spotřebitelovi výdají zvýší, nebo sníží.
+  - Při růstu ceny mohou spotřebitelovi výdaje na daný statek vzrůst nebo klesnout, záleží na tom, zda růst ceny vyvolá velký nebo malý pokles poptávaného množství.
+  - K měření reakce poptávaného množství na změnu ceny je používána cenová elasticita poptávky, ta udává vztah mezi procentní změnou poptávaného množství a procentní změnou ceny.
+  - Vzorec k výpočtu je:
+    - eˇd = (ZMĚNA Q / Q) / (ZMĚNA P / P)
+    - Je-li změna poptávky v absolutní hodnotě větší než 1 = elastická poptávka, zvýšení ceny o jedno procento vyvolá více než jednoprocentní pokles poptávky po daném statku a sníží se spotřebitolovi výdaje na daný statek.
+    - Je-li elasticita menší než 1 = neelastická poptávka, zvýšení ceny se neprojevý takovým snížením poptávky a spotřebitelé si za statek připlatí.
+    - Pokud je elasticita rovná 1, tak se jedná o jednotkově elastickou poptávku a změna ceny ponechá výdaje na stetek beze změny.
+    - Záleží i na dlouhém a krátkém období, některé statky jsou elastické jak v krátkém, tak i v dlouhém období, některé statky jsou však například v krátkém období méně elastické, než v období dlouhém.
+    - Na elasticitu poptávky má vliv zejména to, zda je možné statek substituovat jiným statekem a zda jsou to statky zbytné, nebo nezbytné.
+- Změna samotné poptávky
+  - Je důležité odlišovat od změny poptávaného množství, což je jen posun po křivce.
+  - Nicméně může se měnit i samotná funkce poptávky posouváním po grafu.
+    - Obecně jsou čtyři důvody pro změnu poptávky:
+      - Změna preferencí spotřebitele: pokud se změní preference, změní se i poptávka.
+      - Změna důchodu spotřebitele: pokud se změní spotřebitelův důchod, změní se i poptávka.
+      - Změna ceny komplementu: pokud například vzroste cena komplementu, může se snížit poptávka po jiném statku, jemuž je daný statek komplementem.
+      - Změna ceny substitutu: pokud se například sníží cena substitutu, může to vést ke snížení poptávky o jiný statek.
+  - Když se mění poptávané množství v závislosti na změně ceny daného statku, pohybuje se spotřebitel podél křivky poptávky. Změna poptávky se však projevuje posunem celé poptávkové křivky. Roste-li poptávka, posouvá se poptávková křivka doprava. Klesá-li poptávka, posouvá se poptávková křivka doleva.
 
 ---
 
