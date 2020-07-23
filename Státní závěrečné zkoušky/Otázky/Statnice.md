@@ -1484,13 +1484,13 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
 \| Úkoly \| <br>
 \|---------\| <br>
 
-- [ ] Dokonalá konkurence
+- [x] Dokonalá konkurence
 - [ ] Nedokonalá konkurence
   - [ ] Monopol
     - [ ] Příčiny jeho vzniku a zachování monopolu v ekonomice
     - [ ] Státem vytvářené monopoly
     - [ ] Regulace monopolů
-  - [ ] Oligopol
+  - [x] Oligopol
   - [ ] Monopolistická konkurence
   - [ ] Monopsom
 
@@ -1529,7 +1529,15 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
     - Státem vytvářené monopoly
     - Regulace monopolů
   - Oligopol
-    - Doplnit
+    - Oligopol je try, na kterém nejen krátkodobě, ale i dlouhodobě působí jen několik málo firem.
+    - Oligopol může na trhu dlouhodobě přetrvávat v případě, že je optimální velikost firmy značná a zároveň tržní poptávka je (vzhledem k optimální velikosti firem) relativně malá.
+    - Optimální velikostí firmy je velikost, která v dlouhodobém měřítku zajistí, že průměrné náklady na množství poptávaného zboží bude optimální, tzn. Nemá smysl například vyrábět ve velké hale, když je malá poptávka, neboť fixní a variabilní náklady by hnaly mezní cenu a v tom důsledku i průměrnu cenu za jednotku v poměru k poptávanému množství víš, než by mohla být.
+    - Bod 2 tedy umožňuje ziskovou existenci jen několika málo firmám.
+    - Na rozdíl od monopolistické konkurence se na oligopolním trhu ani v dlouhém období nemusí prosazovat tendence k nulovému ekonomickému zisku.
+    - Konkurence ale stále existuje, například ve formědiferenciace nabízených produktů a služeb, firmy mezi sebou mohou vést i cenové války.
+    - Ekonomický zisk je způsoben tím, že se tržní poptávka střetává jen s omezeným počtem firem na trhu.
+    - Každá firma tedy ve svém důsledku dělá jen to, že vyrovnává své mezní náklady s mezním příjmem.
+    - V případě změn na trhu se může na trh dostat další prodejce, který bude taky ziskový, poptávka se střetne s větším počtem firem na trhu a to povede ke snížení cen a ke snížení celkového ekonomického zisku jednotlivých letišť.
   - Monopolistická konkurence
     - Nejběžnější typ nedokonalého trhu.
     - Heterogenní výrobek je tvořen blízkými substituty.
