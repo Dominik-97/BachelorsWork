@@ -1508,11 +1508,21 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
   - Dokonale elastická nebo neelastická poptávka je poptávkou: kdy i nepatrná změna ceny má nekonečný vliv na odezvu nabídky resp. poptávky, a naopak **dokonale neelastická nabídka/poptávka**, kdy nabídka nebo poptávka po daném zboží je zcela nezávislá na její ceně.
   - Podmínky
     - Podmínky, které musí trh splňovat, aby se dal považovat za dokonale konkurenční jsou:
-      - 
+      - Dokonalá informovanost kupujících a prodávajících: tato podmínka bývá splňována pouze na územně centralizovaných trzích
+      - Nulové náklady na změnu dodavatele
+      - Homogenní produkt: tzn. stejná kvalita výrobku či pověst firmy, rozhodování je založené pouze na ceně. Na nedokonalých trzích jsou výrobky heterogenní.
+      - Velký počet prodávajících: kteří ovládají pouze velice malou část trhu
+      - Pokud jsou všechny tyto 4 podmínky splněny, pak se jedná o dokonalý trh, pokud alespoň jedna splněna není, tak se jedná o trh nedokonalý
 - Nedokonalá konkurence
   - Poptávka na trhu s nedokonalou konkurencí není dokonale elastická.
   - Zvýšením ceny tak sníží poptávané množství, ale ne až na nulu. A snížení ceny nezíská prodejci celý trh, neboť někteří kupující budou stále nakupovat od původních dodavatelů.
   - Výrobce tak může změnami své produkce do určité míry ovlivnit docilovanou cenu. Takový trh je nedokonalý (též nedokonale konkurenční).
+  - Mezní příjem a cenová tvorba na nedokonalém trhu
+    - Mezní příjem: přírůstek celkového příjmu dosažený zvýšením prodeje o jednotku.
+    - Mezní náklady: přírůstek celkových nákladů díky zvýšení prodeje o jednotku.
+    - Fixní a variabilní náklady: variabilní náklady rostou s objemem výroby, napříklady obaly na zboží. Fixní náklady nejsou závislé na objemu výroby, mohou to být například pronájmy prostor.
+    - Výrobce (například penzion) tvoří cenu, zatímco výrobce na dokonalém trhu cenu přijímá.
+    - Ne nedokonalých trzích tedy výrobci tvoří svojí cenu, respektive hledají svojí cenu, tedy hledají takovou cenu, kdy maximalizují svůj zisk (mezní příjem již nemůže více stoupat, naopak začne klesat a celkový příjem je tedy maximalizován). Výrobce tedy maximalizuje zisk při takové ceně, při které se mezní zisk rovná mezním nákladům.
   - Monopol
     - Doplnit
     - Příčiny jeho vzniku a zachování monopolu v ekonomice
@@ -1521,7 +1531,25 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
   - Oligopol
     - Doplnit
   - Monopolistická konkurence
-    - Doplnit
+    - Nejběžnější typ nedokonalého trhu.
+    - Heterogenní výrobek je tvořen blízkými substituty.
+    - Monopolistická konkurence se dá popsat následovně: Jogurt Danissimo vyrábí jen firma Danone, má tedy na něj monopol. Ale tomuto jogurtu zároveň silně konkurují jogurty jiných firem, které jsou jeho blízkými substituty, takže konkurence na trhu jogurté je velmi silná.
+    - Konkurcen ale nemusí spočívat jen v kvalitě, tvaru, modelu nebo obalu, ale například i ve vzdálenosti.
+    - Důležitou vlastností monopolistického trhu je otevřenost trhu. Neexistují tedy žádné bariéry vstupu na trh, na trh může kdykoli přijít nová konkurence. V důsledku toho se zde prosazuje tendence k nulovému ekonomickému zisku (Když budou restaurace dosahovat ekonomický zisk, bude to na takový trh lákat nové podnikatele, kteří budou otevírat noveé restaurace. To bude nakonec snižovat ekonomický zisk restaurací až k nule.)
+    - Rovnováha výrobce na monopolisticky konkurenčním trhu:
+      - Rovnováha výrobce: taková situace, kdy výrobce (při daných nákladových funkcích a při dané poptávce po jejím statku) maximalizuje zisk.
+      - Pro výrobce je optimální (maximálně ziskový) takový rozsah produkce statku, při kterém se mezní příjem rovná mezním nákladům.
+      - Na dokonalém trhu je mezní příjem totožný s cenou, avšak na nedokonalém trhu se mezní příjem ceně nerovná. Jak tedy výrobce na nedokonalém trhu nalezne svou rovnováhu?
+      - Krátkodobá rovnováha:
+        - Rovnováha je krátkodobá v bodě kde se mezní náklady rovnájí mezním příjmům.
+        - Důležité jsou průměrné náklady (průměr mezních nákladů) i ve chvíli, kdyby mezní náklady byl větší, než mezní příjem, dosahuje obchodník zisku, pokud jsou průměrné náklady menší, než celkový zisk za jednu růži.
+      - Dlouhodobá rovnováha:
+        - Ekonomický zisk však like na trh další prodejce. Jejich příchod způsobuje, že se tržní poptávka dělí mezi stále větší počet prodejců.
+        - Poptávka po statku jednoho prodejce se v důsledku toho snižuje - křivka poptávky d se posouvá dolů a s ní se posouvá dolů i křivka mezního příjmu.
+        - Když není dosahováno ekonomického zisku, tedy když se křivka poptávky dotýká křivky průměrných nákladů, přestávají na trh vstupovat další prodejci.
+        - V dlouhodobém období tedy dosahuje zahradník nulového ekonomického zisku: jeho cena se rovná průměrným nákladům.
+        - Firma na nedokonalém trhu prodává za cenu, která je vyšší než mezní náklady. Tím se nedokonalý trh odlišuje od dokonalého trhu, kde se cena rovná mezním nákladům.
+        - Na nedokonalém trhu firma nevyrábí v minimu průměrných nákladů. Tím se nedokonalý trh rovněž odlišuje od dokonalého trhu, kde firmy vyrábějí v minimu průměrných nákladů.
   - Monopson
     - Doplnit
 
