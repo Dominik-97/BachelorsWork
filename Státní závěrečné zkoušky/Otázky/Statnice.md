@@ -1541,6 +1541,14 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
     - Podnikatel je člověk, který objeví mezeru na trhu a využije ji, zaplní tedy danou mezeru zprostředkováním obchodů, spekulacemi nebo výrobou.
     - Tím, že objevují a zaplňují mezery na nedokonalých trzích, podnikatelé snižují tyto nedokonalosti.
   - Podnikatelé a inovace
+    - Nejdůležitější podnikatelskými aktivitami jsou inovace.
+    - Inovace je uvedení nového výrobku, služby nebo výrobního postupu na trh.
+    - Standardně se opět jedná o zaplnění mezery na trhu, neboť i zlepšení již stávajících procesů je založené na tom, že na trhu chybí například efektivnější výrobní faktory.
+    - Podnikatelé jsou na trhu průkopníky, odrážejí i technologický vývoj, je to právě objev něčeho nového, který otevírá cestu k velkým ziskům.
+    - Když si další podnikatelé povšimnou jejich úspěchu, opět vstupují na trh a tlačí zisk dolů k nule (tendence zisku klesat k nule), toto podněcuje podnikatele k hledání nových inovací.
+  - Podnikání vzkvétá jen na nedokonalých trzích. Pokud je trh dokonalý, neskýtá žádné příležitosti k podnikání. Na dokonalých trzích jsou lidé dokonale informování, na dokonalých trzích nejsou žádné mezery, jejichž objevení by slibovalo zisky.
+  - Nedokonalé trhy jsou živnou půdou pro podnikatelské hledání, objevování a zlepšování.
+  - Podnikatelé a stát
     - 
   - Monopol
     - Doplnit
