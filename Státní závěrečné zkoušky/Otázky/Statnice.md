@@ -1558,7 +1558,7 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
         - V dlouhodobém období tedy dosahuje zahradník nulového ekonomického zisku: jeho cena se rovná průměrným nákladům.
         - Firma na nedokonalém trhu prodává za cenu, která je vyšší než mezní náklady. Tím se nedokonalý trh odlišuje od dokonalého trhu, kde se cena rovná mezním nákladům.
         - Na nedokonalém trhu firma nevyrábí v minimu průměrných nákladů. Tím se nedokonalý trh rovněž odlišuje od dokonalého trhu, kde firmy vyrábějí v minimu průměrných nákladů.
-  - Monopson
+  - Monopson a Oligopson
     - Doplnit
 
 ---
