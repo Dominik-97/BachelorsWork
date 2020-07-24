@@ -1549,7 +1549,18 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
   - Podnikání vzkvétá jen na nedokonalých trzích. Pokud je trh dokonalý, neskýtá žádné příležitosti k podnikání. Na dokonalých trzích jsou lidé dokonale informování, na dokonalých trzích nejsou žádné mezery, jejichž objevení by slibovalo zisky.
   - Nedokonalé trhy jsou živnou půdou pro podnikatelské hledání, objevování a zlepšování.
   - Podnikatelé a stát
-    - 
+    - Když stát vstoupí na dosud neobsazené trhy a zaplní jejich mezery, nedá již podnikatelům šanci, aby je zaplnili sami. Se zaplněním mezer na trzích mizí totiž ziskové příležitosti pro podnikatele.
+    - Problémy: služby a zboží jsou pak často dražší, než by byli v soukromém sektoru, může být nedostatečná, nebo naopak zbytečně velká nabídka, veřejný sektor není motivován ke zlepšování služeb nebo k inovacím.
+  - Cenová diskriminace
+    - Pokud prodávající účtuje jedné skupině lidí jinou cenu, než jiné skupině lidí. Může být nelegální i legální, například slevy pro studenty a důchodce jsou legální, jiné ceny pro černocha a asiata nejsou legální pokud by se zakládaly například pouze na barvě pleti.
+    - Cenová diskriminace je cenovou strategií, která prodávajícímu maximalizuje zisk.
+    - Cenová diskriminace pouze rozděluje výrobek mezi dvě skupiny spotřebitelů s různou poptávkovou funkcí a umožňuje spotřebitelům s nižšími důchody kupovat zboží, které by si jinak možná nemohli dovolit.
+    - Cenovou diskriminaci je možné uskutečnit když:
+      - Trh je nedokonalý, poptávkové křivky po zboží (službě) konkrétního prodávajícího musí být klesající
+      - Na trhu musí být alespoň dvě skupiny spotřebitelů, které mají odlišné poptávkové křivky
+      - Prodávající musí být schopen účtovat dvojí ceny
+    - V roce 1999 rozhodl soud, že účtování dvojí cen (v případě cizinců) je nemorální a odporuje to dobrým mravům.
+    - Při zákazu cenové diskriminace zvýší prodejce cenu skupině, pro kterou měl dříve stanovenou cenu nižší, a sníží ji skupině, pro kterou měl dříve stanovenou cenu vyšší.
   - Monopol
     - Doplnit
     - Příčiny jeho vzniku a zachování monopolu v ekonomice
