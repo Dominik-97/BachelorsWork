@@ -1474,7 +1474,9 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
       - Změna ceny substitutu: pokud se například sníží cena substitutu, může to vést ke snížení poptávky o jiný statek.
   - Když se mění poptávané množství v závislosti na změně ceny daného statku, pohybuje se spotřebitel podél křivky poptávky. Změna poptávky se však projevuje posunem celé poptávkové křivky. Roste-li poptávka, posouvá se poptávková křivka doprava. Klesá-li poptávka, posouvá se poptávková křivka doleva.
 - Dodatek: Indiferenční křivky, viz otázka 1 ordinalistický přístup.
-  - Dodělat.
+  - Založené na ordinalistické teorii, tedy že užitek není možné přímo měřit, ale že je spotřebitel schopen rozhodnout z čeho má větší užitek bez samotného přiřazení hodnoty, je schopen seřadit z čeho má větší užitek.
+  - Na indeferenční křivce leží kombinace dvou statků, z kterých má spotřebitel stejný užitek, vzhledem k rozpočtovému omezení se snaží dosáhnout užitku, který je na nejvyšší indiferenční křivce a poskytuje mu tedy největší celkový užitek.
+  - Jednotlivé body na křivce se nazývají indiferenční body.
 
 ---
 
@@ -1485,14 +1487,14 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
 \|---------\| <br>
 
 - [x] Dokonalá konkurence
-- [ ] Nedokonalá konkurence
-  - [ ] Monopol
-    - [ ] Příčiny jeho vzniku a zachování monopolu v ekonomice
-    - [ ] Státem vytvářené monopoly
-    - [ ] Regulace monopolů
+- [x] Nedokonalá konkurence
+  - [x] Monopol
+    - [x] Příčiny jeho vzniku a zachování monopolu v ekonomice
+    - [x] Státem vytvářené monopoly
+    - [x] Regulace monopolů
   - [x] Oligopol
-  - [ ] Monopolistická konkurence
-  - [ ] Monopsom
+  - [x] Monopolistická konkurence
+  - [x] Monopsom a oligopson
 
 \|------------------------------\| <br>
 \| Vysvětlení a Poznámky \| <br>
@@ -1562,10 +1564,41 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
     - V roce 1999 rozhodl soud, že účtování dvojí cen (v případě cizinců) je nemorální a odporuje to dobrým mravům.
     - Při zákazu cenové diskriminace zvýší prodejce cenu skupině, pro kterou měl dříve stanovenou cenu nižší, a sníží ji skupině, pro kterou měl dříve stanovenou cenu vyšší.
   - Monopol
-    - Doplnit
+    - Na trhu je pouze jeden prodávající.
+    - Zakládní charakteristikou je: nemožnost substituování daného statku ze strany poptávajících - musí za něj buď zaplatit, nebo se bez něj obejít a překážky vstupu na trh pro další nabízející, existují například přírodní, technologické, legislativní-licence, patentové překážky vstupu na trh.
+    - Je nejvzdálenější podmínkám dokonalé soutěže, největší ztráty ekonomické efektivnosti, křivka poptávky po statcích monopolu je shodná s křivkou tržní poptávky.
+    - Určení, zda má firma dominantní postavení na trhu je těžké určit.
+    - Možnosti cenové diskriminace a artificiálního určování cen.
     - Příčiny jeho vzniku a zachování monopolu v ekonomice
+      - Výlučná kontrola nad určitými vstupy výroby
+      - Výrazné úspory z rozsahu výroby (přirozený monopol)
+        - Vzniká kvůli extrémním cenovým barierám vstupu na trh
+        - Například síťové služby
+        - Tyto přirozené monopoly jsou standardně regulovány státem
+      - Patenty
+      - Poskytování státních licencí
+    - Tržně neefektivní: zdroje neefektivnosti jsou například, selhávání tržní motivace, nedostatečný zájem o kvalitu výroby a úrověn poskytovaných služeb zákazníkům.
     - Státem vytvářené monopoly
+      - Státem zavedené monopoly - buď udělí stát výsadní právo produkovat statek jedné firmě, nebo kvůli existenci právních restrikcí v podobě: patentů, autorských práv, licencí, koncesí a podobně.
+      - Státní monopoly, jinak nazývané govopoly: jsou monopoly, které nejenže přímo provozuje stát, ale brání ostatním firmám produkovat stejný nebo podobný statek.
+        - Příklady: tisk a emise peněz, armáda, policie a soudy, státní podniky, pošta, železnice a podobně.
+      - Stát provozuje státní monopoly například z důvodu jejich společenské potřeby, ale tržní neudržitelnosti, národní bezpečnosti a podobně.
     - Regulace monopolů
+      - Má chránit ekonomiku před neefektivností nedokonalé soutěže.
+      - Tvoří se protimonopolním zákonodárstvím, regulací monopolů, využívání veřejného vlastnictví monopolů (například ve formě státního podniku, nebo akciové společnosti).
+      - Protimonopolní zákonodárství:
+        - Podporuje konkurenci tím, že omezuje jednání vedoucího k její omezování.
+        - Zakazuje smlouvy, které omezují konkurenci firem.
+        - Brání zneužívání dominantního postavení na trhu.
+        - Dohled nad fúzemi a akvizicemi (jedna firma získá druhou).
+        - Další například zákaz dumpingových cen, vyšší zdanění, ekonomická regulace.
+        - Protimonopolní zákony mohou, pokud jsou dobře nastavené, účinně bránit spojování velkých podniků a tím tendenci ke koncentraci tím, že daná spojování jsou pod statáním dohledem.
+        - Veřejná politika tedy může zahrnovat:
+          - **Snaha zavést více konkurence do monopolizovaných odvětví – antimonopolní zákony**. Antimonopolní zákony poskytují vládě různé možnosti, jak podporovat konkurenci. Vedle zákazu kartelových dohod, zákazu zneužívání monopolního postavení a kontroly fúzí zahrnují také kontrolu státní pomoci a dohled nad veřejnými soutěžemi. Moderní antimonopolní politika nemá za cíl potlačovat koncentrované struktury, rozdělovat velké podniky ani v případě, že jsou v monopolní pozici na trhu. Zasahuje pouze v případě, že této pozice zneužívají. Zneužívání má formu chování firem, resp. takových praktik, dohod, komunikace či kooperace mezi firmami, které vedou k omezení konkurence, k vytváření překážek vstupu na trh, které by jinak neexistovaly. Jelikož však je právě v případě vysoké koncentrace zneužívání monopolní moci a koluze firem pravděpodobnější, je tržní struktura a koncentrace významný indikátor pro antimonopolní politiku.
+          - **Regulace chování monopolů – cenová regulace**. Toto řešení se používá hlavně v případě přirozených monopolů, např. to mohou být vodárny nebo elektrárny, kdy těmto společnostem není dovoleno prodávat svůj produkt za jakoukoli cenu, ale vláda jejich ceny reguluje.
+          - **Přeměna některých soukromých monopolů na monopoly provozované státem** (např. pošta). Dalším způsobem řešení monopolů je veřejné vlastnictví. Ekonomové spíše dávají přednost soukromému vlastnictví přirozeného monopolu před vlastnictvím státním, protože soukromí vlastníci jsou motivováni minimalizovat náklady, pokud z toho mají užitek v podobě vyššího zisku. Když se nebude managementu dařit udržovat nízké náklady, mohou ho majitelé propustit. Pokud však odvedou špatnou práci vládní byrokraté, kteří budou provozovat monopol, ztrátu ponesou zákazníci a daňoví poplatníci a ke změně dojde zřejmě až při změně politiků. Jinak řečeno z hlediska optimálního chodu firmy jsou volby méně spolehlivé než motiv zisku.
+          - **Nečinnost**. Každá z doposud uvedených možností regulace má i své stinné stránky, proto někteří ekonomové uvádějí, že by vláda udělala lépe, kdyby se nesnažila odstranit neefektivnost a žádné regulace cen ani jiné regulace neprováděla.
+          - Další informace [zde](https://is.mendelu.cz/eknihovna/opory/zobraz_cast.pl?cast=51907#:~:text=Regulace%20chov%C3%A1n%C3%AD%20monopol%C5%AF%20%E2%80%93%20cenov%C3%A1%20regulace,ale%20vl%C3%A1da%20jejich%20ceny%20reguluje.).
   - Oligopol
     - Oligopol je try, na kterém nejen krátkodobě, ale i dlouhodobě působí jen několik málo firem.
     - Oligopol může na trhu dlouhodobě přetrvávat v případě, že je optimální velikost firmy značná a zároveň tržní poptávka je (vzhledem k optimální velikosti firem) relativně malá.
@@ -1576,6 +1609,7 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
     - Ekonomický zisk je způsoben tím, že se tržní poptávka střetává jen s omezeným počtem firem na trhu.
     - Každá firma tedy ve svém důsledku dělá jen to, že vyrovnává své mezní náklady s mezním příjmem.
     - V případě změn na trhu se může na trh dostat další prodejce, který bude taky ziskový, poptávka se střetne s větším počtem firem na trhu a to povede ke snížení cen a ke snížení celkového ekonomického zisku jednotlivých letišť.
+    - Je zajímavé zmínit teorii her, respektive takzvané vězňovo dilema, pokud firmy spolupracují, dosáhnout největších zisků. Může se zde například řadit kartelová dohoda, ta však narušuje hospodářskou soutěž, v Čr jsou takové dohody neplatné.
   - Monopolistická konkurence
     - Nejběžnější typ nedokonalého trhu.
     - Heterogenní výrobek je tvořen blízkými substituty.
@@ -1597,7 +1631,18 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
         - Firma na nedokonalém trhu prodává za cenu, která je vyšší než mezní náklady. Tím se nedokonalý trh odlišuje od dokonalého trhu, kde se cena rovná mezním nákladům.
         - Na nedokonalém trhu firma nevyrábí v minimu průměrných nákladů. Tím se nedokonalý trh rovněž odlišuje od dokonalého trhu, kde firmy vyrábějí v minimu průměrných nákladů.
   - Monopson a Oligopson
-    - Doplnit
+    - V případě monopsonu se jedná o situaci, kdy je na trhu pouze jeden zákazník.
+      - Příklad je například na trhu práce, kde v určité oblasti existuje jen jeden poptávající (zaměstnavatel).
+      - Má plnou kontrolu nad trhem a možnost stanovit tržní cenu.
+      - Neefektivní alokace zdrojů. Typicky se jedná o zdroje do produkce.
+      - Vzniká, když existují bariéry pro vstup na trh pro další potenciální kupující.
+      - Mezi bariéry můžou patřit například: státní licence, patenty, copyrighty, vlastnictví určitých zdrojů, vysoké vstupní náklady, úspory z rozsahu výroby.
+    - Oligopson je případ, kdy je na trhu malé množství kupujících s velkým podílem na trhu.
+      - Poptávka je jen ze strany několika málo firem, prodejci mají problém své zboží nabídnout jiným subjektům.
+      - Mezi poptávající buď soupeřivost, nebo tendence spolupracovat.
+      - Může vznikat například na poli výrobních faktorů, kdy malý počet firem nakupuje výrobní faktory.
+      - Mezi bariéry pro vstup dalších kupujících na trh mohou patřit například: vlastnictví určitých zdrojů, vysoké vstupní náklady, státní licence, zavedené značky a úspory z rozsahu.
+      - Omezuje konkurenci, vede to k nižším a nepružným cenám, převládání necenové konkurence, koluzím (tajné dohody o nákupních cenách, dělení trhu atd.) a tendencím ke spojování firem (fúzím)
 
 ---
 
