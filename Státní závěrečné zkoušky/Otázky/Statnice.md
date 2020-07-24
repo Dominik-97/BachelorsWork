@@ -1523,6 +1523,25 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
     - Fixní a variabilní náklady: variabilní náklady rostou s objemem výroby, napříklady obaly na zboží. Fixní náklady nejsou závislé na objemu výroby, mohou to být například pronájmy prostor.
     - Výrobce (například penzion) tvoří cenu, zatímco výrobce na dokonalém trhu cenu přijímá.
     - Ne nedokonalých trzích tedy výrobci tvoří svojí cenu, respektive hledají svojí cenu, tedy hledají takovou cenu, kdy maximalizují svůj zisk (mezní příjem již nemůže více stoupat, naopak začne klesat a celkový příjem je tedy maximalizován). Výrobce tedy maximalizuje zisk při takové ceně, při které se mezní zisk rovná mezním nákladům.
+  - Nedokonalé trhy a informace
+    - Jedna z charakteristik nedokonalých trhů je nedokonalost informování, protože informace jsou vzácné - na jejich získání je nutné vynaložit náklady.
+    - Informace jsou vzácné, ale také užitečné - umožňují získat větší výnos.
+    - Získávání informací stojí čas, to znamená náklady obětované příložitosti, je tedy možné udělat cost-benefit analýzu, největšího zisku založeného na informaci může prodejce (nakupující v případě přebytku spotřebitele) získat, když se mezní náklady rovnají meznímu zisku.
+    - Člověk tedy zůstává nedokonale informovaný, neboť získávání informací stojí peníze a mezní náklady na získávání informací jsou rostoucí a zároveň mezní výnos z informací (výnos z dodatečné informace) je klesající.
+    - Racionální člověk tedy získává jen tolik informací, kdy se mezní výnos z informací rovná mezním nákladům na získávání informací.
+    - Nedokonalosti trhů ve smyslu informací se snižují, když klesají náklady na informace, k tomuto sami často přispívají výrobci reklamou.
+    - Reklama zvyšuje informovanost spotřebitelů, a tím snižuje nedokonalosti trhů. Bez reklamy by byly informace pro spotřebitele vzácnější, nákladnější a trhy by byly nedokonalejší.
+    - Na reklamu je tak možné pohlížet nejen jako na prostředek manipulace, ale taky jako na prostředek zvyšování informační nasycenosti spotřebitelů, kteří na základě těchto informací mohou učinit pro ně lepší rozhodnutí.
+  - Informace a podnikatelé
+    - Je to právě vzácnost informací, která vytváří příležitosti pro podnikání.
+    - Pokud někdo dokáže získávat informace efektivněji, může tuto schopnost přetavit v možnosti podnikání.
+    - Například pokud prodejce objeví levnější zboží v zahraničí (objeví informaci, kterou nikdo jiný nemá), může na ní vydělat tím, že prodá dané zboží na dražším trhu (arbitráž), což ale v konečném důsledku vede k prosazování zákona jedné ceny.
+    - Na trhu pak působí například mnoho zprostředkovatelů, ti všichni vlastně obchodují s informacemi.
+    - Všichni tito prodávající vydělávají na tom, že jsou trhy nedokonalé, že jsou informace vzácné. Nedokonalá informovanost je příčinou toho, že existují mezery na trzích. To jsou dosud nevyužívané příležitosti, které slibují (když je někdo objeví a využije) přinášet ekonomický zisk. Příkladem mezery na trhu je například existence dvou trhů, přičemž jeden je levný a druhý drahý.
+    - Podnikatel je člověk, který objeví mezeru na trhu a využije ji, zaplní tedy danou mezeru zprostředkováním obchodů, spekulacemi nebo výrobou.
+    - Tím, že objevují a zaplňují mezery na nedokonalých trzích, podnikatelé snižují tyto nedokonalosti.
+  - Podnikatelé a inovace
+    - 
   - Monopol
     - Doplnit
     - Příčiny jeho vzniku a zachování monopolu v ekonomice
