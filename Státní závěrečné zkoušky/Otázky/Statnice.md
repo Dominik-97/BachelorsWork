@@ -1299,54 +1299,54 @@ Studuje chování jednotlivců, je to věda o lidském jednání.
 
 Není objektivně měřitelná, je to společenská věda.
 
-Ekonomie se zabývá racionálním rozhodováním lidí v podmínkách vzácnosti - tuto racionalitu nenalezneme ve volbě cílů, ale ve volbě prostředků k dosažení cílů.
+Ekonomie se **zabývá racionálním rozhodováním lidí v podmínkách vzácnosti** - tuto **racionalitu nenalezneme ve volbě cílů, ale ve volbě prostředků k dosažení cílů**.
 
-Pokud příležitosti plně využijí zdroj, je takový zdroj vzácný, člověk řeší problematiku efektivní alokace vzácného zdroje. Pokud zdroj není vzácný, dá se na něj pohlížet jako na volný zdroj (Existují i volné a veřejné statky).
+Pokud **příležitosti plně využijí zdroj, je takový zdroj vzácný**, **člověk řeší problematiku efektivní alokace vzácného zdroje**. Pokud zdroj není vzácný, dá se na něj pohlížet jako na volný zdroj (Existují i volné a veřejné statky).
 
-Racionální volba: jak mám rozdělit svůj vzácný zdroj mezi příležitosti, abych dosáhl maximálního prospěchu?
+Racionální volba: **jak mám rozdělit svůj vzácný zdroj mezi příležitosti, abych dosáhl maximálního prospěchu?**
 
 Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
 
 **Rozhodování ekonomických subjektů**
 
-* Člověk ekonomický se řídí jediným cílem - maximalizovat svůj užitek (uspokojení) a minimalizuje náklady.
-* Průměrné (celkové) uspokojení vs. Mezní uspokojení (užitek, přírůstek uspokojení).
+* Člověk ekonomický se řídí jediným cílem - **maximalizovat svůj užitek (uspokojení) a minimalizuje náklady**.
+* **Průměrné (celkové) uspokojení** vs. **Mezní uspokojení** (užitek, přírůstek uspokojení).
 * Pokud chceme rozdělit svůj vzácný zdroj (třeba čas nebo peníze) mezi více příležitostí, porovnáváme důsledky uspokojení z těchto příležitostí.
 * V kardinalistické teorii jasně stanoveným číselným užitkem, v rámci ordinalistické teorie za pomocí indiferenčních křivek - křivka v grafu je konvexní.
-* Hranice produkčních možností ukazuje všechny možné kombinace dvou výrobků, které je možné získat s daným zdrojem (s danými zdroji) - křivka v fragu je konkávní. Toto v kombinaci s uspokojením (ať už osobním, nebo ve smyslu za jaký produkt dostane více peněž) určuje optimální bod na hranici produkčních možností - bod v němž bude přírůstek uspokojení z jednoho výrobku pokud možno stejný jako přírůstek uspokojení z druhého výrobku.
-* Zákon klesajícího výnosu.
+* **Hranice produkčních možností** ukazuje všechny možné kombinace dvou výrobků, které je možné získat s daným zdrojem (s danými zdroji) - křivka v fragu je konkávní. Toto v kombinaci s uspokojením (ať už osobním, nebo ve smyslu za jaký produkt dostane více peněž) určuje **optimální bod na hranici produkčních možností** - bod v němž bude přírůstek uspokojení z jednoho výrobku pokud možno stejný jako přírůstek uspokojení z druhého výrobku.
+* **Zákon klesajícího výnosu** - vlastnost výrobního procesu, u kterého mezní produkt každého výrobního faktoru klesá s přidáním každé další jednotky tohoto faktoru, pokud ostatní výrobní faktory zůstanou na stejné úrovni. Jedná se tedy v podstatě o situaci, kdy každý další výrobní faktor například na poli (o nezměněné velikosti), přičemž za výrobní faktor lze považovat třeba pracovníka na sklizeň přinese menší mezní produkt, než pracovník na sklizeň předchozí.
 * Lidé se chovají v souladu s ekonomickými zákony, i když tyto zákony neznají a nikdy je nestudovali. (Jedná se zkrátka o princip chybou se učíš, pokud by se tak nechovali, tak by brzi poznali, že si škodí.)
 * Racionalita tak nespočívá v tom, že je člověk ekonomický neomylný, ale že systematicky neopakuje chyby, nýbrž se z nich učí a napravuje je.
-* Člověk dále sleduje vlastní zájem, tento vlastní zájem je však v souladu s obecným zájmem. Racionální chování jednotlivce tedy vede k efektivnímu výsledku. Adam Smith popsal v díle Pojednání o podstatě a původu bohatství národů z roku 1776 o takzvané neviditelné ruce trhu. Tato neviditelná ruka trhu slaďuje zájmy jednotlivců se zájmy společnosti, neviditelná ruka trhu spočívá v tržních cenách.
-* V tržní ekonomice svoboná směna a tržní ceny zajišťují soulad mezi prospěchem jednotlivce a společným prospěchem. Ceny a zisk vedou výrobce k tomu, aby dělali to, co chtějí spotřebitelé. Přestože výrobcům vůbec nejde o spotřebitele ale o vlastní zisky. (Zákon nabídky a poptávky.)
+* Člověk dále sleduje vlastní zájem, tento vlastní zájem je však v souladu s obecným zájmem. **Racionální chování jednotlivce tedy vede k efektivnímu výsledku**. Adam Smith popsal v díle Pojednání o podstatě a původu bohatství národů z roku 1776 o takzvané **neviditelné ruce trhu**. Tato neviditelná ruka trhu slaďuje zájmy jednotlivců se zájmy společnosti, neviditelná ruka trhu spočívá v tržních cenách.
+* V tržní ekonomice svoboná směna a tržní ceny zajišťují soulad mezi prospěchem jednotlivce a společným prospěchem. **Ceny a zisk vedou výrobce k tomu, aby dělali to, co chtějí spotřebitelé**. Přestože výrobcům vůbec nejde o spotřebitele ale o vlastní zisky. (Zákon nabídky a poptávky.)
 * Kvůli neviditelné ruce trhu tak nemusí existovat žádná centrální autorita předávající informace co kdo potřebujeme, díky dělbě práce a neviditelné ruce trhu je zajištěno, že všichni dokážeme spolupracovat a spolufungovat v tržní ekonomice, tak, že na konci veškerých procesů vznikají věci a služby, který každý z nás chce. (Záleží tedy na měnících preferencích spotřebitelů, v měnících se výrobních technologiích, nebo v měnící se vzácnosti různých zdrojů, lidé na tyto změny reagují a přizpůsobují se jim ve smyslu co mají vyrábět a spotřebovávat, kde to mají prodávat a kupovat, do čeho mají investovat.) Tyto informace sedimentují pouze v cenách.
-* Funkce cen:
-  * Informační: poskytuje informace výrobcům a zákazníkům viz předchozí bod.
-  * Motivační: například v případě růstu cen motivuje výrobce, aby vyráběli více.
-  * Alokační: vede výrobce k tomu, aby realokovali své výrobní zdroje mezi různá použití efektivně - zákonitě pak musí některým lidem vzniknout ztráty a jiným zisky, poskytování zboží a služeb jednoho typu je vždy na úkor jiného typu, který by se místo něj mohl vyrábět - viz hranice produkčních možností.
-  * Distribuční: funkce ceny spočívá v tom, že cena je nástrojem rozdělování zboží mezi lidi. Zboží se rozdělí mezi spotřebitele podle jejich ochoty platit.
+* **Funkce cen**:
+  * **Informační**: poskytuje informace výrobcům a zákazníkům viz předchozí bod.
+  * **Motivační**: například v případě růstu cen motivuje výrobce, aby vyráběli více.
+  * **Alokační**: vede výrobce k tomu, aby realokovali své výrobní zdroje mezi různá použití efektivně - zákonitě pak musí některým lidem vzniknout ztráty a jiným zisky, poskytování zboží a služeb jednoho typu je vždy na úkor jiného typu, který by se místo něj mohl vyrábět - viz hranice produkčních možností.
+  * **Distribuční**: funkce ceny spočívá v tom, že cena je nástrojem rozdělování zboží mezi lidi. Zboží se rozdělí mezi spotřebitele podle jejich ochoty platit.
 * Ceny se nepohybují nahoru a dolů samy od sebe, ale jsou to obchodníci a spekulatni, které je uvádějí do pohybu. Například ve smyslu mezinárodní arbitráže (nakupování zboží ve státě, kde je levnější a jeho následný prodej tam, kde jedražší), ta prosazuje zákon jediné ceny. Díky tomuto je tak přenos informací za pomoci ceny mnohem rychlejší.
 
 **Teoretické modely ekonomických systémů**
 * Distanční opora popisuje všechny 4, viz [distanční opora](Podklady/Ekonomie_a_Podnikove_finance/dist_opora_Ekonomie.pdf)
 * Jedná se tedy o způsoby, kterými společnost jako celek řeší základní ekonomické otázky.
 * Základní kategorie jsou:
-  * Zvyková ekonomika: rigidní, řešení ekonomických otázek na základě zvyků a tradic, primitivní, ekonomický output dostává především náčelník, nebo velký vlastník půdy. Volba povolání vyhází z rodinné nebo etnické tradice, málo se produkuje, je toho málo k dispozici.
-  * Centrálně řízená ekonomika: o odpovědích na základní ekonomické otázky rozhoduje nějaká centralizovaná autorita, především vláda. Centrální autorita stanovuje kvóty pro výrobu, stanovuje ceny a rovněž přerozděluje ekonomický output mezi obyvatele. Kapitálové statky jsou vlastněny státem. Omezená konkurence díky vysoké koncentraci výroby a monopolizaci ekonomiky. Je značně neefektivní.
-  * Tržní systém: na ekonomické otázky odpovídají jednotlivci na základě svých rozhodnutí a samozřejmě i externality. Systém je založen na samostatném (decentralizovaném) rozhodování ekonomických subjektů. Rozhodování je založeno na cenách, směně, neviditelné ruce trhu (tedy ceně) a laissez faire - stát tedy nezasahuje do hospodářství a nesnaží se ho řídit. Výrobní faktory jsou vlastněny soukromně, klíčovou úlohu o základních ekonomických otázkách hrají v tomto systému trhy, ne kterých ceny vznikají. Podstatně efektivnější, než dva předchozí systémy. Chod tržní ekonomiky je stimulován a poháněn touhou po zisku, jedná se tedy o jakýsi ziskový motiv.
-  * Smíšený systém: spojuje trh se zásahy vlády do ekonomiky. Převažuje ve většině moderních ekonomik. Trh je stále nejdůležitějším faktorem, ale stát do ekonomiky může zasahovat a korigovat ji (fiskální poliitka státu a monetární politika národních bank). 
+  * **Zvyková ekonomika**: rigidní, řešení ekonomických otázek na základě zvyků a tradic, primitivní, ekonomický output dostává především náčelník, nebo velký vlastník půdy. Volba povolání vyhází z rodinné nebo etnické tradice, málo se produkuje, je toho málo k dispozici.
+  * **Centrálně řízená ekonomika**: o odpovědích na základní ekonomické otázky rozhoduje nějaká centralizovaná autorita, především vláda. Centrální autorita stanovuje kvóty pro výrobu, stanovuje ceny a rovněž přerozděluje ekonomický output mezi obyvatele. Kapitálové statky jsou vlastněny státem. Omezená konkurence díky vysoké koncentraci výroby a monopolizaci ekonomiky. Je značně neefektivní.
+  * **Tržní systém**: na ekonomické otázky odpovídají jednotlivci na základě svých rozhodnutí a samozřejmě i externality. Systém je založen na samostatném (decentralizovaném) rozhodování ekonomických subjektů. Rozhodování je založeno na cenách, směně, **neviditelné ruce trhu** (tedy ceně) a **laissez faire** - stát tedy nezasahuje do hospodářství a nesnaží se ho řídit. Výrobní faktory jsou vlastněny soukromně, klíčovou úlohu o základních ekonomických otázkách hrají v tomto systému trhy, ne kterých ceny vznikají. Podstatně efektivnější, než dva předchozí systémy. Chod tržní ekonomiky je stimulován a poháněn touhou po zisku, jedná se tedy o jakýsi **ziskový motiv**.
+  * **Smíšený systém**: spojuje trh se zásahy vlády do ekonomiky. Převažuje ve většině moderních ekonomik. Trh je stále nejdůležitějším faktorem, ale stát do ekonomiky může zasahovat a korigovat ji (**fiskální poliitka** státu a **monetární politika** národních bank). 
 
 **Ekonomický koloběh**
 
-* Záleží na tom, kolik sektorů uvažujeme (dva, tři, nebo čtyři).
-* Nejzákladnějším případem je dvousektorová ekonomika složená ze sektoru domácností a ze sektoru firem.
-* Východiskem pro výrobu jsou výrobní faktory, tedy půda, práce a kapitál. S využitím výrobních faktorů se vyrábějí statky (zboží a služby). Tyto výrobní faktory jsou ve vlastnictví domácností a ty je za peníze pronajímají firmám. Tyto peníze, které domácnosti od firem utží se nazývají důchody domácností.
+* Záleží na tom, kolik sektorů uvažujeme (**dva**, **tři**, nebo **čtyři**).
+* Nejzákladnějším případem je dvousektorová ekonomika složená ze **sektoru domácností** a ze **sektoru firem**.
+* **Východiskem pro výrobu jsou výrobní faktory, tedy půda, práce a kapitál**. S využitím výrobních faktorů se vyrábějí statky (zboží a služby). Tyto výrobní faktory jsou ve vlastnictví domácností a ty je za peníze pronajímají firmám. Tyto peníze, které domácnosti od firem utží se nazývají důchody domácností.
 * Za důchody domácností pak domácnosti od firme nakupují na trhu zboží a služeb jednotlivé statky. Peníze, které firmy dostanou od domácností jsou příjmy firem, za tyto příjmy si pak firmy mohou opět od domácností najímat výrobní faktory.
 * Ekonomika funguje jako nepřetržitý koloběh.
-* Třísektor obsahuje i stát - ten kontroluje, nastavuje rovné prostředí a daní, čtyřsektor i zahraničí, tedy export a import a investice a dividendy.
-* V rámci ekonomického koloběhu lze hovořit o jeho rovnováze a nerovnováze. Rovnováha - obecně pokud se veškeré příjmy budou rovna veškerým výdajům. Nerovnováha - pokud se nebudou rovnat, výše národního důchodu tak bude klesat nebo stoupat.
-* Národní důchod je čistý domácí produkt po odečtení nepřímých daní z podnikání, jedná se tedy o souhrn příjmů výrobních faktorů na daném území za určité období.
-* Rovněž lze hovořit o rovnováze agregátní nabídky a poptávky. O tu se jedná v případě že se agregátní nabídka rovná agregátní poptávce. Pokud se rovná, nebudou ceny růst ani klesat = stagflace. Pokud bude agregátní poptávka nižší než agregátní nabídka, jedná se o deflační mezeru = deflace. Pokud bude agregátní nabídka nižší než agregátní poptávka, jedná se o inflační mezeru = inflace.
+* Třísektor obsahuje i **stát** - ten kontroluje, nastavuje rovné prostředí a daní, čtyřsektor i zahraničí, tedy export a import a investice a dividendy.
+* V rámci ekonomického koloběhu lze hovořit o jeho rovnováze a nerovnováze. **Rovnováha** - obecně pokud se veškeré příjmy budou rovna veškerým výdajům. **Nerovnováha** - pokud se nebudou rovnat, výše národního důchodu tak bude klesat nebo stoupat.
+* **Národní důchod** je **čistý domácí produkt** po odečtení nepřímých daní z podnikání, jedná se tedy o souhrn příjmů výrobních faktorů na daném území za určité období.
+* Rovněž lze hovořit o **rovnováze agregátní nabídky a poptávky**. O tu se jedná v případě že se agregátní nabídka rovná agregátní poptávce. Pokud se rovná, nebudou ceny růst ani klesat = stagflace. Pokud bude agregátní poptávka nižší než agregátní nabídka, jedná se o deflační mezeru = deflace. Pokud bude agregátní nabídka nižší než agregátní poptávka, jedná se o inflační mezeru = inflace.
 
 ---
 
@@ -1367,8 +1367,23 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
 \| Vysvětlení a Poznámky \| <br>
 \|------------------------------\| <br>
 
+- Trh a jeho funce
+  - Doplnit
+- Teoretické zdůvodnění různých přístupů k trhu
+  - Doplnit
+- Výsledek potlačení trhu
+  - Doplnit
 - Teorém pavučiny
   - Dobrý zdroj je například zde [tady](https://www.miras.cz/seminarky/mikroekonomie-n02-nabidka.php).
+- Tržní selhání
+  - Selhání trhu má 4 základní typy:
+    - Nedokonalá konkurence
+      - 
+    - Externality
+    - Veřejné statky
+    - Nedokonalé informace
+- Nabídka a poptávka, její změna a souvislosti
+  - Doplnit
 
 
 
@@ -1395,52 +1410,52 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
 
 - **Užitek**
   - Kolik určitého statku má spotřebitel kupovat a jak má svůj důchod mezi různé statky rozdělit.
-  - Celkový užitek vs. mezní užitek.
-  - Mezní užitek s roztoucí spotřebou klesá - zákon klesajícího mezního užitku.
-  - Celkový užitek - součet mezních užitků.
+  - **Celkový užitek vs. mezní užitek.**
+  - Mezní užitek s roztoucí spotřebou klesá - **zákon klesajícího mezního užitku**.
+  - **Celkový užitek** - součet mezních užitků.
   - Racionální spotřebitel není ochoten platit za statek vyšší cenu, než jaký je mezní užitek daného statku. Zvyšuje nákup statku pouze do takového množství, kdy je ještě mezní užitek statku vyšší nebo alespoň roven ceně.
   - Mezní užitek se oceňuje v penězích.
-  - Spotřebitelův přebytek - pokud koupí něco levněji, než kolik ba za to byl ochoten s ohledem na svůj mezní užitek zaplatit.
+  - **Spotřebitelův přebytek** - pokud koupí něco levněji, než kolik ba za to byl ochoten s ohledem na svůj mezní užitek zaplatit.
   - Spotřebitelům přebytek je zákonitost, platí vždy, když se spotřebitel chová racionálně, neboť by nekoupil něco, co mu přinese menší užitek, než kolik to něco stojí samo o sobě.
   - Pro obchodníka - může být vždy minimálně na úrovni mezního užitku pokud smlouvá, pokud jsou stanoveny pevné ceny zákazník má větší šanci, že získá spotřebitelův přebytek.
 - Blahobyt
-  - Blahobyt obecně: výraz pro takový stav společnosti, její části nebo rodiny, jednotlivce, který umožňuje v nadbytku uspokojovat všechny potřeby.
-  - Ekonomický blahobyt: rovnovážné ceny, které na trhu vznikají, vedou svou alokační funkcí k takovému rozdělení zdrojů, které maximalizuje užitek všech zúčastněných; kupujících i prodávajících.
-  - Ekonomie blahobytu: typická metodika začíná odvozením (nebo předpokladem) funkce sociální péče, kterou lze poté použít k hodnocení ekonomicky proveditelných alokací zdrojů z hlediska sociální péče, kterou představují. Takové funkce obvykle zahrnují opatření ekonomické účinnosti a spravedlnosti, i když novější pokusy o kvantifikaci sociálního blahobytu zahrnovaly širší škálu opatření včetně ekonomické svobody (jako v přístupu založeném na schopnostech).
-- Náklady obětované příležitosti
+  - **Blahobyt obecně**: výraz pro takový stav společnosti, její části nebo rodiny, jednotlivce, který umožňuje v nadbytku uspokojovat všechny potřeby.
+  - **Ekonomický blahobyt**: rovnovážné ceny, které na trhu vznikají, vedou svou alokační funkcí k takovému rozdělení zdrojů, které maximalizuje užitek všech zúčastněných; kupujících i prodávajících.
+  - **Ekonomie blahobytu**: typická metodika začíná odvozením (nebo předpokladem) funkce sociální péče, kterou lze poté použít k hodnocení ekonomicky proveditelných alokací zdrojů z hlediska sociální péče, kterou představují. Takové funkce obvykle zahrnují opatření ekonomické účinnosti a spravedlnosti, i když novější pokusy o kvantifikaci sociálního blahobytu zahrnovaly širší škálu opatření včetně ekonomické svobody (jako v přístupu založeném na schopnostech).
+- **Náklady obětované příležitosti**
   - Kupováním jednoho statku obětuje člověk jiný statek respektive nějakou jinou příležitost.
-  - Analýza nákladů a výnosů (cost-benefit analýza). Výnosem je získávaný užitek a nákladem je obětovaný užitek.
+  - **Analýza nákladů a výnosů** (cost-benefit analýza). Výnosem je získávaný užitek a nákladem je obětovaný užitek.
   - Dokud je mezní užitek jednoho statku vyšší než mezní užitek druhého statku, snaží se spotřebitel přesunout své zdroje (peníze, volný čas) ze statku s nižším mezním užitkem na statek s vyšším mezním užitkem.
   - Celkový užitek z obou statků bude maximalizován tehdy, když bude splněna podmínka:
     - MU jednoho statku / cena daného statku = MU druhého statku / cena druhého statku.
     - Platí, že spotřebitel bude chtít danou peněžní částku rozdělit mezi ně tak, aby, pokud možno, byla splněna rovnice:
     - MU1 / P1 = MU2 / P2.
-    - Tato rovnice vyjadřuje podmínku optimálního rozdělení dané peněžní částky mezi dva statky. Z toho vyplývá, jak racionální spotřebitel rozdělí svůj peněžní důchod mezi nákupy různých statků. Toto rozdělení musí splňovat následující podmínku:
+    - Tato rovnice vyjadřuje podmínku **optimálního rozdělení** dané peněžní částky mezi dva statky. Z toho vyplývá, jak racionální spotřebitel rozdělí svůj peněžní důchod mezi nákupy různých statků. Toto rozdělení musí splňovat následující podmínku:
     - MU1 / P1 = MU2 / P2 = MU3 / P3 = MUn / Pn.
-    - Pokud je tato podmínka splněna lze hovořit o optimální spotřebitelské alokaci.
+    - Pokud je tato podmínka splněna lze hovořit o **optimální spotřebitelské alokaci**.
 - Poptávka
-  - Poptávka ukazuje, jak závisí poptávané množství statku na ceně.
+  - **Poptávka** ukazuje, jak závisí poptávané množství statku na ceně.
   - Znázorněna pomocí křivky poptávky.
   - Křivka poptávky ukazuje, jak se mění kupované množství daného statku v závislosti na jeho ceně. Ovšem při nezměněném důchodu kupujícího a při nezměněné ceně ostatních statků.
   - Křivka poptávky v zásadě kopíruje křivku mezního užitku - jedná se o zákon klesající poptávky. Každý její bod říká, že cena, kterou spotřebitel platí, odpovídá meznímu užitku statku.
-  - Poptávané množství je množství statku, které spotřebitel při určité ceně poptává, to je klesající funkcí. Zatímco poptávka je celou funkcí, nicméně tato funkce může sama o sobě také klesat, nebo stoupat jejím posunem v grafu. Obecně by sa dalo říci, že poptávka záleží na ceně, nikoliv cena na poptávce, toto je vysloveno například zde [tady](http://www.imaturita.cz/maturitni-otazky/marketing-a-management/poptavka/373/).
-  - Zákon klesající poptávky - důchodový a substituční efekt
-    - Důchodový efekt: spotřebitel při vyšší ceně kupuje méně statku, protože mu původní částka nestačí na nákup původního množství (které kupoval před zvýšením ceny).
-    - Substituční efekt: spotřebitel při zvýšení ceny statku nakupuje méně tohoto statku, protože jej substituuje (nahrazuje) jinými statky.
+  - **Poptávané množství** je množství statku, které spotřebitel při určité ceně poptává, to je klesající funkcí. Zatímco poptávka je celou funkcí, nicméně tato funkce může sama o sobě také klesat, nebo stoupat jejím posunem v grafu. Obecně by sa dalo říci, že poptávka záleží na ceně, nikoliv cena na poptávce, toto je vysloveno například zde [tady](http://www.imaturita.cz/maturitni-otazky/marketing-a-management/poptavka/373/).
+  - **Zákon klesající poptávky** - důchodový a substituční efekt
+    - **Důchodový efekt**: spotřebitel při vyšší ceně kupuje méně statku, protože mu původní částka nestačí na nákup původního množství (které kupoval před zvýšením ceny).
+    - **Substituční efekt**: spotřebitel při zvýšení ceny statku nakupuje méně tohoto statku, protože jej substituuje (nahrazuje) jinými statky.
     - Oba tyto efekty způsobují, že poptávka je klesající funkcí ceny, neboli při vyšší ceně kupují spotřebitelé menší množství a při nižší ceně vyšší množství.
-    - Substituty:
-      - Vše nejde substituovat v technickém smyslu, ve spotřebitelském smyslu toho ale lze substituovat většina.
+    - **Substituty**:
+      - Vše nejde substituovat v **technickém smyslu**, ve **spotřebitelském smyslu** toho ale lze substituovat většina.
       - Podstatou spotřebitelské substituce je náhrada jednoho uspokojení jiným uspokojením.
     - Křivka poptávky ukazuje, jak se mění poptávané množství statku v závislosti na ceně tohoto statku, při ostatních cenách a důchodech neměnných. Zákon klesající poptávky říká, že poptávané množství klesne, když vzroste cena statku a přitom se nezmění ostatní ceny ani důchody.
     - Cena statku se však nicméně může měnit i tehdy, když probíhá **inflace**, neboli klesá kupní síla koruny.
       - Inflace však sama o sobě nemá vliv na poptávané množství statku. Poptávané množství statku se mění pouze tehdy, když se mění jeho cena v poměru k ostatním cenám.
-  - Individuální poptávka, tržní poptávka a poptávka po statku jednoho prodávajícího:
+  - **Individuální poptávka**, **tržní poptávka** a **poptávka po statku jednoho prodávajícího**:
     - Individuální poptávka: viz předchozí bod.
     - Tržní poptávka je souhrnná poptávka všech kupujících po daném statku.
     - Tržní poptávka je součtem individuálních poptávek (poptávek jednotlivých kupujících).
-    - Elasticita tržní poptávky má vliv na výdaje kupujících a tím i na příjmy prodávajících. Výdaje kupujících jsou totiž příjmy (tržbami) prodávajících.
-      - Je-li tržní poptávka neelastická, zvýšení ceny a snížení množství statku bude mít za následek zvýšení výdajů kupujících i příjmu prodávajících.
-      - Je-li tržní poptávka elastická bude mít zvýšení ceny naopak za následek snížení výdajů kupujících i příjmů prodávajících.
+    - **Elasticita tržní poptávky** má vliv na výdaje kupujících a tím i na příjmy prodávajících. Výdaje kupujících jsou totiž příjmy (tržbami) prodávajících.
+      - Je-li tržní poptávka **neelastická**, zvýšení ceny a snížení množství statku bude mít za následek zvýšení výdajů kupujících i příjmu prodávajících.
+      - Je-li tržní poptávka **elastická** bude mít zvýšení ceny naopak za následek snížení výdajů kupujících i příjmů prodávajících.
       - Po zanesení do grafu je křivka neelastické poptávky více strmá, než křivka elastické poptávky, která je spíše pložší.
       - Výrobci tak nedokáží využít nízké elasticity tržní poptávky k tomu, aby zvýšili své příjmy.
       - Cenová elasticita tržní poptávky není není pro výrobce žádnou užitečnou informací, neboť na konkurenčním trhu, kde je mnoho prodávajících, není jeden prodávající sám o sobě schopen významněji ovlivnit celkové množství statku na trhu a tudíž ani cenu. Pokud by snížil svojí produkci, konkurenti jeho výpadek snadno a ochotně nahradí.
