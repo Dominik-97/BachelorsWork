@@ -1368,7 +1368,31 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
 \|------------------------------\| <br>
 
 - Trh a jeho funce
-  - Doplnit
+  - Trh jest oblastí ekonomiky, ve které dochází k **výměně činností mezi jednotlivými ekonomickými subjekty prostřednictvím směny zboží**, přičemž prostředek směny bývají standardně peníze.
+  - Jedná se tedy o místo, kde se střetává **nabídka s poptávkou** a kde dochází ke směně zboží a služeb prostřednictvím koupě a prodeje.
+  - Vztah mezi výrobce a spotřebitelem sprostředkovává trh.
+    - Každý statek má nějakou **směnnou hodnotu**: specifickou formou směnné hodnoty je cena, vyjadřuje poměr, ve kterém lze jeden statek směnit za druhý, peníze jsou všeobecný ekvivalent.
+  - **Členění trhu**
+    - Místní:
+      - **Trh místní** - například jarmark, trh v jednotlivých městech
+      - **Trh národní** - například trh v České republice, vznikl rozvojem dělby práce a zvětšením dopravních možností
+      - **Trh světový** - projevem skutečnosti, že autonomie národních trhů je pouze částečná, uskutečňuje se na něm mezinárodní obchod
+    - Počtu zboží:
+      - **Trh dílčí** - trh jednoho druhu zboží, například aoutomobilů
+      - **Trh agregátní** - trh veškerých dílčích trhů, jedná se o makroekonomickou kategorii
+      - **Trh individuální** - trh jediného kupujícího
+    - Podle typu zboží:
+      - **Automobilový**, **počítačový** etc.
+  - **Subjekty trhu**:
+    - Souvisí s ekonomickým koloběhem - tzn. firmy, domácnosti a stát (+ zahraničí).
+    - Firmy
+      - Doplnit
+    - Domácnosti
+      - Doplnit
+    - Stát
+      - Doplnit
+  - Toky v ekonomice - rovněž souvisí s ekonomickým koloběhem:
+    - ![Toky v ekonomice](Podklady/Ekonomie_a_Podnikove_finance/Toky_v_ekonomice.jpg)
 - Teoretické zdůvodnění různých přístupů k trhu
   - Doplnit
 - Výsledek potlačení trhu
