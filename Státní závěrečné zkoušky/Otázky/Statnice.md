@@ -1330,11 +1330,15 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
 **Teoretické modely ekonomických systémů**
 * Distanční opora popisuje všechny 4, viz [distanční opora](Podklady/Ekonomie_a_Podnikove_finance/dist_opora_Ekonomie.pdf)
 * Jedná se tedy o způsoby, kterými společnost jako celek řeší základní ekonomické otázky.
+  * Těmito základními ekonomickými, které se týkají nalezení systému, který umožňuje spojovat síly subjektů na trhu a efektivně využívat dostupné zdroje, otázkami jsou:
+    * **Co a kolik** se má ve společnosti vyrábět
+    * **Jak vyrábět** jakou technologií a s jakými faktory práce (práce, půda, přírodní zdroje, kapitál)
+    * **Jak se rozdělí** to co bylo vyrobeno
 * Základní kategorie jsou:
-  * **Zvyková ekonomika**: rigidní, řešení ekonomických otázek na základě zvyků a tradic, primitivní, ekonomický output dostává především náčelník, nebo velký vlastník půdy. Volba povolání vyhází z rodinné nebo etnické tradice, málo se produkuje, je toho málo k dispozici.
-  * **Centrálně řízená ekonomika**: o odpovědích na základní ekonomické otázky rozhoduje nějaká centralizovaná autorita, především vláda. Centrální autorita stanovuje kvóty pro výrobu, stanovuje ceny a rovněž přerozděluje ekonomický output mezi obyvatele. Kapitálové statky jsou vlastněny státem. Omezená konkurence díky vysoké koncentraci výroby a monopolizaci ekonomiky. Je značně neefektivní.
-  * **Tržní systém**: na ekonomické otázky odpovídají jednotlivci na základě svých rozhodnutí a samozřejmě i externality. Systém je založen na samostatném (decentralizovaném) rozhodování ekonomických subjektů. Rozhodování je založeno na cenách, směně, **neviditelné ruce trhu** (tedy ceně) a **laissez faire** - stát tedy nezasahuje do hospodářství a nesnaží se ho řídit. Výrobní faktory jsou vlastněny soukromně, klíčovou úlohu o základních ekonomických otázkách hrají v tomto systému trhy, ne kterých ceny vznikají. Podstatně efektivnější, než dva předchozí systémy. Chod tržní ekonomiky je stimulován a poháněn touhou po zisku, jedná se tedy o jakýsi **ziskový motiv**.
-  * **Smíšený systém**: spojuje trh se zásahy vlády do ekonomiky. Převažuje ve většině moderních ekonomik. Trh je stále nejdůležitějším faktorem, ale stát do ekonomiky může zasahovat a korigovat ji (**fiskální poliitka** státu a **monetární politika** národních bank). 
+  * **Zvyková ekonomika**: rigidní, řešení ekonomických otázek na základě zvyků a tradic, primitivní, ekonomický output dostává především náčelník, nebo velký vlastník půdy. Volba povolání vyhází z rodinné nebo etnické tradice, málo se produkuje, je toho málo k dispozici. Dělba práce uvnitř relativně malé skupiny, **co a kolik** vyrobit rozhodoval náčelník nebo rada starších na základě zkušeností s předchozími generacemi. Členové skupiny pracovali podle svých schopností ve prospěch všech a podíl na vyrobených statcích a službách byl určen náčelníkem.
+  * **Centrálně řízená ekonomika**: o odpovědích na základní ekonomické otázky rozhoduje nějaká centralizovaná autorita, především vláda. Centrální autorita stanovuje kvóty pro výrobu, stanovuje ceny a rovněž přerozděluje ekonomický output mezi obyvatele. Kapitálové statky jsou vlastněny státem. Omezená konkurence díky vysoké koncentraci výroby a monopolizaci ekonomiky. Je značně neefektivní a snadno zneužitelná při přerozdělování. Výhodou je možnost rychlé mobilizace zdrojů v případě přírodní katastrofy či války.
+  * **Tržní systém**: na ekonomické otázky odpovídají jednotlivci na základě svých rozhodnutí a samozřejmě i externality. Systém je založen na samostatném (decentralizovaném) rozhodování ekonomických subjektů. Rozhodování je založeno na cenách, směně, **neviditelné ruce trhu** (tedy ceně) a **laissez faire** - stát tedy nezasahuje do hospodářství a nesnaží se ho řídit. Výrobní faktory jsou vlastněny soukromně, klíčovou úlohu o základních ekonomických otázkách hrají v tomto systému trhy, ne kterých ceny vznikají. Podstatně efektivnější, než dva předchozí systémy. Chod tržní ekonomiky je stimulován a poháněn touhou po zisku, jedná se tedy o jakýsi **ziskový motiv**. Nevýhodami jsou nemožnost přerozdělování těm, kteří například nemohou pracovat a řešení **selhání trhu**.
+  * **Smíšený systém**: spojuje trh se zásahy vlády do ekonomiky. Převažuje ve většině moderních ekonomik. Trh je stále nejdůležitějším faktorem, ale stát do ekonomiky může zasahovat a korigovat ji (**fiskální poliitka** státu a **monetární politika** národních bank). Výhodou jest, že umožňuje přerozdělování a korigování ze strany státu.
 
 **Ekonomický koloběh**
 
@@ -1383,16 +1387,19 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
       - **Trh individuální** - trh jediného kupujícího
     - Podle typu zboží:
       - **Automobilový**, **počítačový** etc.
-  - **Subjekty trhu**:
-    - Souvisí s ekonomickým koloběhem - tzn. firmy, domácnosti a stát (+ zahraničí).
-    - Firmy
-      - Doplnit
-    - Domácnosti
-      - Doplnit
-    - Stát
-      - Doplnit
+  - **Subjekty trhu** - 3 základní ekonomické subjekty, ty pak vstupují na trh s různými ekonomickými cíly, a to jak na stranně nabídky, tak na stranně poptávky:
+    - Souvisí s **ekonomickým koloběhem** - tzn. firmy, domácnosti a stát (+ **zahraničí**).
+    - **Firmy**
+      - Vstupují na trh zboží a služeb na straně nabídky a na trh výrobních faktorů na straně poptávky, dále viz ekonomický koloběh
+    - **Domácnosti**
+      - Jako firmy, jen opačně, dále viz ekonomický koloběh
+    - **Stát**
+      - Stát působí jako: **regulátor** - vytváří právní rámce pro fungování tržního mechanismu, **subjekt** - který může na obou trzích vystupovat jan na straně poptávky, tak i na straně nabídky
+    - Všechny subjekty vstupují na trh a do vzájemných interakcí, to ve svém důsledku vytváří ekonomický, nebo hospodářský, koloběh.
   - Toky v ekonomice - rovněž souvisí s ekonomickým koloběhem:
     - ![Toky v ekonomice](Podklady/Ekonomie_a_Podnikove_finance/Toky_v_ekonomice.jpg)
+  - Funkce trhu
+    - Nejdokonalešjí regulátor a stimulátor ekonomického rozvoje.
 - Teoretické zdůvodnění různých přístupů k trhu
   - Doplnit
 - Výsledek potlačení trhu
