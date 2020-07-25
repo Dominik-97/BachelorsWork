@@ -1400,6 +1400,18 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
     - ![Toky v ekonomice](Podklady/Ekonomie_a_Podnikove_finance/Toky_v_ekonomice.jpg)
   - Funkce trhu
     - Nejdokonalešjí regulátor a stimulátor ekonomického rozvoje.
+    - Jeho základní funkcí je **optimální alokace zdrojů**.
+    - **Optimální alokací zdrojů** se rozumí takové rozdělení vzácných zdrojů mezi jednotlivé ekonomické subjekty trhu, které umožňují jejich neúččinnější využití s ohledem na potřeby společnosti.
+    - Každý trh musí řešit tři základní otázky:
+      - **Co vyrábět**: ceny a množství se přizpůsobují tak dlouho, dokud nedojde k tržní rovnováze, kdy nedochází ani k tržnímu přebytku, ani k tržnímu nedostatku, tedy dokud nedojde k bodu, kdy se nabídka střetává s poptávkou - viz **teorém pavučiny**
+      - **Jak vyrábět**: cena také určuje, jaké se používají výrobní faktory, tedy za kolik se bude vyrábět, v jaké kvalitě a s jakými technologickými postupy
+      - **Pro koho vyrábět**: neboli kdo získá vyrobené statky - distribuční funkce ceny
+  - Ekonomická vzácnost
+    - Doplnit
+  - Statky
+    - Doplnit
+  - Hranice produkčních možností
+    - Doplnit
 - Teoretické zdůvodnění různých přístupů k trhu
   - Doplnit
 - Výsledek potlačení trhu
