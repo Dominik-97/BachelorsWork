@@ -1414,6 +1414,9 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
     - Doplnit
 - Teoretické zdůvodnění různých přístupů k trhu
   - Doplnit
+  - Merkantilismus
+  - Klasickou ekonomii
+  - Keynesiánství
 - Výsledek potlačení trhu
   - Doplnit
 - Teorém pavučiny
