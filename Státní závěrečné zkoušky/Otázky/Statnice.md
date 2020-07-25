@@ -1407,11 +1407,31 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
       - **Jak vyrábět**: cena také určuje, jaké se používají výrobní faktory, tedy za kolik se bude vyrábět, v jaké kvalitě a s jakými technologickými postupy
       - **Pro koho vyrábět**: neboli kdo získá vyrobené statky - distribuční funkce ceny
   - Ekonomická vzácnost
-    - Doplnit
-  - Statky
-    - Doplnit
-  - Hranice produkčních možností
-    - Doplnit
+    - To co nemůžeme mít vždycky a v jakémkoliv množstí je pro nás vzácné, opakem jsou volné statky.
+    - Omezené jsou jak přírodní zdroje, tak i lidský čas, tak i produkty lidské práce (statky), aby lidé mohli vyrábět, musí obětovat svůj čas.
+    - **Zákon ekonomie času** - lidé se snaží zvyšovat svojí produktivitu práce.
+    - **Teorie potřeb** - každý z nás má jiné potřeby a potřeba je pociťována nedostatkem
+      - Je několik členění potřeb, základní je na:
+        - Potřeby hmotné
+        - Potřeby nehmotné - například přátelství, svoboda, kulturní zážitky
+        - Potřeby zbytné
+        - Potřeby nezbytné
+      - Potřeby uspokojujeme pomocí konzumace statků
+    - **Členíní statků**:
+      - Hmotné: věci
+      - Nehmotné: například znalosti, vlastnosti, dovednosti
+      - Volné: vytvořené přírodou, často za ně nemusíme platit, nemusíme se moc bát jejich vyčerpání - voda, vzduch
+      - Ekonomické (Vzácné): nejsou běžně k dispozici v přírodě, člověk musí vynaložit jiné statky na to, aby je získal (například svůj čas)
+      - Kapitálové - spotřebováváme je, aby jiné statky mohly vzniknout
+      - Spotřební - slouží přímo k uspokojování potřeb
+      - Veřejné statky - jsou poskytovaná zdarma, většinou státem, či samosprávní jednotkou, ale ve skutečnosti je také platíme z daní a dalších odvodů
+      - Člověk k uspokojení potřeb potřebuje jak volné, tak i ekonomické statky
+  - ~~Statky~~
+    - ~~Doplnit~~
+  - **Hranice produkčních možností**
+    - Výrobní faktory jsou omezené
+    - Ekonomická vzácnost výrobních faktorů způsobuje, že se společnost musí rozhodnout jak rozdělit výrobní faktory pro výrobu jednotlivých výrobků
+    - Ekonomika vyrábí **efektivně** pokud se svou produkcí pohybuje na hranici produkčních možností, nemůže vyrábět více jednoho statku bez toho, aby vyráběle méně jiného statku
 - Teoretické zdůvodnění různých přístupů k trhu
   - Doplnit
   - Merkantilismus
@@ -1533,6 +1553,7 @@ Ekonomie založila pojem člověka ekonomického (homo oeconomicus).
       - Změna důchodu spotřebitele: pokud se změní spotřebitelův důchod, změní se i poptávka.
       - Změna ceny komplementu: pokud například vzroste cena komplementu, může se snížit poptávka po jiném statku, jemuž je daný statek komplementem.
       - Změna ceny substitutu: pokud se například sníží cena substitutu, může to vést ke snížení poptávky o jiný statek.
+      - Očekávání (například pokud očekáváme, že obdržíme nějakou finanční částku, poptávka se zvýší), nebo změna počtu poptávajících. Více informací [tady](https://studijni-svet.cz/trh-a-trzni-hospodarstvi/).
   - Když se mění poptávané množství v závislosti na změně ceny daného statku, pohybuje se spotřebitel podél křivky poptávky. Změna poptávky se však projevuje posunem celé poptávkové křivky. Roste-li poptávka, posouvá se poptávková křivka doprava. Klesá-li poptávka, posouvá se poptávková křivka doleva.
 - Dodatek: Indiferenční křivky, viz otázka 1 ordinalistický přístup.
   - Založené na ordinalistické teorii, tedy že užitek není možné přímo měřit, ale že je spotřebitel schopen rozhodnout z čeho má větší užitek bez samotného přiřazení hodnoty, je schopen seřadit z čeho má větší užitek.
