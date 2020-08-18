@@ -1,3 +1,5 @@
+![status](https://img.shields.io/badge/Posudek-Doporu%C4%8Deno%20k%20obhajob%C4%9B-green)
+![status](https://img.shields.io/badge/Obh%C3%A1jen%C3%AD%20Bakal%C3%A1%C5%99sk%C3%A9%20Pr%C3%A1ce-Obhajoba%20teprve%20prob%C4%9Bhne-yellow)<br>
 # BachelorsWork
 Repository storing data for my bachelors work and also for my Finals.
 
