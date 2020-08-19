@@ -8,6 +8,7 @@
 \usepackage[czech]{babel}
 \usepackage{graphicx}
 \usepackage{tikz}
+\usetikzlibrary{shapes.arrows}
 \usepackage{MnSymbol,wasysym}
 \usepackage{multirow}
 \usepackage{xcolor}
@@ -17,6 +18,26 @@
 		\node [xshift=-1.6cm,yshift=-0.5cm] at (current page.north east)
 		{\includegraphics[width=3cm,height=2cm,keepaspectratio]{images/newcevro}};
 	\end{tikzpicture}
+}
+
+\tikzset{
+    myarrow/.style={
+        draw,
+        fill=green,
+        single arrow,
+        minimum height=3.5ex,
+        single arrow head extend=1ex
+    }
+}
+
+\tikzset{
+    myarrowred/.style={
+        draw,
+        fill=red,
+        single arrow,
+        minimum height=3.5ex,
+        single arrow head extend=1ex
+    }
 }
 
 % +=======================================+
@@ -140,6 +161,7 @@ Smysl ve vztahu ke konstrukci (struktuře) svěřenského fondu.\\
 Formální - povrchní\\
 Gramatická, §2\\
 "Logická"\\
+Dedukce úmyslu zákonodárce\\
 \end{columns}
 
 	
@@ -155,9 +177,9 @@ Gramatická, §2\\
 
 \fbox{Cíle jednotlivých částí}\\
 \vspace*{5mm}
-Teoretická část $\rightarrow$ popisná část.\\
-Praktická část $\rightarrow$ analytická část.\\
-Závěrečná část $\rightarrow$ návrh řešení problematických částí.\\
+Teoretická část $\rightarrow$ popisná část (historie, přijetí, právní úprava).\\
+Praktická část $\rightarrow$ analytická část (§1400 - §1474 OZ {\color{red} X} §1475 - §1720 OZ).\\
+Závěrečná část $\rightarrow$ návrh řešení problematických částí (pokud budou nalezeny - především kolize s dědickým právem).\\
 \vspace*{5mm}
 \fbox{Výsledek analytické částí}\\
 \vspace*{5mm}
@@ -173,14 +195,56 @@ Ve vztahu k hypotéze {\color{red} nedosaženo} výsledku $\rightarrow$ hypotéz
 	\frametitle{Výsledky, doporučení}
 	\cevroLogo
 
-\begin{columns}
-	\column{0.5\textwidth}
-		Hello everybody
-	\column{0.5\textwidth}
-		Hello everybody
-\end{columns}
+\textbf{Výkladová optika} $\rightarrow$ {\color{red} nedovozená žádná} ochrana.\\
+\textbf{Úmyslová optika} $\rightarrow$ {\color{green} potenciálně dovozená} ochrana, kolize s absencí právní osobnosti svěřenského fondu popřípadě její fikce ve vztahu k pozůstalostnímu řízení.\\
+-----------------------------------------\\
+{\color{red} Proti}: absence právní osobnosti svěřenského fondu, svěřenskému správci nesvědčí vlastnické právo.\\
+{\color{green} Pro}: §1452, §311, §1492 OZ, částečně také §17, odstavec 2.\\
+Doporučení: novelizace.
 
 \end{frame}
+
+\begin{frame}
+	\frametitle{Závěr}
+	\cevroLogo
+
+\setbeamercolor{block title}{use=structure,fg=white,bg=blue!75!black}
+\setbeamercolor{block body}{use=structure,fg=black,bg=white!20!white}
+\vspace*{-5mm}
+\begin{block}{\small§ 1452}\small{
+(1) Každý svěřenský fond musí mít statut. Statut svěřenského\\ fondu vydává zakladatel. Zřizuje-li se svěřenský fond\\ pořízením pro případ smrti, použije se přiměřeně § 311.}
+\end{block}
+\vspace*{-2mm}
+\centering\tikz [baseline=-1ex]{\node [myarrow,rotate=-90] {};}\\
+\vspace*{-2mm}
+\begin{block}{\small§ 311}\small{
+(1) Při založení nadace pořízením pro případ smrti se do nadace vnáší vklad povoláním nadace za dědice nebo nařízením odkazu. V takovém případě nabývá založení nadace účinnosti smrtí zůstavitele.}
+\end{block}
+\vspace*{-2mm}
+\centering\textbf{\Large{\color{green} +}}\\
+\vspace*{-2mm}
+\begin{block}{\small§ 1492}\small{
+Pořízením pro případ smrti nelze zkrátit povinný díl nepominutelného dědice, který se práva na povinný díl nezřekl a nedošlo-li ani k vydědění. Pokud tomu pořízení pro případ smrti odporuje, náleží nepominutelnému dědici povinný díl.}
+\end{block}
+
+\end{frame}
+
+\begin{frame}
+	\frametitle{Závěr}
+	\cevroLogo
+
+\begin{center}
+Absence kolizní právní úpravy,\\
+doktrinálně odlišné pohledy,\\
+absence soudních rozhodnutí.\\
+\tikz [baseline=-1ex]{\node [myarrowred,rotate=-90] {};}\\
+Právní nejistota,\\
+není jasné, zda je dědic chráněn,\\
+nutnost explicitní úpravy.
+\end{center}
+
+\end{frame}
+
 
 % +=============+
 % | Šestý slide |
