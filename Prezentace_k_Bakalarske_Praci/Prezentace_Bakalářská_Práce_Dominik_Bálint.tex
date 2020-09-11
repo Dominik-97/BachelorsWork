@@ -1,0 +1,424 @@
+\documentclass{beamer}
+
+% +==============================+
+% | Vydefinování maker a packagů |
+% +==============================+
+
+\usepackage[utf8]{inputenc}
+\usepackage[czech]{babel}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes.arrows}
+\usepackage{MnSymbol,wasysym}
+\usepackage{multirow}
+\usepackage{xcolor}
+
+\newcommand{\cevroLogo}{
+	\begin{tikzpicture}[remember picture,overlay]  
+		\node [xshift=-1.6cm,yshift=-0.5cm] at (current page.north east)
+		{\includegraphics[width=3cm,height=2cm,keepaspectratio]{images/newcevro}};
+	\end{tikzpicture}
+}
+
+% +=========================+
+% | Vydefinování tikz stylů |
+% +=========================+
+
+\tikzset{
+    myarrow/.style={
+        draw,
+        fill=green,
+        single arrow,
+        minimum height=3.5ex,
+        single arrow head extend=1ex
+    }
+}
+
+\tikzset{
+    myarrowred/.style={
+        draw,
+        fill=red,
+        single arrow,
+        minimum height=3.5ex,
+        single arrow head extend=1ex
+    }
+}
+
+% +=======================================+
+% | Základní informace o bakalářské práci |
+% +=======================================+
+
+\title{Svěřenský fond jako nástroj mezigeneračního převodu majetku}
+%\subtitle[krátký název prezentace]{dlouhý název prezentace}
+%\author{Dominik Bálint}
+\author[My name]{Dominik Bálint\\ \footnotesize Vedoucí práce: Mgr. Ing. Tomáš Střeleček, LL.M., Ph.D.\\ \footnotesize Oponent práce: JUDr. Miroslav Sedláček, Ph.D., LL.M.}
+\institute{CEVRO Institut}
+\date{\today}
+
+% +=============+
+% | První sekce |
+% +=============+
+
+\section{Prezentace k obhajobě}
+
+% +===============================================+
+% | Použitý theme v prezentaci k bakalářské práci |
+% +===============================================+
+
+\usetheme{Singapore}
+
+\begin{document}
+
+% +===============+
+% | Titulní slide |
+% +===============+
+
+\maketitle
+
+% +====================+
+% | Začátek prezentace |
+% +====================+
+
+\begin{frame}
+	\frametitle{Obsah}
+	\cevroLogo
+
+\begin{itemize}
+	\item Cíl práce%\pause
+	\item Metodika%\pause
+	\item Výsledky, doporučení%\pause
+	\item Závěr%\pause
+	\item Zodpovězení otázek
+\end{itemize}
+	
+\end{frame}
+
+% +=============+
+% | Druhý slide |
+% +=============+
+
+\begin{frame}
+	\frametitle{Cíl práce}
+	\cevroLogo
+
+\fbox{Cílem práce} jest představit svěřenský fond,\\
+jeho použití k mezigeneračnímu převodu majetku,
+a zodpovězení \textbf{hypotézy}, zda lze svěřenský fond úspěšně použít k obcházení práva nepominutelných dědiců na povinný díl.
+
+\vspace*{5mm}
+
+\fbox{Vedlejší cíle} : další problémy spojené se svěřenským fondem.
+
+\end{frame}
+
+% +=============+
+% | Třetí slide |
+% +=============+
+
+\begin{frame}
+	\frametitle{Metodika}
+	\cevroLogo
+
+\begin{columns}[T]
+	\column{0.5\textwidth}
+	\textbf{Stanovení cíle}\\
+		Z pozitivistického hlediska prozkoumat vztah mezi jednotlivými ustanoveními svěřenského fondu a dědického práva.\\
+		---\\
+		Účelem dovození odpovědi na vyloženou hypotézu a odhalení problémů.\\
+		---\\
+		Konstruování normativního výstupu - navržení obecných změn, pokud jich bude třeba.
+	\column{0.5\textwidth}
+	\textbf{Výzkumné metody}\\
+		Obecně teoretické metody.\\
+		---\\
+		Popisná, kompilační metoda u teoretické části.\\
+		---\\
+		Analyticko-syntetické metody u praktické části.\\
+		---\\
+		Zkoumáno (zkoumaná problematika) dvěma optikami ve smyslu interpretace právních norem.\\
+		%\vspace*{5.9cm}
+\end{columns}
+
+\end{frame}
+
+% +==============+
+% | Čtvrtý slide |
+% +==============+
+
+\vspace*{-1cm}
+
+\begin{frame}
+	\frametitle{Metodika}
+	\cevroLogo
+	
+\includegraphics[height=\textheight,width=\textwidth,keepaspectratio]{images/Zkoumani.png}
+
+\vspace*{0.2cm}
+
+\begin{columns}[T]
+\column{0.5\textwidth}
+{\small\textbf{Optika 1}}\\
+Systematická\\
+Logická\\
+Teleologická\\
+Komparativní (pro ilustraci vzorových řešení)\\
+Doktrinální\\
+Smysl ve vztahu ke konstrukci (struktuře) svěřenského fondu.\\
+\column{0.5\textwidth}
+{\small\textbf{Optika 2}	}\\
+Formální - povrchní\\
+Gramatická, §2\\
+"Logická"\\
+Dedukce úmyslu zákonodárce\\
+\end{columns}
+
+	
+\end{frame}
+
+% +============+
+% | Pátý slide |
+% +============+
+
+\begin{frame}
+	\frametitle{Výsledky, doporučení}
+	\cevroLogo
+
+\fbox{Cíle jednotlivých částí}\\
+\vspace*{5mm}
+Teoretická část $\rightarrow$ popisná část (historie, přijetí, právní úprava).\\
+Praktická část $\rightarrow$ analytická část (§1400 - §1474 OZ {\color{red} X} §1475 - §1720 OZ).\\
+Závěrečná část $\rightarrow$ návrh řešení problematických částí (pokud budou nalezeny - především kolize s dědickým právem).\\
+\vspace*{5mm}
+\fbox{Výsledek analytické částí}\\
+\vspace*{5mm}
+Ve vztahu k hypotéze {\color{red} nedosaženo} výsledku $\rightarrow$ hypotéza nezodpovězena, vysloven pouze osobní názor, domněnka ochrany nepominutelných dědiců $\rightarrow$ dovození problematiky, potvrzení problémů, shoda {\color{red} X} konfrontace s literaturou zaměřující se na stejné téma.\\
+
+\end{frame}
+
+% +=============+
+% | Šestý slide |
+% +=============+
+
+\begin{frame}
+	\frametitle{Výsledky, doporučení}
+	\cevroLogo
+
+\textbf{Výkladová optika} $\rightarrow$ {\color{red} nedovozená žádná} ochrana.\\
+\textbf{Úmyslová optika} $\rightarrow$ {\color{green} potenciálně dovozená} ochrana, kolize s absencí právní osobnosti svěřenského fondu popřípadě její fikce ve vztahu k pozůstalostnímu řízení, {\color{red} !} nejedná se o dovození ochrany, pouze o dovození záměru zákonodárce ochranu vtělit do daného právního předpisu.\\
+-----------------------------------------\\
+{\color{red} Proti}: absence právní osobnosti svěřenského fondu, svěřenskému správci nesvědčí vlastnické právo, vyčleněný majetek není součástí pozůstalosti, autonomie vůle, potenciální znevýhodnění svěřenského fondu \textit{mortis causa} oproti svěřenskému fondu \textit{inter vivos}.\\
+{\color{green} Pro}: §1452, §311, §1492 OZ, částečně také §17, odstavec 2.\\
+Doporučení: novelizace.
+
+\end{frame}
+
+% +=============+
+% | Sedmý slide |
+% +=============+
+
+\begin{frame}
+	\frametitle{Závěr}
+	\cevroLogo
+
+\setbeamercolor{block title}{use=structure,fg=white,bg=blue!75!black}
+\setbeamercolor{block body}{use=structure,fg=black,bg=white!20!white}
+\vspace*{-5mm}
+\begin{block}{\small§ 1452}\small{
+(1) Každý svěřenský fond musí mít statut. Statut svěřenského\\ fondu vydává zakladatel. Zřizuje-li se svěřenský fond\\ pořízením pro případ smrti, použije se přiměřeně § 311.}
+\end{block}
+\vspace*{-2mm}
+\centering\tikz [baseline=-1ex]{\node [myarrow,rotate=-90] {};}\\
+\vspace*{-2mm}
+\begin{block}{\small§ 311}\small{
+(1) Při založení nadace pořízením pro případ smrti se do nadace vnáší vklad povoláním nadace za dědice nebo nařízením odkazu. V takovém případě nabývá založení nadace účinnosti smrtí zůstavitele.}
+\end{block}
+\vspace*{-2mm}
+\centering\textbf{\Large{\color{green} +}}\\
+\vspace*{-2mm}
+\begin{block}{\small§ 1492}\small{
+Pořízením pro případ smrti nelze zkrátit povinný díl nepominutelného dědice, který se práva na povinný díl nezřekl a nedošlo-li ani k vydědění. Pokud tomu pořízení pro případ smrti odporuje, náleží nepominutelnému dědici povinný díl.}
+\end{block}
+
+\end{frame}
+
+% +============+
+% | Osmý slide |
+% +============+
+
+\begin{frame}
+	\frametitle{Závěr}
+	\cevroLogo
+
+\begin{center}
+Absence kolizní právní úpravy,\\
+doktrinálně odlišné pohledy,\\
+absence soudních rozhodnutí.\\
+\tikz [baseline=-1ex]{\node [myarrowred,rotate=-90] {};}\\
+Právní nejistota,\\
+není jasné, zda je dědic chráněn,\\
+nutnost explicitní úpravy.
+\end{center}
+
+\end{frame}
+
+
+% +==============+
+% | Devátý slide |
+% +==============+
+
+\begin{frame}
+	\frametitle{Zodpovězení otázek}
+	\cevroLogo
+
+\begin{table}[]
+\begin{tabular}{|l|}
+\hline
+Otázka 1 Vedoucí práce                                                                                                                                                                                                                       \\ \hline
+\begin{tabular}[c]{@{}l@{}}Které otázky problematického vztahu právní úpravy svěřenských\\ fondů a dědického práva si podle autora žádají nejnaléhavěji\\ řešení přijetím novely?\\ Jak by taková novela mohla, podle autora, znít?\end{tabular} \\ \hline
+Nejzásadnější změna by měla nastat ve smyslu kolize dědického\\ práva s právem svěřenských fondů.\\
+---\\
+Další problémy vytyčené v práci (započtení, daňová problematika)\\ jsou oproti této problematice absolutně marginálního charakteru.\\
+---\\
+Mělo by dojít primárně k řešení problematiky nepominutelných\\ dědiců.                                                                                                                                                                                                                             \\ \hline
+\end{tabular}
+\end{table}
+
+\end{frame}
+
+% +==============+
+% | Desátý slide |
+% +==============+
+
+\begin{frame}
+	\frametitle{Zodpovězení otázek}
+	\cevroLogo
+
+Pro účely vyřešení kolizní problematiky stačí považovat svěřenský fond za právnickou osobu pro tyto účely.\\
+---\\
+Možnost docílení pomocí označení svěřenského fondu jako právnické osoby v Občanském zákoníku a označení svěřenského fondu jako účastníka v Zákonu o zvláštních řízeních soudních.\\
+---\\
+Příkladem budiž Zákon o dani z přidané hodnoty.\\
+---\\
+\textit{"(2) Pro účely tohoto zákona se na svěřenský fond, podílový fond, podfond investičního fondu a organizační složku státu, která je účetní jednotkou, hledí jako na právnickou osobu."} (§4b, odstavec 2 ZDPH)
+
+\end{frame}
+
+% +=================+
+% | Jedenáctý slide |
+% +=================+
+
+\begin{frame}
+	\frametitle{Zodpovězení otázek}
+	\cevroLogo
+
+\vspace*{-1cm}
+\begin{table}[]
+\begin{tabular}{|l|}
+\hline
+\begin{tabular}[c]{@{}l@{}}\textbf{§ 1478}\hspace{8.8cm}OZ\\ Za dědice nebo odkazovníka lze povolat i právnickou osobu,\\ která má teprve vzniknout. \\ Tato právnická osoba je způsobilým dědicem nebo odkazovníkem,\\ pokud vznikne do jednoho roku od smrti zůstavitele.\\ § \textbf{1478a}\\ Pro účely řízení o pozůstalosti se na svěřenský fond, hledí\\ jako na právnickou osobu.\end{tabular} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[]
+\begin{tabular}{|l|}
+\hline
+\begin{tabular}[c]{@{}l@{}}\textbf{Účastníci při projednání pozůstalosti}\hspace{3.5cm}ZŘS\\ \textbf{§ 116}\\ \textbf{Svěřenský fond}\\ Svěřenský fond je účastníkem řízení, byl li zůstavitelem povolán\\ za dědice nebo v jeho prospěch nařídil odkaz. \\ Svěřenský fond zastupuje v průběhu pozůstalostního řízení\\ svěřenský správce.\end{tabular} \\ \hline
+\end{tabular}
+\end{table}
+
+\end{frame}
+
+% +================+
+% | Dvanáctý slide |
+% +================+
+
+\begin{frame}
+	\frametitle{Zodpovězení otázek}
+	\cevroLogo
+
+\begin{table}[]
+\begin{tabular}{|l|}
+\hline
+Otázka 2 Vedoucí práce                                                                                                                                                                                                                       \\ \hline
+\begin{tabular}[c]{@{}l@{}}Lze změnit statut svěřenského fondu zřízeného mortis causa,\\ příp. za jakých podmínek? Kdo ho může změnit?\end{tabular} \\ \hline
+Zřízení jako založení vs. vznik.\\
+---\\
+Zřízení (§ 1451) pro případ smrti - založen, zakladatel je živ.\\
+---\\
+Svěřenský fond neexistuje a proto je možné jej měnit stejně,\\ jako je možné měnit pořízení pro případ smrti.\\
+---\\
+Dědická dohoda - pouze po dohodě stran - závazek, například\\ novace.                                                                                                                                                                                                                              \\ \hline
+\end{tabular}
+\end{table}
+
+\end{frame}
+
+% +================+
+% | Třináctý slide |
+% +================+
+
+\begin{frame}
+	\frametitle{Zodpovězení otázek}
+	\cevroLogo
+
+\begin{table}[]
+\begin{tabular}{|l|}
+\hline
+Otázka 1 Oponent práce                                                                                                                                                                                                                       \\ \hline
+\begin{tabular}[c]{@{}l@{}}Nechť autor v rámci ústní obhajoby shrne základní podobu\\ konceptu majetkové struktury svěřenského fondu.\end{tabular} \\ \hline
+§495 OZ: \textit{"Souhrn všeho, co osobě patří, tvoří její majetek."}\\
+---\\
+Jedná se tedy o souhrn věcí, jejich příslušenství a součástí.\\
+---\\
+Majetek ve svěřenském fondu ale nikomu nepatří, není to\\ však ani věc ničí.\\
+---\\
+Jedná se o samostatně účelový majetek, který vlastní sám sebe.\\
+---\\
+Tento majetek spravuje svěřenský správce, který je rovněž\\ zapsaný ve všech příslušných registrech.\\
+	\hline
+\end{tabular}
+\end{table}
+
+\end{frame}
+
+% +================+
+% | Čtrnáctý slide |
+% +================+
+
+\begin{frame}
+	\frametitle{Zodpovězení otázek}
+	\cevroLogo
+
+\vspace*{-1cm}
+\begin{table}[]
+\begin{tabular}{|l|}
+\hline
+Otázka 2 Oponent práce                                                                                                                                                                                                                      \\ \hline
+\begin{tabular}[c]{@{}l@{}}Autor by mohl dále shrnout některé dílčí odlišnosti québecké\\ a české úpravy svěřenských fondů a tím učinit závěr v dané otázce\\ na str. 20 až 23.\end{tabular} \\ \hline
+V zásadě lze odlišnosti shrnout do několika následujících bodů.\\
+---\\
+Širší kategorizace účelů trustu v C.C.Q.\\
+---\\
+Private trust s určitým účelem, ne s určenou osobou, avšak\\ bez nutnosti být veřejně prospěšný, může být perpetuitou.\\
+---\\
+Absence statutu v C.C.Q., existence pouze \textit{trust instrumentu},\\ tedy samotné zakladatelské právní jednání.\\
+---\\
+Úprava kolize trustu s právními instituty\\ připodobnitelnými k právům nepominutelných dědiců.                                                                                                                                                                                                                        \\ \hline
+\end{tabular}
+\end{table}
+
+\end{frame}
+
+% +================+
+% | Patnáctý slide |
+% +================+
+
+\begin{frame}
+
+\begin{center}
+\Large{Děkuji za pozornost	\smiley{}}
+\end{center}
+
+\end{frame}
+	
+\end{document}
