@@ -1,0 +1,246 @@
+\documentclass{article}
+
+% Language definition
+\usepackage[utf8]{inputenc}
+%\usepackage[czech]{babel}
+
+% Package definition and folder with images
+\usepackage{graphicx}
+\graphicspath{ {./Obrazky/} }
+
+% Package difinition
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage{titling}
+\usepackage{array}
+\usepackage{todonotes}
+
+% Base header definition
+\setlength\headheight{26pt}
+\lhead{\includegraphics[width=3cm,height=\dimexpr \headheight-\dp\strutbox]{newcevro}}
+\rhead{\small{\leftmark}}
+
+% Bibliography definition
+\usepackage{biblatex}
+\addbibresource{Zdroje.bib}
+
+% Footnote package definition
+\usepackage{footnote} %Package použitý k tomu, aby byli citace uvnitř float elementů pod čarou
+\makesavenoteenv{figure} %Nastavení toho, aby byli citace uvnitř figure pod čarou
+
+% Package definition
+\usepackage{xcolor}
+
+% Different language for contents and figures
+\renewcommand\contentsname{Obsah}
+\renewcommand\listfigurename{Seznam obrázků}
+\renewcommand\figurename{Obrázek}
+
+% Special header style definition for sections with long text in header
+\fancypagestyle{smallertextinheader}{ % Dokončit styl s menším textem v hlavičce, již je dokončeno
+   \fancyhf{}
+   \fancyhead[L]{\includegraphics[width=3cm, height=\dimexpr \headheight-\dp\strutbox]{newcevro}}
+   \fancyhead[R]{%
+   \parbox[b]{\dimexpr \textwidth-3cm-\columnsep}%
+   {\small\uppercase\leftmark}}%
+   \fancyfoot[C]{\thepage}
+}
+
+% Special header for contents only
+\fancypagestyle{Contents}{ % Dokončit styl s menším textem v hlavičce, již je dokončeno
+   \fancyhf{}
+   \fancyhead[LE,LO]{\includegraphics[width=3cm, height=\dimexpr \headheight-\dp\strutbox]{newcevro}}
+   \fancyhead[RE,RO]{\small{\uppercase{\rightmark}}}
+}
+
+% Basic page style definition
+\pagestyle{fancy}
+
+% Pretitle definition
+\pretitle{
+	\begin{center}
+	\LARGE
+	\includegraphics[width=10cm,height=3cm,keepaspectratio]{newcevro}
+}
+\posttitle{\end{center}}
+
+% Document body --------------
+\begin{document}
+
+% First page of my bachelors work
+\pagenumbering{gobble}
+  \thispagestyle{empty}
+  \begin{center}
+  \includegraphics[width=10cm,height=3cm,keepaspectratio]{newcevro} \\
+  \end{center}
+  \vspace{15mm}
+  \begin{center}
+  {\Large Vysoká škola Cevro Institut} \\
+  \vspace{15mm}
+  {\Large \textbf{Římské právo, odpovědi na otázky}} \\
+  \vspace{15mm}
+  {\Large Dominik Bálint} \\
+  \vspace{49mm}
+  {\Large \textbf{Praha 2020}} \\
+  \end{center}
+
+% Page with contents 
+\newpage
+  \thispagestyle{Contents}
+  \tableofcontents
+  
+\newpage
+\pagenumbering{arabic}
+\section{Právní otázky}  
+
+\subsection{Otázka první, citační zákon}
+\textbf{\textit{\underline{Otázka}}}\\
+
+\indent\textit{Podle citačního zákona se řešila právní otázka, na níž měli shodný názor Ulpianus a Modestinus, opačný názor měli Papinianus a Gaius, Paulus se k řešení nevyjádřil. Podle jakého názoru bylo rozhodnuto, a proč?}\\
+
+\noindent\textbf{\textit{\underline{Odpověď}}}\\
+
+\indent V tomto případě se jedná o rovnost hlasů, tedy dva hlasy proti dvoum hlasům. Z tohoto důvodu se dle konstitucí Východořímského císaře Theodosia II. a Západořímského císaře Valentiána III. rozhodovalo dle Papiánova názoru\footfullcite[Strana 102]{bartosek_milan_encyklopedie_1981}.
+
+\subsection{Otázka druhá, sv. Ivo, patron všech právníků}
+\textbf{\textit{\underline{Otázka}}}\\
+
+\indent\textit{Patron právníků sv. Ivo na slavném sousoší drží v ruce Justiniánovu kodifikaci. Nasměrujte zájemce, kde přesně toto sousoší nalezne.}\\
+
+\noindent\noindent\textbf{\textit{\underline{Odpověď}}}\\
+
+\indent Socha svatého Ivo Bretaňského od sochaře Matyáše Bernarda Brauna se jako součást rozsáhlejšího sousoší nachází v Praze na Karlově mostě, přesněji se jedná o první sochu po levé straně při chůzi z Karlovi ulice, respektive z Křížovnického náměstí, směrem k Malostranskému náměstí\footfullcite{noauthor_sv_nodate}.
+
+\subsection{Otázka třetí, vražda ženy}
+\textbf{\textit{\underline{Otázka}}}\\
+
+\textit{Podle Pliniovy Přírodní historie A. M. varoval svoji manželku, aby neupíjela víno ze sudu ve vinném sklepě. Když zjistil, že varování neuposlechla, zabil ji. Stalo se tak na počátku republiky. Jaký byste předpověděli výsledek soudního řízení s obžalovaným A. M.? Pro zájemce i otázka, jaké jméno se skrývá za iniciálami.}\\
+
+\newpage
+
+\noindent\noindent\textbf{\textit{\underline{Odpověď}}}\\
+
+Z prvu bych chtěl říci, že můj pohled na tento případ není jednoznačný. S ohledem na Bonnie MacLachlan, která ve své knize "Women in Ancient Rome" tvrdí, že Pliniem výše popsaná situace se stala už za dob vlády Romula, tedy prvního Římského krále \footfullcite{bonnie_maclachlan_women_2013}, kdy byl Řím teprve královstvím, a je tedy přímo v rozporu s informací uvedenou v položené otázce. Tuto diskrepanci však nelze jednodušše přehlídnout, neboť na ní záleží přesnější určení času, ve kterém se tato událost stala a s ohledem na to i právo platné v dané době. Pokud bychom uvažovali, že k danému činu došlo ještě za vlády Romula, jednalo by se o dobu, ze které nemáme dochované žádné rozsáhlejší záznamy týkající se Římského prváva a lze uzavřít, že se Římané v této době řídili výhradně obyčejovým právem a právo obecně bylo založeno na bázni z bohů. Na otázku v takovém případě nelze jasně odpovědět, ale lze se domnívat, že by muž potrestán nebyl\footfullcite{blaho_peter_haramia_ivan_a_zidlicka_michaela_zaklady_1997}.\\
+
+Pokud bychom však uvažovali, že se tato situace stala na začátku Římské republiky, tak by se mohlo jednat o období, ve kterém již platil \textit{Lex duodecim tabularum}, v překladu zákon dvanácti desek, tedy o období poloviny pátého století před naším letopočtem. Zde lze usuzovat, ačkoliv to dochované části tohoto zákona přímo nestanovují\footfullcite{noauthor_lex_nodate}, že v silně patriarchální Římské rodině, kde manželka a potomci byli pouhými objekty práva, by manžel s největší pravděpodobností měl právo zabít svoji ženu z důvodu konzumace vína\footnote{Dle samotného Ulpiána pravomoc patera familias nad synem a manželkou byla velmi široká. V případě dospělého syna byl neomezeným soudcem nad dětmi a nad manželkou in manu, a za jejich prohřešky mohl dát jakýkoliv trest, i trest smrti. takže smrt musela přijít jako následek jistého protiprávního jednání. PF se musel poradit s příbutnými, pokud tak neučinil, mohl být stíhán již za republiky censorskou důtkou, podle císařské administrativy si musel nechat rozsudek smrti schválit státním úřadem. Zde se však bavíme o zdroji z pozdější doby, myslím si však, že je zajímavé ho zmínit.}\\
+
+Je důležité poznamenat, že žena měla v tomto období zakázáno cizoložství pod trestem smrti a stejně tak nesměla konzumovat ani víno, neboť to ženu povzbuzovalo k oplzlosti a v konečném důsledku tak mohlo zapříčinit cizoložství. Proto bylo i samotná konzumace alkoholu ženou zakázána a trestána stejným způsobem\footfullcite{philip_s_white_war_1846}.\\
+
+S ohledem na čtvrtou tabulku zákona dvanácti desek, která v části 2a stanoví, že otec má moc nad životem a smrtí svého syna\footfullcite{noauthor_lex_nodate} tamtéž není důvod nepředpokládat, že obdobnou moc by neměl i nad svojí manželkou. Na tento názor však existují i protiargumenty, jeden z nich poskytuje emeritní profesorka Římského práva na Standfordské univerzitě Susan Treggiari. Ta tvrdí, že komentáře starověkých právníků jsou příliš nejasné, aby jednoznačně podpořily jakýkoli jednoznačný závěr, a že je možné chápat zákony tak, že spíše než manželovi, dovolovali zabítí dané ženy, která spáchala vůči svému muži určitý zákonem odsouditelný čin, jejímu otci. Zde se však dostáváme až k době Augustově a \textit{Lex Iulia}\footfullcite{thompson_was_2006}\textsuperscript{,}\footfullcite{treggiari_susan_roman_1991}.\\
+
+Zcela jasnou odpověď na tuto otázku ale však nemohu poskytnout, avšak dle Bonnie MacLachlan, Philipa S. Whita a H. R. Pleasantse byl daný můž, který se dle autorů, odkazujících se na Pliniovu \textit{Naturalis Historia}, jmenoval \textit{Egnatius Meccenius} byl přeci souzen, ale byl osvobozen\footfullcite{bonnie_maclachlan_women_2013}. Uzavřel bych tedy tím, že se ohledem na fakt, že i kdybych se nedočetl, že byl \textit{Egnatius} osvobozen, dovolil bych si tvrdit, že s ohledem na společenskou a právní situaci v dané době by s největší pravděpodobností nedošlo k odsouzení muže, který by byl v obdobné pozici.
+
+%Augustuse, které svému otci udělovaly moc zabíjet cizoložnou dceru, nikoli manželovi.
+
+%, z důvodu disputací vědecké obce nad otázkami práva z této doby,
+
+\subsection{Otázka čtvrtá, ovdovělá žena a změna právního postavení její rodiny}
+\textbf{\textit{\underline{Otázka}}}\\
+
+\textit{Lucia ovdověla. Její zesnulý manžel zanechal syna a neprovdanou zletilou dceru. Jak se změnilo právní postavení pozůstalých vdovy, dcery a syna?}\\
+
+\noindent\textbf{\textit{\underline{Odpověď}}}\\
+
+%Vdova osoba \textit{Sui Iuris} pokud byla v manželství volném, pokud v přísném, tak ne. Nebo opračně, na toto se ještě musím podívat. Dcera přešla pod moc nejstaršího bratra, který se stal \textit{Pater Familias}. Syn byl smrtí odce emancipován a stal se osobou \textit{Susi iuris}.
+
+Zprvu zodpovím otázku ve vztahu k synovi a dceři. Dcera smrtí otce přechází buď pod moc manžela, nebo nejstaršího bratra. S ohledem na to, že dcera byla neprovdaná, přešla pod moc nejstaršího bratra a vznikla tak nová \textit{patria potestas}. Syn se stal novým \textit{pater familias} a tedy i osobou \textit{sui iuris}\footfullcite{kincl_j_rimske_1995}.\\
+
+Co se manželky týče, tak zde to bylo složitější, neboť její právní status po smrti manžela se odjívej od typu manželství. Obecně, pokud byla v manželství přísném, \textit{matrimonium cum in manum
+conventione}, její manžel zemřel a nevrátila se do své původní agnátské rodiny, tak se stávala osobou \textit{sui iuris}, pokud však byla v manželstí volném, \textit{sine in manum convetione}, tedy bylá stále pod mocí svého otce, nic se pro ní nezměnilo\footfullcite{hrdina_ignac_prehled_2010}\textsuperscript{,}\footfullcite{kincl_j_rimske_1995}.
+
+\subsection{Otázka pátá, nalezenec u cesty}
+\textbf{\textit{\underline{Otázka}}}\\
+\textit{Marcus nalezl u cesty odložené dítě. O jeho matce nebylo nic známo. Byl nalezenec považován za otroka nebo za svobodného? Z jakého principu vycházelo římské právo?}\\
+
+\noindent\noindent\textbf{\textit{\underline{Odpověď}}}\\
+
+%Podívat se na to z pohledu Ius Naturale a Ius Civile.
+%Citovat Gaia co je Ius Naturale a co je Ius Civile.
+%Dále se na případ podívat pokud by došlo k osvojení.
+%Stojí na principu equity.
+%Přirozenoprávní teorie, všichni byli svobodní až na otroky, ti byli raní jako věci.
+%Stránka 112.
+
+Římské právo stálo na principu \textit{mater semper certa est}, ve chvíli kdy tedy nebyl znám otec, odvozovalo se právní postavení dítěte od jeho matky, popřípadě věřím, že by později muset prokazovat svoje postavení nalezenec sám. V tomto případě je ale nutné v úvahu vzít i fakt, že postavení matky nalezence je nezjistitelné, z toho důvodu se postavení dítě od něj nemůže fakticky odvíjet.\\
+
+Bohužel jsem k této problematice nenašel přesvědčivé stanovisko, nicméně si troufám tvrdit, že s ohledem na fakt, že římské právo stálo na přirozeněprávní teorii a dle Ulpiána tvořilo základní část římského práva takzvané \textit{Ius naturale}, které považovalo každého člověka za svobodného\footfullcite{noauthor_digest_book1}\textsuperscript{,}\footfullcite{noauthor_digest_nodate}. Byl by i takovýto nalezenec považován za svobodného občana, kterému by měl být, dle mého chápání římského práva, \textit{ex officio} poručník, neboli tutor, v rámci \textit{tutela impubertum} respektive \textit{tutela Atiliana}\footfullcite{kapras_jan_porucenstvi_1904}\textsuperscript{,}\footfullcite{bartosek_milan_encyklopedie_1981}.
+
+\subsection{Otázka šestá, vlastník domu na vinici}
+\textbf{\textit{\underline{Otázka}}}\\
+\textit{Marcus postavil na svůj náklad na Gaiově vinici na místě, kde dříve stával jiný, již zbořený Gaiův domek, kam všichni včetně Tita vyšlapanou cestou chodili popíjet víno, s Gaiovým souhlasem nový viničný domek. Kdo byl vlastníkem tohoto domku? Mohl Titus bez dalšího chodit stejnou cestou k novému domku?}\\
+
+\newpage
+
+\noindent\noindent\textbf{\textit{\underline{Odpověď}}}\\
+
+Starověký řím vycházel, stejně jako Občanský zákoník, ze zásady \textit{superficies solo cedit}, tedy povrch ustupuje půdě\footnote{Gaius II, 73}. Za normálních okoloností, by tedy domek byl součástí pozemku, který vlastní Gaius, a ten by tedy vlastnil i domek. Nicméně vyjímku z této zásady představovalo právo stavby, neboli \textit{superficies}. Právo stavby má charakteristiku věcného práva k věci cizí. Jednoduše řečeno, jednalo se o jistý dlouhodobý nájem pozemku, který byl spojený s právem nájemce postavit na tomto pozemku stavbu. Lze důvodně usuzovat, že s ohledem na dohodu mezi Gaiem a Marcusem by se jednalo o právo stavby a domek by tak patřil Marcusovi.\\
+
+Co se Titova průchodu k domku týče, z prvu mě napadla možnost zřízení pozemkové služebnosti, nicméně s ohledem na Římské pojetí pozemkové služebnosti, tedy, že služebnost musí být prospěšná pozemku, nikoluiv osobě si myslím, že toto nepřipadá v úvahu\footfullcite{kincl_j_rimske_1995}. Druhá možnost je tedy zamyslet se nad tímto jako nad klasickým vstupem na cizí pozemek. Pokud by tedy Titus měl svolení na pozemek vstupovat, mohl by bez dalšího chdoit vyšlapanou cestou k novému domku. Nicméně i kdyby neměl explicitní povolení na tento pozemek vstupovat, tak Římané neuvažovali nad vstupem na cizí pozemek tak, jak nad ním uvažujeme dnes my. Samotný vstup na cizí pozemek nebyl problémeme v očích zákona, nicméně vlastník mohl takovéhoto člověka ze svého pozemku "vyloučit a odebrat"\footfullcite{william_warwick_buckland_arnold_duncan_mcnair_frederick_henry_lawson_roman_1965}. Jednalo se o prohřešek proti osobě, ne proti pozemku, respektive majetku. Pokud tedy Titus měl výslovně povolený vstup na pozemek, mohl tak činit, nicméně pokud ho neměl ani výslovně zakázaný, mohl na pozemek také svévolně vstupovat.
+
+\subsection{Otázka sedmá, teorie právního úkonu}
+\textbf{\textit{\underline{Otázka}}}\\
+\textit{K jaké teorii právního úkonu, resp. právního jednání (teorie projevu či teorie vůle) se hlásilo římské právo a hlásí Ústavní soud ČR? V čem tato teorie spočívá?}\\
+
+\noindent\noindent\textbf{\textit{\underline{Odpověď}}}\\
+
+V prvopočátcích Římské říše byli Římané určitě mnohem více nakloneni teorii projevu, v rámci té musí být jasně formální určitý projev, to vychází z \textit{Ius civile} postupem času se formalizované náležitosti začali opouštět a začalo se dbát i vůle stran, zejména s ohledem na \textit{bona fide}. Nechci však tvrdit, že by římané byli nakloneni výhradně jedné z těchto teorií, nicméně troufám si tvrdit, že s ohledem na římské právníky a celkovou jurisprudenci se Římské právo přikládnělo spíše k teorii projevu \textit{verba}\footfullcite{bartosek_milan_encyklopedie_1981}.\\
+
+S ohledem na nález ústavního soudu ze dne 14.4.2005, sp. zn. I. ÚS 625/03. Si dovolím tvrdit, že Ústavní soud České republiky se hlásí k opačné teorii, tedy teorii vůle. Toto dle mého názoru vychází z této části nálezu: \textit{"Text smlouvy je toliko prvotním přiblížením se k významu smlouvy, který si chtěli její účastníci svým jednáním stanovit. Doslovný výklad textu smlouvy může, ale nemusí být v souladu s vůlí jednajících stran. Směřuje-li vůle smluvních stran k jinému významu a podaří-li se vůli účastníků, procesem hodnocení skutkových a právních otázek, ozřejmit, má shodná vůle účastníků smlouvy přednost před doslovným významem textu jimi formulované smlouvy."}\\ 
+
+Z tohoto tedy Ústavní soud České republiky dovozuje následující: \textit{"Porušení ústavně zaručených základních práv se tedy orgán veřejné moci dopustí i tehdy, pokud formalistickým výkladem norem podústavního práva odepře autonomnímu projevu vůle smluvních stran důsledky, které smluvní strany takovým projevem zamýšlely ve své právní sféře vyvolat."}\\
+
+%(srov. např. nález sp. zn. I. ÚS 546/03).
+%Strana 320.
+%Teorie projevu normativní vůle.
+%Ústavní seoud se dle mého názoru kloní k teorii vůle.
+
+%Ahoj
+
+\subsection{Otázka osmá, pohledávka z hazardních her}
+\textbf{\textit{\underline{Otázka}}}\\
+\textit{Titus a Marcus hráli v domku na Gaiově vinici o peníze kostky. Titus prohrál, ale neměl na zaplacení. Slíbil, že druhý den dluh splatí. Ač byl hlavou rodiny, jeho manželka Lucia ho doma opilého a s dluhem ze hry právě nevítala. Aby si ji usmířil, rozhodl se Titus v kocovině, že Markovi nezaplatí. Ten se ovšem zaplacení domáhal. Jak to podle práva s Markovou pohledávkou dopadlo?}\\
+
+\noindent\noindent\textbf{\textit{\underline{Odpověď}}}\\
+
+Pohledávka ze hry nebyla v Římě právně vymahatelná. Mohlo se tedy jednat pouze o jakousi morální obligaci, kterou měl Titus vůči Marcusovi. Nicméně není vyloučenou, že vymáhání takovýchto dluhů nezákonnými praktikami nebylo běžné. Ostatně autor, z jehož práce čerpám pro tuto odpověď sám připouští, že vydírání kvůli dluhům z her bylo relativně běžné. Sám Marcus by ale neměl zákonný nárok na to, aby mu Titus tyto peníze musel vyplatit\footfullcite{faris_changing_nodate}.
+
+\newpage
+
+\subsection{Otázka devátá, koupě otroka}
+\textbf{\textit{\underline{Otázka}}}\\
+\textit{Po tom všem Titus, na něhož se Marcus zlobil, uviděl v přístavu urostlého otroka, který by se hodil na gladiátora. Věděl, že Marcus, který měl gladiátorskou školu, mluvil o tom, že by potřeboval nové otroky. Titus tedy za otroka zaplatil a přivedl ho Markovi. Ten si otroka ponechal a dokonce Markovi odpustil, jak se minule zachoval. Markus ale za otroka zaplatil a především měl výdaje i s tím, než ho z přístavu přivedl do Markovy gladiátorské školy (nezaměňovat s CEVRO ). O jaký právní vztah a institut se jednalo a kdo nesl náklady akce?}\\
+
+\noindent\noindent\textbf{\textit{\underline{Odpověď}}}\\
+
+Jedná se o darování mezi Marcusem a Titem, přičemž Titus stojí na straně dárce a Marcus na straně obdarovaného\footfullcite{codrea_legal_2014}. Dar představoval legitimní dvoustranný pakt, kterým dárce neodvolatelně\footnote{Nelze brát doslovně, v jistých případech bylo možné dar odvolat, například pro nevděk.}\textsuperscript{,}\footfullcite{noauthor_lacuscurtius_nodate} a bezplatně převádí aktivum na obdarovaného. Náklady akce by tedy nesl až do tradice daru (otroka, respektive \textit{res}, kterou otrok byl v Římském právu) Titus.
+
+\subsection{Otázka desátá, vykoupení otroka}
+\textbf{\textit{\underline{Otázka}}}\\
+\textit{Titus si ale nedal pokoj a opět "kalil". Otroci k tomu hráli a zpívali, on jim házel mince. Dělával to docela často, a tak otrok – kapelník měl ukrytý měšec s již slušnou sumou. Zato Titus se ocitl bez prostředků a přitom si chtěl koupit další pozemek na vinici. Mohl mu otrok nabídnout, že se za peníze, které měl v měšci, vykoupí z otroctví?}\\
+
+\noindent\noindent\textbf{\textit{\underline{Odpověď}}}\\
+
+K zodpovězení této otázky je třeba nejdříve přiblížit institut \textit{peculium},  fragment D 15, 1, 5, 4 říká následující: \textit{"Peculium autem tubero quidem sic definit, ut celsus libro sexto digestorum refert, quod servus domini permissu separatum a rationibus dominicis habet, deducto inde si quid domino debetur."}\footfullcite{rimske_pravo_otrok}\\
+
+Obecně lze tedy definovat \textit{peculium} jako majetek, který si otrok drží odděleně od pánova \textit{patrimonium} a jehož součástí je mimo jiné vše, co otrok od pána dostal, a přitom mu to pán nebyl zavázán dát. Je zřejmé, že do této definice se vejde i situace uvedená v příkladu, tedy otázce\footfullcite{plessis_new_2013}.\\
+
+Tato hodnota daná Titem jeho otrokovi by se tedy stala součástí otrokova \textit{peculia}, za které by se otrok mohl od Tita vykoupit. Takovéto vykupování bylo například za republiky běžnou praxí\footfullcite{mckechnie_thinking_2002}. Otrok by tedy tímto způsobem mohl získat svobodu a Titus penízee na další pozemek na vinici.
+
+%Musím zjistit, zda je v pořádku darování otrokovi peněž.\\
+%Ano mohl, otrok se mohl vykoupit z otroctví.
+%Otrok má peculinum.
+
+% Konec hlavní části práce, následují zdroje
+\newpage
+\thispagestyle{Contents}
+\section*{Zdroje}\markright{ZDROJE}
+% Counter definition pro přidání čísla ke zdrojům v obsahu práce, možná číslo odeberu
+\newcounter{SecZdroje}
+\setcounter{SecZdroje}{\thesection}
+\addtocounter{SecZdroje}{1}
+\addcontentsline{toc}{section}{\theSecZdroje \hspace{1,7 mm} Zdroje}
+% Zde je definováno jak budou vypsány zdroje, přesná specifikace je obsažena v mappingu
+\printbibliography[type=misc,heading=subbibliography,title={Online zdroje}]
+\printbibliography[type=book,heading=subbibliography,title={Knižní zdroje}]
+\printbibliography[type=article,heading=subbibliography,title={Články}]
+\end{document}

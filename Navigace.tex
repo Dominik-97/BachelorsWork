@@ -1,0 +1,61 @@
+\documentclass{scrartcl}
+
+% --------------------------------------------------------------------------
+%\usepackage[T1]{fontenc}
+% --------------------------------------------------------------------------
+
+\usepackage[margin=2cm]{geometry}
+
+\usepackage{navigator}
+\embeddedfile{myfile}{\detokenize{Bakalářská_práce2}.pdf}
+
+\usepackage{calc, attachfile}
+\usepackage[czech]{babel}
+\usepackage[utf8]{inputenc}
+
+% --------------------------------------------------------------------------
+%\usepackage[main=english,czech]{babel}
+%\usepackage[czech]{babel}
+% --------------------------------------------------------------------------
+
+\usepackage{lmodern}
+
+\newlength{\Urlname}
+\newcommand{\doubleprint}[1]{\setlength{\Urlname}{\widthof{#1}}}
+\newcommand{\textattachfileandprintout}[2]{%
+\textattachfile[color=0 0 0]{#1}{#2}\doubleprint{#2}\hspace{-\Urlname}#2}
+
+\newcommand{\NameOfTheFile}{{\v{r}}}
+
+\begin{document}
+\pagenumbering{gobble}
+
+\Large{Bakalářská práce, seznam textů}
+
+\vspace*{0.5cm}
+
+\begin{tabular}{ |p{6cm}||p{9cm}| }
+ \hline
+ \multicolumn{2}{|c|}{Bakalářská práce, seznam textů} \\
+ \hline
+ Typ & Odkaz\\
+ \hline
+ Bakalářská práce & \openfilelink{\detokenize{Bakalářská_práce2}.pdf}{\texttt{Bakalářská\_práce2.pdf}}\\
+
+ % --------------------------------------------------------------------------
+ %Příloha k bakalářské práci & \openfilelink{\detokenize{Bakalářská_práce2}.pdf}{\texttt{Bakalářská_práce_návrh\\_smlouvy.pdf}}\\
+ % --------------------------------------------------------------------------
+
+ Příloha k bakalářské práci & \openfilelink{myfile.pdf}{\texttt{Bakalářská\_práce\_návrh\_smlouvy.pdf}}\\
+ \hline
+\end{tabular}
+
+% --------------------------------------------------------------------------
+%Ahoj
+
+%\textattachfileandprintout{\detokenize{Bakalářská_práce2}.pdf}{linktext}
+
+%\paragraph{Demonstration:} \openfilelink{\detokenize{Bakalářská_práce2}.pdf}{Link to the embedded file \texttt{\detokenize{Bakalářská_práce2}.pdf}}
+% --------------------------------------------------------------------------
+
+\end{document}
