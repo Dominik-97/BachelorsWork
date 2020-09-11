@@ -1,7 +1,7 @@
 ![status](https://img.shields.io/badge/Posudek-Doporu%C4%8Deno%20k%20obhajob%C4%9B-green)
 ![status](https://img.shields.io/badge/Obh%C3%A1jen%C3%AD%20Bakal%C3%A1%C5%99sk%C3%A9%20Pr%C3%A1ce-Bakal%C3%A1%C5%99sk%C3%A1%20pr%C3%A1ce%20%C3%BAsp%C4%9B%C5%A1n%C4%9B%20Obh%C3%A1jena-brightgreen)<br>
 # BachelorsWork
-Repository storing data for my bachelors work and also for my Finals.
+Repository storing data for my bachelors work and ~~also for my Finals~~, for data for my finals, please refer to [this](https://github.com/Dominik-97/StanicoveZkousky) repository.
 
 This is the branch I use to work with files regarding my Finals, for the more in-depth description of this repository, please refer to the README.md in NewStructure2 branch of this repository.
 
