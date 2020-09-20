@@ -1,5 +1,8 @@
 ![status](https://img.shields.io/badge/Posudek-Doporu%C4%8Deno%20k%20obhajob%C4%9B-green)
 ![status](https://img.shields.io/badge/Obh%C3%A1jen%C3%AD%20Bakal%C3%A1%C5%99sk%C3%A9%20Pr%C3%A1ce-Bakal%C3%A1%C5%99sk%C3%A1%20pr%C3%A1ce%20%C3%BAsp%C4%9B%C5%A1n%C4%9B%20Obh%C3%A1jena-brightgreen)<br>
+
+# This branch is no longer used, for information regarding my bachelors work, please switch to the [master](https://github.com/Dominik-97/BachelorsWork/tree/master), information regarding my finals are in [this](https://github.com/Dominik-97/StatnicoveZkousky) repository.
+
 # BachelorsWork
 Repository storing data for my bachelors work and also for my Finals.
 
