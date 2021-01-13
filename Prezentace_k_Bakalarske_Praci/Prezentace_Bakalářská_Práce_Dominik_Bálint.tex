@@ -20,6 +20,17 @@
 	\end{tikzpicture}
 }
 
+\newcommand{\specialcell}[2][c]{%
+  \begin{tabular}[#1]{l@{}c@{}}#2\end{tabular}}
+  
+\newcommand\Wider[2][3em]{%
+\makebox[\linewidth][c]{%
+  \begin{minipage}{\dimexpr\textwidth+#1\relax}
+  \raggedright#2
+  \end{minipage}%
+  }%
+}
+
 % +=========================+
 % | Vydefinování tikz stylů |
 % +=========================+
@@ -75,12 +86,12 @@
 % 	Slide - klíčová slova v ČJ a ENG 	- [x]
 % 	Strukturu práce: -|
 % 		Předmluva 						- [ ]
-% 		Úvod 							- [ ]
-% 		Zdroje 							- [ ]
-% 		Vlastní text práce 				- [ ]
-% 		Závěr 							- [ ]
-% 		Resumé 							- [ ]
-% 		Přílohy 						- [ ]
+% 		Úvod 							- [x]
+% 		Zdroje 							- [x]
+% 		Vlastní text práce 				- [x]
+% 		Závěr 							- [x]
+% 		Resumé 							- [x]
+% 		Přílohy 						- [x]
 % 	A hlavně: -|
 % 		Anotaci 						- [ ]
 % 		a Abstrakt 						- [ ]
@@ -209,22 +220,42 @@ Dedukce úmyslu zákonodárce\\
 \begin{frame}
 	\frametitle{Struktura práce}
 	\cevroLogo
-	
-\begin{columns}[T]
-	\column{0.25\textwidth}
-	\textbf{Stanovení cíle}\\
-	\textbf{Stanovení cíle}\\
-	\column{0.25\textwidth}
-	\textbf{Výzkumné metody}\\
-	\textbf{Výzkumné metody}\\
-	\column{0.25\textwidth}
-	\textbf{Výzkumné metody}\\
-	\textbf{Výzkumné metody}\\
-	\column{0.25\textwidth}
-	\textbf{Výzkumné metody}\\
-	\textbf{Výzkumné metody}\\
 
-\end{columns}
+\Wider{
+\begin{table}[]
+\begin{tabular}{|l|l||l||l||l||l|}
+	\hline
+			\textbf{Sekce} & 
+			\textbf{\specialcell[t]{1. Resumé a\\klíčová slova}} & 
+			$\rightarrow$ & 
+			\textbf{\specialcell[t]{2. Úvod}} & 
+			$\rightarrow$ & 
+			\textbf{\specialcell[t]{3. Vlastní\\text práce}} \\
+		\hline
+			\textbf{Podsekce} & 
+			\specialcell[t]{Resumé\\Summary\\Klíčová slova} & 
+			&
+			\specialcell[t]{Úvod} & 
+			&
+			\specialcell[t]{Obecný úvod\\Teoretická část\\Praktická část} \\
+	\hline
+	\hline
+			\textbf{Sekce} & 
+			\textbf{\specialcell[t]{4. Závěr}} & 
+			$\rightarrow$ & 
+			\textbf{\specialcell[t]{5. Zdroje}} & 
+			$\rightarrow$ & 
+			\textbf{\specialcell[t]{6. Přílohy}} \\
+		\hline
+			\textbf{Podsekce} & 
+			\specialcell[t]{Závěr} & 
+			&
+			\specialcell[t]{Zdroje} & 
+			&
+			\specialcell[t]{Vzor smlouvy\\Vzor listiny} \\
+	\hline
+\end{tabular}
+\end{table}}
 	
 \end{frame}
 
